@@ -1,0 +1,384 @@
+In electronic music, it’s hard to exaggerate the importance of Isao Tomita’s work. Born in Japan in the 1930s, Tomita imagined other worlds – seemingly outside his own, human reach – and so used his music to explore the unknown. In the ’60s, he pioneered the use of the Moog synthesizer to not just create note-for-note facsimiles of “real” music, but to refigure electronic compositions as soundscapes, creating daring new sounds that would become highly influential for science fiction cinema soundtracks, modern synth-pop, and much more. 
+In his 2014 Red Bull Music Academy Tokyo lecture, Tomita discussed discovering Moog synths, his influence on the sound of Apocalypse Now, Vocaloid Hatsune Miku, and more.
+Masaaki Hara
+OK, now we’ll begin a lecture by Mr. Isao Tomita. Thank you for joining us, Mr. Tomita. Thank you.
+Isao Tomita
+Thank you.
+Masaaki Hara
+Many of you in the audience today are from overseas, and I’m sure you’ve heard of Isao Tomita or are familiar with his music. But for those of us who grew up in Japan, for us Japanese, Isao Tomita is someone who is of course a composer of electronic music, but what his name reminds us of first are his scores for TV dramas, anime, and other such things, which many of us grew up hearing without realizing that they were all composed by Mr. Tomita – myself included. Music for TV commercials, too. He’s created a massive amount of music. So when such a creator decided in the late ’60s to suddenly venture into the world
+of electronic music... Because at the time in Japan, Moog synthesizers were rare and of course hardly anyone else had actually bought one. But you did, and ventured into the world of electronic music, which was something that we Japanese listeners also found fascinating. Could you elaborate on what first drew you into electronic music?
+Isao Tomita
+Well, unlike sculpting or painting, when working with music... For example, to compose a large-scale orchestral piece, you use an orchestra. But the instruments for an orchestra, during the 100 years between Mozart and Wagner, were improved to the point where there is no more room for further enhancement. So orchestral instruments, whether they be horns, trumpets, violins, or the woodwinds like the flute, can’t be improved any further. So instruments haven’t changed much from Wagner’s time to today. I didn’t know about the existence of synthesizers at first. I’d been working mainly for (Japan's public broadcaster) NHK. Radio in particular, and their two radio stations began stereo broadcasting by using the two separate stations. I was only about 20 at the time when they started this program. What had only been in mono could now be heard in stereo. So the music I wrote was performed
+by an orchestra of nearly 100 musicians and broadcast in stereo to boot, which captivated me. I was fascinated. But – and this might only be the case in Japan – but writing a score for four or five players or one for almost 100 made little difference in terms of fee. Even though the latter was excruciating. 
+Anyway, stereo broadcast and
+performance by an orchestra were what captivated me. Except, the sound components of an orchestra, such as the flute, oboe,
+clarinet, bassoon, and the trumpet, horn, trombone, tuba... I have to select a tone quality from these when I do the orchestration. Consider that as opposed to art, in which there are no longer such restrictions when painting or sculpting. You could use gold dust in your painting, or grind up cinder and paint with it, it doesn’t matter what you do. But with music you can’t do that, even if you were to invent a unique instrument and get a musician to play it for you. Take the violin for example. Becoming pro takes years of practice. Who’d be willing to do that? There was no way to make it possible. But I did want to create music using a different tone quality, and around the time
+I began to feel that way, when I’d sort of hit a wall with orchestral arrangements, I heard about the existence of Moog synthesizers. That it was something created near Buffalo (New York) in the middle of a field. And I felt an irresistible urge. I thought I could create my own sound with it. If I could create my own sound, then that meant I could create music that broke free from existing ideas. I also had a certain amount of confidence. It was unfounded, but still. That’s why I acquired the Moog synthesizer. 
+Masaaki Hara
+At the time, as I’m sure you all know, this was a modular synthesizer.
+Isao Tomita
+That’s right.
+Masaaki Hara
+You had to patch the modules together
+to create any kind of sound. Hard to imagine now, but producing even a single note was difficult. And there was no user’s manual, right?
+Isao Tomita
+Right. It was electronic equipment so I only had a manual that just explained what function each module performed. Now when you buy a modern synthesizer, all you need to do is press a single button to produce the sound assigned to it. But what I had was nothing like that. It was basically, “Connect the modules with the cords yourself, then adjust the amplitude, and do what you please with it.” That’s what it was.
+Masaaki Hara
+What did you want to do with it? What kind of sound did you want to make?
+Isao Tomita
+Oh, I wasn’t thinking that far. I had no prior knowledge of Moog synthesizers, so I had no idea where to start or how to use it. I had no instructors. And the only reference I had was Walter Carlos’s “Switched-On Bach”. The only album with music performed just on the Moog. So I had no one to turn to, but I’d already spent a fortune on it. I wasn’t being paid that much. Japanese composers in general aren’t paid much. The only ones who make lots of money have to make songs that sell as much as (Japanese girl group) AKB48. Oh, there’s someone from the record company. 
+Anyway, it was hard work. I might as well have imported scrap iron from the U.S. if I couldn’t master it. I felt pretty uneasy for a while. But I like doing these things by nature, so as I fiddled around with it, I’d occasionally see a light, so to speak, shining ahead. So the way I learned to use the Moog synthesizer was pure tenacity and persistence on my part in the end. I guess when you become too engrossed in something, the gods take pity on you and decide to give you little hints along the way. So when one sound came about, another one would show itself in relation to it. The process was completely self-taught. When I got to the stage where I could control it to some degree, I decided, “Well then, let’s try and record an album with this.” My financial state was dreadful back in those days. But because of the novelty... Synthesizers were still rare then, so when I used mine for TV commercials, or dramas based on sci-fi novels, about outer space for example, any kind of sound I produced from it would please the director. So I could also use it for easy work, which was pretty lucrative... What was the question again?
+Masaaki Hara
+At the time, you put effort into representing certain sounds. In the beginning of the 1970s, electronic music was still only used in certain experimental corners of contemporary music and gradually made its way into pop music. And only abstract sounds were being used. But you depicted natural sounds in your work from the start.
+Isao Tomita
+Right. So when I listen to the avant-garde music from those days, I don’t get it. It doesn’t speak to me at all. The understanding was that inorganic electricity could only make such sounds and that it was utterly wrong to utilize it to create sounds with emotion. This seemed to be the consensus back then. Except, if you consider the violin, that sound is created by scraping together horsehair and sheep gut. Although now the bow and strings also use other materials. Electricity is a natural energy. Human innovation created that form of the violin as an instrument. The same goes for all other instruments. And since electricity had become so commonplace in our lives, it was no surprise that music making use of it came about. So why did it have to be trashed
+as being inorganic and unemotional music? That was the criticism I got. What were we discussing?
+Masaaki Hara
+We’ve got a surround sound system
+set up here today.
+Isao Tomita
+Oh, right.
+Masaaki Hara
+So in your first electronic album, “Snowflakes are Dancing,” you’ve depicted whistling with the synthesizer. You use whistling a lot in your work. Not actual whistling, but the sound.
+Isao Tomita
+That, and bells.
+Masaaki Hara
+Yes, and bells. So I’d like to play this...
+Isao Tomita
+OK. So why did I try to replicate natural sounds? Why bother emulating an existing sound on such a device when you could use the real sound? The thing is, I had a friend who was an artist and this was something he told me. A surprising number of avant-garde artists don’t have basic drawing skills. For example, Picasso has the ability to draw fabulous realistic portraits, even if they’re not abstract. It’s because he has basic drawing skills. Those images that nobody had ever seen before were captured on canvas because he could draw what was in his heart and mind. Likewise, I figured there must be composers who couldn’t properly “draw” the sounds that emerged from within themselves. What to do? I had no clues where to start in any case, so I began by emulating existing sounds, since I had no examples. “Drawing” with sounds. Yes. That’s the whistling sound, pink noise...
+Masaaki Hara
+Let’s listen to it.
+Isao Tomita
+And the chime, which is harmonic.
+Masaaki Hara
+I’ll play it then.
+Isao Tomita
+[Commenting as the sounds change] This is just pink noise. Now cut it. This is often used to depict steam locomotives. Now, increase the resonance using the VCF. By gradually increasing the resonance, it becomes closer to whistling. Then add reverbs. And it ends up sounding like that. Next is the sound of chimes. Generate a harmonic sound with the oscillator. Together with the one next to it to generate the harmonics. The basic sound you hear of a bell is an aggregate of multiple sounds. So mix them together, then sever it like it’s being struck. I used the sound to construct a piece, Debussy’s “Arabesque No.1.”
+Masaaki Hara
+You chose Debussy’s piece as the base of your endeavor. Why Debussy?
+Isao Tomita
+I chose Debussy because Walter Carlos worked with Baroque music. It was from a sense of rivalry. That record was a big hit, too. Anyway, Baroque music and Bach
+are reminiscent of line drawings. Any tone quality or sound would work in the pieces. Whereas Debussy is more about color. Not chords or melody, but the tone. Because it’s music by a French Impressionist. That’s why I chose Debussy. A sense of rivalry against Walter Carlos.
+Masaaki Hara
+Your album ended up becoming a bigger hit, didn’t it?
+Isao Tomita
+I don’t know about that.
+Masaaki Hara
+You don’t know? Moving on, you’ve previously talked about how musicians who’d been working from before World War II in Japan encountered music from overseas
+through the radio that the U.S. Occupation Army was broadcasting.
+Isao Tomita
+That’s right.
+Masaaki Hara
+That experience was how they got into music.
+Isao Tomita
+It was. Western music was prohibited during World War II, you see. No listening, no playing.
+Masaaki Hara
+Many Japanese musicians have been strongly influenced by jazz.
+Isao Tomita
+Yes, you’re right.
+Masaaki Hara
+But you’ve mentioned classical influences, Stravinsky in particular. 
+Isao Tomita
+I wouldn’t have considered Stravinsky or Ravel “classical” composers back then. It was new music.
+Masaaki Hara
+Not classical music?
+Isao Tomita
+No, because I hadn’t been exposed to enough music to understand the difference between jazz and classical in the first place. There was nothing but war songs during the war. Even in school. Those war songs never impressed me, even though some were alright. They never struck me as being real music. And those military bands, the brass bands making a racket, marching around town in unison to the out-of-time drumbeat. I never considered that to be music. I came across real music when the Imperial Headquarters was telling us that Japan was still winning. But there were air raids
+on Nagoya and Okazaki. We never knew when we’d be bombed so we kept the radio on to hear the warnings. And then, music that
+I’d never heard before... Now it might be equivalent to music brought by aliens from outer space. 
+It was so unlike the Japanese war songs. The harmony progression was different. The rhythm was different. I couldn’t help but be curious. And it was longwave at that. Longwave radio isn’t used much anymore. Those foreign sounds would be included in the midst of all the crosstalk. That meant that a mobile station was following the troops to entertain the soldiers. So although we were told that Japan was winning, these sounds... The government told us not to listen. But we couldn’t help it. It wasn’t on purpose. We were listening for the warnings and the sounds just came. The radios lacked the precision to weed out those broadcasts. So that’s when I discovered that there was music like that in the world. And that... I could go on forever.
+Masaaki Hara
+It’s quite all right. But since we’re at it, let’s listen to this track. To hear the evolved form of the whistling sound on the surround system. Like the rocket.
+Isao Tomita
+Is this on screen?
+Masaaki Hara
+I’m not sure.
+Isao Tomita
+Could you show the (surround sound) panners on screen? This panner over here is the chick. The one in the middle is a stray cat trying to devour the chick. A cat is in this panner. And this one is the parent bird trying to protect the chick. Clucking away and trying to protect its young. That’s this one. Let’s hear them in order, then. First is the chick.
+Masaaki Hara
+These are in surround?
+Isao Tomita
+Yes. [Pointing to panners on screen] This is the front left. This is the front right. This is the rear left. This is the rear right. Now let’s activate just the chick first. ["Chick" noise plays] The panner moves like this. Next is the stray cat
+trying to eat the chick. ["Cat" noise plays] That’s the cat. Next, the parent guarding the chick. [Clucking noise plays] Now all three of them together. [Music plays] They’ll run over in the back, too. Whew, they escaped! 
+Could you turn this off? Now open that page again. This one has the graphs. Bring that one over here. These are the x- and y-axes. You can see where each animal is going. The one at the top is the chick. This is the cat. It attacks sometimes so it moves sometimes. This one represents the parent bird. What this part shows is that as it shifts to the right, it also moves from the back to the front. Just pointing isn’t helping. This shows the movement from the back to the front. Let’s listen to it. [Sound effects play demonstrating surround sound arrangement] This software is called
+Nuendo from Germany.
+Masaaki Hara
+So this was created for surround sound
+from the beginning, and not regular stereo?
+Isao Tomita
+Yes, it was.
+Masaaki Hara
+What was the reason you were drawn to surround sound?
+Isao Tomita
+There was a time when electronic music was said to sound flat. Basically what they meant was that even in mono, the sounds of a violin or a cello had depth. Whereas electronic music was flat. So in opposition to that, I figured I’d run the sounds over to the back. That was one reason. Also, we all hear sounds in surround in our daily lives. From the front and back. So I wanted to see if it were possible to listen to music like the way we listen to the sounds that surround us in our daily lives. That was the other reason why I began doing this. But when I hear the things I made
+in regular stereo it sounds like a compressed version and it makes me go like this [Scratches head]. It’s better with depth. So Yoichiro Kawaguchi, the computer graphics artist... Let me put on another pair of glasses like a relic from the past century has suddenly materialized.
+Masaaki Hara
+It certainly is a treat to be able
+to see your computer screen. I’ve heard you don’t show it much.
+Isao Tomita
+That’s right. And me wearing two glasses. Needing these to see what I’m doing feels like the end of life is near. Now this one is based on Prokofiev’s violin concerto. I’ve arranged it like this. Is that right? Oh, wrong assignment. The assignments are complicated with surround.
+Masaaki Hara
+Ideally, is it best to be in the center
+of the room?
+Isao Tomita
+Yes. But I’ve made sure it sounds fun wherever you are. 
+(music: Isao Tomita – Unknown, for collaboration with Yoichiro Kawaguchi)
+It’s like the voice of a goddess. I made it with the Moog synthesizer. Turn it down. No, I meant the volume. [After a minute] Turn it off.
+Masaaki Hara
+For example, how long did it take you
+to create the tones for this?
+Isao Tomita
+Emulating the human voice isn’t so... Vocals aren’t that difficult to make. A day is enough. The problem was the music in the background, like the bleeps. The impression of Mr. Kawaguchi’s CG artwork itself was like a faraway planet that was nothing like Earth. So I made various background sounds
+to express that. I think that took at least a week.
+Masaaki Hara
+To decide on the sound, do you record them over and over?
+Isao Tomita
+Well, now we have these computers, so yes, but before I used tape recorders. After repeated recordings, I’d have to deal with tape hiss. But the way I did so was I’d change the filters to some extent for the strings. And... how do I say it? I’d change the pitch, too. I added thickness to the sound by overdubbing it like that. With computers there’s no noise, so the thickness can’t be brought out at all. But those tapes that I used to record with, that tape hiss... I’d record a few times with the noise reduction off and get that hiss. When you play the violin, it generates a kind of hissing noise as well. It actually adds quite a bit of impact to the sound. I discovered that. So for the sound of strings, I’d use noise reduction only for the silent parts and leave it off for the rest. I crafted the sound by letting the tape hiss blend into the recording on purpose. 
+Masaaki Hara
+Conversely, the current noise-free digital environment is convenient, but what do you think? 
+Isao Tomita
+It feels like I’m walking on thin ice. Like it might break if I put a bit of pressure on it. It feels so transparent. Oh, this is Takuya Kanna [introducing the man to his right]. How old were you when I first began instructing you? 19? He’s a brilliant young man. 
+He’s independent now and works on Hatsune Miku, in charge of the vocals and such.
+Masaaki Hara
+Shall we play it, then? Hatsune Miku’s “Galactic Railroad.”
+Isao Tomita
+What was I talking about when I introduced you? You see, you gradually become forgetful as you grow older.
+Masaaki Hara
+This is Hatsune Miku. It’s a Blu-ray disc so it’ll take a bit. “Night on the Galactic Railroad” is track five.
+Isao Tomita
+This is an animated vocalist called Hatsune Miku. She’s actually dancing and singing in time with the music and the conductor’s cues. He's well versed in the technical aspects of all of that. A conductor is necessary to perform this.
+Masaaki Hara
+“Night on the Galactic Railroad“?
+Isao Tomita
+Yes, please. Hatsune Miku will appear. 
+(music: Hatsune Miku – “Night on the Galactic Railroad”)
+Masaaki Hara
+This is what’s known as a Vocaloid. The voice is electronically synthesized, which is what you were doing...
+Isao Tomita
+Yes, with the Moog. It’s a modern version. Yes. But what really made me happy was how Hatsune Miku could sing along to a real orchestra, chorus, and of course to the conductor’s cues, which was something that couldn’t be done before. It made me so happy when we finally realized it. [To Takuya Kanna] You did the vocals and what else? Oh, the TAP. It might become too complicated if we get into that. Maybe if we have time.
+Masaaki Hara
+What was the reason why you embarked on a project like this?
+Isao Tomita
+I devoted all my energy to the Moog and created many sounds. I’ve also composed for orchestras and had worked on the fusion of orchestral music and the Moog, so as an extension of that I became keenly interested in the project and decided to do it.
+Masaaki Hara
+Before you began this project, you used to do the “Sound Cloud” performances. “SoundCloud” is now better known as an online audio platform, but long before that, you held “Tomita Sound Cloud“ concerts, which were 3D audio performances?
+Isao Tomita
+Yes.
+Masaaki Hara
+And you performed these concerts in many places all over the world, right?
+Isao Tomita
+The first one was held in Linz, Austria,
+by the Danube. The Ars Electronica festival. When the festival was still in its early years. Very early. 
+Masaaki Hara
+Other Japanese artists have since been awarded there, like Ryoji Ikeda, who also appears at Red Bull Music Academy this year, but you went in the ‘80s.
+Isao Tomita
+‘84 or ‘86. Oh, 1984.
+Masaaki Hara
+And when you performed by the Danube, was it 80,000 people? A staggering number of people gathered to hear your performance in 3D audio. You’ve always handled all the work by yourself to begin with. You use your equipment, record, and do the mixing on your own. This is often said of you. And now, including for many people in today’s audience, it’s no longer special to use a computer to make music by yourself. You’re like the pioneer of such people who make music at home, handling everything alone. What was the purpose of handling everything by yourself?
+Isao Tomita
+Music is really an ensemble, so it’s probably better to do it together, but disagreements occur. There was nothing to refer to and there were no clues, either. You can’t tell what others are thinking so it’s exhausting. And you have to set up a schedule that works for both of you. Say you woke up at 2 AM and couldn’t get back to sleep, you could just go down to the studio and work if you’re alone. So actually, it wasn’t really my intention to work alone initially, but everyone ended up running away, so I had no choice but to do it alone. But working alone... Well, now there is lots of different synthesizer music so it’s fine, but when it was just me, I often had doubts as to whether or not I should keep doing it. I imagine athletes feel that way. This was mainly because I had a family and had to support them. When I think about my son and daughter, I’m sure I bothered them. I couldn’t buy them what they wanted.
+Masaaki Hara
+Did they understand what you were doing?
+Isao Tomita
+Probably not. I’m here to tell everyone today about the things I’ve done that broke away from conventional music, but I don’t consider what I’ve done so far as the correct way at all. My work is still in progress. I want people to say, “Well if he’s doing that, then so will I, then I’ll go even further and do something completely new.” I hope so. [To Takuya Kanna] What do you think? He’s very modest. Anyway, I always feel that my work is still in progress. When RCA Records... None of the Japanese record companies wanted it.
+Masaaki Hara
+“Snowflakes are Dancing”?
+Isao Tomita
+Yes, that. But I’d spent a year and four months making it. Besides the costly Moog, I’d bought other equipment because I needed pro-level tape recorders and mixers. You see, I couldn’t work on it unless I turned down the steady job offers. I’m sure some of you here have jobs that are like this, but for example, a familiar director would call up saying, “We’re going to shoot
+this innovative movie, and in the meeting just now we decided to ask you to do the soundtrack!” They expected me to be happy to hear it. But I’m trying frantically to figure things out when I take the call, so I say, “Well, I’m kind of busy right now.” “What are you doing?” they ask. “I’m working on some electronic music, you see.” “Oh. Well, I don’t know what that is, but maybe next time then.” Do this twice and
+there won’t be a third time.
+Masaaki Hara
+True.
+Isao Tomita
+That’s how it goes. And it makes you feel very uneasy. I still have dreams even now about rowing a boat all by myself into the pitch-black sea. I’d see the faces of friends in the dark who have come to see me off, but they’d disappear one by one. I don’t like thinking about that dream. And so, when RCA in the U.S. agreed to release it, and the album rose up the Billboard charts, that was a very happy feeling indeed.
+Masaaki Hara
+When you approached RCA in the U.S., did you have some kind of plan?
+Isao Tomita
+Japan Victor cooperated technically with RCA at the time, and there was a Japanese person who had connections with the director and executives at RCA in the U.S. So this person helped me get in touch with the right people.
+Masaaki Hara
+But on top of that, they’d heard your music, right?
+Isao Tomita
+Well yes, of course I’d sent them tapes, but... Back in the ‘70s, the image of Japan
+that Americans had was like, “So, does Japan have color TV?” That we lagged behind culturally.
+Masaaki Hara
+I see.
+Isao Tomita
+And, “Do your fridges have defrosters?” With old refrigerators, you used to have to turn them off to remove the built-up frost,
+but that’s all automatic now. And they asked me about it. It was like that back then.
+Masaaki Hara
+Wasn’t Japan ahead of the U.S. in terms
+of household appliances by the mid-70s?
+Isao Tomita
+My record came out in the mid-70s, but I brought it over much earlier than that. It was closer to 1970. So perhaps the reason why they took interest in me was because I was this guy who brought music made with a Moog synthesizer from someplace they thought was way behind them in terms of culture. 
+Masaaki Hara
+They were more open-minded. The record companies here were harder to convince.
+Isao Tomita
+Japanese record companies are extremely conservative. In short, they base their decisions on previous hit records. But along came this unprecedented synthesizer music. They were afraid of giving trouble to the record stores. The music director would say, “I love it! I’ll make it work.” But then the sales people couldn’t convince the stores to carry it, so they’d tell me, “Sorry but it didn’t work.” But I brought it over to the U.S. and got lucky, I guess. I didn’t have any kind of political scheme, really. It turned out OK in the end.
+Masaaki Hara
+You’ve worked with Stevie Wonder, and Coppola...
+Isao Tomita
+Oh, Francis Ford Coppola.
+Masaaki Hara
+Coppola wanted you score a film for him.
+Isao Tomita
+Yes, that was “Apocalypse Now.” But it was on Warner. And RCA said, “Tomita has a contract with us.”
+Masaaki Hara
+The contract prevented you. 
+Isao Tomita
+I even went to the shooting in the Philippines and was close to doing it. But in the end I was told that it wasn’t possible so I couldn’t do it.
+Masaaki Hara
+Your soundtrack would have been so impressive. In surround sound.
+Isao Tomita
+Don’t I know it! “The Planets” had already been released then, and when I got Coppola to listen to it he said he wanted the soundtrack to sound like it.
+Masaaki Hara
+Could we listen to “The Planets,” then?
+Isao Tomita
+Sure. Which part? The rocket launch part. Do we have time?
+Masaaki Hara
+Yes, we’ve still got time. Shall I play the first track, “Mars”?
+Masaaki Hara
+Yes. It has voices communicating
+over transceivers.
+(music: Isao Tomita – “Mars, The Bringer of War”)
+Masaaki Hara
+This is 5.1 surround sound, right?
+Isao Tomita
+Yes. 
+Masaaki Hara
+It’s powerful through these speakers. 
+Isao Tomita
+I used transceivers... are they called intercoms now? They’re improved now so they don’t sound the same. You can drive halfway up Mt. Fuji to the fifth station, so I broadcast the sound from there and received it on the public highway. When you use poor quality transceivers, the transmitted sound picks up various noises. I wanted those noises so I attempted something like that. What I didn’t know was that there was a Self-Defense Forces base near Mt. Fuji. Broadcasting is prohibited there. The Self-Defense Forces used tapes to keep record, and they must have heard these strange noises. 
+Masaaki Hara
+An illegal radio wave. 
+Isao Tomita
+Right. And which country was it coming from? Outer space maybe? I thought it might eventually cause a huge uproar. I waited in dread and anticipation but nothing happened. What were they doing? 
+Masaaki Hara
+This is Holst’s “The Planets,” but as we heard just now, you use sounds from a transceiver and other concrete sounds. This is a personal favorite among your works, and “The Bermuda Triangle,” with the Tadanori Yokoo cover art. In those works, you not only reinterpret existing works of classical music on the synthesizer, but also incorporate various other sounds. I’ve always found that really interesting.
+Isao Tomita
+Well, record companies tend to... Because “Snowflakes are Dancing” did well, for the next album they wanted the same. They wanted a series of classical music arrangements. And Peter Munves, the director who handled my album, had also handled “Switched-On Bach.” He’d left Columbia and had recently begun working at RCA Records at the time. So he’d had success with a Baroque music album and inevitably couldn’t forget about that kind of past experience, I guess. He insisted
+on doing a similar series. And I wasn’t averse to it at all, so I gladly accommodated him even after that.
+Masaaki Hara
+Regarding those concrete sounds and
+that transceiver noise you talked about, did you always want to incorporate
+other sounds?
+Isao Tomita
+Yes, I did. Because noise is normally shunned in music. But those noises are... When sound is transmitted, it picks up a lot of noise. And I’m quite pleased with that sound.
+Masaaki Hara
+It seems to me that you’ve always been aware of noise as a sound, but from a different standpoint compared to experimental or what’s now called
+noise music.
+Isao Tomita
+I don’t think I’ve been that aware of it. They just happened to turn out that way. I was engrossed in my work back then. Around the time I was working on “The Planets.” The concept was that of a live broadcast of something happening right at that moment somewhere in the universe. The sound itself, the sound quality might not be perfect, but in a recording of a live broadcast, there’d be various noises. It was like a live broadcast... A concert, in other words. That was what I wanted to create. 
+Masaaki Hara
+The universe is one of your central themes. But your universe seems to include not just the one far away but also the sounds that we hear relatively nearby, like those sounds you heard over the radio during the war. 
+Isao Tomita
+I don’t really think about it much. But I do think being a child at heart... I’m 82 years old now, but having a kind of childlike mentality is necessary in music.
+Masaaki Hara
+Playing with sounds?
+Isao Tomita
+Yes, playing around, basically. So music performers are called “players,” right? It’s another way of playing.
+Masaaki Hara
+When I spoke to you before, I thought it was interesting that people said your work wasn’t music.
+Isao Tomita
+Oh, I was told that constantly. That it
+wasn’t music or that it wasn’t proper. Well, if it’s not music, then interpret it as something other than music. It doesn’t have to be music. “Not proper“... I don’t even know what that means. If my message doesn’t get across to the listeners and all they hear are some pointless sounds, then that’d be “not proper.” But if listeners get something out of it, then it’s a completely different thing. 
+Masaaki Hara
+You’ve said before that you don’t really have any messages to give to young people, but it’d be great if you could give
+a few words to these people who are trying to continue making music.
+Isao Tomita
+Well, I never had a chance to study the basics of music because of the war. I’m sure Mr. Toru Takemitsu was the same. So his music has outstanding artistic quality, but it sounds unlike ordinary music.
+Masaaki Hara
+Yes, it does.
+Isao Tomita
+My music is geared a bit more towards pop and it sort of wells up from whichever direction I’m facing. So I never intended to create something innovative and surprise the world or anything like that. I just did whatever I wanted. But whenever I release a record or do a concert, I do worry greatly about how they were interpreted.
+Masaaki Hara
+You spoke about rowing a boat in the darkness. Being able to keep going is what matters, right?
+Isao Tomita
+Yes. You need that resolve if you intend to do music, to do something new. Although I’m sure there’s a sense of security in the method of digging up what’s been done, the classics... Because unlike going in a direction that you aren’t familiar with, there’s already a path and you know where you’re headed.
+Masaaki Hara
+In closing, could you tell us a bit
+about your current projects. You have a lot going on, right? Could you tell us?
+Isao Tomita
+About what?
+Masaaki Hara
+About what you’ll be working on. Please tell us about your plans. You’ve got some projects, right?
+Isao Tomita
+Yes, well... I can’t talk about any of them yet.
+Masaaki Hara
+None of them?
+Isao Tomita
+You know, losing one’s strength is bothersome. I used to be able to stay up all night consecutively and show off about it, but I’m past 80 now and it’s not the same. If I push myself too hard and stay up
+all night, I come down with pneumonia. You get sick when you grow older. So I plan to take it easy because once I get a new idea,
+I’d really like to see it through. So heaven only knows what’ll happen in the future. But I still haven’t lost my curiosity, so I’ll surely keep working. Even when I’m older and worn out.
+Masaaki Hara
+I was surprised to learn that you book your own appointments without a manager to do it for you. I think it’s wonderful that you handle all the communication yourself.
+Isao Tomita
+I actually think this way will end up becoming the norm. Because music was originally... In Japan there were the minstrels who performed on a single lute. That was a form of music. In Europe there were street musicians playing in groups. But as the members increase, differences in opinion are born, and that becomes a source of anxiety. So why not just do it alone instead? 
+Masaaki Hara
+But then you should be prepared
+to have dreams like rowing a boat out in the middle of the night. 
+Isao Tomita
+There is that.
+Masaaki Hara
+Not to force a conclusion, but your message is: Do it alone.
+Isao Tomita
+I can only speak from my own experience. So I suppose that would be it. Do it alone. Yesterday, I worked with an orchestra. I did a “The Tales of Genji” concert. And when so many come together and play all at once, that’s also a very moving experience. With an orchestra score... I started out writing scores for the orchestra. With a synthesizer, I have to make each sound after I write the score. But with an orchestra, once I write the score, the music just flows. European civilization is so efficient. Who came up with such a thing? Those people can play music that they’d never heard before at sight.
+Masaaki Hara
+Yes, it’s efficient.
+Isao Tomita
+I came home thinking how convenient it was.
+Masaaki Hara
+I see. Well, we’re almost out of time, so I’d like to move on to the Q&A for the people in the audience. If you have any questions, please ask.
+Audience member
+Hi, Tomita-san. My question is, when did you start incorporating effects?
+Isao Tomita
+I don’t think of them as effects. I don’t differentiate between musical sounds and sound effects, perhaps because I’ve lived through a different time period. So I don’t consider them as different things. I just handle everything equally as music. Was that a satisfactory answer?
+Audience member
+Kind of, somewhat. Did you use the Eventide (Harmonizer), the H910, H949, that kind of stuff with the Moog synthesizer? Or did you just start with the Moog synthesizer with built-in effects?
+Isao Tomita
+This “9-10” something you mention... Is that the name of a module?
+Audience member
+Yeah, like rack units. Or did the Moog synthesizer you had have the effects in it, were they part of the system? Like delay?
+Isao Tomita
+No built-in delay function. So I used the tapes to cause the delay. Now there are delay and reverb effects, but not in those days. I’d use the recording head and playback head to create the delay and use that. With the Moog, if anything could be called sound effects, they’d be the pink and white noises. The rest are all sounds with clear pitch that could become music. The sounds from the oscillator. This might not be answering your question, but that thing was...
+Audience Member
+No, that's good. I have one quick question, did you ever meet Walter/Wendy Carlos in person?
+Isao Tomita
+No. Back in those days the Japanese yen
+was very weak, so it cost a huge amount of money to travel overseas. Bringing my tapes to RCA was the best I could do. So I never met him. But... No offense intended, but I had nothing to gain by meeting Walter Carlos. Not to the point of actually meeting him and asking for advice. I don’t think I ever really felt the need to meet him in person. But I really wanted to meet Dr. Moog. What a wonderful man he was. Very unaffected. He’s passed away now. No, seriously, when I met Dr. Moog... Normally in classical music, most composers, like Beethoven and Mozart, are already gone. And those who made exquisite instruments like Stradivarius and Steinway are all gone from this world. So you can’t just meet them and ask questions about how to get the best sound out of the piano or the violin. But there he was! The creator! Meeting him was truly inspiring.
+Audience member
+Thank you very much, Mr. Tomita. Today was a lot of fun. My most favorite piece of yours is “Arabesque No. 1.” I want to listen to it now with everyone. Is that OK?
+Isao Tomita
+Oh, “Arabesque”? Do you have the CD? Is it OK? Then please listen to it on surround.
+(music: Isao Tomita – “Arabesque No. 1” / applause)
+Thank you. You heard some sounds like a man talking on there. I tried to make him talk and failed. I could only make him say “pa pi pu pe po” on the Moog, and the “ah,” “oh,” and “eh” of the vocals. [Gesturing to Takuya Kanna] He made Hatsune Miku talk. He got there before me.
+Audience member
+Did you have a conscious approach when you worked with western melodies, like “Clair De Lune”, or was it just intuitive, you loved the music and wanted to recreate it?
+Isao Tomita
+Like I talked about earlier, I had a sense of rivalry against “Switched-On Bach” and wanted to make something different. While it’s true that Bach’s works are the prime example of German music, in the case of Debussy, his works were greatly influenced by the East. Japan in particular. He was impressed by the Japanese culture introduced at the Paris Exposition. And as an Asian, I’m deeply struck by his various compositions, like for the piano, so that’s why I decided to take up Debussy’s pieces to work with. 
+Audience member
+With your composition, were you looking into older scripts by people like Arnold Schoenberg, Vincent Persichetti, and their books like “20th Century Harmony” and “Structural Functions of Harmony”? Were you aware of those things, was that something you were interested in?
+Isao Tomita
+I was interested in those things, but I never studied them under an instructor. But in Keio University in Japan where I graduated, among my friends there were many avid music enthusiasts, very cheeky ones. Just being among them was enough to widen one’s knowledge. I’m sure it must be like that even today. In Mr. Takemitsu’s case, my understanding is that he went to the U.S. military bases and played lots of currently popular records and gained much of his knowledge that way. So if anything, I gained the knowledge naturally like that. That is to say, counterpoint is an art in which one creates a melody and adds a counter melody to express a certain thing. It’s an art. Moreover, it must be structured within the bounds of properly harmonious chords. But the chords themselves can be confirmed by playing them on the keyboard.
+I’m actually very fond of Mussorgsky’s music. And that way he has of layering sound... He took a completely different approach from the norm like Tchaikovsky,
+which interested me. Then I learned that Mussorgsky was a layperson who knew nothing
+about music theory. “There’s nothing to be gained from studying that crap,” I was told by certain friends and professors. There was no music department but I had professors interested in music. In my view, though, it might not be musically correct, meaning it’s “not proper.” A layperson composing on a whim. Japan was completely devoted to German music then. It was all about theory in those days. (Mussorgsky's) music might not be right, but it sure is interesting! Those chords of his. So I ended up playing Mussorgsky on the piano
+to explore his sounds, and made my own discoveries by studying him independently. 
+Oh, and jazz. The chords in jazz are beautiful. Superb. Glenn Miller in particular really made my heart soar. His chords are hard to follow when you’re not paying attention. So I gave it some thought. When I wanted to know how the chords were layered, I recorded that part
+from the tape recorder and made a very short loop with it so that I could hear just those chords over and over. I explored the sounds he put into his music that way. So that’s how I learned these things. Having said that, Debussy’s harmony was also extremely fascinating as well. You could buy the scores for his music so I gained knowledge from those. I didn’t like music theory. That’s why I didn’t go to music school. The general view was that you couldn’t compose unless you studied it, and I knew those schools were filled with extremely obstinate teachers. I felt I’d become too deeply involved in something tremendous, and I wanted to be free of all those things instead. OK? [Applause]
+Audience member
+As you said, you encountered many difficulties with your first Moog in the process of making music. With the progress of music technology, did you ever think of remaking your first records? Or to your mind are they like a piece of art in the course of history?
+Isao Tomita
+Yes. Different record company, but I’ve
+remade many of them. “The Planets,” too. When I listen to them now, they were made in the early stages, so some technical imperfections sort of jump out at me, being the one who made it. So I’ve remade them because I really wanted to fix those parts. This is Debussy’s music. This is “The Planets.” I think they’re being sold in the merchandise booth. Never mind. That was uncalled for. [Laughter]
+Audience member
+Thanks so much for taking the time to be here, it’s been great. Can I make another unoriginal request to listen to “Clair De Lune” from “Snowflakes Are Dancing”?
+Isao Tomita
+Oh, I’m happy to hear that. When Stevie Wonder came to Japan, he said, “I’d like to go someplace where there’s snow.” So I’d planned on taking him to Niigata, or was it Fukui? Those areas only had Japanese-style inns, and since Stevie is blind, he’s disabled, it would have been hard for him to even use the restrooms. In those days, those inns hadn’t been made accessible like they are now. And we were met with major snowfall on that day and the trains stopped. So we ended up not being able to go on that shoot. But Stevie said that he wanted to experience snow in Japan.
+In “The Tales of Genji” there’s also a snow scene. It’s an orchestral piece. Snow appears in it. This one’s written completely for an orchestra. Some synthesizer is used but the rest is for an orchestra. An orchestra of about 90 players. There’s some portrayal of snow in this one as well. But the synthesizer is separate. 
+Masaaki Hara
+I’ll play “Snowflakes are Dancing,“ then. He requested it. [The track “Snowflakes are Dancing“ plays, then the several excerpts from the album “Snowflakes are Dancing“]
+Audience member
+I mean, we can listen to it all!
+(music: Isao Tomita – “Snowflakes are Dancing”)
+Masaaki Hara
+Well, we’ve run out of time so that’s the end of the lecture. Thank you. Another round of applause for Mr. Isao Tomita, please.

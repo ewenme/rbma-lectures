@@ -1,0 +1,307 @@
+If anyone embodies the spirit and eclecticism of Ann Arbor’s Ghostly International and Spectral Sound labels, it’s Tadd Mullinix. Since first taking to music in his teens, the Michigan-native has developed a chameleon-like ability to shift between genres and styles while maintaining an understanding of what makes people react and move: hip-hop as Dabrye, house and techno as JTC, experimental electronic under his birth name, EBM as Charles Manier and all-out ragga jungle as SK-1 alongside his friend Soundmurderer AKA Scott Osborn. All of this largely produced with a lean setup centered on tracker software, some hardware touches and a wide taste for experimentation. Throughout the 2000s, Mullinix maintained his multiple aliases and found success locally and abroad, including a rare collaboration with J Dilla before he passed. 
+In this lecture at the 2007 Red Bull Music Academy in Toronto, Mullinix discussed the enduring influence of Ron Hardy, the benefits of a stripped-down studio and the highs of collaborating with friends and heroes.
+Monk One
+I know being outside of Detroit you are considered as being from Detroit, is that actually where you were born and raised, Ann Arbor? Where did you grow up, actually? 
+Tadd Mullinix
+I was born in Rochester, Michigan, but spent most of my childhood in Florida, and then we moved to the metro Detroit area, but we never lived in Detroit, people just identify me as a Detroit artist. 
+Monk One
+Is that something you have embraced, is there some validity to the concept of a Detroit sound? 
+Tadd Mullinix
+Yeah, yeah, I guess so. I mean, if you’re around the suburbs or whatever, you’re still being influenced by the sound that’s coming from the city and identify with a lot of Detroit sounds and all that, but generally that’s other people labeling me a Detroit artist. If someone asks me personally, like, “Where are you from?” I say, “Ann Arbor.” Even though, actually, I live in Ypsilanti, but [laughs]… 
+Monk One
+For those of us that aren’t clear on it, how far away are those places from downtown, gritty Detroit? 
+Tadd Mullinix
+Ann Arbor’s about 40 minutes by car… it’s the University of Michigan, a nice college town, pretty mellow. 
+Monk One
+How old were you when you first started making your own music? 
+Tadd Mullinix
+Well, when I was making my own music, I was in bands in middle school and high school. 
+Monk One
+So, your traditional band line-up? Guitar, bass, drums, that kind of thing? 
+Tadd Mullinix
+Yeah, pretty much, we were playing punk and indie rock and shoegazing stuff and from that to Can and metal... 
+Monk One
+Every band when they start out it seems play cover versions. What were your specialties? 
+Tadd Mullinix
+I was doing a lot of the writing and… 
+Monk One
+So, you didn’t like the cover versions? 
+Tadd Mullinix
+No, no, no, I wasn’t trying to do that. Actually, we did do that for Battle Of The Bands or something like that in high school, it was terrible. We did “Confusion Is Sex” by Sonic Youth.
+Monk One
+Deep. 
+Tadd Mullinix
+Yeah, I like that song and everything like that, but I didn’t want to be playing other people’s music, so…
+Monk One
+Do you remember first being aware of some of the other sounds coming out of Detroit? Looking back on what might be considered the typical Detroit stuff, when did you first start hearing that? 
+Tadd Mullinix
+Well, I mean what happened was I was skateboarding a lot, and a lot of my friends who were skaters turned me on to a lot of different kinds of music. I don’t know about all over the area, but in the metro Detroit area skaters were listening to anything from like metal to hip-hop – that was in the mid-’90s, so a lot of people were going to Packard Plant parties and raves and stuff like that and that experience turned me on to stuff like Richie Hawtin, from Windsor, and Jeff Mills and Robert Hood, and I was really influenced by that sound and the sound I heard at raves. 
+Monk One
+So, there was a decent rave culture in the Detroit area? When you say the Packard Plant, is that the actual auto plant where the cars were made? 
+Tadd Mullinix
+Yeah, it’s one of the old auto plants. 
+Monk One
+For anyone who doesn’t know, Detroit is also known as the Motor City, Motown. It was once the car capital of the world and now, I guess, there’s a lot of remnants of that industry, and so that’s pretty ill that they had raves in the old car factory. So, what kind of stuff was getting played at those parties? Who was DJing, or was it not about the DJ? 
+Tadd Mullinix
+I don’t know what other people thought, really. Like I said, Jeff Mills and Robert Hood were DJing there a lot and Claude Young and Daniel Bell, all kinds of people. The sound at that time, what was getting big at that time was called minimal techno and it’s very different from what people call minimal techno nowadays. A lot of the popular minimal techno now tends to be European or German stuff using small sounds, and it’s not necessarily any more minimal in its concept than most techno. But what was being called minimal back then was artists like Robert Hood and DBX, and that was at that time very different. I think we were coming out of a sound, a pretty hardcore rave sound and hand-raising tracks and stuff like this, and at that time, I think, people got burned out on it and so we were hearing a lot of minimal stuff. 
+Monk One
+What would characterize that sound? 
+Tadd Mullinix
+Yeah, yeah, I’m sorry, I didn’t explain that. Well, pretty much not a whole lot of layered sounds, you know what I mean? Not a lot of very big changes in the music. Like, for example, Robert Hood was doing a lot of this thing, this interesting sequencing, with a synthesizer where a synth line would phase in time and be seven steps instead of the typical eight steps and stuff like that and just weird arpeggiations and stuff. 
+Monk One
+So, you’d have a seven beat rhythm... 
+Tadd Mullinix
+… over a 4/4 kick, basically. And just like one sinewave making a sound, if you think of songs like “Freak” and one of DBX’s big tracks, like “Losing Control” and stuff like that. Those are pretty typical. 
+Monk One
+What kind of stuff were people using to make that? What kind of gear were they using? 
+Tadd Mullinix
+I think the analogue stuff was pretty normal, you can tell DBX was using things like Casio RZ1 drum machines and 909s and stuff like that. 
+Monk One
+Were you still playing in bands at that point when you were going to raves? 
+Tadd Mullinix
+No, when I started going to raves and stuff and was hanging out with these skaters, one of them introduced me to Aphex Twin and I was like, “OK, this is something I can do on my own and there are all these sounds involved and I can explore more and experiment more with this kind of music.” So, then I started working alone and actually started DJing around that time, around ’95. 
+Monk One
+What did you start making your music on? 
+Tadd Mullinix
+Me and my friend Josh, we were just using toy keyboards and running toy keyboards through guitar pedals and then into an amplifier and micing the amp. We really didn’t know what we were doing, we weren’t using any MIDI or anything like that. Then, eventually in high school, I met this guy named Roger and we became really big friends. He was using Ultra Tracker and Fast Tracker at that time and then he discovered AST and we started using that, he pretty much taught me how to use Tracker software. 
+Monk One
+Did you set out to try and emulate and copy the things you were hearing or did you try, with the punk ethos or whatever, to break away and make something experimental and new? 
+Tadd Mullinix
+Well, a little bit of both, to be honest with you. There was a lot I liked in the music that I was buying and hunting, but I would go to sleep at night and have a dream that I found a record or something like that and in the dream, I’d be like, “Oh man, this is the best thing ever.” And then I’d wake up and be really pissed off, like, “Damn, I thought I’d found some really great records and now I don’t have them any more.” So, then I was basically wanting to make music like that because I was really inspired and I wanted to fill that gap, the sounds that I was dreaming about. I liked people like Squarepusher and DJ Dextrous and Aphex Twin and stuff like that, but I wanted to do something like what they were doing but a little bit different. 
+Monk One
+And were there other people you could bounce ideas off of or was this a “retreat to my studio and be by myself”, a kind of mad-scientist type of thing going on? 
+Tadd Mullinix
+I didn’t know a whole lot of people who were into what I was into until a little bit later when I met Todd Osborn in Ann Arbor. He and Roger were the only two people that I really cared about what they thought. Basically, I was just doing it to make me happy. I really think about what other people likes or what they knew about or anything. When I started going out to Ann Arbor I was making trips out there to go record shopping and Todd had this record shop out there called Dubplate Pressure, and he had a whole bunch of ragga jungle there and hip-hop, and the quality control was pretty great. So, I thought, “OK, I’m going to ask him questions the whole time and bug him.” [To Todd, in the audience] I think I gave you a cassette tape or something like that? Yeah… 
+Monk One
+Todd told me he first noticed you because you used to come into the store and ask about the most obscure one-off record that no one had ever heard of, and eventually you told him that you were making your own music, etc, and it was basically on after that. 
+Tadd Mullinix
+I remember going to parties in Detroit and there was this DJ called Rotator who was basically the dopest jungle DJ I had ever seen. He was mixing jungle like a ghettotech or booty DJ would mix in Detroit. Really fast, lots of cuts in and out of tracks in a minute and he was just playing this stuff that was so obscure. And sometimes, he was playing a track like a Squarepusher track, and I’d recognize it, but then he’d go into something like a crazy mashed up darkstep track or ragga jungle track that I could tell was from the early ’90s, but I wasn’t sure what it was. So, he was really inspiring and let me know there was more stuff out there to look for. 
+Monk One
+So, at this point, are you thinking of yourself as, “I’m a DJ and I want to collect these records to go out and play” and maybe recreate these parties and raves that you liked, or are you thinking like, “I want to make this music and become a recording artist,” or something like that? Where’s your head at at that point? 
+Tadd Mullinix
+At that point I knew I was making music, I was pretty confident, or happy with what I was getting done. I had been DJing at that point already. I was DJing in coffee houses around the area and some parties and gallery spaces in Detroit and stuff, so at that point I didn’t have a name or anything like that but I was getting a lot of experience doing it. That was just what I was doing. I wasn’t thinking about where it was going at the time. It was just making me happy, so I did it.
+Monk One
+So, how did you make that transition from bedroom production to, “Someone is going to put my music out”? 
+Tadd Mullinix
+Well, I didn’t really have to do much. I was working at that time. At that time, I got hired by Todd to work at Dubplate Pressure and this guy named Sam Valenti comes into the store and says, “Hey, I heard you make house music.” And I was like, “Yeah, I mean I got a couple of house tracks but I’ve been making all kinds of stuff.” I mean, as soon as I got AST I was making anything I really wanted, because I was really into Pete Rock and Premier and there was this DJ PNS from The Molemen in Chicago, who had some Fresh Produce mix tapes, one was called. Well, they were all called Fresh Produce, I think this was volume four, it was an instrumental cassette and the sound was super dusted. And there was wow and flutter in the cassette and it was super hissy, but it was just really simple, really mellow hip-hop beats and I was just looking for this kind of stuff all the time. So, I was making hip-hop and jungle and techno and house and what people call IDM or braindance and electro and…
+Anyway, I had all this music in my car just to reflect and see if I wanted to make any changes. And when Sam came into the store and asked if I had anything, I just went to my car and gave him the cassette and said, “There’s other stuff on there but I think the house tracks are the first two or the first three or something.” I guess, he listened to the whole thing and he came back with some big ideas. 
+Monk One
+The first releases contained a little bit of everything? He comes into you thinking house music… what ended up as the final product? 
+Tadd Mullinix
+Well, actually he didn’t sign me to do house music, that was the funny thing. You mean, what was the final release? 
+Monk One
+You didn’t end up releasing the house stuff? 
+Tadd Mullinix
+No. Well, I want to add right now that already Todd and I had released a couple of Rewind! Records, we had our own jungle label we started. Todd was doing most of the work, so I don’t want to take full credit for it. We would both work on one track or he would do one and I would do the other, so the creative input was equal there and we already had this kind of weird cult following. Like, there were people in Toronto who knew what we were doing. Some people there knew what we were doing, but most people didn’t know about it, it was super underground, very limited and low-budget. 
+But back to what you were saying. Yeah, he was really interested in the three kinds of music that I did and I had to have to think about what I wanted to do about that, how I wanted to package everything or categorize it for people. So, I created a few aliases: Dabrye, which is the hip-hop; James T. Cotton – also JTC now – for all the techno and house music; the music under my own name is just IDM or braindance. I also had another project, which I was keeping secret for a while, Charles Manier, which is EBM, sort of influenced by early Severed Heads, Liasons Dangereuses and stuff like this. 
+Monk One
+Why do you think it’s important to keep this different aliases and categorize things like that? 
+Tadd Mullinix
+I want to know what I’m buying, basically. In the end, it’s my music and I like it, but when it comes to other people I like to respect the diversity in what people like to specialize in and what they are collecting. It’s also good for presentation, I think. Creating aliases is a good way for me to categorize it myself and create, like, Dabrye has his own world, and I would fetishize about bands and records … Like, when I was going through bands and records in my mom’s record collection, I remember just listening to a Talking Heads record and just staring at the art work and getting absorbed in that world. 
+And that’s what it sort of is as an artist: you are creating a space for you and other people to retreat to and escape to. So, by creating all these different aliases, and not making one album a hodgepodge of all these sounds, I can really, really dig deep and specialize in something, and I like to do it with some sort of… I don’t know how to say this… I didn’t really want people to think that all of these aliases were coming from the same person. I wanted to be competent, basically. I didn’t want to be one of those people who you could tell were doing drum & bass but then they had a side project that was trip-hop and it wasn’t fully good. I don’t know how to describe that. 
+Monk One
+The danger, you don’t want to be dabbling in a little bit of this, a little bit of that, coming off as a full-fledged artist in each style that you approach – but I guess the danger, you feel like, “Oh, I’ve put all this work into getting Dabrye known or James T Cotton known and now I have to go out and let people know who Tadd Mullinix is.” 
+Tadd Mullinix
+That’s OK though because I feel like people…  it’s going to be a small percentage of people that really, really dig deep and give a crap… that are going to be sort of affected by knowing that all the aliases come from one person, and I think that can be a good and bad thing but I think the [majority] of people are really into niches. I don’t know too many junglists that are really into EBM, and I respect that and I don’t necessarily think it’s bad for someone to be not into another kind of music. I don’t want to sound all kind of political, but presentation is very important in the art world and that’s all I’m trying to do. 
+Monk One
+And I guess you must run into people at gigs and stuff, who know Dabrye but have no idea about the rest of your stuff, or who know your work in one particular field. Will you let people know that that’s you? You do all this other stuff or do they have to figure it out for themselves if they’re really interested? 
+Tadd Mullinix
+Yeah, if they’re really interested. I’m not like a salesman, I don’t want to be like, “Yeah, if you like this, you should also check out blah, blah, blah.” Usually people don’t care. I can imagine if I were like, “I also do this hip-hop stuff,” and people being, “Yeah, yeah, yeah,” we’re at a loud club or something like that, I’m not trying to have a lengthy conversation with them, and pretty much they just want to tell me they liked what they saw. But sometimes someone will come up to me and be like, “Yeah, really like what you do,” and I have to be like, “What thing are you talking about?” 
+Monk One
+So just backtrack a little bit, has your gear, from when you started making these cassette tapes, has it changed? Of course, you’ll have added stuff, but can you take us through what you were working on at that time, after the toy keyboard stage up until presently? 
+Tadd Mullinix
+Again, the toy keyboard stage was very experimental and none of that stuff has been released. I like some of it, but I don’t know if other people will get it. I’m attached in a nostalgia way. Like I said, Roger introduced me to AST, and Todd and I and him were all using that stuff. I’m sorry, AST is sort of like Fast Track and Ultra Track, a shareware program that runs in DOS and it’s very, very graphically primitive and a lot of people, if you don’t have any experience with a tracker, it’s not going to make a lot of sense because of things like the shortcuts you’re using. It’s sort of like a player piano, it scrolls and there’s like a step ladder image going like this and you’re basically placing the note. You’re giving an effect to it symbolized by a letter and then you’re giving it parameters with two digits, but with hex numerations so the values go from 1 to 9 and then after 9, A-B-C-D-E-F so you have like values like 1A, 1B and on and on. 
+I don’t know if that makes any sense to anybody, but instead of values of ten you’re dealing with values of 16 so you have to do some extra math, but they just do it that way so you can have more value in one digit space. So, you can actually do a little bit more that way. They should have just went to Z instead of F, I don’t know why they stopped at F. But anyway, once you get the hang of it, it’s not the best-sounding program but it did the trick and we used a lot of mono samples and stuff like that, and you just have to be a kind of ninja and make do with what you’re using. That’s pretty much key… I’m not a gear head and I learned from using AST that it doesn’t matter what you’re using, it really doesn’t matter, it’s what you do with what you’ve got. 
+Monk One
+That’s sort of an interesting point you’re making because particularly with Detroit, I think maybe more than any other places, the sound is identified with particular pieces of gear. 
+Tadd Mullinix
+Yeah, but that goes with everything though, I think. You think it’s particular to Detroit? 
+Monk One
+Yeah, I mean I don’t know what everybody else thinks but I hear “Detroit,” I think “909,” and stuff like that. And Chicago as well. You think of like acid squelchy stuff that is, whether it’s made on those machines or not, it’s made to emulate that sound. I wonder how much of what you’ve done is a result partially of the programs you started using? Did you fall into that mindset of, “These are the limitations of this program that I’m using just by chance when I started out, now I want to go back with something new, but I want to make something. I’m used to making stuff that sounds like that.” Is that valid? 
+Tadd Mullinix
+I mean, yeah. It’s your opinion, dude [laughs]. 
+Monk One
+I don’t know, I’m not… 
+Tadd Mullinix
+I know what you’re saying, I think what it is when you’re talking about Chicago house or Detroit techno, you’re talking about the beginnings of a certain style of music and with that everybody will fetishize about what was the year that was out back then and what were they using and you have that context of the music. And those are the people that, you know, like Larry Heard or something like that and Marshall Jefferson and these guys and Derrick May, they were using other pieces of gear but the big tracks and the most influential tracks are things that people get really obsessed about and want to emulate. I do a little bit of that, but I like presets, I like stuff like that. I’m not a purist and like, “Every time I make something there’s got to be some new crazy sound.” Sometimes you’re looking for that cheap, pre-made, naïve sound. 
+Monk One
+So, when you’re using that program, you are sampling stuff as well as generating – does it have like a tone generator? 
+Tadd Mullinix
+No, it’s just a full on sampler/sequencer. 
+Monk One
+So, it was all sampled stuff? 
+Tadd Mullinix
+Yeah, you’re sequencing waves with AST, basically. 
+Monk One
+So how did you progress from that? Did you feel happy with that, that was handling everything you wanted to do or did you reach a point where you felt like, “You know what? I want to go beyond what this program is letting me do?” 
+Tadd Mullinix
+Well, basically when you’re sequencing waves there’s not much tweaking going on. There are some envelopes and you can change the resonance on things and stuff like that, but I’ve found myself sometimes sampling a 303 from another track, just like, “Oh man, this sucks. I just want a 303, man.” 
+Yeah, so eventually I started buying gear and drum machines. And also for me personally, I get really worn out making music on the computer after a while. I really want to actually be engaged with a piece of equipment that’s interactive. Even MIDI controllers kind of bother me because they don’t have character, or what this button does can change for every program you’re using and stuff like that. And I like these old machines because they have a lot of character and they are difficult to use, which is a good thing, and also those challenges sort of keep you restricted too. 
+A lot of things, especially nowadays, where software is very widely available, and it’s a global culture and all of this stuff, it’s sort of like New York, man. You go to New York and it’s like I’m never super-impressed because I go there and I’m like, “They have everything here. They could do whatever they want, they could be inspired by anything.” But – not to diss New York – but all I’m saying is that I’m not impressed by the things that come out of there, considering what’s at their fingertips. That’s how it is with a lot of artists, you can get a laptop and make whatever you want and use whatever you want and people are using pirated software all the time and it’s kind of like they don’t have enough limitations and they’re not really focused enough. 
+Monk One
+It’s definitely true that limitations can force you to be creative and no limitations almost can have the opposite effect. So, where did you go gear-wise from there? 
+Tadd Mullinix
+Well, I can’t… 
+Monk One
+What’s your, is your current set up vintage stuff? 
+Tadd Mullinix
+I do have a lot of vintage stuff. Basically, Todd and I put a studio together of 909, 707, 505, 303, 101, all the Roland stuff – a lot of the early Roland stuff and vintage drum machines… RZ-1 and stuff like that. 
+Monk One
+So, I want to know how did Dabrye become Dahbrye? 
+Tadd Mullinix
+Oh, yeah, yeah, that’s a good question. Well, basically it was when I worked with Jay Dee for the first time. 
+Monk One
+When did you become aware of Jay Dee and his music? 
+Tadd Mullinix
+I think it was basically Slum Village was kind of pretty hot at that time. 
+Monk One
+How popular were they in Detroit, because they were an underground thing that people in the know knew about but they definitely didn’t have the kind of exposure that they’ve gotten subsequently? 
+Tadd Mullinix
+I think if you were a head in Detroit, you knew about them, basically. No matter what kind of music you were into, if you were sort of around… like I said, I was hanging around with a lot of skaters and stuff and I guess at that time skaters were pretty hip when it came to music and stuff, and I was hanging out with Todd. Todd might actually have introduced me to Slum Village… hanging out at a lot of records for us, basically. I was a DJ, I don’t know how many people really knew about them, but I knew they had a really big underground following in Detroit. 
+What was I talking about again? Jay Dee? Oh, Dabrye. I think basically we talked to him and I was saying Dabrye and Sam was saying Dabrye about it, he was like, “Yeah, I’m hip.” I actually bought his records, House Shoes sold Jay my records at Record Time, I believe In Roseville. I don’t think anybody knows how to pronounce the name just because of the way it’s written out and I didn’t care about how it was pronounced. I like the way the letters are when they are together, from its sort of graffiti standpoint. So, I was just calling it Dabrye and then when I put out a record on Eastern Developments, Scott Herren’s record label, they wrote out a bio and they were the first people that tried to phonetically describe the word and they got it wrong. 
+They wrote Dabrye and it’s still on the page like Dabrye or whatever, not wrong but just not how I said it, which I guess, is technically wrong. So, I think even though I talked to Jay I can still imagine him going like, “How did he pronounce the name?” So, then when he rapped on “Game Over” and said “Dabrye” and rhymed it with “Hobby,” and this is Jay, I’m not going to correct him… It’s like, in a way, he defined what I was into, so I didn’t mind him changing my name, and the way he used it and the rhyme was really good, so it was sort of an honor. 
+Monk One
+Did you choose that track to go to him or was that something that he listened to and chose? 
+Tadd Mullinix
+Well, the way it worked, Sam and I had a friend who was working for a car magazine basically and the car magazine said, “Hey Riley, will you go and interview Dilla while he’s driving one of these…” I think it was a Mercedes SUV or something like that, and when Riley was interviewing Jay, Jay said something like, “I’m working on a new album and other people are doing the beats,” and stuff like that and Riley told us about that and I was like, “Oh, OK.” So, we got a hold of him and I was like, “If you need some beats for your album, I’ve got some.” 
+So, we gave him a CD with four beats on it and we met up at his studio and he was saying, “Well, you know, I don’t know where the album’s going to be at,” because it was this album for a big label, “… and I think I’m all set for now,” and he didn’t want to hold anything up and he said: “Well, why don’t I do something for your album?” And I said, “OK,” and he really liked the beat for “Game Over” and he also liked this one with a Lou Rawls sample called “It’s Strange.” And, later on, he used this beat for a little interlude on Donuts. It wasn’t my beat, but I think he re-sampled it and did something a little bit different with it, but I thought that was pretty fresh, took it as a compliment that he used it and I never used anything with it because I was afraid about sample clearing. I wasn’t but the label was pretty much…
+So yeah, he picked “Game Over” and Phat Kat and Dank from Frank ’N’ Dank was in there, and Young RJ from BR Gunna was in there, House Shoes… we were all in the studio and Jay was like, “I like this beat,” and they were playing it and Phat Kat started freestyling about guns and stuff and I was like, “Yeah, man. This is pretty fresh!” Because at that time I was getting pretty sick of conscious rap and just the aesthetic that came from this super bohemian syllable-hog style – this was a while back, things have changed now – but back then it was kind of like, “Alright, I don’t want to be identified as a backpacking indie hip-hop kid,” plus I was living in Ann Arbor and Atmosphere was coming into town like every other month and all the people inspired by that sound was just getting on my nerves and I didn’t want to be associated with that. 
+And especially, at that time people were calling my sound glitch-hop and stuff, and this was not my invention and, generally. When I think about glitch-hop, a lot of other groups come to mind that I really don’t like, and I always thought I was making hip-hop just with my own flair or just this very synthetic sound. But then, when this corny term called glitch-hop came out, I was just like, “Man, this is just like sucking the sex out of the music completely.” It sounds so academic and didn’t have the sort of feeling that I wanted in my music. So anyway, I was really excited to work with MCs that had the street delivery… that’s just the kind of hip-hop I liked. 
+Monk One
+Did you work with MCs before? That was the first track, right? Did you ever have any producer type of input into their lyrics or the way that the song lyrics were arranged in some song? 
+Tadd Mullinix
+Nothing like that. I just chose MCs that I really, really liked. Everybody on my album I already liked a whole lot and I was a big fan of what they did. I didn’t settle and I chose them because I liked what they do. 
+Monk One
+And they had the tracks and you let them go. So, what did you use to make “Game Over”? 
+Tadd Mullinix
+[Laughs] I used FruityLoops to make “Game Over.” I’ve only made four tracks on Fruity Loops and they were all Dabrye tracks, and that’s the only time I’ve used another program. 
+Monk One
+Let’s check this out for a minute. See if we can get this going. 
+(music: Dabrye feat Jay Dee – “Game Over” / applause)
+That’s that hot ish…
+Tadd Mullinix
+Thank you. This is like, when we went into the studio, this is like well after Welcome 2 Detroit came out, and then when we went into the studio, he gave me a CD of Ruff Draft well before that was out, and I thought it was really good. I felt like we were on the same page basically, because when I went into the studio and I didn’t like backpacking stuff and I really liked street delivery, he was like definitely feeling that. He was like, “Alright, yeah,” and you can hear a lot of that in Ruff Draft, too, and I think that we were on the same page in terms of doing something a little different at that time. It turned out good that way. 
+Monk One
+That was obviously a big record in our world. Did you have pressure from the label to come with more stuff like that? 
+Tadd Mullinix
+Stuff like what? 
+Monk One
+Like “Game Over.” 
+Tadd Mullinix
+In terms of “like it” in what way? 
+Monk One
+Street MCs on beats that were of the tempo and vibe that could be played on hip-hop mix shows. 
+Tadd Mullinix
+Not at all. That was something I’ve been wanting to do and, like I said before, that was just the kind of hip-hop that I listened to and the label didn’t give me any pressure for going in any direction or stuff like that. 
+Monk One
+But beyond the hip-hop stuff, at this time you’re still making and releasing stuff under completely different genres. When you’re out there DJing, do you DJ as Dabrye or do you DJ as James T Cotton or...? 
+Tadd Mullinix
+If I DJ, it’s either as SK-1 doing jungle or JTC, James T Cotton doing techno and dance music in general. 
+Monk One
+Do we have any of your techno stuff? Can we hear that? 
+Tadd Mullinix
+Yeah, sure. So, Orgue Electronique, an EP called The Garden. It’s very influenced by The Music Box and Ron Hardy. 
+(music: Orgue Electronique – “The Garden” (James T Cotton Remix) / applause) 
+Tadd Mullinix
+That was a long one, that’s the idea, though. It’s a beat track and that’s the tradition, I think with beat tracks, this kind of groove and there’s a disco element to that long sort of track and that was a really fun remix. 
+Monk One
+Definitely, so you mentioned being inspired by The Music Box, Ron Hardy. Can you let the people know what The Music Box was or what that means to you and to the city? 
+Tadd Mullinix
+OK, so I’m maybe fourth generation so I don’t know if I’m getting all the stories right but the deal is that basically the disco and house scene in Chicago was warehouse party environments and there was Frankie Knuckles doing some DJing and there was Ron Hardy. And a lot of people thought Ron Hardy was more experimental and a little more aggressive with his stuff, and he was doing a lot of edits and drum machine workouts and stuff like this. Ron Hardy would play demos that friends would bring into the club and he would actually play the tape there on the spot. He’d preview it first and if he liked it, you couldn’t really do this at a Frankie Knuckles party. Basically, I collected tapes – not tapes but recordings of tapes – and stuff like that and got way into what Ron Hardy was doing. What he did was very experimental in terms of the kind of stuff he would spin and how he would spin it. It’s a lot more my style and it’s a lot dirtier and more experimental basically. 
+Monk One
+So, that was a remix you said? How much of the original track is in there? 
+Tadd Mullinix
+Well, I guess I can play it really quick and snip it and this is the original element, it’s sort of there melodically in that bassline. 
+(music: Orgue Electronique – “The Garden”) 
+Monk One
+Your track is a lot harder. That was just a whole reimagining of that whole concept, I guess. You didn’t use any sounds or anything like that from the original track, did you? 
+Tadd Mullinix
+No. They didn’t give me any source material so I basically tried to just reflect on the melodies in the strings and the bassline and really that beat in my remix was sort of a remake of something I heard Ron Hardy play in one of his mixes, where it’s just this very long drum machine sequence going on. There’s little bits of soul buried in the sound, very quiet, and a little disco guitar… he did really cool stuff like that. 
+Monk One
+Do you do a lot of remix work? 
+Tadd Mullinix
+Yeah. 
+Monk One     
+How often are you actually creating a new track as opposed to using elements of what’s in the original? Are you usually doing something like that, where it’s a complete sort of clean slate start over? 
+Tadd Mullinix
+No, I do a little bit of both. I mean I’m often doing that where it’s just I have to remake it because some of the people that I’m remixing are doing it all on like two track or something, and there’s no way for me to just grab little snippets unless there’s a synth solo on there or a drum solo or something. Anyway, I have all this gear anyway, so I might as well just try to cover it or do a remake or something. 
+Monk One
+Yeah. Yeah. Definitely. Where are you going now? Do you have new projects or any new aliases coming up or are you pretty happy with the kind of separate channels that you’ve been working in so far? 
+Tadd Mullinix
+I’m happy with the separate channels I’m working in so far. Because I’ve got four aliases going on at once and a lot of collaborating projects, it keeps me busy, so there’s really not much room for anything else unless I totally quit, drop everything I’m doing, and start something new. 
+Monk One
+Do you tour extensively, or how often are you at home? 
+Tadd Mullinix
+I try not to tour very much. I don’t really enjoy touring over long periods of time. I like to tour like a month at a time and I prefer to be DJing when I’m doing that. 
+Monk One
+I noticed the other night when you were playing, it seemed like you were playing all vinyl. Was that the case? 
+Tadd Mullinix
+No, I played a few CDs. I brought some unreleased stuff and I spun some of that, but yeah, I do collect vinyl and I’m still a vinyl DJ. 
+Monk One
+Even overseas, you bring your box with you? It’s becoming sort of an anachronism for a lot of DJs, you don’t see them out there with vinyl anymore. Is that something important to you? Keeping the vinyl culture, do you feel that vinyl has a sound or anything like that, or is it just something you are more comfortable with? 
+Tadd Mullinix
+I have all this vinyl and I’ve been collecting for a long time so I might as well use it. I do run the risk of losing some of it, or something getting ruined or lost or lost in the transit, but I like vinyl. I think it’s a very fun format, I like having large art work and all those kind of things, but I’m not a purist, I don’t frown on Serato or stuff like that. 
+Monk One
+Is there a lot of improvisation when you’re DJing as far as when you blend songs together, what you’re going to play in what order? 
+Tadd Mullinix
+Yeah, I improvise everything. 
+Monk One
+And it changes based on the mood of the room or where you’re at, that kind of stuff? Do you feel when you’re out with that limited selection of stuff, what you’ve brought in your bag… are you able to tailor it successfully to the situation you’re in or do you encounter situations where it’s not flying with the people in the room? 
+Tadd Mullinix
+I do get that, but I try to convince people to just hear me out. But, generally, I bring a variety of things, I like a lot of different kinds of dance music. 
+Monk One
+What kind of stuff by other artists are you feeling right now, that are out there people might know or want to check out? 
+Tadd Mullinix
+All kinds of music? Any style? Jeez, what have I been listening to lately? Oh man. The thing is, I work at a used record store in Ann Arbor and I’ll buy a record and it’ll be whatever and that’s what I’m into at the time. Lately, I’ve been way into disco, like Edwin Birdsong. And, of course, like a lot of the things that Ron Hardy was spinning – boogie, D-Train, and I’m sorry I’m blanking out here. I like a lot of different kind of stuff. 
+Monk One
+So, it’s not like you’re strictly listening to the particular music that you make? 
+Tadd Mullinix
+No, no. Like the last CD I bought was Armenian duduk and zurna music, it just depends. 
+Monk One
+Are there people you want to work with, like the Jay Dee stuff, or other collaborators? You’ve been doing stuff with Todd [Osborn]? 
+Tadd Mullinix
+Yeah, but I don’t want to work with him any more. [Laughter.] Yeah, I want to work with Guilty Simpson, and we did a special and that was really fun. I’ve always been a fan of Guilty Simpson, he’s got a very powerful voice. A lot of the guys in Detroit are really talented. Phat Kat and I are talking about working together, we did a little something extra for BBC, and Black Milk and I collaborated and we’re talking about collaborating some more. Ta’Raach and Waajeed. I’m really happy with the people I collaborated with on Two/Three, the MCs were ridiculous and I’d work with any of them again, they were all super-good. 
+Monk One
+What’s the process – aside from working with MCs, where it’s pretty cut and dried – you make the beats, they rhyme, what’s the process with working with another beat-maker or producer? How do you collaborate in that situation? 
+Tadd Mullinix
+It’s funny, because every time I say I want to collaborate with someone, they say exactly what I’m thinking about with the collaboration. I know what you are saying, like there are a lot of different ways you could do that in the studio, but usually “Here’s a few orphans or incomplete tracks I have, some things I’ve been working on,” or “Here’s some basic sounds and a beat that I had in mind, really basic,” and they give it to me and I flip it, or vice versa. 
+Monk One
+It can be difficult when you want to work with somebody and they are not familiar with the gear you’re using, so you’re not starting from scratch usually, it’s something you’ve got a kernel of and then they come in and add on to it. So, what’s in the pipe right now? What projects are forthcoming? 
+Tadd Mullinix
+Well, I’ve got an album coming out on Spectral under the name JTC, James T Cotton, called Like No One, I’ve got that. It’s a lot of acid and techno and house. And there’s a Dabrye remix EP coming out soon featuring Flying Lotus remix, Black Milk remix, a Kode9 remix, and an exclusive track that I did with AG called “Get Dirty”, and that’s what’s in the pipeline right now. 
+Monk One
+How was that, working with a New York guy, AG? Was that any different for you, you’ve been pretty Detroit-centric? 
+Tadd Mullinix
+It’s no different. I mean, this guy probably has a bigger reputation than some of the Detroit people I work with because of his history and the respect that New York rap gets, but no different at all. It was real easy and fun. 
+Audience member
+Do you have a process for when you’re setting up all your different aliases? Or is it just like, “OK, I’m feeling EBM right now, let’s do a track,” and then come up with the name later? 
+Tadd Mullinix
+Yeah, the latter. I just do whatever I feel in the studio, whatever I’m in the mood for, and automatically I already have an alias for whatever it’s going to be. What kind of music and even what to call something, track names and album names, all those really come later in my mind, I’m not very concerned… in fact, I really don’t even like to think up things like song names and alias names and stuff like that. 
+Audience Member
+There doesn’t seem to be a common factor in your dance music. Where do you get your inspiration from? Do you lock yourself up with mushrooms in your room? 
+Tadd Mullinix
+No. I’ll try that though. There isn’t really a common factor at all. I’m just spacing out. I get really inspired by something and sometimes I need to get into the right mood for a certain genre if I’ve got a deadline coming up. If I need to make a Dabrye album or something like that, I’ll throw on something a little more close to hip-hop. I try not to play too much hip-hop because I don’t want to start subconsciously picking up someone’s style and getting too influenced by them, but if I have to get into the Dabrye mode, I’ll think about playing some Afrobeat or Ethiopian funk like Mahmoud Ahmed. 
+I don’t know… for example, and if I’m trying to get into the mode for a JTC track, I have to do I’ll play some old disco, some Patrick Adams or… OK now I’m just name dropping. That’s just ridiculous. I try not to play the people that are directly too close to what I do because I really have to focus especially in this day and age where a lot of people are making music and a lot of people are releasing on labels and stuff. There’s a lot of young, inspired talent out there. I’m trying to consciously distinguish myself from other people that might be doing something similar to what I’m doing. Right after One/Three came out there were some artists that started doing things that sounded really similar. I’m not trying to say that they were influenced by me or anything like that, but I had to be concerned with making sure that I’m challenging myself and maybe even them, if they are getting influenced by what I do, and try not to be too predictable. I hope I answered your question. 
+Audience Member
+When I first became aware of the Dabrye stuff through the mini album Instrmntl, which I really love and I still play it all the time to this day, but I was going to ask sort of that and One/Three is exclusively instrumentals and Two/Three is very heavy on MCing. Was that a premeditated thing where you felt like you had to establish a sound before you let people on the mic, or was it that you didn’t yet have this sort of rep or the cachet to get people? 
+Tadd Mullinix
+The latter. Yeah, the latter, basically. Although, like I said, I was really way into DJ PNS’s Fresh Produce instrumental mix tape. I had a very, very special interest in instrumental hip-hop, way more so than even like trip hop or downtempo or Mo’ Wax stuff and whatever, because I was just a lot more interested in the rugged, stripped down sound of instrumental hip-hop. Let’s see… what was happening at that time, I didn’t know any MCs basically. I knew some and I didn’t want to work with them. I thought, “What’s the best thing to do in this situation?” Well, I might as well just put out a few instrumental albums and let it be out there in the world and have that be my resume for any MC that wants to work. Anyway, when I’m asking for an MC to work, I can be like, “OK, I already have a few releases.” Luckily, in many cases, the MCs were already hip to what I was doing so it made things a lot easier. 
+Audience Member
+One more question, if that’s OK. Also on Two/Three, obviously, you’ve got your own interdisciplinary aliases and so on, but there seems to be a change even amongst the Dabrye stuff between Two/Three and the earlier stuff. To my ears, anyway, a lot less reliant on samples, and you mentioned like sample clearance. How do you feel about increasing problems to get samples cleared and as your profile rises, do you think it’s inhibiting or do you find it inspiring to move in different directions? 
+Tadd Mullinix
+Yeah. When you start selling a lot more records, you do have to be a little bit worried about how much you’re flipping a sample. Although I haven’t been using more samples in my new music than I have in my previous albums, it just maybe sounds a little more sample-oriented or maybe a little more layered in its sampling. Yeah, I do get a little concerned about that, but what I basically try to do is sample things even more obscure. Things way under the radar. I’ve sampled some music that was obviously from like a local group and will never see the light of day, hopefully. I even like to sample real bad music so no one would even think to go in there. I might find like two seconds of something really nice in a generally terrible Muzak album or something like that. There are a few different things that you can do to avoid worrying about clearing. 
+Audience Member
+In regards to all the separate projects that you have, how do you differentiate what you’re going in to work on? I assume that you get to a point where you start something that isn’t necessarily what you intended it to be and kind of maybe catered more towards one of the other projects that you work on. What’s your meter for “OK, this is definitely not what I intended, so now it’s something else?” Do you maybe use your instruments to set a line or a barrier? Like, “Well, I’m not going to use a 101 on any of this project because it sounds a certain way…” How do you limit yourself? 
+Tadd Mullinix 
+I think my studio’s really limited anyway, so it’s easy to limit myself. No, I don’t let the instruments ... well, see, there’s crossover. I can use the 101 on maybe a funky, warm sort of sounding lead in a Dabrye track, but I would normally use maybe a 101 as synth line or a bassline in a JTC track. Really, genrefying happens sort of automatically with me. I generally don’t make hip-house or anything that could be anywhere in between Dabrye and JTC, so I really like to keep the sounds very separated automatically, so it’s easy for things to just kind of fall in line naturally. 
+Monk One
+Alright. Alright. 
+Audience member 
+Can we hear one of the jungle tracks? 
+Monk One
+Definitely. 
+Tadd Mullinix
+Which one do we have on here? This should be “Call Da Police.” Yeah. 
+(music: Soundmurderer & SK-1 – “Call Da Police” / applause)
+Tadd Mullinix
+Thank you. 

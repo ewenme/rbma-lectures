@@ -1,0 +1,529 @@
+In the world of gaming, Hirokazu “Hip” Tanaka - sometimes affectionately known as “Chip” Tanaka - is one of its most celebrated figures. As a sound designer, musician and composer, Tanaka was the brains behind the sound of well-loved, globally successful video games like Super Mario Land, Tetris, Icarus, Mother and Dr. Mario, as well as designing and coding the Game Boy audio software that became the soundtrack to countless childhoods. 
+In this rare, extended talk at the 2014 Red Bull Music Academy in Tokyo, Tanaka dove into his working methods, inspirations, and how reaching that next level can be a very real catharsis.
+Nick Dwyer
+I’m pretty excited to introduce our next guest at the Red Bull Music Academy. If anyone’s seen the documentary series that RBMA put out leading up to the Academy, Diggin’ in the Carts,
+you might already know a little bit about this man. Sitting to my right is an absolute legend. He’s a musician, he’s a composer, he’s one of the first pioneers of 8-bit music. He began working at a company, which I’m sure a few of you know, called Nintendo in 1980, and went on to compose some of the most memorable melodies of early 8-bit games. Please put your hands together for Hirokazu Tanaka. [Applause] 
+Hip Tanaka 
+Hi, how do you do.
+Nick Dwyer
+Also known as Hip Tanaka. How did you come up with the name Hip Tanaka?
+Hip Tanaka 
+That’s from hip-hop music, which was popular at the time.
+Nick Dwyer
+Who were your favorite hip-hop artists back then?
+Hip Tanaka
+A Tribe Called Quest. Is that hip-hop? Or rap?
+Nick Dwyer
+To get an idea of some of the things that Tanaka-san has been involved in, I’m going to play you something right now. Did anyone here grow up with a Game Boy or play a Game Boy in their youth? There’s a couple of games that everyone that had a Game Boy definitely had. One was Tetris and the other one... 
+[applause as Tanaka holds up a Game Boy]  
+Another one was Super Mario Land. If anyone ever managed to beat Mario Land, they’d know this song.
+(music: “Ending Theme” from Super Mario Land)
+So, Tanaka-san, when you hear that, when you listen back to that, what does it remind you of, what does it take you back to?
+Hip Tanaka
+I was busy. Very busy.
+Nick Dwyer
+Can you describe why you were busy?
+Hip Tanaka
+Back then, I was composing and
+programming at the same time. I was designing the sound inside the Game Boy console as well. I did all that while simultaneously writing the music for Mario Land and two or three other games. So I worked on hardware, composing,
+programming... It was crazy.
+Nick Dwyer
+So when you say you were working on the hardware side of things, I think a lot of people right now know there’s a big scene around the world for chip music, and there’s so many artists that make music primarily on a Game Boy. Now, the sound chip in the Game Boy – that was something you came up with.
+Hip Tanaka
+That’s right.
+Nick Dwyer
+Tell us about that – how does someone go about  designing a sound chip for a portable console that sells 120 million units around the world?
+Hip Tanaka
+I won’t get into the complex details, but first there was the Famicom, short for “Family Computer”. This system had a sound chip in it. They wanted to create 
+something smaller than the Famicom without increasing the cost. With so many limitations, its overall quality would’ve gone down. The precision of the sound would be compromised, but I still wanted to create richer sounds than the Famicom. So I tried to think of ways to bring greater expression to the sound.
+Let me give you an example. The Famicom didn’t have stereo sound, but I found a way to force the sound out from the left, or right, or both. With the Famicom, the shortest possible sound
+you could produce with a program was 
+one per 16 milliseconds. So the duration of the shortest possible sound
+was 16 milliseconds. To produce really clipped sounds like this, I added new circuits to control sounds shorter than 16 milliseconds. 
+Another example is the use of “noise.” With regard to the Famicom, there was only one kind of noise to use. But with the Game Boy, you could choose between two kinds of noise. There was the original noise wave, and a more cyclical noise that sounded like a “beep” sound. I created two different types of noise. There were so many other little details.
+Nick Dwyer
+One thing I would say now is, just to clear up some terminology, every time the word Famicom is used it’s referring to the Nintendo Entertainment System, as it was known in America and other parts of the world. 
+I’d love to know a bit about the team. When all of a sudden Nintendo decides, “Okay, I think we should make a portable handheld, let’s call it the Game Boy” – how does a team get together? How many of you were working on the Game Boy?
+Hip Tanaka
+In the Famicom days, there were only 18 or so people in product development. And there were only five or six of us
+who worked on the Game Boy. Plus there were other companies that we collaborated with, so I’m not sure how many of us there were, but at Nintendo, I’d say about seven or eight. Five or six in hardware. Then there were people for design, including the case design, so maybe about ten.
+Nick Dwyer
+From your perspective, you had such an important role in developing the sound chip, did you have any idea that 25 years later people would still be making music on that sound chip?
+Hip Tanaka
+Not at all.
+Nick Dwyer
+Do you feel some fatherly sense of pride when you see artists around the world still playing on that?
+Hip Tanaka
+I was totally oblivious to that. Totally.
+Nick Dwyer 
+I’d love to go right back. One of the things that I didn’t introduce you as – you’re a musician, you’re a composer, you’re an engineer, but another thing about you, Tanaka-san, is that you’re a huge music head, very passionate about a lot of music. So I think it’s only fair that we go back in time a little bit now. You’re originally from the Kansai region of Japan. Tell us a little bit about the area you grew up in and your first contact with western music and falling in love with music.
+Hip Tanaka
+My hometown has both beaches and
+mountains. I skied in the winter. It was a great place to grow up. My mother happened to be a schoolteacher, so I had to take piano lessons. That was a big influence. In middle and high school, like with anyone else in the world, the variety of music was more limited. I listened to what the world listened to.
+The Beatles, the Carpenters... I listened to what all other young people
+in the world were listening to.
+Nick Dwyer
+When was the first time you went from loving music and listening to music to then deciding, you know what, I want to start a band, I want to start playing music?
+Hip Tanaka
+It was in first grade, actually.
+Nick Dwyer
+What were your influences there? Most people when they’re in a high school band doing covers are trying to be like someone – who were you trying to emulate?
+Hip Tanaka
+I first thought of forming a band when 
+I was in elementary school. But it was middle school when I started my first band. At the time, we formed a band that covered the Beatles and Elton John.
+Nick Dwyer
+Can you remember the first time you played a live concert?
+Hip Tanaka
+We did our first live gig as a trio. We traded playing guitar, bass and piano. We played at a school festival.
+At the end of the show, one of the guys poured gasoline into his mouth and spit fire. The teachers were freaked out and 
+they had to stop our gig. [Laughter]
+Nick Dwyer
+Wow. And did you actually cause a fire?
+Hip Tanaka
+No, but the top of the podium caught fire. It was crazy.
+Nick Dwyer
+So you were embarking on a path, starting to play in bands and play music. Did you fall into in engineering?
+Hip Tanaka
+I didn’t want to become an engineer.
+Nintendo had happened to be looking for different sounds for toys or something at the time. I thought toys would be relatively stress-free, so I applied.
+Nick Dwyer
+And this is 1980. The world knows Nintendo as Mario and Donkey Kong, and at a point around about 1983, Nintendo became synonymous with popular culture and took over the world. But when you joined, Nintendo was still a very small company, right? Can you tell us a bit about Nintendo at the time you joined?
+Hip Tanaka
+When I joined Nintendo, there was no Mario, Game Boy or Game & Watch. There were only arcade games, like Space Invaders. Nintendo also made playing cards. As I said, there weren’t that many people in development, like 17 or 18 people. It was a free and friendly environment.
+Nick Dwyer
+I think what would be quite interesting is to get an insight into Nintendo as a company. About this time, Nintendo had only just begun to enter the video game market. Nintendo was a Kyoto-based company that had been around for nearly 100 years. Could you talk a bit about the history of Nintendo – what kind of company was it, what is Hanafuda, and about the period when you joined?
+Hip Tanaka
+That’s hard to describe. At the time, Hiroshi Yamauchi was the president of Nintendo. Yamauchi-san may have been a little unsatisfied being just a playing card company, and wanted to do something more innovative. The computer boom ushered in the age of electronics. I think Yamauchi-san decided to go in that direction. And from that moment, he declared that Nintendo was going to
+make the Family Computer.
+Nick Dwyer
+Did it feel at the time like you were on the precipice of a revolution? Computer games were just arriving, all of a sudden Nintendo were making electronic toys, and now arcade games – there’d been a big “invader” boom.
+Hip Tanaka
+Not at all. I can say with absolute
+certainty that we did not. We just all developed games based on our own themes. Then one day we were told that we were entering the home console market. We were all just doing what we were good at. In my case, it was sound. I never thought about how it might affect the world. None of us did. We may have had a feeling of dread, that without this, Nintendo was over.
+Nick Dwyer
+I think we’ll play something right now. This was, like you were saying, before Mario, before Donkey Kong, and Nintendo was entering I guess what you’d call the “invader market”. Space Invaders had become very big, and there were a lot of companies trying to make invader-like clones. This is a game called Space Firebird. [Screen shows visuals from Space Firebird] Tell us about your experience working on that game. What was your role in it? How many people were working on it?
+Hip Tanaka
+There were only four or five of us and only two of us were in charge of sound. I worked on making simple circuits 
+on synthesizers. So the sound for shooting a missile or crushing an enemy was achieved by assembling hardware, not software.
+Nick Dwyer
+When you think back to this era, the way that you had to create these sounds probably feels so primitive. To give people an idea, just to create one sound, one shooting sound, tell us a bit about the process of creating that one sound. [Video game sound effects play]
+Hip Tanaka
+The basics of a synthesizer are, first, you have a transmitter. Then you control the frequency of the transmitter through different circuits.
+Nick Dwyer
+How much would you experiment to get the right sound? How would you know when you’d found the perfect missile sound?
+Hip Tanaka
+Right, so back then you’re working with resistors and capacitors. They act as parameters to change frequencies
+and other elements of sound. It was just about adding and removing these parts over and over. For instance, there was an objet d’art on the first floor here, right? A guitar. Working with electronic parts results in stuff like that. That’s what I did.
+Nick Dwyer
+We’ll go to something else here, which is the next thing that you worked on sound effects for. This game was the introduction of two characters which forever changed the face of the company you worked for. [Plays Donkey Kong clip] I’m sure everybody in the room knows this. So your second or third job at Nintendo was to provide the sound of Mario’s footsteps. That was you. Tell us about working on Donkey Kong – did it feel at the time different to working on other games up until then?
+Hip Tanaka
+In this game, I created the sounds of
+Mario jumping, like “boiiing!” And the sound of Mario as he walks like this [imitating the sound effect]. With older games, you’d have only one sound effect used over and over. But if you listen to the sound of Mario walking, there are subtle variations. Before, there was only one sound per action. But by using the curve on the charge-discharge of a capacitor, I tried to change the sound according to
+the timing of his steps. It was just a matter of tinkering with the circuit,
+but it was a challenge. It’s kind of cute, right?
+Nick Dwyer
+Many people know that the creator of Donkey Kong was a guy called Shigeru Miyamoto. These are just your workmates – did you realize at the time that in America, Donkey Kong was helping to kickstart an arcade revolution? Were you guys aware of the impact on popular culture you were having? 
+Hip Tanaka
+Kind of. We really didn’t know. We spoke of Miyamoto-san earlier. He was just so incredibly obsessive with things. He was always like that. Games were always on his mind. From morning to night. Even on his days off. It may have been a relatively simple game, but he obsessed on a single dot on one of his characters. And on the game itself, he was really relentless. That level of commitment taught me a lot.
+Nick Dwyer
+He created these incredible characters. There had been a couple of other characters in games but with the arrival of Mario, did it feel like there was something special about this weird little guy that was an Italian plumber?
+Hip Tanaka
+No, it didn’t. Not especially. But for the princess in the game, I tried using voice synthesis so the princess could say, “Help!” But Yamauchi-san’s daughter happened to be there one day, and he asked her if it sounded like “help me”
+and she said “no.” That was the end of it. I still remember the feeling. I had never told anyone about this episode. 
+Nick Dwyer
+[Playing sound effects] So this is something taken from Donkey Kong 3. This is the point where your job went from making sound effects to composing your first melodies. 
+Hip Tanaka 
+Yes. I now remember. The circuits are a little different, but Donkey Kong 3 was the first game that I did both the hardware and programming myself. Donkey Kong 3 was the first software program
+that I wrote on my own. Before that, I was exclusively into the hardware, but for this one, I did both for the first time.
+Nick Dwyer
+Right, and this marked a moment in the history of Nintendo where things went to the next level, if you’ll excuse the gaming pun, with the arrival of the Famicom, which everyone knows as the NES. Tell us about what happened when the Famicom came out, what changed at the company and how did your role change?
+Hip Tanaka
+Well, young people now may think that Nintendo was a cool company, but in reality, for the first three to five years after the Famicom came out, or consoles similar to it, the inside of the company didn’t change at all.
+Nick Dwyer
+Not at all?
+Hip Tanaka 
+Not one bit. They never seemed 
+to care about the outside. We didn’t know how popular the games were becoming. All we did was create new software. And a few years after the Famicom came out, we began developing the Game Boy.
+Nick Dwyer
+Can you tell us a little bit about your day – what would a typical day at Nintendo look like for you? Was it no different to an ordinary, as they say here, “salaryman” type of job?
+Hip Tanaka
+Everything just stayed the same. From morning to night, we made new circuits and developed software. We had computers for work, but they were TTY devices – they had no monitors. Back and forth, morning to night. Sometimes designing hardware, and sometimes creating software. Back and forth, for me at least.
+Nick Dwyer
+And that was it from nine until six in the morning?
+Hip Tanaka
+I’d work from 9 AM to as late
+as two or three in the morning. They didn’t make us do it. It was just fun. We talk about the history of games, but for me the history of computers and games overlap. If anything, I think it was more of the history of the evolution of computers. And believe it or not, I studied all about computers after I joined Nintendo. I think our generation of Nintendo employees were all the same. We learned as we went, built our own systems, and built them again. For instance, we made our own development tools. So everything was handmade. It was really fun.
+Nick Dwyer
+During this era, how much time would you spend on one project? How much trial and error was involved?
+Hip Tanaka
+It took six months to a year to complete a game, but when it comes to hardware, 
+that’s a different story. I was working on sound hardware and software, so it wasn’t like working on a single project. There was a continuous stream of new jobs, and you’d go from one to the next.
+Nick Dwyer
+We’ll play another track now. This marks a new era, this was out of the arcade era and into the NES era. This is a game that you composed on and it marks an interesting point in your career where all of a sudden you started to be able to combine your skills in engineering with your background of loving and listening to a lot of music. So this is music from a game called Wrecking Crew.
+(music: “Golden Hammer” from Wrecking Crew)
+If anyone is familiar with music of the 8-bit era, during this time a lot of game music was sounding very nursery rhyme, very simple. But all of a sudden Tanaka-san was fusing styles, trying to do rock and, more importantly, trying to bring reggae music to 8-bit music. Tell us about this. You wanted to do something different with game music during this time, right?
+Hip Tanaka
+It wasn’t proactive on my part. I was a music lover that happened to work for
+Nintendo making music. Compared to nowadays, the Famicom had only three sound channels. So in order to use them to the hilt, we looked for ways to make them match the game, so you’d never get tired of hearing it over and over. That was what I always had in mind when it came to creating music.
+And talking about reggae... The reason I like reggae, especially dub, is because there actually is vocal and guitar on it, let’s say, but in the essence, it’s strictly driven by drums and bass. That’s what I love about it the most.
+For instance, if you listen to the music, you could recognize that some parts are drum and bass only. So that turned out to be an idea for working around the limitations in the game hardware. I figured that, to get the most out of the game music, a dub-based structure would be a really great solution. I’d play the melody in some parts, then cut it off and insert a part with just drums and bass, and vice versa. No one else was doing it, but it was what I wanted to do.
+Nick Dwyer
+That’s incredible. How did you all of a sudden find yourself falling completely in love with the music of Jamaica? When did this introduction to reggae music begin for you, Tanaka-san?
+Hip Tanaka
+Let’s see... I think I like how there’s
+this raw aspect to it. The gritty, raw quality of the sound, let’s say. That really caught my ears. And that deep bass sound, the “buuu...” That was something I had never heard before in rock music. It drove me like no other genre of music.
+Nick Dwyer
+You’ve brought some records with you. I’d like to hear some dub. So around this time, you’re working at Nintendo but at the weekends you’re going out to listen to reggae and dub and buying a lot of records. What record have you got here? And what do you love about this track you’re going to play us?
+Hip Tanaka
+This is probably the record where
+I heard dub music for the first time.
+Nick Dwyer
+Can you tell us where it was that you heard this?
+Hip Tanaka
+It was when I was eating pasta at this
+restaurant in Kyoto with live music.
+(music: Linval Thompson – “Rock Me In Dub”)
+Nick Dwyer
+And so from there on in, you fell in love with dub music?
+Hip Tanaka
+It’s great. I love it.
+Nick Dwyer 
+What was it about dub music that was different to other music you’d experienced?
+Hip Tanaka
+You know I said that I was having pasta
+when I first heard it? The part with the echo and delay came on while my friend and I were eating. We’d bring the pasta to our mouths, then the echo would make us stop. We both wondered what it was. So we asked the waiter about the music. He told us that it’s reggae. I was shocked. What an encounter that was.
+Something seemed to be lacking. I first felt like the music was literally ill. I thought, “Is this music sick?” But the more I listened to it, that groove with the bass line and rhythm... I think the mixer takes full control of it, directly and instinctively. When I felt it, I thought, “This is amazing.” I was totally hooked.
+Nick Dwyer
+How different were you to the other employees at Nintendo? Were there other of your workmates that were going to enjoy music at these live houses, or was it just you?
+Hip Tanaka
+No, my friends were still at Nintendo working with soldering irons. At night, I’d escape into this music world.
+Nick Dwyer
+I think right now we’ll listen to another track. I think it came out in 1985, you were very much enjoying dub music and reggae music, and again an example of trying to put the vibe of reggae music into game music. This is a game called Balloon Fight, which came out in 1985.
+(music: “Main Theme” from Balloon Fight)  
+And on that, a little bit of a homage to Sly And Robbie. Tell us about discovering Sly and Robbie.
+Hip Tanaka
+When I formed a reggae band a long time ago, there was this big music event in Osaka called Reggae Sunsplash, and my band happened to be onstage, opening for Sly & Robbie. I met them there. We also opened for Reggae Sunsplash once, and when Sly & Robbie came back, we once again opened for them in a club in Osaka.
+That’s not the only reason, but Sly’s rhythm has always been cool to me. Like I said earlier, I thought that the structure of reggae music would work well with the concept of the Famicom. So I wrote a piece as an homage to reggae.
+Nick Dwyer
+It’s crazy to think that so many of us grew up playing these games not realizing that we were listening to a homage to Sly and Robbie. 
+Hip Tanaka
+You probably wouldn’t realize it.
+Nick Dwyer
+Tell us a bit about the process of making music on the Famicom. From a technical perspective, you had three channels, and how long would it take to construct a track like that? What kind of limitations were you faced with? 
+Hip Tanaka
+Talking about composing music, there wasn’t a setup like one today. We didn’t work with a sequencer running on a computer, we had to start by coding a
+sequencer for the music, then we filled it up with the sounds that formed the music. You had a maximum of three sound channels, so it didn’t take much time, but for example, let’s say we edited a square wave and get it to sound like kicks, going like this, “dum-tun-dum-tun,” it probably took more time to come up with that stuff in program format.
+It’s fun to do, though, and when I did things like make it sound like Sly, that’d make it even more fun. That’s how these songs came about.
+Nick Dwyer
+I’ve got some photos to show everyone that you’ve brought along. 
+Hip Tanaka
+This is quite embarrassing.
+Nick Dwyer
+So let’s start with this one, tell us about this photo. [Photo shows Tanaka’s reggae band dressed in Rastafarian style]
+Hip Tanaka
+That was a long time ago.
+Nick Dwyer
+This is your band?
+Hip Tanaka
+Yes. We made our own hats, called tams,
+and braided our own hair to make dreadlocks. We played all over in Osaka and Tokyo. We look so stupid.
+Nick Dwyer
+I’m still trying to get my head around the fact you would be working nine to five at a very strict company, and then at the weekend you’d put on these hats and go out and play gigs around Japan. 
+Hip Tanaka
+Yeah.
+Nick Dwyer
+Did any of your colleagues ever come to your shows?
+Hip Tanaka
+No, I don’t think so [laughs]. I doubt they’d understand the music.
+Nick Dwyer
+What was the band called?
+Hip Tanaka
+It was called The Shampoos.
+Nick Dwyer
+We’ll play a track, I’ve got something right now. So this is from The Shampoos, it’s called “Thunder Dub”. What year did this come out?
+Hip Tanaka
+It was back in the ‘80s. It was 1985 or 1986.
+(music: The Shampoos - “Thunder Dub”)
+Nick Dwyer
+Tanaka-san, was it a bizarre double life to be leading as a musician? With your band The Shampoos you were experiencing artistic freedom with this new music that you guys were making, which was very new for Japan, where you could be very free and create music the normal way, and then during the day at your job making music under extreme limitations.
+Hip Tanaka
+But it was all the same. As I said, my work on hardware felt a lot like making music. It was absolutely the same.
+Nick Dwyer
+Was there something to be said about that period of time as well, where having limitations was exciting and it forced you to be creative?
+Hip Tanaka
+Yes. You were limited to three channels, so there was a lot of trial and error. For instance, you had only three channels, but if we ran them like high-speed arpeggios, it would sound fuller. We came up with a lot of little tricks like that.
+Nick Dwyer
+One photo I have to ask you about is this one here. [Photo shows some young Japanese fans with two reggae artists] That’s you obviously there, looking young and pretty cool. Who are you with? Tell us about this photo.
+Hip Tanaka
+This guy is a Jamaican melodica player
+named Augustus Pablo. He visited Japan years ago. His drummer was named Horsemouth. He was the drummer in the movie Rockers.
+By the way, people in Kansai, in Osaka, are quite frank. My friend used to call me “Hiro-katchan”, and they went, “Hiro-katchan, you’re good at the melodica. You should play at the gig.” We approached them at the concert, but the staff stopped us and said, “Are you crazy?” We backed down, but they let us take a photo, as you see here. I got his autograph on my melodica. It’s like going to a U2 concert and saying, “I’m a great guitar player, let me play with you.”
+Nick Dwyer
+There’s another band that was heavily influential on you, a band called Public Image Ltd, but in particular the bass playing of Jah Wobble, and I think you wanted to play everyone something from PIL. Tell us a little bit about PIL, and what in particular did you love about the bass playing of Jah Wobble? 
+Hip Tanaka
+The band was formed by John Lydon, who was in the Sex Pistols. That was when punk was popular, about the same time as reggae. It was when I first got hooked on Jah Wobble’s bass performance. I wondered what the “Jah” meant, and I found out it was something to do with reggae. I got really hooked.
+So even in the Shampoos’ song “Sound-a-Dub”, it does sounds like reggae, but somehow the feel and the groove, let’s say, came from something like Jah’s style. Anyway, whatever it is, it really wasn’t a pure Jamaican groove. The rhythm was reggae, but the groove
+was obviously more from his unique style.
+Nick Dwyer
+In a similar fashion to what was going on in London at the time, with the crossover that was happening between punk and reggae, was there a similar thing happening in Japan at the time as well?
+Hip Tanaka
+A lot of people liked it. It may have not been a big number, but there were a lot of people into reggae and punk.
+Nick Dwyer
+It was track 11 you wanted to play us? What’s the name of this track?
+Hip Tanaka
+I forgot the title...
+(music: Public Image Ltd – “Death Disco”) 
+Nick Dwyer 
+Thank you so much for sharing that with us. So once again that was Public Image Ltd and the bass playing of Jah Wobble, big inspiration on you, Tanaka-san. 
+Hip Tanaka
+I mean, it's not just this song. There was a lot more.
+Nick Dwyer
+So your band the Shampoos, was it just a bunch of mates getting together playing gigs? Were you releasing albums? How extensively were you touring through Japan?
+Hip Tanaka
+It was a real obscure local band. We did gigs in Tokyo, like once or twice a year, but it was never a formal thing.
+Nick Dwyer
+Was there a big difference between the music scenes in Kansai and Tokyo at the time?
+Hip Tanaka
+Quite different. People from all over Japan come to Tokyo. Many come to Osaka too, but Osaka was more like a local scene.
+Nick Dwyer
+Let's continue on this chronology, let's take you out of the Osaka live houses and back into Nintendo. A lot of people that know the name Hirokazu Tanaka know that one of the games you're most famous for is a game called Metroid. Which year did Metroid come out?
+Hip Tanaka
+That was also the ‘80s. 1984 or ‘85.
+Nick Dwyer
+I think 1985 or 1986 – what have we got? 1986. 
+Hip Tanaka
+Long time ago.
+(music: “Kraid’s Lair” from Metroid)  
+Nick Dwyer
+One of the things that’s interesting about Metroid as a game, a lot of people cite that as one of the first times that... you know, game music was just melodies, just loops, very catchy loops, and with Metroid it felt like the very first time that someone approached making video game music as they would soundtrack a movie. Tell us about your approach to making the music for Metroid.
+Hip Tanaka
+Like you said, the games were growing
+more and more complex. Gamers started to experience more of a story, moving around bigger worlds. The music was still three-channel stuff, but it was becoming more like a soundtrack. More nuanced. It just so happened that Metroid came out at that time.
+Metroid was this adventure set in an underground world. I came up with my own interpretation, and created some unique sounds to set up the situations you ran into. This is one of them.
+Nick Dwyer
+As you say, games were becoming more complex at the time, but still no one else was really doing this. At the time did it feel like something quite new? When you were playing this music to your colleagues were they surprised at the kind of music you were coming up with? Were you allowed to compose freely?
+Hip Tanaka
+No one at Nintendo liked the Metroid soundtrack back then. The music was all so dark, it wasn’t well received. No one really liked it. Now, decades after I left the company, people from all over the world say to me, “Metroid’s music is awesome.” It makes me so happy.
+Nick Dwyer
+So at the time all your colleagues were like, “What’s this? It’s a bit dark, man.”
+Hip Tanaka
+Yes. No one said anything. There’s a lot of cues that have a melody but don’t sound like it. I mean, what I wanted to do in Metroid was not repeat the same game melody cliches. I was trying to focus on a strong melody that came only at the very end of the game. So if you play for 72 hours, 71 hours and 58 minutes of it would be so dark. I wanted to create a rewarding moment in the very last minute of the game. So overall, it was very dark. Not all of it, though.
+I added some subtle variations. I made the game so that only when you finished the game would you experience the ultimate catharsis. I was influenced by a movie I saw at the time. It taught me that there are ways to create cathartic experiences. That’s what I was shooting for when I created the music for Metroid.
+But once again, I had three channels,
+and it was thoroughly dark, so...
+Nick Dwyer
+What was that movie?
+Hip Tanaka
+What was it called...?
+Nick Dwyer
+Alien?
+Hip Tanaka
+No. I think it’s called Birdy. I remember it was dark all the way throughout the film. Or maybe that’s how I thought at the time. In the end of the film, the protagonist jumps off a building. It was such a dark film, but at the end someone says “Birdy” and a guy smiles. That last moment of the film
+really threw me, somehow. It stayed with me. I’m not saying it was a good film, but direction-wise... I realized this was one way to go for an effect. So I used it in a game I was working on
+at the time.
+Nick Dwyer
+We’ll listen to something else from Metroid right now. This is “Ridley’s Lair.”
+(music: “Ridley’s Lair” from Metroid)
+You said something interesting before, which was that none of your colleagues liked that music, they all thought it was a bit too dark. What was the relationship between you and your seniors on a project like Metroid? Who did you answer to in a team and how much creative freedom did you have to do what you wanted to do?
+Hip Tanaka
+I had total freedom on the projects I worked on. But Nintendo was particularly strict on how much “fun” each game delivers. I remember getting a lot of criticism on how “fun” the game was or not. I don’t think Metroid was that popular at the time. It was unique, though. It was like this arduous task that players suffered through to see the ending. I guess it wasn’t like Mario, all fun from start to finish.
+Nick Dwyer
+It’s an interesting point in time. Obviously this is way before the internet. With your band, The Shampoos, you could do a live show and play your music and you could see straight away if people liked it. You get a reaction to your music. And you would sit in an office and make music, you’d spend hours making music for a game, it would go out into the world but you had no idea how the world was perceiving or enjoying your music. Was that quite an interesting concept for you?
+Hip Tanaka
+I had no idea at the time. No one at Nintendo knew how the games were received overseas. We never discussed how much they were selling or anything like that. We only focused on creating games that we thought were fun.
+Nick Dwyer
+Was there a sense of accomplishment when a game was finished? When you finished Metroid, would you have a party or did you just move onto the next thing, like a new job?
+Hip Tanaka
+I don’t really want to say this, but for Nintendo, there was nothing like that. That’s what it was. They’d tell us to buy our own copies of the games we created. In Osaka dialect, they’d say, “Go buy it for yourself!”
+Nick Dwyer
+And was it an amazing thing for you, especially with a game like Metroid, which is cited as one of the most influential soundtracks from the 8-bit era, to learn that 20 years later – how did that make you feel? You’d probably forgotten all about the game, and then 20 years later you read somewhere that it was very influential.
+Hip Tanaka
+It made me very happy. You know, I have to convince myself before I let anyone check it out. If that’s not the case, I wouldn’t put it in the game. So talking about Metroid, the feel of the ending was everything to me. That’s what that song was meant to be. So when I heard people were moved by it, I wanted to yell, “Yes! I did it!”
+Nick Dwyer
+We’re going to play something right now from your back catalog. This is a very famous game called Dr. Mario, and this is a track called “Fever”.
+(music: “Fever” from Dr. Mario)
+Can you remember what you were trying to achieve with that, because this is sounding very different to some of the other tracks from you.
+Hip Tanaka
+So this was basically a falling-block game. When you play a game, you start to
+feel psychological effects. There are times when things are going well and you feel good, and times when you feel anxiety and dread. I wanted to heighten those feelings by incorporating different elements into the music. With this piece, it wasn’t my intent to write it with my usual plan. It was calculated to have “fun” parts and “looming dread” type parts. I wrote it thinking someone would feel all those things at certain times. 
+Another thing I wanted to do was... as time went on and games started to evolve more, the industry started to see really serious composers, music school grads and so on. So I had to think of something different. Like with musical pitch or modulations... something unusual, or different. I did that intentionally. For example, each measure of a music has four beats, and you usually put an accent into the second and fourth beat. Meanwhile I’d put a bar in a shorter or an unusual beat. It was the first time I asserted my musical personality in programming.
+Nick Dwyer 
+Just how much were you thinking about the player when you made this music? Putting yourself into the shoes of the player – was this something you were consciously thinking of?
+Hip Tanaka
+I focused on the quality of the game rather than the player. Whether the music fit the content. In terms of Dr. Mario, the theme was you against the viruses, so that’s what I had in mind. I wanted to make it a cute game. It’s not an ominous one, really. So I wrote and put a cute melody in.
+Nick Dwyer
+What sort of information did you have when making the music for the game? Was the game already completed and you could make the music along with the gameplay? Or did you just have images to work with, would you just have the brief?
+Hip Tanaka
+It varied by project, but in my case, I had a say in the game’s content as well. So I wasn’t just writing the music. I wrote the score and played the game. Then I’d tell the director, “This feels
+weird,” and give my input on the content.
+Nick Dwyer
+At this point in time in Nintendo, how many games a year was Nintendo producing and how many would you be working on?
+Hip Tanaka
+I don’t know about that. Maybe two at a time, I think. Maybe two or three games in three years? In the Famicom days, yeah.
+Nick Dwyer
+We’re going to play something right now. This is, depending on how you look at it, for a lot of people is either the most loved song or the most hated song, the sound of stress, the most annoying game song ever. It’s another one of these drop games and you composed this music, it’s the music of Tetris.
+(music: “Tetris Theme”)
+What does that remind you of, what does that take you back to, listening to that track? [Applause]
+Hip Tanaka
+It was an original game made for the Nintendo Game Boy. I tried not to think about composing. My sense of Tetris came from seeing it run on Apple computers originally. My image was Tetris on the Mac, and I wanted to maintain that image. But I continuously added my own ideas into it, too. For instance, when you score a tetris, you’d hear this sound like a goat bleating. I still love that. Not that it matters much.
+Nick Dwyer
+At the beginning of the chat that we had, it was noted that you developed the Game Boy sound chip. Do you think because of the knowledge you had because of developing the sound chip, that when it came to composing for the Game Boy you could get the best sound? A lot of the music you’ve created for the Game Boy sounds very different and a bit more complex than other Game Boy compositions. 
+Hip Tanaka
+No, I don’t think so. It was more like, I wanted to share what the Game Boy sound, the source of it, was about. Before I left Nintendo, I made a product called the Game Boy Camera. I was making a sequencer for it. That was the first time I really got down to the metal with the Game Boy’s sound capability. For me, it was like I was revealing to everyone through this sequencer how to make this thing play music. Rather than showing what I could do, I wanted to share with others how much fun it could be. That’s why I put a sequencer in the Pocket Camera. 
+Nick Dwyer
+So something really interesting and cool is that you developed the Pocket Camera for the Game Boy. So you’re not just a music maker and doing this early engineering, but you also made this Pocket Camera. How did that come about?
+Hip Tanaka
+There’s a lot about Game Boy Camera development I can’t talk about. But at the time, there was a product called a View-Cam you could connect to your PC. It was pretty popular at the time. I wondered if you could hook up a camera to your Game Boy instead. Also, I was curious about if you could watch TV on a Game Boy, and I actually did a bunch of tests.
+I thought that might work, so I tried to combine the two together. At the time, everyone thought of Nintendo as a game company. But all throughout, I truly believed that Nintendo was a company providing products that entertain people. It was an entertainment company.
+So as for me, I can’t create a game like Mario or Zelda, but maybe I could make something like a toy that everyone could enjoy. That’s how I started working on 
+the Game Boy Camera.
+Nick Dwyer
+You mentioned that obviously at some point you decided to leave Nintendo, but looking back on the period that you were at Nintendo, how did it feel? Did you feel like you had the greatest job in the world, being able to turn up and invent things? Did you feel like you were lucky to have this job where you could influence popular culture, or did it feel like a regular job?
+Hip Tanaka
+People often ask me that. I don’t think it was amazing or anything, but I often reflect on what went right with it. In society, people complete a lot to join certain companies, right? You have this intense competition in order to earn a spot. Same for products. You compete to see whose games sell more. When I joined Nintendo, there was no competition at all. There were no sales quotas for
+the games we were creating. So for the 20 years I worked for Nintendo, I didn’t compete with anyone. I just did my own thing. I didn’t always get to do what I wanted, but I always thought about what would entertain people via games. I think it was better that way. It was just by chance. I wasn’t chosen out of a pool of candidates. There was a sense of freedom and laissez-faire at Nintendo. Maybe it was Yamauchi-san’s intention, but I never had trouble with budgets. We felt no financial pressure. We were free to do whatever we wanted.
+Nick Dwyer
+Sadly, two years ago, Yamauchi passed away. But here is a man that had such an incredible influence on popular culture. He led a company that really did shape an entire generation around the world. What are your lasting memories of Yamauchi-san and his legacy at the company?
+Hip Tanaka
+I only ever saw him as president of Nintendo. I don’t know how he really was 
+when he wasn’t at work. He was scary, but he had a real charming smile, too. He really was cute when he smiled. But he constantly nagged at me. I’d be working on something, and he’d pop up behind me and say, “I hate this color. Why would you use a color I hate?” He was really picky. But I really liked Yamauchi-san. But that gap... I can’t explain it, but there was faith in him. He had a soul. I truly felt that.
+Nick Dwyer 
+And he loved baseball. He even bought an American baseball team at one point. 
+Hip Tanaka
+Seattle, yes.
+Nick Dwyer
+Did you ever have free tickets to the baseball?
+Hip Tanaka
+No, I’ve never been.
+Nick Dwyer
+You did bring a whole lot of records in, you wanted to throughout the course of this chat play some music that’s influenced you over the years. You’ve got something right here from The Slits that you wanted to play.
+Hip Tanaka
+The Slits. I love The Slits.
+Nick Dwyer
+What do you love about The Slits?
+Hip Tanaka
+The freedom of their music. It feels so free. Should I play it?
+Nick Dwyer
+So you never DJed at a Nintendo staff party and played The Slits?
+Hip Tanaka
+Never. I’d love to, though.
+(music: The Slits – “Instant Hit”)
+Nick Dwyer
+So, some of the music that influenced Hirokazu Tanaka, The Slits, thank you for that. That’s a great track. By the way, Tanaka-san, did you ever actually DJ?
+Hip Tanaka
+I have, but not recently because my eyes are getting old. I can’t even see the little lever. I’d have to keep changing glasses.
+Nick Dwyer
+Well, it’s kind of funny, I think we’re going to find out something really soon that will surprise a lot of people regarding live performance now. For anyone that knows your career, I’d be really annoyed with me if I didn’t ask anything about this next game. This is one of the last things that you worked on in terms of music at Nintendo, and a game that had a really crazy cult following around the world. It’s called Mother, and then Mother 2, and obviously with your history of making music you came from the arcade era, and then the 8-bit era, but you started to step out as the 16-bit era arrived. This is something from a Super Famicom game called Mother 2.
+(music: “Demo Screen” from EarthBound/Mother 2)
+Hirokazu Tanaka, from the game Mother 2. [Applause] Which for the American version is known as EarthBound, and for some reason the game itself has an incredible cult following around the world, and an incredible soundtrack from you. I was lucky enough to have a conversation with another very notable
+video game composer called Nobuo Uematsu, who said that the leap between 8-bit and 16-bit was like, imagine 8-bit was black and white TV, all of a sudden 16-bit was like colour TV. It felt like the world opened up. How did you feel making that leap to 16-bit, and what it allowed you to do as a composer?
+Hip Tanaka
+The biggest change was that we had more sound channels. In the Famicom age, it sounded more like “game” music. We had to be inventive. But with more channels available, it became more like composing music. As you can tell by what you just heard, there was more freedom to insert music that you liked, or that really fit the game, so it was a lot of fun.
+Nick Dwyer
+So when you were making music with 16-bit, were you imagining in your head real music, a real band sound, and trying to emulate that? Or were you hearing the music in your head as it would sound through the Super Famicom sound chip?
+Hip Tanaka
+Well, games have stories behind them. EarthBound, for example. I had to compose music to fit the story. I wasn’t as limited by hardware. It was about composing and staging music as part of the game’s story. EarthBound was a game with a contemporary drama. I couldn’t create music that I’d never heard before, so there were influences from rock, or pop, or even world music. I littered that throughout the score.
+Nick Dwyer
+With all the music that you made during the 8-bit era, games back then would maybe have three or four tracks at the most, 40 second melodies. When it became 16-bit, and particularly with games like Mother, all of a sudden you’re multiplying the amount of tracks on each game by ten. Was it interesting, as the memory got bigger, you’d find yourself having to compose 40 or 50 tracks rather than just three?
+Hip Tanaka
+Still, with the Super Famicom, the capacity was pretty limited. We were free, but we weren’t. So it was the same as the Famicom days. How to produce the richest sound from a limited amount of channels. Keeping the quality was a challenge.
+Nick Dwyer
+With a game like Mother, which was a role-playing style game, you would sometimes have situations where, for example, a player is on a map screen and they could keep wandering, theoretically, for ages and ages and ages. It’s not like an arcade game where they’re gonna die quickly. Were you thinking about those things depending on the style of game? Because if they were walking around that screen for a long time they could be listening to that same track, that same loop, for a long, long time. So were you thinking about creating loops that players wouldn’t tire of?
+Hip Tanaka
+Yes. When you create game music, you don’t just compose. You have to play the game for yourself, and when you’re stuck at some point, you have to decide how loud the music should be. Or when you jump into another realm, how to change the music. You have to keep playing. It was “write while we play”. It may not be efficient, but that’s how we did it.
+Nick Dwyer
+Did you have a different approach for how you’d make music depending on the style of game? So a puzzle game would be this kind of vibe, a role-playing game that kind of vibe, a platform game that kind of vibe? Or did you just treat it game by game?
+Hip Tanaka
+Game by game.
+Nick Dwyer
+Well, I’d love nothing more than to get into some of your more recent stuff. But in the history of you, Tanaka-san, as you mentioned you left Nintendo after a very long time, and it was interesting circumstances because there was a Nintendo creation that was separate to Mario, a new character that went on to affect pop culture in the biggest way. Tell us about your relationship with Pokemon.
+Hip Tanaka
+Oh, yes. I was still at Nintendo when a game called Pokemon came out. They were going to adapt the game into an anime and a film, and someone asked me to write the theme for it, so I agreed. I never dreamed that Pokemon would become such a hit. I think I just got lucky. It was a huge hit. I was surprised.
+Nick Dwyer
+It became such a hit that they kept asking you to make more music.
+Hip Tanaka
+Yes.
+Nick Dwyer
+And at some point it got a bit, “Come on man, you work for us. Why are you making all the Pokemon music?”
+Hip Tanaka
+No. Usually companies don’t let you work side jobs like that. So when I got involved with Pokemon, I got some revenue. It was that simple. That wasn’t the only reason, but I left Nintendo and I was a free man. A one-man show. 
+Nick Dwyer
+So obviously you’re overseeing everything. There are so many different Pokemon things, but tell us about the Pokemon things that you, that the company creates. Since you’ve been the president, what kind of things does your company do?
+Hip Tanaka
+The one thing I’ve constantly been
+doing at my company, Creatures, is making new designs for Pokemon cards. We also make Pokemon titles for the Wii U and so on, not the Game Boy.
+Nick Dwyer
+You’re the president of a company that is a very major part of the Pokemon empire, which is a pretty big empire. It’s a pretty big company, it’s a pretty important company, but at the weekends you go and you make music like this. I think we’ll listen to something brand new. This is Chip Tanaka. When did it become Chip Tanaka?
+Hip Tanaka
+It was five years ago. Maybe four or five years ago. I guy I know overseas said, “Why not add a C in front of your name?” As in chiptunes. I thought, “He’s right.” Hip Tanaka is a name from my Nintendo days, so it’s not that easy to use. But add a “C” in front of it, and it’s a totally different name. I liked it.
+Nick Dwyer
+And this is something brand new from Chip Tanaka, a track that you made this year. 
+(music: Chip Tanaka - Unknown)
+Wow. [Applause] Something brand new from Chip Tanaka. What are your influences now, what artists do you listen to now who influence a track like that?
+Hip Tanaka
+I’ve always liked reggae and punk. It’s always been with the raw sound. Music that makes me feel like this. I love the beat music or bass music that plays at the clubs. I’m attracted to that kind of music, and it’s what I listen to. It reminds me of my “Chip Tanaka” days on the Famicom. That was an original sampling of Famicom sounds, scattered all over. It’s dance music, like in the clubs. The kind with the heavy bass. These days, I set up my Ableton Live and play it at clubs and such.
+Nick Dwyer 
+Are there any producers and beatmakers from the modern day that you’re really inspired by, from club music?
+Hip Tanaka
+There are too many to remember.
+Nick Dwyer
+So, Chip Tanaka, he plays out at the weekend, he plays all around Japan...
+Hip Tanaka
+Not all over Japan, but a few times a year. Younger people kindly call upon me. I don’t like to talk about my age,
+but I am getting old. When I go to clubs, I’m probably the oldest one there. I can’t keep up physically, so around two or three gigs a year. But it’s super fun. Especially at big venues.
+Nick Dwyer
+We’re pretty delighted, unfortunately it’s in the second term [of RBMA] but there’s a big game music event happening at a club called Womb, and you’re going to be performing there.
+Hip Tanaka
+The 13th of next month.
+Nick Dwyer
+I’m going to hand over to everyone right now, but before I do, I guess when you look back on the 35-plus years of your career, these melodies still live on. There are still people all around the world that love your music and the tracks from this era, not just your music but your colleagues’ as well. What is it in your mind that makes that 8-bit  period so unique? And still living, and will continue to exist in years to come. 
+Hip Tanaka
+I don’t really know. But humans are emotional beings. Someone asked why I like Jah Wobble or The Slits. It’s not that I like ‘80s artists. There are lots of artists I’ve followed. All have different sounds, but they all move me,
+and I only have one soul. But with every song, I wonder what draws me to it. So when I’m asked to compose something, when I make this club-type of music, I wonder why people like it.
+Music is important because it gives us a glimpse of the future. It lifts you up and gives you a glimpse of what the future may look like. What makes that happen? It’s not purely intellectual. It’s both. It’s both mind and body. That’s what I’ve been doing, I guess.
+Nick Dwyer
+Has anyone got any questions for Hirokazu Tanaka?
+Audience member
+My question is, from your early beginnings, you were part of The Shampoos, which was an analog band, and for your work you were dealing with computer music and with lots of limitations at that time. Weren’t you frustrated by working with super limited capacity gear? Or were you using those limitations as stimuli for your music?
+Hip Tanaka
+Personally, the more restrictions there are, the more creatively motivated I become. Many people ask me what kind of music I want to create. When I think about it, I can’t put my finger on it. 
+Right now, I like club music that makes
+you want to dance. You can listen to it, of course, but it’s really made for dancing. The more restrictions you place on me, the more creative I get to be. Does that answer your question? 
+Audience member
+I was just wondering, how do you make the 8-bit part in your new music? Do you compose it the same way you do for video games, or do you do it in a new way, using different technologies now that you have Ableton?
+Hip Tanaka
+I use the Ableton Live software only for live music. I use it only for the stage. When I compose, I still use Logic. I still feel like I’m making music for Famicom games. I just split it up into pieces and play it live.
+Audience member
+So you compose it on a keyboard?
+Hip Tanaka
+Both. What I’m recalling lately is that 20 or 30 years ago playing an instrument, or mastering it, was one measurement of musical value. But more recently, even if you can’t play an instrument you can still make music. In fact, there are more musicians who don’t play an instrument. So, as for me, for instance, regarding Pokemon music and music for anime or film, I compose while thinking how to express myself without being able to play an instrument. So when I’m playing at a club, I focus on feeling as if I’m actually composing music. I challenge myself by making music that way.
+Audience member
+You were saying that you were sampling for your new music sounds from the Famicom and things like that from that era, and I was wondering what it was like to sample things from an era that partly you created yourself, and what mindset do you have when you sample these things?
+Hip Tanaka
+When I say “sampling”, I’m not sampling the music itself, but rather individual sounds, like this beep sound. I try to sample sounds that are close to the originals that I created in the Famicom days. With the Game Boy, I don’t take from the games themselves. For instance, I make my own sounds using the Game Boy Camera sequencer and sample them in great detail.
+Audience member
+You said yourself that you are the oldest person in clubs now. You’ve been around in different club scenes for a long time now obviously - what’s the biggest difference from when you started going out, here in Japan, to now, and is there something you miss that you’re nostalgic about?
+Hip Tanaka
+Nowadays, everyone dances like this [holds his phone in front of him]. Back in the day, people danced hard, not holding things like this. Nowadays, people dance while looking at gadgets like this. But as far as enjoying music goes, it’s still the same. However, in Japan, there’s the Entertainment Business Act that has placed strict limitations on business hours. That was big. Music and sound varies by where you hear it, and what time you hear it... I think it makes a big difference. For instance, I think music you hear at 2 AM and 4 AM may be totally different. Restricting time like that is very unfortunate. In the past, we could dance to music freely, from morning to night. For young people, aside from the fact that parents always worry, if you remove that element... If you’re really going to appreciate music, you should be able to listen to it wherever and whenever you want to.
+Audience member
+You mentioned the influence of club music and modern day producers and I was just wondering if any of them had reached out to collaborate with you, and whether you ever had anything in the pipeline with people, like Flying Lotus?
+Hip Tanaka
+No. I’d love to, but no. I don’t work with an agent. I work as an individual. I do it purely as a hobby. I compose music for a living, but I work on club-type music in my spare time, like ten minutes before breakfast. Literally five or ten minutes. I come home from my company and work on it for two hours before bedtime. But I would love to do something like that.
+Audience member
+Where do you see music in video games going now, with the evolution of games like Dance Dance Revolution, where people are dancing to the music, and  games like Rock Band where people are physically playing? And now there’s a DJ program where you can emulate DJing to a live crowd. Where do you see that going in the future, as someone who was a pioneer in that sound?
+Hip Tanaka
+I wonder... Making games is kind of like making movies. I don’t make game music anymore, so I can’t really speak to it. But it’s getting closer to filmmaking. That’s about it. I don’t know how it’s going to evolve. But at some point, there are instruments now, and DJ software and things like that, which basically make music for you. They create sound effects on their own. I thought games would evolve like that too. I had hoped they would. But I haven’t seen that kind of trend. I wished that it would evolve more in the realm of sound. For sound creation to evolve more. Like, sounds created automatically. I thought that would be fun, even while I was still creating games.
+One idea that I was working on quite passionately towards the end was a program that made its own music without any human input. It would automatically make music to match a scene in a game. In the end, I gave up. It never came to fruition. Personally, I would like to see that happen.
+Audience member
+I was just wondering if you still check out game music these days, what is your opinion on the music being brought out in games these days, and how you would compare it to back in the day, with all the possibilities there are these days?
+Hip Tanaka
+I go to E3 every year and see all kinds of games, but the amount of time I spend
+playing at home is on the decline. I couldn’t comment on games at this point where I am now. Is that OK? I guess I don’t really know.
+Audience member
+Fair enough.
+Hip Tanaka
+But the realism of the visuals and sound effects are completely different from my day, and I think that’s amazing. 
+Nick Dwyer
+I think, Tanaka-san, because you’ve brought such an incredible record collection with you, to play one thing as we finish, anything at all. But first and foremost, Hirokazu Tanaka, thank you so much. [applause]
+Hip Tanaka
+Thank you.

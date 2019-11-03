@@ -1,0 +1,872 @@
+Floating Points is many things. Musically, he’s a DJ, producer and co-founder of UK label Eglo Records, blending house, soul, hip-hop and jazz in myriad ways. He’s also Dr. Sam Shepherd: a neuroscientist who was writing music while studying for his PhD. It may seem like he lives two lives, but his work shows how a studious mind and a talent for experimental composition can intertwine. As well as solo productions for Eglo, he has collaborated with a 16-piece orchestra as the Floating Points Ensemble, and designed a DJ mixer with Isonoe. 
+In his 2014 Red Bull Music Academy lecture, he talked about all of the above, as well as record collecting and his forays into Gnawa music.
+Benji B
+Please welcome Floating Points.
+[applause]
+Floating Points 
+Thank you.
+Benji B
+We can call you Sam, right? Dr. Sam?
+Floating Points 
+[laughs] Yes, if you want.
+Benji B
+Okay. I think we should just start with asking you, Sam, what you’re up to at
+the moment. First of all, before we get into that, what were we just listening
+to?
+Floating Points 
+[placing vinyl in sleeve] That was Talk Talk, a big pop band. It’s their last record [Spirit of Eden]. It means a lot to a lot of people I think that’s why it became a cult record, and then got shelved as soon as it was released.
+Benji B
+What did it mean to you?
+Floating Points 
+It was a bit of a turning point just in a sort of introspective music. Just so
+many elements to it, the recording... I don’t know, I can just listen to this
+over and over again, and I hear something else in it each time I hear it. So
+many of the techniques... The guy who recorded it is Phil Brown, and he wrote
+a book about a lot of the work he did in recording. He worked for Island
+Records, Bob Marley & The Wailers, a lot of the early stuff. He recorded
+this, it took them over a year, I think, to record in Wessex Studios, in
+London. And so, for example, the drums in that you heard were recorded with a
+single U47, it’s a Neumann microphone about 30 feet from the drums. I heard
+that and I was like, “OK, that’s how I’m going to record drums now.” I did a
+record, it’s actually next to it, and a remix, and I recorded the drums in the
+same way and I was trying to copy that, the way that record sounded. Yes, I’m
+obsessed with this [Talk Talk] record.
+Benji B
+Obviously, we’re all music fans in the room but some people might not be
+familiar with you or your work so far, and they will be by the end of the
+lecture, but could you give us a bit of background on who you are, where
+you’re from, and what you do for a living?
+Floating Points 
+Erm, I’m called Sam, 28, from Manchester [England] but I live in London now. I went... It’s
+like a music school, as a child. It was at chorister at a cathedral in
+Manchester, and I was at a school there for music and when my voice broke I
+stayed on as a pianist and composer. I got quite heavily into jazz and
+electronic music whilst I was there. And then I went to London for university,
+a lot of my friends went to music college, but I went to do a normal degree in
+pharmacology. Because my resources for musicians around me had kind of evaporated a
+little bit, because I was just doing an academic university, I was making way
+more electronic music, just by myself with my laptop, and going out quite a lot.
+[laughs] And then from the friends I met through these events started
+putting out my music, because no one... Well, there was people talking about
+it, and I was like, “Well, I’ll have to do it myself.” And now I’m here. 
+Benji B
+And are you a formally trained pianist, or a musician, or self-taught?
+Floating Points 
+Yeah, I’m formally trained, I’m not very good. I’ve got my friends who are
+killer pianists, but I can sort of get by, yeah. I can play.
+Benji B
+Was your background more classical, or jazz, or traditional? What was it?
+Floating Points 
+Initially, I guess, purely classical. I didn’t really enjoy playing the piano
+for many years and it’s only until I started getting a bit better at it and I
+could start choosing a repertoire I was playing then I started to enjoy it.
+Then when I started getting into jazz that was when I really started to enjoy
+it because that’s the sort of ultimate freedom. It all goes from just reading
+the dots on the page to the piano becoming an extension of what you want to
+do.
+Benji B
+Who are the composers that were the portal for that, for your discovery of new
+music as a pianist?
+Floating Points 
+At the time a lot of French impressionist, so Debussy, Messiaen... I didn’t
+actually see much harmonic sort of... I saw a lot of harmonic similarity in
+the way a sort of Bill Evans voicing, Keith Jarrett sort of voicing would be
+the way Debussy would treat harmony. That was a bridge, and maybe even some
+Gershwin and Bernstein, but yeah, I saw so much similarity, I actually scored
+a soft landing into the world of jazz. That’s when the record-buying started
+because where I lived in Manchester, I lived in the city center, the cheapest
+way for me to get hold of music, the only way actually, was the local record
+shops. There was a few streets there which have got some amazing record shops,
+and back then, sort of the beginning of CDs, when they were 25 quid [pounds] or
+something, and everyone was getting rid of their records, I got some really
+great jazz records quite early on. And had a good piano teacher Les Chisnall
+and Steve Barry. They were really instrumental in focusing me, quite early on,
+in really good jazz. I’m indebted to them.
+Benji B
+When did it move into this electronic realm? What was your first...?
+Floating Points 
+At the same time my school had a fancy new digital studio and they had an old
+studio that was an Atari, it was an old black-and-white computer that you had
+to install Cubase every time you turned it on. That was plugged into an Akai
+S-950 and the S-950 went into a multi-track. Back then I was sampling stuff
+but I was sampling things like keys jangling, and vacuum cleaners. One of the
+early tunes I did, “Vacuum Boogie,” was from a sample that I had from the
+S-950, still on a floppy disk, so that’s my parents’ Dyson hoover.
+[laughter]
+Benji B
+Can we hear about the “Vacuum Boogie”?
+Floating Points 
+Yeah, I don’t really...
+Benji B
+Just to give you a bit of context to this lecture, me getting Sam to play any
+of his old music is a bit like getting blood out of a stone because he hates
+hearing anything more than six months old which is why I started with
+something brand new. So the more you can help me encourage him to play some of
+the older stuff, the better.
+Floating Points 
+You’ll hear...
+Benji B
+You don’t have to play the whole thing.
+Floating Points 
+Yeah, you’ll hear the sample in the first second, so we can stop listening to
+it after that.
+(music: Floating Points – “Vacuum Boogie” / applause)
+Benji B
+Was that one of the first tunes you put out?
+Floating Points 
+Yeah, I think so. On Eglo [Records], it’s number two, it’s the second record.
+Benji B 
+Cool. What was that made on?
+Floating Points 
+That was made on a Virgin train from Manchester to London, on my headphones.
+Because I remember picking up the sample at home and then being on the train
+on my way back and I just made it on... Because you can press Caps Lock and
+get keyboards on your computer, so I just made the...
+Benji B
+On Logic.
+Floating Points 
+Logic, yeah. So it was... Yeah, it was a train journey.
+Benji B
+Moving, as you were saying, getting into records and getting into electronic
+producing and stuff, what were the moments that made you want to start DJing?
+Who were the DJs that influenced you the most?
+Floating Points 
+I was DJing at school, doing school-disco kind of things. I was buying a lot of
+records then, when I was young. I was obviously way more selective, because I
+was a kid and I had no money, but when I moved to London I was going to a lot
+of parties, and back then I was really into drum & bass, like crazy. I’ll
+fast-forward a bit, I’ll just answer the question. Who made me start taking it
+seriously was people like Ade [Fakile] from Plastic People, Theo [Parrish] at Plastic, and some other nights at Plastic People, and other nights at Deviation, like your own night. That’s when I started taking it a bit more seriously. And
+also, my friend, Tom and I started a party in London when we were 18,
+when we were students, at a venue called The Rhythm Factory on a Wednesday night.
+It was a night for a cancer charity, and it was quite successful, actually. We
+raised quite a lot of money and it was really good fun. He would do the main
+room, him and Toby, and then me and my friends would do the other room. The
+same people owned a venue called The Gramaphone, and upstairs at The
+Gramaphone I would DJ on a Friday night there, just all night. It built up a
+bit of steam, people were coming down to it. The people who gave me the
+confidence to really... The idea of recontextualizing a lot of records I had, or there
+was a lot of records I had but wouldn’t ever think I could play them in a
+dance situation, were people like Ade, Theo, and the other nights going on at
+Plastic, like Nonsense. Ade was really especially important, because you’d go
+down and the way he plays I can’t really describe it. The music is so
+inviting. It’s like the music is reaching out of the speakers and dragging you
+closer, almost as if the shape of the room changes with the music. Plastic
+People’s an extremely dark space, and for the club to feel light through music
+is something Ade managed to do, I think.
+Benji B 
+Could you just explain what Plastic People is, where it is, and who Ade is?
+Floating Points 
+Okay. Plastic People is a club in London, in East London. It’s a 200-capacity
+basement and it’s got a ridiculous soundsystem. There’s been two incarnations
+of the system whilst I’ve been around. The old one was a Funktion-One, the new one’s a
+custom thing. The old one was just so loud, I mean, the sound is amazing and
+especially when he brought out these fancy old German broadcast turntables,
+called EMTs [Elektro-Mess-Technik]. The pre-amp inside those is phenomenal, and the sound of records
+when he played on those it was just something else. You can’t describe it.
+Hearing music in that space on that system with the people that frequented it
+and the people who were, obviously, most instrumental to the actual party was
+a real turning point in the way I DJed, I think. In playing, not feeling like
+it’s a problem to play jazz records in a club.
+Benji B 
+Have you got a record that you’d like to play to sort of illustrate that era?
+Floating Points 
+Let me see. This is an Ade classic, it’s Azymuth’s first album. All the tunes
+are kind of good but this one, especially the drums, sound sick.
+Benji B
+I should mention, as well, that it’s significant to say that Ade owns the
+club.
+Floating Points 
+Oh, yeah. That’s Ade’s club.
+Benji B
+And used to do once a week on a Saturday, and crucially not mixing many of the
+records, right? That’s an important thing to mention about the EMTs.
+Floating Points 
+Yeah, technically. He used to hit the start/stop button so hard, sometimes the
+needle would skip. His style was amazing though, because you’d get halfway
+through a record, and he’d just be like, stop, start another one. It would be
+“Strawberry Fields” into a
+Mala dubplate that no one
+had and then go into some
+Recloose thing and then
+he’d go into this [points at desk], and then into Pharoah Sanders and he’d play all 20 minutes
+of it, and... It’s nuts. It’s the only time I’ve cried in the club.
+[laughter]
+It was Marvin Gaye, “What’s Going On.”
+(music: Azymuth – “Manha” / applause) 
+Benji B
+Classic Brazilian Azymuth, that I know went on to influence your approach to
+sound and drums and stuff, right?
+Floating Points 
+That record, yeah. I mean, there’s so many records that I heard in that space that
+informed the way I would try and make music. I don’t really know, in the
+studio I don’t know what I’m doing, I just know what I’d like to think I know
+what I like the sound of. It’s all about experimenting, so it took me about
+five years to realize the Coles 4038 [microphone], which we’ve got downstairs
+above the drums at the moment, for me, it gives the best image of a drum kit
+in certain situations, but it always gives me a really nice recording sound.
+So, I’ve learnt the long way. I don’t know how they managed to get the sound on
+that and I’d hate to find out it’s just one mic. I mean, it’s 90% the player.
+Benji B
+And talk to me about the sound that you identify that you like, because you do come
+across as a complete connoisseur of sound for someone so young, it’s true.
+What was your journey of discovery in identifying the palette and the textures
+in sound that meant the most to you?
+Floating Points 
+Purely recordings, listening to recordings and hearing so many different
+styles of recording. As people were walking in and I was playing that Steve
+Kuhn, [holds up record] and I don’t know if you noticed, the voice was super up-front in the mix,
+and you can see the picture of the mic there [points], it’s a broadcast microphone.
+Things like that made me feel it’s all right to experiment with the way I
+record things. Although there’s no right way or wrong way to do it, perhaps.
+Using studios, being in studio situations with people, producing people’s
+records, using equipment, pretending I know what I’m doing but actually I have
+no idea, and just saying, “Oh yeah, I’ll use that microphone because it looks
+funny,” and then all the engineers are like, “What are you doing?”
+Benji B
+Yeah.
+Floating Points 
+And then getting interesting results with it. And sometimes not working at
+all, but that doesn’t matter.
+Benji B
+And do you have a space of your own that you can record live music in?
+Floating Points 
+Right. When I started my post-graduate study five years ago, I started
+building a studio in London, sort of for the record label I started, and for artists
+that are on it, and also for my own stuff. Yeah, it’s kind of a big space, maybe
+two-thirds of this room. It’s one big space with a console in it and stuff, recording
+stuff, synthesizers and microphones. Recently, since finishing university
+properly, I’ve finally soldered the patch bay completely. It’s good to have
+that space, and not have the pressure to... A lot of studios are super
+expensive, daily rates and things like that, so you don’t really want to be
+wasting time. This is much more relaxed.
+Benji B
+Seeing as you’re someone who has invested so much time in discovering exciting
+bits of old equipment and finding out the sounds of things that you love, if you
+were to recommend people three or four essential bits, must-have starter bits
+for live recording, which little bits of gear would you pick?
+Floating Points 
+That’s so hard. I really don’t want to say. Outboard mixers, of whatever caliber, you’ll always have, I think, more control over a mix than doing inside the box. But then you can get
+such good results from a computer. I made all my first records, just
+completely, just the headphone output of my laptop, so I don’t know. I can’t
+answer that, it’s too difficult. It’s a question of budget, anyways, isn’t it?
+So it’s too difficult to answer for me. I don’t know, sorry.
+Benji B
+No, that’s cool. Let’s talk about a different subject, you mentioned finishing
+uni. You’ve been busy with something else. Music is not the only thing in your
+life, right, Dr. Sam Shepherd?
+Floating Points 
+Right. Yeah, so I finished uni, and then I worked for a year for Cancer
+Research UK, working the clinical trials and stuff. And then whilst I was
+there I applied for a PhD, because I got really into neuroscience in doing my
+degree. So I applied for a PhD, got the PhD, and then that was in
+neurogenetics of pain, so I was interested in the peripheral sensory neurons
+that encode pain sensations, and the DNA inside those single neurons, and the
+way in which machinery works in those cells can be modulated in pain states.
+And so we try and hijack that system therapeutically, hopefully to find different
+ways of treating pain. So, I finished that earlier this year.
+Benji B
+Is pain just in the mind, then?
+Floating Points 
+All pain is in the brain, yeah. I don’t want to get into this. [laughs] You
+know, people will definitely fall asleep. Yeah, it was a really great time. My
+professor, John Wood, he’s an amazing guy who was very, very supportive of all
+my musical endeavors as well, so he was always happy for my to run off on a
+Friday to Heathrow to go and do a gig. So yeah, I learned so much there, there was a good soldering iron there as well, [laughs] so if I needed to make wires.
+Benji B
+You successfully completed your PhD, right? Congratulations on becoming Dr.
+Simon Shepherd. Dr. Flo-Po!
+[applause]
+How did the relationship between science and music work during that time? How
+did you balance the lifestyles, and did one complement the other?
+Floating Points 
+It was quite difficult in terms of time. I live very near the university so
+that was very convenient for me in terms of not wasting much time. I do the
+sort of nine to five, six or whatever, and then go home and make music. And sometimes
+with science, especially if you’re doing nine to three AM or something, and sometimes the experiment doesn’t work at all. So you leave at midday, although you
+shouldn’t. Any free time I’d make music, and I think they didn’t really feed
+each other in terms of the overlap of the process of science and music, only
+insomuch that hypothesizing is a creative process. I think music was
+definitely a release for me, when I’d go home, and when something’s not
+working which it inevitably doesn’t in genetics. I’d go home and make music,
+and be able to switch off a bit, and that was definitely nice.
+Benji B
+Sort of release or escape.
+Floating Points 
+Definitely, yeah. Even listening to music was...
+Benji B 
+Let’s listen to another record, why don’t you pick one of your favorites. You
+brought a selected few today.
+Floating Points 
+This is Air, the Air album. I think everyone should... This is a New York
+group. It’s very difficult to actually play anything off of this because it’s
+all so good... 
+Audience Member
+“Mr. Man”!
+Floating Points 
+[laughs] “Mr. Man,” yeah, there you go. We got a request.
+(music: Air – “Mr. Man”)
+[comments] It’s Googie Williams, no, Googie Coppola, she’s a singer, and her
+way of singing melodies is just amazing.
+[applause]
+Benji B
+When did you discover that one?
+Floating Points 
+It was Sean McAuliffe, who’s a part of the Nonsense Crew from Plastic People,
+he played it on a radio show once. And he played “Jail Cell,” which I just
+couldn’t believe it, so if you ever see this record, definitely pick it up.
+It’s amazing.
+Benji B
+We can all tell by now that you’re a serious record digger and record
+collector, but I know that you’re also a staunch vinyl enthusiast and that is
+your preferred medium. Do you want to talk to us about why that is?
+Floating Points 
+I got into records, as I said, just because it was the easiest format for me to get music
+when I was younger. I think maybe, if it had been now I don’t know if I would
+be. It’s definitely a sort of... A problem. It’s kind of developed into... I don’t fetishize
+it in any way, but I do definitely enjoy the process of finding music, digging
+through music. When I was at uni, I’d go to the States, I’d buy a ticket to
+Chicago with my student loan [laughs] and then figure out how to actually eat. And then
+go over and buy as many records as possible because it worked out so much
+cheaper, and discovered so much in that process of going to places, meeting
+people at record stores. That sort of advice you get from a guy at a shop,
+like Peabody’s Records, Mark and Mike Grusane will always beat a Juno
+recommendation based on, “This, you’re going to like this.” It’s going to be
+way more wild, you’re going to find way more wild music in that process. The
+value of record shops, record dealers, I think, were paramount in me
+discovering interesting music. That’s why, if there was a MP3 dealer or
+something that did the same thing, maybe I’d be into that as well, but... Yeah, I got
+really into records.
+Benji B 
+Talking of Chicago and the amazing tradition of DJing that’s come from there,
+you are quite rare for a younger DJ, if that’s okay to say, in the sense that
+you have taken the baton of that tradition, of chasing the pitch and playing
+classics and DJing, for the most part, unquantized live music, and you take
+that art form seriously. Is that something you had to study and practice for a
+while?
+Floating Points 
+It was actually the first time Mark and Mike at Peabody’s, in the south of
+Chicago. They would open their shop at ten o’clock in the morning, close it at
+ten, midnight, whatever. The whole day they were DJing. People would bring
+records in and they would just be going through records and be like, “Yes,
+OK,” throw it on, and they’d just ride pitch control. First time I’d ever
+seen it, and I was like, “That’s crazy.” That’s how you actually mix two live
+records. I thought, “I’m going to copy them.” I went back to London and
+started doing it, and just practicing. I don’t have a pair of turntables at
+home, now, I only have one, so I can’t really practice. I probably should
+though. It was out of necessity, really, because a lot of the music that I
+wanted to play, especially because of the music I was buying, was unquantized.
+And I was playing, at this point, I was doing the bar thing, The Gramaphone. I
+had to, it was out of necessity. I was playing a little bit of house music and
+stuff.
+Benji B
+That summarizes what you’re best known for as a DJ. If I think about your set,
+I will think about a bit of house music and some modern stuff but generally,
+for the most part, older music, or music from the crate, sort of thing. What
+is it about older music, why is that your preferred era to draw from?
+Floating Points 
+I don’t know.
+Benji B
+Is it that you don’t like much new music?
+Floating Points 
+No, that’s absurd. No, because I really do enjoy music, I buy a lot of new
+music and I go to the record shop every week and buy records. And I do DJ them
+a little bit but not nearly as much as the other stuff. There’s definitely a
+certain aesthetic in the older music that I play that I search for in new
+music, and that’s the kind of, the aesthetic I want to be playing in a club, this
+inviting thing, the Ade thing, of warmth. So if it’s a brand-new cold techno
+record, I might not be interested in playing it at the sort of events that I
+do. But then I would not say that I would never play them because contrast is
+great. It’s a very tricky question and I don’t know why I don’t play as much
+at the moment. It goes through phases, at the moment I’m going through a crazy
+modern soul phase, I went through a Brazilian phase a few years ago. I think
+I’m starting to calm down on the modern soul stuff that I’m getting really in
+to.
+Benji B
+How do you define modern soul? What is that?
+Floating Points 
+The way I’m thinking about it is late, mid- to late ‘70s soul, where soul
+started crossing over into disco, so you’d find a lot of disco records on 45 [RPM].
+In fact, this is a perfect example, my friend Julia showed me this record
+about five years ago, and it was such a mad turning point for me that we
+started a little party in London and New York called You’re A Melody because
+of this tune. This is where I am when I started getting into modern soul.
+(music: Aged In Harmony – “You’re A Melody” / applause)
+Benji B
+So, go on and tell us, what’s the craziest amount [you paid for a record]? What’s
+the most you’ve gone to? Is that off limits, that question?
+Floating Points 
+Yeah, because it’s going to get worse. Through this record, I met a lot of
+people through gaining these records, like DJ Love On The Run from New York,
+DJ McBoing Boing from New York; and Jeremy Underground Paris, as well, he’s
+really into this stuff, and Pearl Girls, Julie and Anna, who DJ as Javibes.
+They’ve taught me so much about this music and so I am highly indebted to them
+for this sort of knowledge. And Red Greg as well, in London, these guys have
+taught me a lot about this music. I really wish I could play all these to you
+because they’re so beautiful, these records.
+Benji B
+Is it true that you once swapped a 7” record for a car?
+Floating Points 
+[laughs] Yeah, that’s true. I can’t even drive so I gave the car to my
+girlfriend. It was a really nice record but it was a nice car as well, so
+everyone won.
+Benji B 
+Tell me about your mixer of choice. I know that you have had a dedication to
+the highest level in all things and that’s culminated in an amazing new
+project, you pretty much built an amazing new DJ mixer. Tell us about the
+journey of your taste in mixers and why you’ve chosen them and why you have
+eventually chosen to build one yourself.
+Floating Points 
+I’m into good-sounding stuff, records, mixers, anything that makes a record, I’m into it
+sounding good. I’m sure everyone will agree there. There’s certain mixers that
+I feel don’t sound good because they digitize the signal, and you can hear
+that, and there’s some mixers that I don’t like the feel of them, like some of
+the upfade, these faders, they feel okay, but there’s certain mixers where
+their faders are too loose, and things like that. There’s a certain ergonomic
+thing about it, as well. The way the record sounds on some mixers I just find
+really unpleasant, and having used a few mixers like Bozak and Urei, things
+like this, they sound really nicely. And the control you have, the fade, the
+linearity of the volume going up and down, it feels like you’re controlling a
+gas fire, or something. The power of the fade feels much... I can’t use
+words to describe it, you just have to try it out. I’m not into rotary mixers
+but I’m into good-sounding mixers, and it just so happens that most rotary pots
+are made to a higher specification, maybe. I don’t know what it is, but the
+mixer in my studio has linear faders, but in the DJ world the most ergonomic
+fade is on rotary. A friend of mine builds equipment and we thought we’d try
+and build a class-A mixer, so the circuitry... It’s a nice circuit, basically.
+It sounds very, very nice, very, very transient mixers, and then summing’s
+really pleasant. You’re welcome to come try it out sometime. It’s sitting in
+Plastic People.
+Benji B
+Yeah, you can’t travel with that, right? How big is it? How big is the power
+supply?
+Floating Points 
+The power supply’s at 4U, and then the mixer itself is like 8U. But it’s about
+42kg in total, so it’s quite heavy, it’s really heavy. Trying to lift it up the stairs myself... [laughs] Yeah.
+Benji B
+What have you learned in your journey of learning about mixers? What have you
+learned makes a good DJ mixer? What makes a DJ mixer sound good? What is the
+specifics of what you were just describing?
+Floating Points 
+The technical side of it?
+Benji B
+Yeah.
+Floating Points 
+I’m not really an expert.
+Benji B
+Is it good pots, is it good circuitry...?
+Floating Points 
+Yeah, good circuitry, decent power supply. And if it’s a fancy mixer with all
+the effects and things like that, a good conversion. Because I think that the
+DACs [digital/analog converters] in some of these mixers aren’t really up to
+the standard of the studios that use DACs that were recording the music. So it
+feels like a bottleneck, basically, in the whole process. You’ve got amazing
+speakers, good crossover, decent amps, CDJs sound amazing, needles and mixers
+can sound good. The mixer sometimes, I feel, it’s the weakest link in the
+chain. So it’s basically an endeavor to make something that I felt really
+comfortable with, because I do a party as Plastic People, now, on a regular
+basis, and that soundsystem is so good that it deserves to have as good a
+signal as possible. And when you get to the crossover at that club it’s
+everything before it, the mixer and the turntables is the weakest part of it.
+It’s an endeavor for trying to reproduce the music as well as possible.
+Benji B
+You designed it yourself, basically.
+Floating Points 
+I actually drew it on the back of an envelope and gave it to McKenna. It was
+relatively hands-off, because I really don’t know much about the technical
+stuff, you know? I’ve heard different examples of different transformers and
+things like this but it gets very, very nerdy very, very quickly, that world
+of nickel and...
+Benji B
+But it’s got isolators on it?
+Floating Points 
+Yeah, it’s got an isolator on each channel. And the weird thing about it is
+the channel one, channel two on top of each other, so the faders are kind of like
+that. And then the idea is that you can have the isolators down on one
+channel, you can swap the bass lines over, swap the mids over, swap the treble
+over, and if you’re playing electronic music that’s quantized you can create
+really nice fades. So rather than using volume you can fade different parts of
+the frequency spectrum over. That was the impetus behind that.
+Benji B
+Somewhere in between record-digging, becoming a doctor, and doing a PhD,
+composing, and producing, you also have time to run a record label. Tell us
+about Eglo Recordings.
+Floating Points 
+It started, actually, at CDR’s night in London. I think it happens elsewhere
+in the world now where you go down with work you’ve been working on and you
+share it with everyone. And it’s really highly recommended by people who know
+about it. You go down everybody plays their music, they put it up on a
+projector whose track it is. I went down there once with a tune called “For
+You” which is kind of like a hip-hop thing. It was Alex Nut who was there,
+he’s a DJ on Rinse FM. He was asking Tony
+[Nwachukwu], the
+guy who runs it, whose record was playing, he pointed at me, sort of a nerdy
+guy in the corner, and he was like, “It doesn’t really fit, it doesn’t fit my
+demeanor.” He’s like, “What are you doing with this record?” I’m like,
+“Nothing, I’m just making music for fun.” He’s like, “Let’s put it out.” We
+didn’t have a clue what we were doing, we just went down to Transition, which
+was the place to cut at the time, it was where all the dubstep guys were
+getting all their stuff cut. We got it cut to a 45, and then I actually kept
+it in the fridge in the university for two weeks before, whilst we were trying
+to find out what we do next. We took it down to the plant to get it turned
+into a stack of records and then we shopped them out to shops. From that we
+got a company, Kudos Records in London, they hit us up and were like, “Do you
+want us to do your distribution for you?” Which was really useful because going
+to the post office 500 times is really not much fun. That’s how it started.
+Benji B
+What should we play from the Eglo catalog?
+Floating Points 
+Erm... Well I’ve got music from myself and Fatima.
+Benji B
+Yeah, cool.
+Floating Points 
+Yeah?
+Benji B
+Box fresh, yeah?
+Floating Points 
+[unwrapping new record] Yeah. I don’t know. Lots of big tunes on this.
+Benji B
+Just quickly, who’s Fatima?
+Floating Points 
+Fatima is a singer. Again, we met her at Plastic People. She used to jump on
+the mic at a lot of parties in London, and would just smash it, it was crazy.
+It would just be a party, and this girl would turn up and start singing,
+and the whole thing was... It was a crazy time. And yeah, we started working on music a long time ago. Actually, I’m going to play something else. [changes record] We started
+working on music a long time ago, on a record that came out a few years ago,
+called Mind Traveling EP. It’s a four-tracker, and it took us so long to
+make this record because we became really good friends, we would hang out,
+basically, rather than making music. So, this is the first thing we did together.
+This track, maybe. With your help from the radio, it blew up, this record, so
+thank you. [laughs]
+(music: Fatima feat. Floating Points – “Mind” / applause) 
+Benji B
+That’s music from Fatima produced by Floating Points, Eglo #14 I can see on
+there. How many releases are you up to now on the label?
+Floating Points 
+43 are in manufacture at the moment.
+Benji B
+And can you give us some names of other artists you’ve released?
+Floating Points 
+There’s Fatima, FunkinEven, Shuanise, there’s
+Flako, Shafiq Hussein, me.
+Benji B
+It seems like with the names you bring up and what you’ve been talking about,
+that music scenes, or maybe better put, music communities, have been important
+to you in both meeting people but also in musical discovery as well, and a
+support network as well. Is that fair to say?
+Floating Points 
+Right. Yeah, through the music I play, from friends teaching me about music, to the
+record I put out, these were all friends. So Fatima, Stevie, FunkinEven, everyone we put out we had a personal relationship with, like we’ve met them, we’re
+friends. Stevie, we didn’t know he was making music we were just friends with
+him and he’s like, “Oh, I make tracks.” And it was killer tracks, so, yeah, we
+put those out. It’s felt a lot nicer doing things that way.
+Benji B
+What was your first? Was it the “Invisible” remix that was it one of the
+first. Or was it “The Wires”? What was the first live thing you put out?
+Floating Points 
+There’s a 10" I did on Ninja Tune a few years ago which was a live, more orchestral
+thing. That was a band that I sort of had at school I’d written a few things
+for and we reconvened in London to record this. We got asked to do a Maida
+Vale session for Gilles’
+[Peterson] show,
+and they thought, I think, that I was going to turn up with a laptop at Maida
+Vale and I turned up with 16 people. We recorded that, and then Ninja Tune re-
+recorded it again. We did that at Abbey Road, in fact, when I was there that’s
+when I sort of stole all of their techniques, like how to record things, just
+picking up, just observing how these engineers were working, because I think
+it’s a good-sounding record. That was the first orchestral stuff, and then
+actually straight after that, we recorded the “Wires” track and that was in
+2009, I think, and that only came out last year. Because it was such a
+collage, it took me so long to put it together.
+Benji B
+Do you just record lots of material and then comp the best bits kind of thing?
+Floating Points 
+I had a plan and a score for it, but the way I recorded it, because, again, I
+didn’t really know what was I was doing, I recorded a massive long drum track
+and then put everything on top of it and recorded phrases. There’s a horn
+section, which is doing these massive arpeggios, which, if you listen to it
+it’s impossible to actually play because they never breathe. That was some
+copy and pasting stuff, and there’s actually a section right at the very
+beginning which was, I’d just heard that “Sand and Rain” record, who’s that
+by? The French record “Sand and Rain”? No. Anyway, I’d just heard that and I
+was like, “That’s amazing.” And there was a [Hammond] B3 organ in the studio,
+I’d never played one before, and so we tacked that stuff on the beginning of
+the record. We had two days in the studio, just experimenting.
+Benji B
+You were mentioning about that Steve, or was it the Talk Talk record that
+influenced The Invisible...?
+Floating Points 
+Right, yeah, the recording.
+Benji B
+Do you literally hear something and think, “I like the sound of that,” and
+then research how they did it and then have a go at it?
+Floating Points 
+For that, yeah. The thing is Phil Brown wrote a book and there was a big
+section on recording of that album. So, yeah, I tried to copy it.
+Benji B
+I think The Invisible remix is pretty amazing. We should probably listen to
+that before we wrap it up. 
+Floating Points
+[unwraps new record] 
+Benji B
+All your personal records are completely unopened,
+just travel with a new one every time. [laughter] Anything you want to say about this
+before we play it? Because we should probably listen to most of it.
+Floating Points 
+This is kind of a prototype for what I was trying to get into myself, for my
+own stuff. It was this idea of a Buchla being the main drum sound, the
+percussive elements, and then drums on the top. This is a band, The Invisible,
+a really, amazing, amazing band, I think, and really good friends of mine.
+They’ve got a studio around the corner from mine, so we hang out a lot. And so I did
+this for them. In fact, I used Dave Okumu’s, who is the singer, I
+used his backing vocal as the main vocal, and he came and resang it, as like a
+main line. And then I recorded the drums myself, they we’re a little bit
+cack-handed. I don’t know what speed it is.
+(music: The Invisible – “Wings (Floating Points remix)” / applause)
+Benji B
+Right, it’s question time. I don’t know if anyone’s got a starter?
+Audience Member 
+What was that track called?
+Floating Points 
+The band’s called The Invisible and the track’s called “Wings.”
+Audience Member 
+Hey.
+Floating Points 
+Hi.
+Audience Member 
+Let me just make a preface first, I’m a Brazilian so I see you are into a lot
+of Brazilian stuff. Actually, I was listening to the mixtape of just Brazilian
+music released, like, four months ago, and I saw that you put some Hareton
+Salvanini stuff [on there] and he worked with my father on a lot of records.
+And it’s amazing that you know him because even in Brazil he is not very
+known. The thing is, I saw also that you did a residency in Morocco a while
+back and in the situation that you were into, it was like you were trying
+mixing electronic music with, not fusion, right, but like making music with
+traditional music and electronic stuff, right? Brazil is a big country and we
+are very closed on ourselves so it’s kind of hard to make something different
+and being not pinpointed. They have preconceived ideas about using a lot of
+electronic stuff, and so I wanted to know, what was the guidelines you used
+for making music with Gnawa people in Morocco?
+Floating Points 
+Okay. We went over there not knowing really what to expect. I had heard
+Gnawa music, but I didn’t know much about it. There was no pressure on us
+to do anything, to actually come up with anything, so my biggest fear was that
+it would be a fusion thing. I could play you, actually, what I did.
+Audience Member 
+Yeah, yeah, please.
+Floating Points 
+If that’s okay? This is probably going to be easier. This is the first time
+that I worked with Mahmoud Guinia, and this is the first time he and his
+fellow musicians played to a click track, so it was quite an interesting
+experience for all of us. And James
+Holden was there as
+well, we were working together on a lot of stuff. I think this might be the
+one, lets see.
+(music: Maâlem Mahmoud Guinia & Floating Points – “Mimoun Marhaba”) 
+[comments] It’s recorded outside because everything’s tiled in Morocco, so
+we recorded outside. You can actually hear the birds. The musicians are
+clapping, and the sense of rhythm is something that I still can’t put my
+finger on.
+[applause]
+That didn’t actually answer your question.
+Audience Member 
+It’s like the music continues to be their own, right? It’s like you are just
+making the... Circulating it around.
+Floating Points 
+Right. I felt like we were making music together, and that’s something I was
+really scared of, was: “They’re going to play, I’m going to play, and
+there’s going to be nothing going on between us.” Whilst we were playing
+there’s smiles going on, it was such a positive experience, the whole week was
+really amazing. Me and James, and Vessel, and Biosphere were there as well. I
+was so nervous that nothing fruitful would come of it, or there would just be
+a complete breakdown of understanding. And even though the triplet clapping,
+then... It’s not a triplet, I can’t work out what it is. It’s so groovy, all
+the music is so groovy, but I can’t do it. It’s not inherently difficult to
+play a qaraqib, but it is the way they do it. It’s super impressive and
+there’s a festival in Essaouira once a year, about the same time as SONAR, of
+Gnawa music, it’s highly recommended, it’s a really, really amazing
+festival.
+Audience Member 
+Thanks.
+Audience Member 
+Hey, thanks for everything you’ve shared with us, I’m totally amazed. And I
+wrote my question, because everything that you’ve shown from your work, I feel
+it has... If you trust elements in time, is that a conscious way of working?
+Because they have that perspective in not having a rush about everything that
+has to appear in a song. Because I really love that you trust what you have,
+you don’t rush anything. I love that.
+Floating Points 
+I think it’s definitely a dilemma I have, is that...
+Benji B
+She means all your records are really long, bruv.
+[laughter]
+Audience Member 
+No!
+Benji B
+I’m just kidding.
+Floating Points 
+It’s funny though because a lot of Brazilian music, like Hareton Salvanini he
+cuts to the chase. This album is probably... How many tracks? Six tracks per
+side, each song is two and a half minutes, three minutes long. With a lot of
+Brazilian music, it’s so hard to DJ because by the time it’s started it’s
+over. Then you’re like, “Oh, here’s the next record.” It’s something that I’m
+trying to actually make, shorter pieces of music, but then I find it very
+difficult to [make them shorter]. You’re right, I like things to breathe and
+have their own space.
+Audience Member 
+Hi. I am very interested in physics but I’m really uneducated.
+Floating Points 
+This makes two of us. [laughs]
+Audience Member 
+I was interested in the point where you were talking about your doctorate, and
+I was wondering what role do you think music plays in evolution? Because at
+this point I feel like a lot of music is meant to enforce capitalism in a way,
+it’s all about aesthetic. And I felt like a lot of the stuff you played was
+very emotive and very progressive, and I thought it was funny that nearly
+everything had a significant modulation, you said that the DNA had a
+modulation because of pain. And I was wondering if you could talk more about
+that even though you said you didn’t want to.
+Floating Points 
+Okay. The thing that I was particularly interested in is called epigenetics,
+and so you’ve got your DNA code. It’s the four letters A, G, C, T, and for a
+long time it’s believed that that code defined everything about you, all your
+physical traits, where your nose is, the way your eyes are, you know, your hair color,
+things like this. Over the past maybe 50 years – I’m going to get so panned on
+nature of neuroscience for this – a field’s emerged called epigenetics, so it’s
+like the way in which that code itself exists within a cell. So the way in
+which it’s folded up, because DNA has to pack itself really, really tightly,
+and for that DNA to be turned into what is gonna turn into you, proteins, that it has to
+unfold and reveal itself and be made available to be read, like the doors of
+the library have to open. I was interested in the gatekeeper to that door,
+basically, and so we’re looking at tiny, tiny, little proteins inside cells
+that open the DNA and close the DNA up. We found in pain that those things
+change, doors open, doors close as well, different parts of the DNA, and so
+we’re trying to find a way of closing some doors and opening other doors to
+the DNA code to normalize the pain. The link to music, I’m sure I could
+waffle on for long enough before one emerges but I have not thought about it,
+sorry. Sorry.
+Audience Member 
+Hello.
+Floating Points 
+Hi.
+Audience Member 
+This might be slightly presumptuous, but you seem quite, like, a restless guy
+when it comes to darting into new projects and leaving things behind, but you
+are evidently very dedicated as well. And I think this is kind of a question
+of the divides of dedication, and speaking of the Talk Talk album, and other
+peeps who invest a lot of time into a singular piece of work, how do you
+manage your über-considered projects alongside a route to being a prolific
+artist, and how do you balance those outlets?
+Floating Points 
+You mean, having lots of interests in different kind of music, or in different
+things?
+Audience Member 
+Yeah, or getting tired of work that you’ve done before or wanting to move on,
+and how long do you invest in each time?
+Floating Points 
+Right. The thing that played right at the beginning, that’s something I
+started five years ago, and recorded actually most of it back then. In fact,
+the reason I played you the wrong mix is because literally I have no idea, I
+can’t remember. I just started working on it again, trying and finishing it
+off. I have lots of different things on the go at the same time, whether it’s
+dance music, whether it’s not dance music, and I don’t finish them all. Like I
+don’t start them and finish them in the same period of time, it’s a very
+protracted process. And most of the things that I’ve put out, actually, have been... I did
+a record called “Shadows,” it’s a double-pack. All the music on that, from the
+day it released, was at least two years old, up to nine years old, actually.
+That’s probably not answering your question.
+Audience Member 
+Yeah, you definitely are. Do you abandon your music? Is that how you get it
+out? Do you know what I mean?
+Floating Points 
+Yeah, actually you’re right. With that “Shadows” record, this one, putting it
+out was kind of like, “I’m done with it now.” A lot of my music is like that.
+I sit with it for a long, long time, and nothing changes, but suddenly I was
+like, “Okay, I’m ready to put out that one.” I wish I was a little bit faster [laughs]
+with deciding. I don’t know what it is, I think I just need to live with it
+for a bit, within myself, before I’m happy for other people to hear it.
+Audience Member 
+That’s reassuring.
+Floating Points 
+Yeah, there’s no rush, basically. 
+Audience Member 
+Hi. There is some kind of lovely and deep sense of distance in your music. I
+wonder how would you approach that space, not just in the technical way, also
+how do you visualize when you’re writing your music, that feeling? I also want
+to know, you mentioned a book when you just started the lecture, and I want to
+know the name of the book.
+Floating Points 
+It’s by an engineer called Phil Brown and he’s still going, actually, still
+working. I think he recorded Dido’s albums, as well, and did some big, big pop
+projects. The book’s got tales of Bob Marley recordings with the Wailers, some
+really interesting acts in there, actually. It doesn’t get very technical, but
+it just so happened this one little nugget of information I was looking for
+was in there, the drum thing. Especially, yeah, with Talk Talk, he actually
+does go into detail. Talking about space... Technically it’s much easier to
+answer. Over the years, I’ve developed ways that feel comfortable to me to
+create space in a mix. So I listen to a lot of my old records, like “Vacuum,”
+for example, it sounds like one big blob of sound to me. But whereas the
+“Shadows” thing feels way more open and has a virtual space, every instrument
+has its own space in the mix. I think that’s mostly a function of getting an
+outboard mixer. For me, that’s technically what helped me. I used an API, it’s
+a mixing console, and it’s very easy to use because you can make the most tiny
+adjustments and you can hear them. And that hands-on approach gave me that
+sense of space. It’s something that I felt I wasn’t achieving in computer, from just a stereo out.
+Musically, a sense of space... Dynamics. I’m a sucker for reverb and good-
+sounding reverbs. I spend a lot of time listening to reverbs. The EMT plate is
+a very nice reverb, and there’s an AMS reverb, which is this one that I use in
+everything.
+Benji B
+They’re not small, though, are they?
+Floating Points 
+The EMT plate, yeah. The thing is, you can get them relatively cheap, it’s
+just because no one’s got space for them. But, yeah, don’t try and lift it by
+yourself.
+Audience Member 
+Is this thing on? Hello? Okay. I’m just riffing off of Cary’s question, I find
+it interesting, too. I come from an approach that’s more like a social
+approach to music, I want to relate on an emotional level. And I feel like
+when you just began talking about your doctorate, PhD, it evoked this sense of
+synesthesia in me. That’s what I connected to most, because that’s the
+physicality and the way the brain relates to physicality, is how I think about
+music. Like a shiver going over your shoulder, and then being distracted by
+your heart dipping lower when a certain thing happens in the music. I’m
+interested in hearing about how it makes you feel, why you do music, like... The
+emotional side, rather than what you use, you know?
+Floating Points 
+Right, okay.
+Audience Member 
+And whether you’d ever investigate that on an academic level.
+Floating Points 
+I do feel something when I make music...
+Audience Member 
+Oh, yeah.
+Floating Points 
+Sorry, I don’t quite understand. Obviously, it’s much easier for me to answer
+those more technical things, and maybe me saying that making music was the
+sort of sense of release from doing daily science work was a little over-
+simplification. I need to make music to be happy.
+Audience Member 
+It’s very evident in your music, that’s why I’m asking. Because it’s like the
+poeticism of your science is so beautiful, when I listen your songs.
+Floating Points 
+Say it again?
+Audience Member 
+It’s poetic, the science related to listening to your songs. It’s interesting
+that you don’t connect it.
+Floating Points 
+Yeah. No, I don’t. [laughs]
+Audience Member 
+It’s more of a discussion point than a question.
+Floating Points 
+Right, I think you’ve thought about this more than I have actually. [laughs]
+Audience Member 
+Say something!
+Audience Member 
+Yeah.
+Benji B
+Any more questions? Going, going... All right. Thank you very much, Dr.
+Floating Points.
+[applause]
+Floating Points 
+Thank you.

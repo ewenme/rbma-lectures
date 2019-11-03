@@ -1,0 +1,1407 @@
+Whether studying for her PhD at Stanford or spending all night in a Berlin techno party, Holly Herndon is obsessed with the intersection between mind and body and beat and technology. On releases like 2012’s Movement and 2014’s Chorus, she tackles her complicated relationship with the internet, the NSA, Max/MSP software, and her own voice. In the process she creates a unique brand of cyber-pop that is equally beautiful and frightening, academic and dancefloor-ready. 
+In this talk at the 2014 Red Bull Music Academy in Tokyo she discusses self-sampling, growing up in the Bible Belt and the never-ending quest to express honest, real-time emotions through music and lyrics.
+Emma Warren 
+Hello and welcome. We got someone here today whose music lives in the
+borderlands of a range of really interesting areas. Composition, vocal music,
+techno, performance, arts, technology and programming it’s all here. A very
+big welcome, please, Holly Herndon.
+[applause]
+We had a little chat yesterday out there, and you said something that I
+thought was really interesting and I think it’s a really good starting point
+for us, and that’s talking about being interested in the sound of now and what
+now really sounds like. What does “now” sound like?
+Holly Herndon 
+I think that’s the name that I think a lot about in terms of wanting my music
+to sound like it’s from the time that it is. I’m not super interested in retro
+fetishism. I don’t really have a nostalgia for a time passed. I think that
+that can really quickly lead into escapism in music, and that’s something I
+tried to avoid. I think escapism has a function and it can be really
+therapeutic and has a role, but for me personally, I want my music and I would
+like to think that music could have a role in helping direct conversations,
+and helping impact the way that people are thinking about aspects outside of
+music, so extra-musical ideas. That’s why it’s really important to me that the
+stuff that I make sounds like it’s today, like it’s responding to today.
+That’s a really difficult question, “What is now like?”
+Emma Warren 
+[laughs] Just for starters.
+Holly Herndon 
+I think now sounds like always being connected to other people online. I think
+it sounds like economic uncertainty. I think it sounds like post-Wikileaks. I
+think those are all things that influenced the way that today sounds.
+Emma Warren 
+On a slightly different way, like where I come from in London, this sounds
+like it’s not connected but it is, people think that the sky sounds like a
+certain type of bird, but actually there are these parakeets that have been in
+London for the last 20 years. So actually, London sounds like parakeet sound now.
+Certainly the outer edges of London that’s what it really sounds like now. If
+you think about the actual sounds which really do sound like now, what are
+they? Are they like key taps? Are they the kind of signature sounds of your
+Skype turning on or messages coming through, what are the actual sounds of
+now?
+Holly Herndon 
+I think that’s part of it. I also think it’s just like every sound smashed
+together and juxtaposed immediately, so like really fast cuts and slices of
+one world right next to the other world. Like multiple browser windows open,
+having political speech in one, and having pop music in another, and having music from five hundred years ago in another, everything is just jammed
+together and almost put at like an equal playing field because it is all jammed
+together on the same devices. I think that’s what today sounds like. I think
+Tokyo sounds insane. I’ve been walking around and there’s those bands that are
+advertising the clubs where you go and drink champagne with guys with crazy
+haircuts. They’re playing with some hyper-pop music. The sound of Tokyo is
+really crazy. I’ve been working on a project for EV Sound, Electric Vehicle
+Motor sounds. Is it okay if I talk about that now? Taking a segue. Electric
+cars don’t have the same kind of natural engine sound that non-electric cars
+have. A lot of car companies have been putting recordings of actual, like
+physical mechanical sounds in their cars because you have to tell people...
+There’s been a huge problem with people who are visually impaired or older
+people not hearing cars.
+Emma Warren 
+Or perhaps people who are just on their phones.
+Holly Herndon 
+Or people on their phones, which is me often. Yes, so they’re trying to figure
+out a way to let pedestrians know that cars are coming and so a lot of sound
+design companies are basically coming up with spaceship sounds, because I
+guess that’s what it’s like...
+Emma Warren 
+So your car when you’re driving to the shop is supposed to sound like a
+spacecraft?
+Holly Herndon 
+That’s what the idea has been, that was the grand idea but I think that’s a
+really boring solution to what could be basically any kind of sound. So I was
+working with this company called Semcon, and we presented at the Frankfurt
+Motor Show last year, which was a really unusual venue for me to be showing
+stuff. [laughs] Basically, we came up with some different options for what
+an electric car could sound like and when you turn your wheel how could you
+play your car, and how your car could be an instrument in that way. One of the
+ideas that we came up with was to have a microphone system that would pull in
+the sound of the city wherever you were. Then it could process that, and then
+that could be a part of it, so it wouldn’t just be like a one-fit solution for
+every city. I think urban sound planning and things like that are really
+interesting.
+Emma Warren 
+If you were in charge of the way the electric cars sound when they’re driving
+down the street, they would sound differently in the city than they would in
+the countryside?
+Holly Herndon 
+Yes. In short, yes.
+Emma Warren
+I much prefer the sound of you being in charge than somebody who wants to make
+cars sound like spacecrafts. Surely, there’s no sound in space anyway.
+Holly Herndon 
+Yeah, that’s a good point.
+Emma Warren 
+This idea of wanting to sound like now, and bringing in the sound of now into
+the work you make, how does that actually manifest itself in the music you
+make?
+Holly Herndon 
+I guess production technique is one way. My partner who I collaborate with a
+lot, Mathew Dryhurst, he built a system for a performance that he did at the
+Southbank Centre last year called Dispatch. It’s a software that essentially
+you can record your browsing activity or whatever you’re doing on your
+computer, and sample yourself and smash the samples together into what he
+calls “net-concrète.” Which I think is a really nice, clever little term. This
+topic of sousveillance which is the term that is self-surveillance is a big
+topic in the Bay. I’m from the Bay Area so it’s like tech center.
+Emma Warren
+A digital mystic.
+Holly Herndon 
+[laughs] I spend my time between San Francisco and Silicon Valley, so it’s a
+very weird, for those of you who haven’t been there, it’s a very weird part of
+the world. What was I talking about? Yeah, sousveillance, that’s a hot topic.
+Emma Warren 
+Can you just break that down, what does that mean?
+Holly Herndon 
+Self-surveillance, that could be anything from like...
+Emma Warren 
+“Sous” meaning “under,” what does it actually mean?
+Holly Herndon 
+Oh, what is the etymology, I don’t know. I would have to wikipedia that.
+Emma Warren 
+Surveillance being looking out and sousveillance, it’s maybe looking in or
+something? I don’t know.
+Holly Herndon 
+Yeah, that would make sense.
+Emma Warren 
+Is that what you’re talking about?
+Holly Herndon 
+Yes. Some people use it for weight loss to survey what they’re eating, or how
+many steps they’re taking or things like that. It can be applied to pretty
+much every aspect of your life. That’s what we were doing with his patch. I
+was just recording everything that I was, like self-surveilling myself of
+everything that I was experiencing online. Using that huge amount of
+recordings to smash together and create this net-concrète aesthetic. That’s
+how it filters into songwriting.
+Emma Warren 
+Can I just ask you to break down what you’re talking about when you say “net-concrète?” What does that mean?
+Holly Herndon 
+You guys know what music concrète is?
+Emma Warren 
+I guess maybe there’s people here or maybe people watching who don’t. I guess
+it’s used for just to give a basic explanation of...
+Holly Herndon 
+Kind of like a primer on music concrète?
+Emma Warren 
+Yeah.
+Holly Herndon 
+I wasn’t prepared for this but I will come up with something.
+Emma Warren 
+I don’t mean necessarily anything in depth but I guess what you’re talking
+about is music which refers back to the beginning of avant-garde music.
+Holly Herndon 
+Right. Music concrète is basically sampling. So Pierre Schaeffer is one of the
+early pioneers of music concrète and his philosophy was really wanting to
+separate sounds from their sources. He thought that like a really elevated
+version of listening would be if you could hear a train sample but not think
+about a train. It was trying to let to get to that point. I don’t
+necessarily agree with that. I think it’s actually good to make those
+connections, but that was... When was that? I guess in the ’20s?
+Emma Warren
+We’re missing a tiny bit of expertise here but, you know, roughly.
+Holly Herndon 
+It’s harkening back to that, but we call it net-concrète because it’s all on
+the Internet.
+Emma Warren 
+Okay.
+Holly Herndon 
+Was that good?
+Emma Warren 
+Yeah. That’s absolutely fine. This net concrète for you is about creating, I
+guess, a sound bank of stuff which you’ve sampled from within your life and
+your digital life. You talked about a patch that you use, what about the
+induction mics that you use in order to capture these sounds?
+Holly Herndon 
+The induction mic thing is slightly different. It’s more about giving my
+physical laptop a voice and playing it as an instrument, so that’s something
+that I’ve thought a lot about in the last several years, especially when I was
+at Mills College. I was thinking about making laptop performance embodied in a
+real, physical in-the-present experience, that’s one of the criticisms. Maybe
+not in this room, everybody knows that laptop music is like totally normal.
+But for a lot of people it’s really still very abnormal which is mind-blowing.
+I heard a lot of arguments of like, “But you can’t see the physical gesture,”
+“You don’t know if you’re checking your email,” all those kind of arguments
+that I don’t really think hold up, but in an attempt to address some of those
+biases I came up with the system where I use induction mics which essentially
+pick up electrical signals. People who build hardware often use them to debug
+because you can hear like, “Zzzz,” you know like... It sounds like, “Sssh sshh
+shh.” So anyway, that’s what my laptop sounds like. In the upper left hand
+corner is where most of the hard drive activity is happening, so it’s like,
+“Sshh sshh shh,” it’s the loudest there, so it’s like a really nice amplitude
+envelope that you can play almost like a theremin. So I can take that signal
+and I can smooth it out and make it really beautiful. I can make it sound like
+a violin or I can map it to an instrument. You can do anything with it.
+Emma Warren 
+I’ve seen you’re using that in live performance but you’re using it also for
+the work that you’re making before you’re performing it live?
+Holly Herndon 
+In the studio, I actually don’t use it that much, to be a 100% honest. For me,
+that’s more of a performance thing. In the studio I use my regular microphone
+probably the most. I usually set up some sort of a process or a system, and
+then play around with that until I get something. I mean, it’s like what
+everyone does until something clicks.
+Emma Warren
+You’re talking about your laptop sounding a certain way that there is a
+lot of sound activity in one corner that you can build a sound from it, but
+what else does your laptop sound like? When you think about how it sounds,
+what does is sound like to you? What else is going on in and around that?
+Holly Herndon 
+It sounds like really intimate Skype conversations. It sounds like me checking
+other people out and spying on people. It sounds like basically like daily
+life. It’s like this integrated part of our day-to-day activity. That’s one
+reason why I think it’s really funny when people say that their laptops are so
+disembodied because actually it’s so connected to me. Unlike a violin, it
+hears me, talk to my Mom, you know what I mean? It mediates that conversation.
+I think it’s the hyper-personal instrument. I try to pull that out in certain
+ways. Yeah, it’s still a challenge.
+Emma Warren 
+I’ve heard this phrase used maybe about you, maybe you’re saying it but the
+idea of your laptop is a bionic extension of yourself. You really see it in
+that way as a bionic thing?
+Holly Herndon 
+Yeah. I think when people talk about technology, like human versus machine,
+whether your tool is actually an extension of yourself and things like that. I
+do think it is an extension of ourselves. This is going to sound really
+cheesy, I think that our digital avatars [laughs] are also extensions of
+ourselves, but I stand by that statement. Let’s see, what do we want to say
+about that? There’s so many things. One thing that I think is really
+interesting and problematic about that... So I’ve been talking to this German
+philosopher named, I don’t butcher his name, Hannes Grassinger. He has
+this idea of bits and atoms when comparing them. I think that’s a really nice
+analog, so like your digital self and your physical self. He talks a lot about
+your human rights. You have ownership of yourself and you have rights of your
+physical body but you don’t necessarily have rights for your digital body,
+especially with Facebook and all of these like pretty evil companies that
+we’ve all totally jumped into, trying to pull out of. Trying to think about
+those as equals, bits and atoms, and how we can fight for rights for our digital
+selves as well. There’s a whole movement called the IndieWeb, that’s mostly
+based in the States and the UK but it’s a global movement of people trying to
+build tools, so that people have alternatives to things like Facebook.
+Emma Warren 
+In a way sort of moving back towards the pre-corporate era of the web.
+Holly Herndon 
+Yeah.
+Emma Warren 
+I mean, not replicating obviously, because you can’t. Finding, creating spaces
+in the Internet that are de-corporitized.
+Holly Herndon 
+Totally. Also like a return back to almost blogging style where you self-host
+everything, and you own all of your stuff, and you’re just linking back to
+yourself. Instead of just like giving all of these companies all of your data
+and then they own it, and then you don’t have it anymore. They’re hosting it.
+I think that’s a really interesting analog, and it definitely ties into what
+I’m doing.
+Emma Warren 
+You mentioned a minute ago that something about Mills. You did some work there
+in an academic way. Can you just explain what that is?
+Holly Herndon 
+Mills College is a very unique snowflake. Yeah, I don’t know any other place
+on earth that’s like it. It’s a university in Northern California, and it has
+a long tradition of experimental electronic music. Everybody’s been there from
+Morton Subotnick, John Cage, Pauline Oliveros, it has this huge lineage of amazing
+composers and dancers as well. I was living in Berlin at that time and I was
+having a really difficult time. I don’t know if I want to say, teaching
+myself, but like getting the skills that I wanted to get. I was having a
+really hard time penetrating institutions in Germany. I speak German but there
+was still a language barrier. Sometimes it’s just more difficult. I think
+Germany as a whole also, their kind of academic institutions are slightly more
+conservative and old school, so I was having a really hard just getting access
+to information, getting access to skills and things like that. I made the
+decision to move back to the States and go to Northern California, which was
+terrifying because I was really happy in Berlin. I don’t know if you guys have
+spent any time there, but you know, my whole life was there. I was there for
+five years and it was like, “OK, I was going to like rip up everything and
+go to this like weird hippie school in Northern California,” but it was a
+really good decision. Northern California has had a dramatic impact on the way
+that I make music. I wasn’t making computer music before I went there. Also
+the kind of nurturing environment that Mills creates was a really good way for
+me to learn how to use those tools without it being intimidating. It’s also
+has a really strange gender dynamic because it’s an all-female school, and
+then their graduate program is mixed, and it’s mostly male, the Electronic
+Music Program. It’s just this really weird dynamic in like the lunch room,
+you’ve got all these young women and you’ve got five young men walking across
+the cafeteria and all eyes are like... [laughs] Anyways, it was just a
+really good environment to learn about Max and learn about recording
+techniques, and all kinds of things like that. Maggie Payne is one of the
+professors there, and she has a huge wealth of knowledge when it comes to
+recording. She has a really nice way of communicating information without
+being too didactic. I also got to work John Bischoff who’s like a computer
+music pioneer. He has a project called The Hub and it’s the first network
+computer band. They were using Kim-2s at that time, which is a really early
+computer. It’s basically like a calculator, like one step up from a calculator,
+and they were networked together. They still play. They travel around and so
+they network over the Internet, and jam and stuff like that. Looking at his
+work and seeing him perform was the first, I was like this ‘aha’-moment, where
+it was like, “Oh, a laptop can be a really serious instrument. It can also be
+a concert instrument,” because I had never encountered that before or
+experienced that before. To see him performing in these beautiful concert
+halls on a laptop and seeing everyone take it so seriously was like, “Oh, wow!
+This is amazing.” Not that you have to have that validation but it was just
+really nice to see that as an option. Then Fred Frith is also there, and he
+has an improvisation, it’s an area of study, so there is electronic music and
+then there is improvisation, so there was improv kids everywhere. They were
+improvising all over the place which was super-scary for me because I’m not
+those kind of person who’s like, “Let’s go jam,” you know, so it made me have to
+play on the spot. I was in their ensemble for a term. I was improvising on the
+laptop which isn’t something that I want to do or pursue but it was really
+important in getting out of my shell and learning it as an instrument in a
+way.
+Emma Warren 
+We’ve been talking quite a lot about the music. Can we hear something, maybe
+it might be interesting to play something that you made around that time or
+perhaps other pieces that came from your experiences there?
+Holly Herndon 
+I can play something from Mills. Sure. I don’t have any mastered [tracks]. I
+have a live video that I can play. This is me playing with...I'm just going to play it. I cued it a
+little bit because it’s long and so this is a vocal ensemble that I wrote for
+while I was there.
+(music: Holly Herndon live improv performance)
+Let’s stop it there. That’s just like a little section and I still was, you
+know, I’m still figuring stuff out. It’s a little bit goofy I guess.
+[laughs] I was processing them and we had a four-channel system, so I was
+spatializing their voices in the auditorium. I guess that was an important
+piece for me to make to get really comfortable writing for other people
+because I was mostly writing for myself at that time, just going through that
+whole process.
+Emma Warren 
+Where did this take you musically?
+Holly Herndon 
+Shortly after this I wrote a piece called “Dilato” which was on my album
+Movement, and that’s where I’m working with a professional vocalist. That
+was amazing because he just... I mean, working with a professional
+instrumentalists, you just give them a score and it’s just amazing because they
+just bring it to life in this really wonderful way. You don’t have to like
+workshop the notes or anything with them, you can just immediately start
+workshop in that kind of timbre and texture, and the way that you want things
+to go. I worked with him on that and that was for a vocal solo and then I’m
+processing him in real-time and it was about kind of like expanding his voice,
+expanding and contracting, so that was the next piece I wrote. Then shortly
+after that is when I wrote everything that landed on Movement.
+Emma Warren 
+We should talk about that for a minute. maybe hear something from it as well.
+You talked about a particular track on the “Interlude” being the one which
+actually you go back to most, but not necessarily that being the one that
+people really picked up on. It’s called “Interlude,” perhaps that’s why. You
+can’t help it, maybe it’s a cue to miss it somehow. I wonder if we could
+perhaps hear that?
+Holly Herndon 
+Sure.
+Emma Warren 
+And you can talk about how that connects to what you’re doing now maybe.
+(music: Holly Herndon – “Interlude” / applause)
+Emma Warren
+If that record is all about the laptop being an instrument and the laptop
+being a receptacle of memory and a conduit through which you talk to people
+you love, where does that sound connect to those ideas of intimacy and this
+thing as an intimate place?
+Holly Herndon 
+In that particular piece? Well, that was basically just me setting up a
+process and then running with it in the studio. I mean, that whole album was
+extremely intimate and introspective. That’s something I'm kind of working
+against, trying to move away from but that album was really important to make.
+It’s also coming out of an academic environment that I think in some ways
+encourages insular activity. I was reading a lot of theory on embodiment,
+disembodiment, Catherine Hills, things like that. So it was very much about me
+reading, and then me responding in my studio. That very much is an example of
+that time. I think just like intimate studio time with your laptop.
+Emma Warren 
+When you say “setting up processes,” what exactly were they?
+Holly Herndon 
+For that one I actually don’t remember. [laughs] I don’t know.
+Emma Warren 
+Generally, what kind of processes were you using?
+Holly Herndon 
+Sometimes I’ll write a Max patch, sometimes I’ll take an existing Max patch,
+sometimes I’ll take a plug-in, just whatever I’ll put a chain of things together. I’ll
+have an idea for what I want to do with the voice and then I will try to make
+it happen, and I usually fail but then something else comes out of it. It’s
+just creating a process and then putting information into that process until
+something works.
+Emma Warren 
+Is there another piece from Movement we can hear a snippet of or maybe
+there’s a way you could illustrate how that worked?
+Holly Herndon 
+Yes. This one is like the most processy of the processes. I’m trying to choose
+the mastered ones because I have like old versions of everything on here.
+(music: Holly Herndon – “Breathe” / applause)
+Holly Herndon
+I play that in clubs sometimes, and sometimes people are like, “What is this
+freak doing?” Sometimes people are like, “Yeah!” I’m like, “Okay,” but I can
+play something else from the album.
+Emma Warren 
+But the “most processy of the processey,” moments you said. What was the
+process?
+Holly Herndon 
+It’s a series of processes. It’s a lot of granular synthesis. It’s a lot of
+delay lines. It’s sample triggering with an amplitude gate that I put on my
+microphone, so it’s like a whole potpourri of... [laughs]
+Emma Warren 
+Process Max perhaps. I thought actually, it occurred to me while we were
+listening to that, you’re using your voice here. Actually, this connects back
+in time to the way you started in music as a child in choirs in East
+Tennessee. You had a pretty solid schooling in using your voice back then,
+didn’t you?
+Holly Herndon 
+Yes. I grew up in a very religious part of the United States, it’s called the
+Bible Belt. My parents are very religious, and we went to church all the time.
+Part of that meant making music in a church, so I took guitar lessons in the
+church. I sang in the church choir, the adult choir and the youth choir. I
+also took piano lessons as a child and then I was really into choir. I did
+All-State Choir, which is like this pretty dorky competitive choral thing
+where you go and you sight-read. If your sight-reading is really good then you
+can join the choir in another city and play with an orchestra or something, so
+I was really into that kind of stuff.
+Emma Warren 
+What kind of things would you sing with them?
+Holly Herndon 
+Oh, God, I have no idea what their repertoire was. It was a mix of mostly
+classical but they would also throw in some gospel sometimes. Wait, do you
+mean which choir?
+Emma Warren
+This one.
+Holly Herndon 
+Because I was in lots of different choirs. [laughs] In church, it was like,
+some of it was like contemporary Christian choral writing which isn’t like
+contemporary Christian rock, but it’s still extremely emotional. [laughs]
+Emma Warren 
+You’re not talking hymns. You’re not talking kind of high church choral hymns.
+Holly Herndon 
+Also high church choral hymns. It was a hodgepodge. Yeah.
+Emma Warren 
+I wondered as well if there’s a connection between the kind of area of music
+you’re interested in, this essentially avant-garde music if we can call it
+that, sorry, and having the kind of schooling in choirs, because if you take
+someone like Brian Eno,
+he talks a lot about the fact that he started in choirs, and in fact still has
+a choir. Do you think there’s anything that you got from that experience that
+shows up in the way you make music now?
+Holly Herndon 
+I do. I mean, just also like my love of vocal writing and I feel really
+comfortable writing for the voice. I feel comfortable writing for other
+vocalists, whereas when I write for instruments sometimes I’m a little bit
+shaky. Because I don’t, you know, I wrote for a brass ensemble last year and
+it was like when you write for the trombone you have to think about, there are
+four different positions and so if you write a note that goes from position
+one to position four, that’s like really hard for the player, like physically.
+Anytime you write for an instrument, you have to study the instrument and
+learn what’s physically possible. For the voice, I just feel so comfortable
+writing for the voice. That’s also one of the reasons. What was the question?
+Emma Warren 
+Whether or not the kind of experience in choirs, singing with other people,
+showed up in your music anywhere now?
+Holly Herndon 
+Yeah. Also, while I was at Mills I joined the early vocal music ensemble. We
+were singing music from the 1500s, modal music. A lot of that music has a lot
+of aesthetic similarities to minimalism and so I think there’s definitely an
+aesthetic bridge between those two.
+Emma Warren 
+Any particular favorites from that canon?
+Holly Herndon 
+I don’t know. We sang a lot of Byrd. Yeah, I don’t know. I don’t have a huge
+wealth of knowledge of all the repertoire but I like listening to it. I really
+like the Tallis piece. If you guys know the 40-part motet? It’s actually one
+of the early spatialized pieces that was written back in the day when like
+very a rich patron would...
+Emma Warren 
+Or for kings? Tallis wrote for a lot of kings, didn’t he?
+Holly Herndon 
+Yeah, I think this was for just kind of like for a rich guy. He had this specific
+building that he wanted the piece written for and so the choir stood in a U
+around the audience and he plays with that in the writing. He plays with the
+spatialized...in the polyphony, so that one is a really beautiful piece.
+Emma Warren 
+A 3D sound system from five hundred years ago.
+Holly Herndon 
+Exactly.
+Emma Warren 
+If we are kind of moving from you in choirs when you were a kid to you when
+you moved to Berlin. I wondered if you could tell us about the heavy,
+hardcore, informal education you had in the nightclubs of Berlin, what did you
+learn from that?
+Holly Herndon 
+Yeah. I didn’t go to conservatory before I went to Mills, and so a lot of
+people that are on the path that I’m on right now are the people that I study
+with right now are from that background. But I didn’t do that, I was more
+interested when I was younger in visual arts and things like that. When I
+moved to Berlin I was basically a club kid for a couple of years. I don’t
+think I saw daylight. [laughs] I worked in clubs and I went to everything.
+That was a really important thing for me, also coming from East Tennessee to
+be like, like I didn’t speak English for a couple of years. All of my friends
+were German and everything that I did was in German. I really needed to shed
+my past self to become my present self. [laughs] No, but I really needed to
+let go of that, too, to be able to embrace that again. Now I really enjoy
+going home but I had to completely reject it to be able to move forward. I
+just spent a ton of time, it was more kind of on the consumption end. I was
+going to clubs and dancing all the time.
+Emma Warren 
+Where would you go and who you were you listening to?
+Holly Herndon 
+At that time minimal [techno] was king in Berlin at that time.
+Emma Warren 
+This was when?
+Holly Herndon 
+Let’s see, 2003 to 2008, and so this was at the beginning of that period and
+then I burned out and decided to do other stuff for a bit, but that was the
+beginning. I just remember like really, really long sessions with Richie Hawtin and [Ricardo] Villalobos, they would play for 12 hours or something. It’s hard to
+remember all of the clubs because they were often pop-ups that aren’t around
+anymore. I remember one party, it was called Beat Street and that was just
+like people would play for hours, like the walls were dripping with sweat.
+Yeah, that was fun. Then I started getting more involved in the noise scene. I
+started getting really interested in experimental music. There’s the UdK,
+which is the art university there, has a program where you can take workshops, like
+master classes. They invited a woman named Lauren Newton, who does vocal
+improvisation. I took her master class and that was like... [mimes mind blown]
+I mean, she’s insane. She doesn’t prepare anything. I mean, she’s always
+preparing because she’s always practicing but she just shows up at a concert
+and just sings and does everything. It’s totally like out there, insane, super
+experimental stuff and that’s not something that I necessarily want to do but
+it definitely made me more comfortable with trying out different things.
+Something like “Breathe,” never would have happened if it hadn’t been for
+meeting her. She would make us get up in class and she will be like, “OK,
+you three, perform together now,” and you know, you just get up and do an
+impromptu concert. That was the most terrifying thing ever, but sometimes it’s
+good to do that kind of stuff.
+Emma Warren 
+What do you do when someone just says to you, “Stand up and perform?” What’s
+your natural response?
+Holly Herndon 
+Somebody has to start, so whoever is the brave one starts and you just have to
+listen and that’s the most important thing, is that you listen. Like a lot of
+improv ensembles have just too much information, too much input and the most
+important thing is to listen and to respond so it’s communication. We did a
+workshop with Keith Rowe. Do you know who that is? He worked with Cornelius
+Cardew. [inaudible comment from audience] We did a workshop with him and it was really interesting because like
+the first thing he was just like, “Ah! No. Too much. You guys are playing too
+much.” He said this, that it’s like always remained with me, he was like, “I
+don’t want a sonic sausage. No sonic sausage.” I was like, “Oh, OK. That’s a
+really good way of putting that,” because it was just like... [makes chaotic
+noise] A lot of that is just overconfidence and people wanting to assert
+themselves and wanting to make their mark on the piece. He made a rule where
+you were only allowed to make two sounds in a 45-minute concert. Everybody is
+waiting for that moment when they can make their sound.
+Emma Warren 
+It’s interesting talking about improvisation because we feel somehow, or
+culturally, we feel improvisation belongs somewhere quite rarefied. I had an
+interesting conversation with [Academy crew member] Hanna Bächer who does the
+radio here. She’s got this idea that actually nightclubs are an exercise in
+sort of long form improvisation. If you think about a scene where people, you
+know, the music evolves, you’ve got an improvisation that’s happening over
+weeks and months and years where artist are responding to what other artists
+are doing, what the people in the crowd are doing. The evolution of music is
+actually a form of improvisation. Do you think maybe we just have this
+assumption that some things belong in this kind of rarefied academic world and
+some things are just kind of to do with raving?
+Holly Herndon 
+I don’t really like having those separate worlds at all, that makes me really
+uncomfortable. I find orthodoxy in both worlds extremely boring and
+oppressive. As far as improvisation, I do think it is a different impulse to
+on the spot improvise, or to respond to, you know, your colleagues making
+work. It’s a different exercise – both equally valid. I also think that the
+Internet has done a lot to increase that speed because you don’t have to
+physically go somewhere to know what like, you know, kids in Los Angeles are
+making. We can consume it online. Of course, it always is slightly different
+online. Yeah, I find that response rate has sped up. I actually think that’s
+really exciting. I think that music could be more responsive. I feel like
+stand-up comedy is really good at that. We could take a lesson from there. I
+also feel television has gotten really good at that, and sometimes I feel like
+music, also it’s like an economic factor because for some reason online music
+has not been taken as seriously as I think that it should be. It’s slowly
+happening. Journalist like Adam Harper, right? Adam Harper. I always confuse
+him and Adam Harvey who is an amazing artist. Adam Harper writes a lot about
+SoundCloud music, if you can even call it that, but I feel a lot of journalism
+is still very much tied to industry. It’s really frustrating because I just
+finished my album and now I have to wait six months for it to [to be released].
+I’m in a queue at the pressing plant and then the whole press thing, it takes
+so long and the ideas and the expressions that I have now are going to seem
+six months old in six months. I don’t why I went on that tangent, what were we
+talking about?
+Emma Warren 
+Responsiveness in some shape or form. Interesting that perhaps responsiveness
+is...well we were talking about improvisation and the way people respond to things. That
+responsiveness and timeliness seem like such an important impulse at the
+moment but I suppose that’s because everything is so fast. Talking about
+something you just done very recently actually, responding to Ada Lovelace because it was the day of
+celebration yesterday. Can you tell us about the piece you made with Conrad
+Shawcross?
+Holly Herndon 
+Yeah. Conrad reached out to me... When was this? Not this past summer but the
+summer before. He makes kinetic sculptures and he was doing a gigantic robot
+in dedication to Ada Byron Lovelace. I don’t know if you guys know her
+history. It’s controversial but she’s been accredited by some as having
+written the first algorithm for a computer that didn’t exist yet. Babbage was
+a kind of tinker, inventor back in the day, and he created the difference
+engine and the analytical machine, something like that. Anyway, so she wrote
+an algorithm for one of his ideas for a machine that would have been one of
+the earliest computers. The robot is in her honor. [Conrad Shawcross] asked some musicians to
+respond to the robot, and the robot has a choreography that’s really
+beautiful, has a light on its, I don’t know whether to call it a nose because
+it’s not really like humanoid. So I sampled the sound of the robot and I added
+some voice.
+Emma Warren 
+Can we hear it?
+Holly Herndon 
+OK. Maybe I should show the clip of the robot so you guys know what that
+[looks like]. This is really a short clip just so you can see what the robot looks
+like.
+(video: The Vinyl Factory and Conrad Shawcross present The ADA Project)
+Yeah, so that was installed at the Palais de Tokyo and it was more recently
+installed at ... Do you know the venue in London?
+Emma Warren 
+I think it was the Vinyl Factory in London.
+Holly Herndon 
+Yeah. Exactly. I can play an excerpt.
+(music: Holly Herndon – “Relations”)
+[comments] It’s weird to play this without the robot because it’s tied to
+the robot’s motions.
+Emma Warren 
+You might think so, but when I heard it just by itself I just thought it’s
+really great.
+Holly Herndon 
+OK. I just feel a little weird about it.
+Emma Warren 
+Maybe just a little snapshot snippet.
+(music: Holly Herndon – “Relations” / applause)
+Holly Herndon 
+Sorry. I feel uncomfortable with it. Because the kind of like... [makes
+electronic noise] those sounds are really tied to... She’s like probing. I
+call her she. The robot is like probing her space and kind of like figuring
+out and then she gets more confident as the choreography goes on. Then the
+sound gets more confident and more expressive, and she just starts to jerking
+around. That was one thing he gave me, he did the choreography and then you’re
+supposed to respond to him. The choreography was way too like, [sweet voice]
+“Na-na-na-na-na-na.” I was like, “Can you like make it spike or make it go
+like, ‘Grraah!’?” So he programmed some glitches into it, so she would like
+get angry and then look straight at you, and then like, so yeah.
+Emma Warren 
+Maybe at some point we’ll be able to see the two things combined or maybe it
+was one of the things where you just actually had to go and see it.
+Holly Herndon 
+Yeah, maybe.
+Emma Warren 
+While we’re talking about looking at things, I wonder if now is a good time to
+talk about the collaboration you did with Akihiko Taniguchi.
+Holly Herndon 
+Yeah. I’m really excited to meet him on Friday. I’ve never met him in person.
+We’ve been collaborating via Skype and Google Translate. We’ll probably both
+be there on our phones. I have this translation app where I like speak into it
+and then it translates and I’ll be like... [laughs] That was an aesthetic
+turning point for me, “Chorus.” On Movement, there are some dance tracks and
+some more like poppy tracks, I’ve done some of that. But I felt I was keeping
+things in separate worlds, and so with “Chorus” I wanted to bring everything
+together. I feel like I was imposing that on myself.
+Emma Warren 
+The idea of keeping things separate?
+Holly Herndon 
+Yeah. I had just started my program at Stanford and I was doing things that I
+thought made sense there.
+Emma Warren 
+This is the PhD that you’re doing at Stanford.
+Holly Herndon 
+Yeah. I was doing things that I felt like worked well in an academic
+environment and I did things that I felt worked well outside. I was really
+interesting in those things really being married. It somewhat married in
+Movement but it’s not quite there yet. It still kind of like track by track
+so the album is like that but the tracks stand for themselves. With “Chorus” I
+really wanted it to be integrated together. I think it’s definitely the most
+pop thing that I’ve ever done but I like doing that stuff. I definitely like
+where it’s going now, but not just pop for pop’s sake. Pop is like an entry
+point and then you can introduce other things. Just basically like throwing in
+everything that I love and not trying to keep things separate.
+Emma Warren 
+Should we have to look at your “pop” record then? I use the word advisedly.
+(music: Holly Herndon – “Chorus” / applause)
+Emma Warren
+So what’s in there?
+Holly Herndon 
+It’s so funny to hear that with this huge sub[woofer] because the bass sound’s
+so out of control. [inaudible comment from audience] Oh, it doesn’t sound crazy out there? Okay, I’m like,
+“Whoah!” It’s a Maximus P bass and sometimes they get a little bit crazy. What
+was in the video or in the track?
+Emma Warren 
+I guess I was asking about the track that you might want to answer by visually
+and sonically.
+Holly Herndon
+The track is using the net concrète thing that we were talking about earlier.
+It’s just like audio samples from all over the place.
+Emma Warren 
+Foraging.
+Holly Herndon 
+Exactly. Those are most obvious in the beginning and the interlude in the
+middle but it’s also like sprinkled throughout the percussion and everything.
+Yeah, that was a long, like a sousveillance idea that we were talking about
+and so Mat [Dryhurst] introduced me to Akihiko’s work. He’s done a lot of beautiful work
+and he custom programs all of his own environments that he then performs. Like
+the environments that you see there, he made the program that brings them to
+life, which I thought was really amazing. He open-sourced it all as well. We
+came up with this idea of with this whole sousveillance self-spying. We wanted
+to see where people are having these intimate moments online and where they’re
+spying on other people, kind of spying on them, spying on other people. That’s
+why we asked people to use an iPhone app that’s called Photosynth or
+something like that, where you take a panoramic picture of your room and then
+his stuff works stitches it together into these beautiful 3D models that look
+like, I don’t know, it looks like something is melting. I just think they’re
+so beautiful. Yeah, that was the idea behind that.
+Emma Warren 
+It’s probably worth mentioning the thing, because he’s doing a collaboration
+at the moment with 12 other artists, these guys on future instruments where
+they’re imagining what an instrument might look like in two hundred years. His idea is
+prostheses that allow you to plug directly into sound sources. If you were
+imagining a musical instrument from two hundred years hence, what do you think it
+would be like?
+Holly Herndon 
+I don’t know, I was talking about this the other day, how the Bay Area is full
+of people who like to predict the future, it’s a whole economy. [laughs] So
+I try not to predict the future too much, but I do think that moving away from
+the physical wired objects is definitely a direction that things are going
+in. There’s a researcher, a professor at Stanford called Ge Wang. He has a
+laptop and a phone orchestra.
+Emma Warren 
+Yeah, the Laptop Orchestra.
+Holly Herndon 
+Yeah, and so they mostly use OSC messages over the network and can perform and
+send each other messages. People write custom pieces for the ensemble, and
+they also use different controllers, like gestural things. I think there is
+tons of stuff that we can do. We’re still very conservative. You know, like me
+with my MIDI controller, it’s not very futuristic.
+Emma Warren 
+Actually, the Laptop Orchestra use Ikea salad bowls with holes cut out to make
+little custom speakers.
+Holly Herndon 
+They do. The idea behind that was an acoustic orchestra the sound comes from
+the physical location of player. They want to emulate that, so instead of
+going through a PA, they have little speakers on them.
+Emma Warren 
+He also uses the ChucK programming language, and you’ve been using that as
+well.
+Holly Herndon 
+I have used it some, yeah. He wrote the language that was a part of his
+doctoral thesis at Princeton. He’s definitely like a wiz.
+Emma Warren 
+What is ChucK, and how would someone use it?
+Holly Herndon 
+ChucK is a programming language, it’s text-based. It deals with time in an
+unusual way. It’s not linear where you’re putting things on a timeline. It’s
+more like you write some code and tell the computer to do something and then
+you shred it, so you press the shred button. It also has all this
+idiosyncratic language and the tutorial books are super-idiosyncratic. It’s
+not very user-friendly for newbies, so it’s definitely frustrating to learn.
+Emma Warren 
+Can you give me an example of how you would use it?
+Holly Herndon 
+It’s really good for, and I don’t really do a lot of this but I know a lot of
+people use it for live programming jamming, so you can on the fly write
+something and then shred it and then go in and change it, and then re-shred
+it. You could tell the computer to play like an arpeggiated sequence over and
+over, and then you can just go in and change a couple of numbers and it will
+go up an octave, or you can change the timing. It’s really good for fast, kind
+of responsive jamming, I guess.
+Emma Warren
+We’re going to, I guess, hand over to you guys fairly soon for questions, but I
+wanted to ask you a couple of other things before we do that. One is, I guess,
+traditionally you’re playing in quite fairly rarefied spaces, art galleries,
+theaters, opera houses perhaps, or in nightclubs but quite recently you were
+playing with St. Vincent, you opened for her. How were people responding to
+your music in that more... I mean, St. Vincent is not massively mainstream by
+mainstream standards but perhaps mainstream by the standards of people who are
+normally listening to you. What was that like?
+Holly Herndon 
+Definitely. My radar for what’s mainstream and what’s weird is totally off. I
+have no idea what that even means but she’s on the Colbert Report, so I think
+that’s pretty like wide appeal. Yeah, it was interesting to open for her.
+First of all, I thought it was really cool of her to ask me and she is a very
+generous headlining act, like very generous with her space and with her time.
+It was weird to play indie clubs. I usually, like you said, I’m usually more
+of an art house context or in a club context so it’s a challenge to play for
+indie clubs. There’s often a bar in the room and if you’re the opening act, like
+nobody cares. You’re slightly more quiet than the headlining act, so you’re
+just like... [makes timid sound] There was some of that but I think I won
+some people over. I think it was really bizarre for some people and then some
+people were like, “OK, I can kind of see where this is going,” and somebody
+shouted out “techno shaman.” When I came out on stage I was like, “Uh, OK. I
+guess that’s cool.” [laughs]
+Emma Warren 
+I guess the final thing I wanted to ask you, really, was I guess a lot of
+people here have recently experienced or fairly soon experience that transition
+that you make between your day job and doing this full-time. When you were
+making that transition, just before you made that transition, you were working
+in a children’s museum. Was it like the manager of interactive video exhibits
+or something? How did you make that transition and what was that process like
+for you?
+Holly Herndon 
+After graduating from Mills, I obviously had to get a job so I was really
+happy that I got a job at the children’s museum. It was a great place to work
+but it was obviously full-time. I was dealing with screaming children during
+the day and then writing music at night and on the weekends and performing and
+trying to make it happen. That’s actually also one of the main reasons why I
+applied to Stanford, because I really wanted access to the kind of brain trust
+that they have there. But it was also an economic decision where it was like I
+actually can’t, I’m not having a normal life. I still don’t have a normal
+life, I work too much. But at the time it felt like this just isn’t normal,
+like I don’t have any time when I don’t feel guilty about just going to the
+park or just relaxing. It’s either at work or I’m trying to work on music. I
+think that’s a reality for most people who are making music. Yeah, that’s why
+I decided to go to Stanford and they offered me a very generous package where
+they basically, you know, I don’t have to worry about my income for five
+years, which is insane. It’s insanely liberating. There’s some strings
+attached, like if you have to take classes you have to pass your classes. If
+you have to take exams, you have to teach classes, but I’m almost finished
+with the teaching part. Then I'll have two years of writing and I’m paid the
+salary for two years to write music and that’s amazing. The current economic
+conditions of music are terrible. You have to look at different patronage
+systems. I was like, “I don’t need to reinvent the wheel, let me see what the
+different options are.” Institutional funding is a thing that happens and has
+a history of supporting weirdo music, so let me see if I can weasel my way in
+there and somehow I did weasel my way.
+[applause]
+Emma Warren 
+What will you be doing for the two years worth of writing?
+Holly Herndon 
+That’s a good question and I don’t have an answer for that yet. This year I
+have to figure out what’s called my special area, which is a really funny
+term.
+Emma Warren 
+I think the special area is the top right hand corner of your laptop.
+Holly Herndon 
+I have to declare my special area and so I will be working on that with my
+advisers this year, and then I have two years, basically I have to write a
+large volume of music and I have to write a large text to accompany that.
+Yeah, I’m really excited. I also have access to resources that you just don’t
+have access to these resources outside of certain institutions. We have, it’s
+called the listening room, and it’s a completely spherical room. There are
+speakers in the floor. There’s like a wave field synthesis set up. There’s
+tons of multi-channel rooms. I’m doing a lot of work with ambisonics right now
+in like eight channel performances. You can’t afford to have a ring of eight
+Atom, there are Atom speakers, you know what I mean? And it’s so casual. It’s
+just like, you book the stage and you can go in there. I was in there the
+night before I came here for like five hours doing a multi-channel mix and
+that’s amazing. We also have a fund where we can bring in ensembles and they
+perform our music, so we pay really top notch ensembles to travel from around
+the world to come to our university and they play the music that we write for
+them. That’s also an amazing experience. I feel like when I first started
+doing press and when Movement came out, and people were interviewing and
+they were talking about the academic thing, there was this assumption of
+almost like the academy is a snobbish thing, or maybe I’m like snooty or
+whatever. It’s like no, this is an economic reality and I’m looking for access
+to resources and support, and so that’s where I can get it.
+Emma Warren 
+Hallelujah for patronage, and long may it distributed widely. I think it’s
+time for some questions from you guys.
+Audience Member 
+Hi, Holly. A pleasure. My question is in regards to your creative process from
+CAR in 2011 and how self-aware you were in comparison to how aware you are
+with your research process and how comprehensive it is now. How aware were you
+of like, say, like now is like the sound of now and what’s going on in net
+concrète? I’m not sure even if you’re over that and Chorus considering like
+the six month process and so on. How aware were you of what you were doing
+with CAR and Movement?
+Holly Herndon 
+It’s evolved since I’ve been able to do music full-time. I feel like my
+learning curve has been, I guess, like non-linear. Because when you spend all
+day everyday doing something you just get better at it. I feel with CAR and
+Movement I didn’t really know what I was doing. I still don’t totally know
+what I’m doing but I definitely didn’t know what I was doing, there was way
+more experimenting and noodling around. Now I feel I have more of a handle on
+what I’m doing so I can be a little bit more deliberate. I also feel like at
+that time it was, like I was saying it was more insular, so it was more about
+me in my private studio time. Now, I’m breaking out of that. I’m collaborating
+with people more which has been really good. I’m actually working with an
+incredible and inspiring design group right now called Metahaven. A lot of
+their practice is about, they looked at the field of design and they felt like
+it wasn’t having enough of an impact and it could have an impact on the way
+that people see the world and politics and things like that. I’ve been working
+with them and they’ve had a dramatic impact on how I view music and I want
+music to matter politically, I want music to impact people and offer new
+options instead of just reverting back to the same options and the same kind
+of escapism. I think I’m in a different mind set now than it was then. Did
+that answer that?
+Audience Member 
+Yeah. It’s cool. Thank you.
+Audience Member 
+I just had a question about, you were talking about when you were working on
+your next album how you said you were going in the direction of Chorus but
+going further in the direction of including everything that you’re interested
+in, including more pop stuff, and that term is so loose...I was just wondering,
+I feel like there are so many lines in the sand that get drawn with electronic
+stuff and electro-acoustic and compositional stuff. Are you conscious when
+you’re composing of those kind of predilections that people have or, you know
+what I mean? Where suddenly you add a drum sound, or there is a rhythm, or a
+tonal thing and then suddenly to some people you would be out of a certain
+circle of composers...
+Holly Herndon 
+I totally know what you mean. It’s something that, at least I, it’s really
+hard not to totally turn that off and not be aware of those kind of cues. But
+I also find it can be really oppressive at the same time.
+Audience Member
+Exactly. Yeah.
+Holly Herndon 
+Because even a certain snare sound can trigger an entire genre that will then
+make people think. It’s like, “Do you want that reference to be...?” Yeah,
+everything is loaded, so I think it’s good to know the materials that you’re
+dealing with but I really try not to be too reverent of genre separation.
+That’s actually what I struggled with so much when I first started university
+because I felt this is my serious music. I still struggle with that in
+conversation in class critiques.
+Audience Member
+Yeah, I was wondering. At Stanford does stuff like Chorus...
+Holly Herndon 
+I played that at a concert. I put that on a concert and people were like,
+“That’s cool.”[laughs] I don’t know, I think sometimes you just have to be
+like, “This is how I want it to be and so I’m going to make it that way.” You
+know what I mean? I’ve had really awkward experiences. I’ve had a curator
+wanted me to perform at this like artsy multi-channel event. He kept asking me
+to send him my non-beat stuff. I was like, “That’s whack!” Like I’m, “No!
+You’re coming to me and it’s all the same body of work, so either you want me
+to come and you trust that I’ll do something that will fit or you don’t get it
+and I’m not going to come.” And so I didn’t go. [laughs]
+[applause]
+Audience Member 
+Do you have an idea what it is about an institution that you think it must be
+beatless? Where did this rule come from?
+Holly Herndon 
+Oh, my God. I don’t know.
+Audience Member
+Even if it’s still rhythmic that it would still have to be beatless.
+Holly Herndon 
+It’s like whether or not a beat is regular. That’s like, for some reason, that’s
+what like a lot of academics think is the line in the sand. Like some of my
+music, if you just take the rhythm section away I could totally play it in
+some of these contexts and they would be like, “Ooh.” Then you add the beats
+and it’s like, “Whoah! What is this?” It’s absurd. I don’t understand why it
+is that way. A lot of academic music from the minimalist period was like
+really regular and almost a four/four kind of thing.
+Emma Warren 
+Are academics just like afraid of bodies?
+Holly Herndon 
+Maybe. I don’t know. I think it’s not just academics. I mean, you have this in
+club world too. If you try to do something that doesn’t fit in club world and
+club world people will get mad at you. There are tons of forums of people that
+hate me and hate what I do and hate friends of mine who were doing things
+outside of the club orthodoxy. I don’t know why. This is a human nature thing.
+Why people like to protect themselves and protect what they think is like
+special, and what it does is it squashes it and doesn’t allow it to evolve.
+Emma Warren 
+Maybe it’s to do with people find it easy to define themselves in opposition.
+Holly Herndon 
+Absolutely. Especially in experimental music, there’s a lot of that, like,
+“Well, I’m not pop.” Yeah.
+Audience Member 
+I have a question about your collaboration with Metahaven. They have a
+specific point of view and opinion towards political things. I was wondering
+if you were thinking about this opinion they have when you started
+collaborating with them, and if you would say that your personal opinions
+would merge with their opinions or if they would like adapt to what you were
+trying to say with your music?
+Holly Herndon 
+I think there’s a lot of synchronicity, can I say that, in our thoughts.
+Actually, we’ve been collaborating via Skype for several months and then we
+finally got to meet up in Amsterdam a couple of weeks ago. We were shooting a
+video. They are just mind-blowingly amazing and inspiring. I don’t know if I
+can say I agree with every single thing that they’ve ever said because that
+would be dangerous, but I agree with a lot of what they putting out there. I
+like that they’re trying to be impactful with their work. I love the stuff
+that they did with Wikileaks. They also did a really cool project called Can
+Memes Bring Down Governments? It’s kind of a criticism of how we see all of
+this insane news all the time and we’re dead into it or slightly cold to it,
+but if the government shut down all lolcats, or took lolcats off the Internet
+that there would be a huge riot in the street. They’re like, “So what does
+that say?” And then also like, “How can we use memes in our favor to get
+messages across?” They did this really cool project. I think it was the cover
+of Art Forum or something like that. It says really big “Miley Cyrus XYZ,”
+something about Miley Cyrus. You look at it and then in small letter
+underneath there’s a political message underneath it. It’s like, “Now that I
+have your attention, this is important, you need to read this.” I find that
+hugely inspiring in their work. We’ve had a lot of really long conversations
+and we’ve talked a lot about pop as a carrier signal and that’s a term that
+they use which I really like how music has this really unique and powerful way
+of touching people and traveling really far like MP3 spread. It’s also why
+we’re all broke. [laughs] But MP3 spread really easily and can touch people.
+How can we use the spreadingness of it or its ability to spread, how can we
+use that to talk about things that we care about?
+Emma Warren 
+We’re cash poor but connection rich.
+Audience Member
+I was also wondering how the collaboration came together. Was it from your
+side or did they reached out?
+Holly Herndon 
+Yeah, I wrote them when I was like, “Please write back.” They did. I was such
+a fan girl but then they were also a fan so that was really nice and it’s just
+been super seamless and really amazing. Check out their work.
+Audience Member
+Yes.
+Emma Warren 
+Any other questions? Yes.
+Audience Member
+Hi, Holly. I was quite interested in what you’re saying about the sound of now
+and then that contrasting with the fact that you had to wait six months for
+the pressing process and why then you see the need to bother with a
+physical form at all. Is it due to the lack of alternatives or the economic
+decision or where do you stand on that?
+Holly Herndon 
+Yeah, it’s an economic decision. It’s the press machine. The press machine
+does not yet validate all my music to the extent that it should. The whole
+press machine works around releases and albums and physical albums are still
+really important to the press machine. You need the press machine in order for
+me to be sitting here. If it wasn’t for the press machine, I wouldn’t be
+invited. It’s really hard to operate outside of that system. You’re removing
+yourself from an economy. Yeah, I would love to see that change. I do some
+stuff that isn’t physically released. Yeah, it’s just like a necessity.
+Emma Warren
+One more question here at the front.
+Audience Member 
+Hello Holly, thanks for being here, it’s amazing. First of all, I’m getting
+intimidated by your work in the best sense of it. When I realize that
+something new is coming out from you, I try to avoid seeking it online because
+I am depressed and stuff. It’s amazing. For me, the most amazing thing is how
+the process is really transparent in the sense that the same way that Steve Reich was talking
+about in the ’60s that he wants the process to be visible and at the same time
+listen to what’s happening. For you also, when you’re talking about the
+concept, at the same time it translates in the music and this is amazing. In
+that sense that even like the granulators and the voice leads to the same low
+bit rate that we have in the Skype calls and stuff so it’s really a direct one
+on one reference. It’s perfect. At the same time, this is the two-dimensions,
+how we perceive the music, the dimension of how we’re thinking about it.
+There's also the dimension of the technique and the programming and all that.
+Were you’re thinking about being more open about it, giving it away to your
+patches and to all that kind of stuff because they’re really amazing, first
+of all...
+[laughter]
+And second, to have all the dimensions to fully comprehend and get your work.
+Holly Herndon 
+I get asked that a lot. I think some of it is just bashfulness. I’m not the
+best programmer in the world. My patches are really ugly. I don’t know. I know
+they’re idiosyncratic and I know how to make them sound like how I want them
+to sound. I think I haven’t been comfortable with releasing anything like
+that. I have been working on a patch with a friend of mine who’s a much
+better, more stable developer than I am. We’re designing something and as soon
+as we get a free week to sit down and get it all done, we definitely, I would
+love to release them.
+Audience Member 
+It suits your ethics anyway.
+Holly Herndon 
+Yeah, but also in a way I don’t like, with some students, I’ve done things
+where I’ve shown people processes or what’s under the hood and done a demo,
+things like that. And with students, sometimes I don’t want them to necessarily be
+like, “Well, that’s the way to do it.” I think it’s good to figure out your
+own way and your own technique sometimes as well. Not in a way to be secretive
+or private. Also, I think it’s good for people to figure things out themselves
+and do things themselves. I definitely use YouTube tutorials all the time. I
+love to do wobble bass massive tutorial like I’m like a 16-year-old in
+Australia or whatever. We all do that. Yes, I should be better at that. I’m
+sorry that I have not been good at that in the past. [laughs]
+Audience member 
+Can I also ask another thing if possible? Thank you. First of all, the whole
+idea of trying to make your music sound, without referencing the past and the
+whole to avoid escapism, I envy that you can do it and you can actually
+conquer this thought and this idea. It’s extremely amazing. But at the same time,
+how will you feel in ten years when some people might feel nostalgic with your
+work and listen to it?
+Holly Herndon 
+That’s a good question.
+Audience Member
+I mean that in the best way possible. I like nostalgia...
+Holly Herndon 
+I think there’s a major difference between appreciating something of the past
+and understanding your lineage. I listen to music that was made a long time
+ago every day. It’s not about being like, “Well, that’s a year old; I can’t
+even like it anymore.” It’s not about that. It’s about the music that you’re
+making being responsive to your current condition.
+Audience Member 
+I mean the sense that somebody maybe in 50 years, say that, “Okay, this was in 2014
+and that was that.” Get the reference that you know all this. “These warbled breaths are Holly
+Herndon’s thing so I’m trying to do it,” and they will reference back to you
+in a way.
+Holly Herndon 
+That’s fine, though. Then, that would be combined with whatever new machine
+they’re using.
+Audience Member 
+Totally.
+Holly Herndon 
+It’s able to, I don’t know, spray sound at you in some weird way. I don’t
+know.
+Audience Member 
+No, it’s perfect. Well, I try to find the defect on what you’re doing so I can
+sleep at night.
+Holly Herndon 
+[laughs] There’s plenty of defects, I promise.
+[applause]
+Emma Warren 
+As we pass the microphone over, just out of interest, what old music were you
+listing to yesterday or the day before?
+Holly Herndon 
+Well, that makes me look like really self-obsessed because I’m listening to
+mixes from the album that I made but there’s something else in there. It’s
+Paul Lansky. I don’t know if you guys know who that is. He’s amazing. He did a
+series called the Chatter piece, the Chatter series. Anyways, I was asked
+to do a remix, they’re doing a big event at MoMA PS1 this weekend. I was asked
+to do a remix of one of those. I was listening to it a lot. I’m trying to get
+in there.
+Emma Warren 
+New question?
+Audience Member 
+Yes. This might be a little bit weird. You were talking about growing up in a
+very religious area and going to church and singing in the choir. It seems
+like you moved away from that. You moved to Berlin, you broke out of your
+shell, you found who you are, maybe, from what I was listening to. Then, the way
+you’ve been talking about your music and being very of now and more in the
+technological world, I’m wondering, do you have your own spirituality, your own
+spiritual connection, like a daily spiritual practice you might have? Because
+you grew up with religion.
+Holly Herndon 
+I’m not a practicing Christian anymore if that’s the question. [laughs]
+Audience Member 
+No. I’m more so asking you, for me, I have my own spiritual practice and it’s
+not tied in any kind of religion but it’s very involved with my music and my
+life. I’m wondering if it’s the same for you.
+Holly Herndon 
+I think that’s something that I could get better with. That and regular
+exercise. I feel like those are tied, really. Well, when you’re thinking of
+spirituality, it’s like coming back to yourself and having a moment for
+yourself. I feel that way when I exercise a lot. I guess that would be when I
+come to a center and that’s really difficult when I’m traveling all the time.
+You travel all the time too. That’s something that I would like to improve.
+Audience Member 
+Cool.
+Emma Warren 
+Any questions? Yes, over here.
+Audience Member 
+Hi. Thank you for the lecture. It was amazing. I guess my question is about
+text-based programming and the way it influences the way you think about the
+structure of your pieces. In my uni I have used this language-based,
+language called Common Lisp Music which I think it was developed at Stanford. I
+felt that I was the last person in the universe using it. It’s very difficult
+and not really documented online very well. I really, really struggled with
+it. At the end of it I feel like we were friends. [laughs] My question is,
+how did you start approaching text-based programming? How does that influences
+the way you think about?
+Holly Herndon 
+I don’t really use ChucK very often because I find it difficult to use. I use
+Max much more which is a different interface. But some other thing, I did it
+for a remix. That was the only piece that I made out of it. Why did I start
+using it? I started using it because Ge [Wang] wrote the program. It’s one of
+the programs that is pretty widely used at Stanford. So it’s kind of a
+necessity. I took a class where everything was in that language. Then, I TA’d
+that class which was terrifying because there was a lot of Computer Science
+masters students in there and I would have to grade their homework. I’m like,
+“Oh, my God. I have no idea what I’m doing...[mimes marking papers/laughs] A plus!” Really, Stanford CS
+students are insanely advanced. So it was a necessity thing to need to learn it and to
+become somewhat comfortable with it. I don’t really use it very often. In a way I
+was able to get almost weirder sounds out of ChucK because I think I didn’t
+have that much control over what I was doing. So I got way more out there and
+glitchy sounds than I usually get which I think is pretty cool. But I'll usually use
+Max because I’m more comfortable with that.
+Audience Member 
+And the help patches are really useful in Max.
+Holly Herndon 
+Yes, they are! Everything is super documented. That’s the other thing. ChucK
+is not as documented because it’s an academic project. One language that I
+have not used but I would like to get into is SuperCollider.
+Audience Member 
+Yeah, it’s amazing.
+Holly Herndon 
+That’s what everybody says. I’m behind. I need to learn SuperCollider. It’s
+super documented. There’s a huge community. I think when you’re trying to
+learn new languages like that, it’s just helpful to have a volume of people
+who are like, “Oh, I figured out that issue and I’m going to document it.”
+That’s what so amazing about what you’re talking about, about open source
+community and people being willing to problem solve together and help people
+out.
+Audience Member 
+Thank you. I just have another question if that’s all right. Many sounds of
+our cities are disappearing. For example, the sound of cars might disappear as
+they might be or might not be replaced by electronic cars, like you mentioned.
+Talking about nostalgia again, do you think people will develop a nostalgia
+for lost sounds in the future? I know the futuristic direction is...you said it’s
+not your thing but I’m just curious.
+Holly Herndon 
+If people will be nostalgic for today’s sounds?
+Audience Member 
+Yeah.
+Holly Herndon 
+Probably. People are nostalgic for pretty much every era, I think... Like
+steampunk’s a thing. [laughs] I can’t believe I just mentioned steampunk.
+No, but also, the thing about nostalgia that I’m having trouble with is it
+often colors the past with rose-tinted glasses or whatever the saying is. It’s
+people are nostalgic for an earlier time in music. I’m really glad that I’m
+not in 1950 right now. That would suck, actually, for me and for a lot of
+people like we’ve made a lot of progress. I don’t really have that same kind
+of nostalgia. Yeah, who knows? Maybe when I’m 100 I’ll look back at today and
+be like, “Oh, it sounded so good.” Maybe.
+Audience Member 
+Great. Thank you.
+Audience Member 
+I just want to quote that conversation that we had about... Everyone is
+actually talking about that right now, that’s the main question. But I guess
+the idea of how vocally you can convey emotions and how you’re pretty
+conscious or you’re interested in the idea of not having a reference point in
+terms of how you convey emotions in the runs that we’re talking about the
+runs, the RnB runs and how you have certain ways to convey emotions that are
+connected to a certain time. I just wonder how vocally you... There’s no
+answer. I mean, it’s something that you work on. I just want to know the vocal
+process and also the lyrics, how you make those decisions. Because I
+understand in terms of making research in terms of the sound that you use is
+something that I totally understand in terms of having no reference point. The
+voice, for me, is a very specific thing that when I write a song it’s really
+something I can’t really think about because the emotion is what I feel right
+there that they, what I’m trying to say, how I woke up. It’s very interesting
+for me to see what the process is to separate the emotion that you have there
+from a time, I guess. That’s my question. 
+Holly Herndon 
+I don’t think it’s about separating the emotion from it. I think, for me, it’s
+about finding my own way to express emotion because I actually find that when
+I put on an affect of how someone else has expressed emotion and I put on that
+affect, I feel like I’m disengaging from the emotion in a way because I feel
+like it’s not necessarily coming from me, it’s coming from what I understand
+emotion is supposed to sound like or supposed to be. To me, that feels false.
+I don’t think it is for everyone. For me, that feels false when I try to put
+on an affect. I was really interested in trying to not have that separation
+and actually find a way for me to be emotionally expressive that is unique to
+me and that is by processing my voice and trying to find new ways of
+expressing that. I think I fail at it a lot of times. Some people describe my
+music as being really cold. It’s on the Internet, people say it on the
+Internet. [laughs] That’s really bizarre to me because I feel like for me
+it’s really cold if I see someone emulating a pop star using their exact
+emotional nuances because to me that’s disembodied, that’s separated, that’s
+you acting like someone else. I want it to actually to come from myself. I
+have to then redefine that for myself. Of course, it’s never going to be
+totally separate. It’s a lineage. I’m using a language that has a large volume
+of pop music. There’s always going to be some sort of tied connectedness. For
+me, it is about finding that emotional.
+Audience Member 
+Is it something that you fight, that you’re fighting constantly with?
+Holly Herndon 
+I think it’s my nature to be turned off by that. I don’t think it’s something
+that I have to fight. I am never like, “Oh, I’m really wanting to do this
+crazy affect.” I don’t feel comfortable with those affects, so it’s not
+something that I’m ever fighting against. It’s definitely a challenge to find a
+way to express what’s going on in here.
+Audience Member 
+What about lyrics?
+Holly Herndon 
+Lyrics? The record that I just finished is very lyrical and that’s super new
+for me. A lot of my stuff has been about chopping things up and not really
+understanding things. I think sometimes I think it works really well in
+keeping things abstract. Then, sometimes I think it’s a cop out that I do
+myself. I really wanted to challenge myself to have understandable lyrics. The
+track that I released recently, “Home,” it has understandable lyrics and the
+lyric actually Metahaven typed the lyrics in the video so it’s like I really
+know what the lyrics are. [laughs] I think that’s also a part of me trying
+to not be so introverted and trying to talk about things that I care about
+that are extra-musical and so lyrics do a really good job in expressing those
+ideas. If I keep things in the very abstract always, sometimes it works, like with
+“Chorus,” it’s like, “Ooh, ooh, ooh, ah,” you know, I think those aren’t
+really lyrics. It’s just like phonemes but it wasn’t about that. It was about
+the hyper and disperate sounds that we experience on the Internet. I think for
+different project different things work, you can be more or less abstract.
+Some of the songs on the album, like I sat down and I wrote the melody and the
+lyrics in like...one sitting, in 15 minutes. Usually, I’m laboring over things
+and there’s a bazillion edits, and there was a couple on there that were just
+like “blah.” I think they have a special quality that sometimes the other ones
+don’t have. They just have roll in a really natural way. You know, that
+doesn’t happen unfortunately every day. You just sit down and it’s like boom,
+here’s a track. You know what I mean? That’s kind of rare, actually, or at
+least it is for me. But I would love for it to happen more often.
+Emma Warren 
+Anymore questions? Yes.
+[inaudible question from audience]
+Holly Herndon 
+Could we?
+Emma Warren 
+Yeah. Go ahead.
+Holly Herndon 
+I think that would be great. This video was done by Metahaven and I’ll let the
+video speak for itself but the graphics that you’re seeing, the logo rain,
+those are all the graphics that the NSA use on their internal documents, for their
+really hilarious Powerpoint presentations. Like it’s really funny, to
+just google the NSA’s...They have so many really nefarious programs. There’s this
+one program that’s dedicated, I think, to cell phone tapping. I can’t remember
+what it’s called. But the logo is a wizard with his eyes blinded out and then
+like a pole with a cell phone taped to the end of it. It was like so evil
+looking. They know they’re being evil. Their graphics are kind of hilarious,
+that’s kind of poking fun at them and also talking about the issue.
+(video: Holly Herndon – “Home” / applause)
+Emma Warren 
+Do we have anymore questions from the floor?
+Holly Herndon 
+I just have to say that that was terrifying for me. Not sitting here, but like
+making that because the voices are like the most clean thing that I’ve ever
+done and I’m singing to a camera. I was like, “You want me to what, Metahaven?”
+But the whole track is about transparency and about your intimacy
+being invaded so it felt really important to do that. I just want to say that
+that made me very uncomfortable.
+Emma Warren 
+I guess we should say that we’re very pleased that you put yourself through
+that. Interesting though, like what the idea of transparency does to you as an
+artist if you take that to its logical conclusions. It’s great.
+Audience Member 
+I just wanted to ask something about the meaning of the video, but you just
+answered that question. So the other thing I wanted to ask is, because you
+obviously use NSA as some sort of way to like visually show the NSA in your
+video, I was wondering if it was something specific that you wanted to make
+the song about the NSA or is it a metaphor for what you’re trying to describe?
+I was wondering, the second question, why some words were left out of the
+video?
+Holly Herndon 
+That was Metahaven’s decision and I think a part of it was just they didn’t
+want it to be, because some of the chorus is very repetitive, and they didn’t want
+to be hammered home over and over. It was also about the idea of transparency
+and I’m also covered quite a bit and how things are not always what they
+appear and you are never really getting all of the information. I think. I’m
+paraphrasing for them. They would probably answer that question a lot better
+than I did. The first part, oh yeah, what was it about? I mean, it is a
+metaphor. It can be seen metaphorically but it was actually meant pretty
+directly. This was one of the tracks that I just kind of...like sat down and
+wrote pretty easily. The way that it started was with the sample of a ball
+dropping, so it’s really low in the mix now. Most people miss it but the verse
+has an unusual rhythm because it’s like, “bump, bump, bump,” like a ball. It
+has that, like a non-linear kind of pattern. That’s like how the drums are
+built around that for the first verse and again for the second verse. But I
+was thinking a lot about dropping the ball and I know that’s really cheesy but
+it was like, that’s just how I started. I was like, I’m running around like
+crazy. I’m trying to do way too much, like doing a PhD and having a music
+practice, is like really, really hard. I felt like I was running around all the
+time and I felt like I was dropping the ball a lot. Like not answering emails
+fast enough or whatever, and I felt like that whenever... This was before I
+had international roaming on my phone, which has been a lifesaver. So whenever I
+would have Wi-Fi, I would be like, “Oh, I’m home.” That’s where “Home” came
+from, like my inbox is my home. I can control and answer people and I can
+connect with people and get everything done that I needed to get done. It was
+about dropping the ball and then feeling at home with my device. That’s where
+the next layer came in of being like, “Well, if this is my home, and this is
+where I feel comfortable, and this is my private zone,” like, “What does it
+mean that somebody is potentially is listening and viewing?” Kind of like
+digging through all of these interactions, so that’s how it evolved into that.
+Have you ever seen the German film, I think it’s called The Lives of Others?
+Audience Member 
+Yes.
+Holly Herndon 
+That was a huge inspiration for this track. I love that movie and it’s
+basically about during the DDR one of the Stasi officers who is required to
+eavesdrop on this couple and becomes really emotionally invested in their
+lives. I wanted to make an emotional track about my feelings about this. It’s
+a song to the NSA agent who is spying on me. It’s like a love song to him or
+her but it’s also kind of a breakup song as well. It’s almost like a naive
+teenage relationship where it’s like, you know, “I thought I knew who you
+were. I thought you knew who I was.” You know, those kinds of things. And I feel
+that way about some of the devices and some of the things that we use. It’s
+like it still pretty teenage our relationship with these things and we’re like
+working through the tough bits now.
+Audience Member 
+Thank you.
+Emma Warren 
+Question at the back.
+Audience Member 
+Hello. I was listening to you. You said you had this interest about
+actuality, about to influence people’s life on a political level and on
+different levels. I wanted to know what are your thoughts about the group of
+people you reach with your message, and how that determines your strategies
+like in different levels, like commercials? Do I explain myself?
+Holly Herndon 
+Do I think about my audience?
+Audience Member 
+Yeah. About the people you reach with your message and how that determines
+your strategies, commercial strategies. I was thinking about the press, the
+machine you were talking about, the release and all these things we have to
+deal with.
+Holly Herndon 
+Yeah. I definitely think about my audience. I try not to allow it to be an
+oppressive kind of thing. I think that harkens back to what I was talking
+about with pop as a carrier signal, because something like this, to me, this
+is pop music. I don’t know if that’s pop music to everyone, but to me, that’s
+pop music. Yeah, that’s pop music. I feel like something like this is going to
+have a wider reach because of the structure of the track and because of the
+treatment of the sounds and the treatment of the voice. That’s going to have a
+wider impact than like “Breathe,” for example, because it’s more accessible. I
+think that you can then embed messages into those formats and I think that’s
+what I’m trying to do. Did that answer your question?
+Audience Member 
+Yeah, more or less. We could go deeper but that’s okay. I was thinking if you
+recognized some territories that are most important for you and if that
+determines somehow your strategies. I don’t know, like if you see where your
+message is going. Not so much, I mean, who gets it?
+Holly Herndon 
+I don’t have a ton of control over that. It’s still fairly new to me that
+there is a world of people listening to my music. I’m still like, “Really? You
+listen to it?” I’m still in that phase. I would love to be able to reach
+outside the world I am reaching right now. I haven’t really strategized around
+that or giving it a ton of thought but I think it’s something that I should
+probably work on in the future. It’s difficult because I feel the music
+industry deals heavily in archetypes and if you fit into a certain archetype
+then you can travel really far. There are certain archetypes that people
+really understand, I’m not going to name any because it will sound like I’m
+being negative about it. Anyways, we all know certain archetypes that exist in
+music and they travel really far and you can reach a really broad audience
+that way. I’ve avoided playing into archetypes because I want to create my own
+archetype. I want to be the artist that I want to be and I don’t have to fit
+into an archetype and I think that has impeded some of my ability to spread
+further. But I think if I want to be happy with my work and I want to see new
+archetypes in the world then I have to just to stick to my guns and keep doing
+it, and then hope that I’m able to reach people anyways. I’ve been fortunate
+to be embraced by a lot of techy, nerdy people, which I guess, is like kind of
+my community. I think also working with Akihiko reached a really wide audience
+of people who were into the kind of visual programming that he does. Yeah, I’m
+not really sure who my audience is or how to grow it but if you have any tips
+on that then... [laughs]
+Audience Member 
+Thank you.
+Emma Warren 
+OK, anymore? I guess you can carry those conversations on informally over
+lunch, but in the meantime, thank you very much.
+[applause]

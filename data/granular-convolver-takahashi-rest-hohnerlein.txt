@@ -1,0 +1,302 @@
+To celebrate the 20th anniversary of the Red Bull Music Academy in Berlin, Tatsuya Takahashi, Christoph Hohnerlein and Maximilian Rest collaborated on a brand new musical device, the Granular Convolver, which was given to each of the participants attending the Academy. As Korg’s former chief engineer, Takahashi has been responsible for some of their most exciting products in recent years, including the Monotron, Minilogue and Volca series. Hohnerlein is a DSP engineer specializing in the field of auditory perception, while Rest is the co-founder of E-RM Erfindungsbüro, a Berlin-based hardware manufacturer specializing in high-quality MIDI sync devices. In 2017, Rest and Takahashi first collaborated on a synthesizer project for Ryoji Ikeda’s [A For 100 Cars] as part of Red Bull Music Festival Los Angeles 2017. 
+In this public conversation at Red Bull Music Academy 2018 in Berlin, Takahashi, Hohnerlein and Rest discussed the what, why and how of this unique instrument.
+Tatsuya Takahashi 
+Today we’re gonna be presenting the Granular Convolver. As I already stated, it’s a device that was made especially for the participants of the Red Bull Music Academy, which is now taking place in Berlin. It’s actually the second time that me and Max collaborated. The first was last year’s show in LA, it was called A [For 100 Cars].  It was a composition by audiovisual artists Ryoji Ikeda and we made 100 sine wave generators, each with a different frequency, and we played them back through 100 cars with stupidly big soundsystems and we made a big drone piece. [speaker holds up sine wave generator]
+Conveniently, it has a timer on here so we can keep track of where we are in this lecture. I don’t know, do you wanna talk about... I don’t actually know how you guys met or what you worked on before but...
+Christoph Hohnerlein
+I know Max since, I don’t know, eight years? Roughly.
+Maximilian Rest
+Eight years, nine years, maybe.
+Christoph Hohnerlein
+We met in university, as undergrads, doing electrical engineering. We started studying back then together and then kept on working on several projects...
+Maximilian Rest
+We did some research together as well, and we went together for our... For our degrees we went to Stanford, to CCRMA and did research after this together and collaborated on different projects and synthesis, DSP.
+Tatsuya Takahashi
+Any in particular?
+Maximilian Rest
+There’s one in particular. Yeah, there’s one in particular which is not too public yet, but yeah, we’re working on something.
+Tatsuya Takahashi
+Oh OK, Sorry.
+Christoph Hohnerlein
+It also makes sound.
+Maximilian Rest
+I just brought Chris in ’cause we’ve been working together for some time in the last years, and it’s the team that made the Convolver.
+Tatsuya Takahashi
+And also we have on the left here Mari Matsutoya, who is a multidisciplinary artist. She works in the field of technology embodiment and gender. Actually she’s done a collaboration with Laurel Halo on using the Hatsune Miku Vocaloid. Another thing she does is she takes apart electronic devices on stage and then puts them back together again. So this is her Granular Convolver rendition of that performance and this will be taking place in the background as we give this lecture. [screen next to speakers shows a top-down view of her performance throughout]
+So, I’d like to explain what this thing actually is. So it’s called a Granular Convolver because it is a combination of granular synthesis and a mathematical process called convolution. This came about because... Well firstly, I wanted an excuse to build something, and so I was thinking what can we build that would be especially made for the academy participants...
+Maximilian Rest
+And it should be a dub siren.
+Tatsuya Takahashi
+Yeah, it could be a dub siren. And thank God we didn’t make a dub siren because... Or any kind of synthesizer because it would have had a certain sound and we didn’t want to make something that would impose a certain sound or a certain tone that everybody had to work with. So the challenge was, “How do we make an instrument that doesn’t have a voice?” That instead you would have to give it that voice. So the obvious thing was to work with samples but obviously we have a million samplers out there, both in hardware and software. 
+The next idea was, “Why don’t we use samples and do granular synthesis with it?” But then it would kind of sound like granular synthesis, so I was kind of stuck there when Max mentioned, for a complete different project, that we should use convolution. And convolution, in broad terms, is a way of combining two sounds together. People usually associate convolution to reverb processing, but actually it’s just a way of combining two sounds together and matching the spectrum and picking out the bits that are common to both sounds.
+So it’s a way of marrying two sounds together and coming up with a new sound that sounds like both of the two original sounds, but is actually very different as well. So I was thinking, maybe if we can have sampling, and we can have granular synthesis, where we can really zoom in the sample and pick out the bits that sound interesting, and then what if we can convolve that with another sound that’s coming in in real time? And it could be anything, and it could work for people who aren’t synth geeks, it could work with people who are instrumentalists, vocalists, drummers, and it would be something that everyone would be able to use.
+So, this is what it looks like [speaker holds up Granular Convolver] and you can record 20 slots in here by choosing the slots, and it’s best illustrated by actually recording a sample. [speaker connects Granular Convolver to microphone] So I’m gonna record the cymbal now. [speaker hits cymbal] And we can play it back. OK. Here it is. The granular bit is you can slice a small fragment of that sample. And we have two controls, we have the grain size, which is the size of that fragment, and we have the position, which is where in that sample you pick this fragment out from. So we can preview the grain. [Granular Convolver makes short, stuttering sound] And by changing the position within that sample we can pick out specific parts of that sample. So the attack portion would be that bit. And as we move through the decay we can hear the high frequencies dying away. [speaker scrubs Granular Convolver through the recorded sound] Like so. But we’re stilling just listening to the grain right now. The idea is to convolve something else with it. So in this example, I will connect a contact mic and start convolving. [speaker attaches contact mic to Granular Convolver and begins tapping it with his finger] So right now, we’re convolving what this pickup is picking up from me hitting it, and this excites the sample. And if I tap on it with my nail, you get more of the highs. If I tap it with my finger, you don’t get so much. Maybe if I... [taps gently on mic] It’s very quiet. 
+So we can get different expressions or different versions of the cymbal sound according to what input we put inside it. We’ll be showing more sound demos later in conjunction with a bit more of a detailed explanation of what convolution actually is. So this was sent out to all of the academy participants. If you don’t know about the academy, you can go around and see the studios where it happens in this building. We have 60 participants coming from 38 different countries and the idea was to send these out to them before they come to Berlin and to collect sounds from home and have a different kind of level of communication and of language to collaborate and work on new sounds together.
+So these were sent out with these pickups courtesy of Korg, and these mics courtesy of Audio-Technica. And so they came in and we just finished the first sound and they have been doing some pretty crazy stuff with them. It was really important that this was a handheld device. I think it’s the first time that this has taken the form of a hardware device. It’s battery powered, so you can go around and you can pick up sounds. Although there’s a USB circuit here, it’s just for power, it’s not for loading samples into this unit. So the whole point of this was that you have to be in the physical presence of sound to capture it.
+Also, with regards to the controls, you can see on the screen there, as Mari takes this apart, all these controls have been custom made for this project. All made in Berlin actually, amazingly. Each one, I don’t know if you can see it on the screen, is laser-engraved on the back with the name of each of the participants. So this, at the same time as being an instrument, it’s kind of like a letter to the participants to say, “Hey, check this out.”
+And also the form that it takes, the big knob, this is my way of thinking about making instruments, is that it actually needs to unfold into an experience where it’s saying stuff to you. It needs to speak to you. This big thing is big because you want the resolution and you want the detail when you’re navigating through the sample. The grain size is on a slider because you maybe wanna do fast cuts. The longer the grain, the more ambient the sound is, the shorter the grain, it sounds more like a filter.
+So these things were all taken into account when designing this thing. And also, we really wanted to strip it down to the bare minimum. We had ideas about adding a filter to the output, or some kind of compression to the output to make it easy to use, but at the same time we were thinking, “What the hell do we know? These participants will come in, they will all use it in their own ways.” So we were like, “Yeah, let’s keep it open, let’s keep it very simple. Two controls. And just be open to what people do with it.”
+Maximilian Rest
+Just to add, because were weren’t sure what people come up in terms of the sounds, right? How people would use this technique, we had no clue before how to...
+Tatsuya Takahashi
+Yeah, exactly. I mean, some things that we might think is right will be in the complete wrong direction of what other people might wanna do with it. Which is why it’s just cut a grain and convolve, and that’s it. And also, the actual industrial design reflects that. We’ve got no surface treatment. These are made from sheet stainless steel. This is before, when it’s just been laser cut. [speaker holds up cut piece of sheet metal] and before it’s been folded into a box. No surface finish, this is the way they buy the material and it’s got this matte gray, metal feel to it. All these knobs that are machined, as is, with all the machining marks. So it has that kind of pure, kind of raw feel to it.
+So that was very important again in conveying this message, to speaking to the users. Should we talk about what’s inside? Max, you can talk about the nuts and bolts? The guts? 
+Maximilian Rest
+Yeah, I think we are far enough to see some of the insides, the guts of the Convolver. Can you imagine the Convolver to be a shrinked down, full computer with a MIDI controller in front of it. The computer itself has just been taken out there. [speaker references what’s happening on the screen] It’s a green little chip there in the middle, between the cable and the board. [speaker moves over to the screen] And the other board is actually the full computer. It’s a computer with 4 GHz, it’s a Raspberry Pi that’s running the audio algorithm on it. That’s a board we designed which contains a soundcard and a differential mic input, and a board in here is the board which takes over all of the controls and manages all the knobs and buttons and LEDs and power management.
+I said it’s a computer and a MIDI controller. A midi controller is actually this, [points to controller on screen] and there’s a microprocessor which takes care of power management between battery and USB. All the LEDs, all the shutdown and power-on sequences, all the buttons, and then sends MIDI to the other board, to the computer, to the Raspberry Pi. The Raspberry Pi is actually running Linux, custom Linux that we made for this guy, that boots up quickly ’cause you don’t wanna wait for 30, 40 seconds, 50 seconds for the Convolver to start. 
+The computer is connected to the soundcard and this is where the whole audio stuff happens. Audio in goes into the computer, is processed, and goes out again. You can imagine this like your DAW, your computer, and between input and output we placed a software called SuperCollider, open-source software, which is operating a script. You can imagine it’s like a plugin between input and output that processes all the sound and runs the algorithm, which is controlled by the interface, which we have here.
+Tatsuya Takahashi
+So the board on the bottom there is basically what you might call a MIDI controller, right? And it actually sends MIDI over the cable to the other board.
+Maximilian Rest
+Exactly. Yeah. It’s all based around open-source software, basically. I’ve been talking to someone, an older engineer recently, who said that 20, 30, 40 years or 30 years ago, it was so hard to get access to these specialized chips and DSP power and computer power. All of this stuff, it’s all there now. We were just able to do this project in such a fast time because we had access to all these building blocks. We just set together a couple of building blocks, which is this ARM processor which does all of the low-level stuff, all the power stuff. And it’s all documented and there are communities around this, and there is forums and there are tutorials and application notes. And the same for the Raspberry Pi. It’s a special version of the Raspberry Pi. The Raspberry Pi is like a tiny computing platform with a powerful processor. This is the slimline version, the compute module. It just goes into this little socket up there. And all the stuff is just there, and all the documentation is freely available. And there was a real benefit in this architecture that we could set it on. 
+Christoph Hohnerlein
+One great advantage to us having full Linux on there is that it runs all the software that you know from a normal full-size Linux, obviously. Which allows for super rapid prototyping. Which allowed me then to try  out things quickly. What works, what...
+Maximilian Rest
+Right. Right. So SuperCollider is cross platform. SuperCollider would also run on your Mac. SuperCollider is a scripting language to script how you want to process sound. It ran on Chris’s Mac and it ran on my Linux machine and it ran as well on this tiny little computer, so the workflow was pretty well defined from the beginning. I was programming and developing the embedded stuff for the MIDI controller, and Chris would just do the SuperCollider on his Mac because the Raspberry Pi part wasn’t ready yet.
+But he could just start developing and we just agreed on a specification to communicate between the layers over MIDI, and then he could just use his Mac to write the script and just get the DSP ready. And when the other stuff was ready, we just joined everything.
+Tatsuya Takahashi
+I think it’s a great time to be building stuff, right? So we have to worry less about building the small details and making it work, and we can worry more about the creative implications of what we are doing. I think more and more access to this kind of technology has first of all, made it easier to use...
+Maximilian Rest
+Definitely. 
+Tatsuya Takahashi
+... But it also means that you have more time to worry about how it’s done and what it’s doing and the creative side of using that technology. I think it’s a really good example of that, actually, this project. 
+Christoph Hohnerlein
+Yeah. Definitely. 
+Tatsuya Takahashi
+Using the means and the resources that people have now. And I guess things like Max for Live, if you own Ableton, it’s in there. You can either build your own instruments or use other people’s instruments. And I think it’s a really interesting time if you’re a musician, or a visual artist, or to have this access to this technology because you can do some really cool stuff without having the skill or the knowledge of all the details. And you can work in a macro state. I think it’s really great. 
+Maximilian Rest
+And you don’t even have to design your custom hardware. There are boards or kits out there where you have audio in and everything. You don’t have to do all the work to engineer your own device. That’s all out there. And I think there’s another nice benefit. The thing, the Convolver, in this state, is completely open and hackable. I would encourage everyone that has one to screw it open and read the instructions on the back. Because you can just connect to it and change your convolver or whatever your convolver does.
+Tatsuya Takahashi
+Into a dub siren?
+Maximilian Rest
+Into a dub siren, yeah.
+Christoph Hohnerlein
+You can check out what we’re doing on it. You have actual access to the code if you snoop around a bit. 
+Maximilian Rest
+Yeah.
+Tatsuya Takahashi
+Shall we talk about what convolution actually is? 
+Maximilian Rest
+Yeah, what is convolution?
+Tatsuya Takahashi
+What is convolution?!
+Christoph Hohnerlein
+A great time. Well...
+Tatsuya Takahashi
+But before we talk about that, we need to explain what is sound, right?
+Christoph Hohnerlein
+Well, I guess. At least a specific representation. Luckily, we have something prepared. Since we’re already using our screen. [Tatsuya holds up a large graph] All right. OK, so, if you remember, we recorded the hit on the cymbal, just before. And then, we picked out a little grain. And more or less, you could imagine this grain that we played back, this little hit that you heard before, can be represented in this kind of way. Which I assume most of... Or some of you are familiar with is the spectrum. 
+Tatsuya Takahashi
+Should we listen to the cymbal? 
+Maximilian Rest
+Yeah. We can listen. 
+Tatsuya Takahashi
+Can you play that back?
+Maximilian Rest
+Yeah. So... 
+Tatsuya Takahashi
+Yeah. Let’s listen to the cymbal.
+Christoph Hohnerlein
+So, this sound. [recorded cymbal sound plays]
+Tatsuya Takahashi
+But if you listen closely, there’s a high bits. 
+Christoph Hohnerlein
+So, yeah. All right. So essentially, you can break up the sound into the so-called spectrum, right? And you have low frequencies, mid frequencies, high frequencies. Low frequency would be your bass. Mid frequencies would be voice, guitar and so on. High frequencies, hi-hats and essentially any sound you can split up into this. And then, the higher you go, the louder that specific area in that sound is.
+And with this cymbal recording, for example, we obviously have a lot of energy in the highs because it’s a very percussive sound. But we also have some interesting pattern down here. [points to the low-frequency parts of the graph] And you could just think of this as a representation of how this sound actually sounds to your ears, right? You have quite a bit of highs and little bit of lows. So now, if you think about what does convolution actually do... I’ve got some more toys down here. [speaker picks up another graph] White noise. 
+So if you play all the sounds, all the frequencies at the same time at the same loudness, you get something like this. [Max makes white noise sounds on the Granular Convolver] This is so-called white noise. Right, so. This sound has lows, mids, and high frequencies, all kind of at the same level. And now the cool thing is, if we convolve the two things, we actually get a sound that is the overlap of the two. Which is now the dark shaded area. Which as you can tell, is more or less exactly the original sound, right? So this is the cymbal sound convolved with the white noise.
+But since convolution is essentially the multiplication of these two things, which now is represented as the dark area, this is almost the original sound. All right. So maybe we can hear it again real quick, the convolution? 
+Tatsuya Takahashi
+Can we hear the noise? The noise without the convolution. 
+Christoph Hohnerlein
+All right. OK. So now, you can play back your old sound. We already did this, kind of boring. Let’s maybe go to the most basic sound you can imagine, and that is a single frequency, essentially an oscillator. So this sounds like this. [speaker picks up another graph] There’s a little more here. All right. So this is just a single sinusoid playing, which can be a low bass note, right? This can be a mid, which over here, can go very high. And the same thing is true as before, that convolution is the multiplication of the two spectra. 
+And now, you can see something cool. As we move this around, different parts of the two spectra overlap and different parts are now shaded in dark. Right? So if we can hear the results of convolution? [Max goes up and down the frequency spectrum using the Granular Convolver] All right. And you can tell this is more or less what we were describing before. It’s some sort of mix of both signals. But obviously we can go a bit further because also this is kind of a boring input signal. So now, if you use a more interesting, complex spectrum, which in this case represents just a more complex synth note, right?
+So maybe it sounds like this. [synth plays] It’s a very defined fundamental again, but with like some overtones. Something that would come out of a synthesizer. Now something really cool happens. Now, we have a really complex overlap of the two spectra. You can obviously move it around. All right. And obviously again, depending on where you are, obviously depending on both signals the overlap changes, which produces really interesting new sonic properties. Right. And obviously, you don’t need to use a synthesized sound at all. You can use, for example, voice, very straightforward. 
+Tatsuya Takahashi
+Mine?
+Christoph Hohnerlein
+Can you help me with this? Thank you for being a stand for a couple of minutes. [Tatsuya speaks into mic which is connected to the Granular Convolver] I think since you have the controls, maybe talk a bit about what’s going on. 
+Tatsuya Takahashi
+[speaker talks inaudibly through Granular Convolver] Because I’m speaking through the ride cymbal... Get different tone of qualities.
+Christoph Hohnerlein
+All right. Want to play a bit more with it or... All right. And obviously, you can just go ahead and jam with it. Afterwards? 
+Maximilian Rest
+Yeah. 
+Tatsuya Takahashi
+OK. But we haven’t finished rebuilding the thing. [points at screen] Mari hasn’t finished.
+Maximilian Rest
+I mean we can jam out a bit. The Convolver is a beast. But if we stay in this cymbal... I mean, we can also check out what else Tats recorded secretly...
+Christoph Hohnerlein
+Might be embarrassing. 
+Tatsuya Takahashi
+I have no idea what samples I have in there.
+Maximilian Rest
+But, I mean, you’re not limited at all to impulse-y stuff like the cymbal that we’ve just recorded. So there’s basically, for convolution, I personally find it works best when you think of it like having one thing which is more impulse-y, and one thing which is more textural. This reminds you, maybe a bit, if you’re familiar with convolution reverb, where you record room impulse responses which catch the whole frequency information or resonant information of a room.
+So here, with the cymbal which is more of an impulse, we’ve transferred a more textural or impulse-y sound with the texture of the cymbal. But what I wanted to say is, it works best if you just use one of each. If you have one textural thing, and one impulse-y thing. 
+Tatsuya Takahashi
+But that’s what you think.
+Maximilian Rest
+Yeah. That’s what I think, of course. Yeah.
+Tatsuya Takahashi
+But I’ve seen people in term one, convolving flute with spoken voice, or synths with other synths. Which are combinations of rhythmical things with textural things. I think you can do textural things...
+Maximilian Rest
+Yeah, that’s true. You can also go long. [speaker makes droning sounds with Granular Convolver] It’s still there, you can hear the cymbal, the attack-y stuff or the hissy stuff of the cymbal cutting through there. 
+Christoph Hohnerlein
+[sound changes drastically] Different sound.
+Maximilian Rest
+That’s a good one.
+Tatsuya Takahashi
+I think that’s a flexitone, if anyone knows what that is. Max, can we hear the dry sound, and also the sample. I can’t recognize what the sample is. OK. That’s the dry sound?
+Maximilian Rest 
+That’s the dry sound, yeah.
+Tatsuya Takahashi
+And... I still don’t recognize what this is. What is it? Oh, I remember now. This was a sample I used for a gig actually, and they had loads of drinks on a trolley and they were dragging it across the floor, which I thought was a wonderful sound.
+Maximilian Rest
+Yep, I mean, you’ve played a gig already with it in Moscow, I think, right?
+Tatsuya Takahashi
+Yeah.
+Maximilian Rest
+So how was the experience?
+Tatsuya Takahashi
+It was really good because I was just going around looking for interesting sounds. And I guess the point of this instrument is that, yes, it’s a fun and it’s an interesting way of working with sound, it’s a new way of working with sound, but ultimately, it’s about listening more and it’s about paying attention to sounds more, and I think that’s a real driver for this... Driving creativity, and inspiring people to make different music. And I think, so far, it’s been pretty positive.
+Term one’s been going very well, everyone’s been very engaged and I’ve seen at least three acts who have incorporated the Convolver into their live sets and we’ll see what happens in term two. Maybe there’s footage of that that’s due to come out. I think that wraps up our talk.
+Maximilian Rest
+Yeah.
+Tatsuya Takahashi
+OK. And there we go. [speaker points to screen] Bravo, Mari.
+Maximilian Rest
+Yeah, I think we should open for questions and just open the conversation with you guys. 
+Christoph Hohnerlein
+There should be a mic somewhere.
+Tatsuya Takahashi
+Any questions. No? That was very easy. Cool. We leave... Oh...
+Audience Member
+It is a super cool idea to fuse two different sounds, and you made it sound as if It’s a new thing. When you said that you can combine two different synthesizers, for example, I imagined that to turn out really funky stuff. And so my question is, has this not been done before? Or has it just not been done before to put such technology into such a small device?
+Maximilian Rest 
+Second.
+Tatsuya Takahashi
+I think the latter. It’s been done. Convolution itself, it’s like hundreds of years old, or something like that.
+Maximilian Rest
+It’s super old. Yeah.
+Tatsuya Takahashi
+But it’s a very expensive, as in computationally expensive, process, so it’s only recently that it’s been... Or in the last few decades, that it’s been possible to actually use in processing sounds, and even more recent that we can actually put this in a handheld hardware device.
+So I think, to my knowledge, this is the first time that this kind of convolution, or granular convolution, has been put into a dedicated piece of hardware.
+Maximilian Rest
+I mean it’s... Sorry.
+Christoph Hohnerlein 
+I think the only place where, as a creative music production context you would, at least as a user, come into contact with convolution is reverbs, reverb plugins...
+Maximilian Rest
+Guitar simulation, probably. Amp simulation.
+Christoph Hohnerlein 
+Right, but I don’t think you actually know that it’s convolution inside. 
+Maximilian Rest
+Sure, yeah.
+Christoph Hohnerlein
+The only time you read “convolution” is maybe in a reverb context, and it’s been used in other plugins already, since now you usually have plenty of power in all the machines. But I don’t think it’s been, outside of maybe more sound design, very much a focus of the creative process.
+Audience Member
+Tats. May I call you Tats?
+Tatsuya Takahashi
+Of course.
+Audience Member 
+Cool. You said that you use it in one of your gigs?
+Tatsuya Takahashi
+Yes.
+Audience Member 
+What kind of sounds did you use? because you spoke about the difference between more impulse-y and more textural stuff, and I’d like to hear how you use it in your set.
+Tatsuya Takahashi
+I played an ambient set, but it was a combination of some percussive sounds and some synthesizers. It was a very simple set up. I had two synthesizers. Actually, I had the [Korg] Volca FM going into the [Korg] Monotribe which is an analog synth, and it has analog drums on it. And the Monotribe was filtering the FM output. So I essentially had like one output that was going into the Convolver, which was a mix of percussive hats with kind of pad-y chord stuff that was being chopped up with the Monotribe filter, which is one of my favorite combinations, by the way.
+So that was being smeared out using this device, and being convolved with that trolley sound that we just heard, and it just made some really beautiful textures, and I was just changing the grain size, just slowly going through the sample, picking out various small nuances in the grain, and just moving through that for a whole hour. And I thought it was great.
+Maximilian Rest
+Yeah.
+Audience Member 
+Curious to hear.
+Tatsuya Takahashi
+I hope others did too.
+Audience Member 
+Thanks.
+Tatsuya Takahashi
+Thank you.
+Audience Member 
+It’s a two-part question. So you said, basically, convolution is multiplying, right? You multiply it, just two waves.
+Maximilian Rest
+Of the spectrum. In the frequency domain of the sound, I mean.
+Audience Member 
+Oh, OK.
+Maximilian Rest
+What we’ve just shown on this screen, that shows all the...
+Audience Member 
+Yeah, yeah. So my question is, if you have a Eurorack module that is a multiplier, is that essentially convolution?
+Maximilian Rest
+No, then you can multiply the time domain. The wave itself, if you just imagine this being a sine wave... [Max draws a sine wave in the air with his hand]
+Audience Member 
+Oh, I see.
+Maximilian Rest
+... Would represent as just a line in the spectrum, because the spectrogram shows you all frequencies and their magnitude. And if you have a sine wave, in the time domain it will look like this, and just go on forever. In the spectrum it will just be one line. What you want to do is multiply the frequencies that are in both sounds, not the time domain signal, which is the waveform, and then transfer...
+Audience Member 
+Because then it would just be a ring modulator, right?
+Maximilian Rest
+Exactly.
+Audience Member 
+And the third part, I guess. So if you have something that does this multiplication, and you connect a granular synthesizer into that, then essentially you’ve got the Convolver, right?
+Maximilian Rest
+Right, it’s still multiplying time domain signals.
+Audience Member 
+OK. No, but I’m saying if you something that does the multiplication of the spectrum...
+Tatsuya Takahashi
+Not the multiplication, but the convolution you mean...
+Audience Member 
+The convolution, yeah.
+Tatsuya Takahashi
+If you had a convolution device, and you had some kind of granular thing before it. 
+Maximilian Rest
+I mean, you just even need a granular sampler maybe. What the granular convolver does, it just takes what we call the grain from a bigger recording, and it analyzes the frequency content of this grain, and then uses this as the fingerprint to imply on the live input. If you change the controls, you slice out a different grain, and we just do calculations in parallel to analyze this one and then crossfade between these different grains. So if you had something which does convolution, it will always need something to analyze. And this would be the same, actually.
+Audience Member 
+And do you have any plans of doing this in Eurorack format or...
+Tatsuya Takahashi
+We don’t even have plans to sell this thing.
+Audience Member 
+OK. It’s just... OK.
+Tatsuya Takahashi
+Yeah, so we don’t know. Like I said, it’s a very raw and a very minimal implementation of granular convolution. And I think we’re still learning and we’re still trying to figure out, firstly, whether it would make a good commercial product, and what the possibilities are. I think those are very open things that we’re just kind of trying to absorb right now.
+Maximilian Rest
+I mean, you can see already on the form factor, after the rounds of discussion you can also hold it if you want. The nice thing about the collaborations with Tats and the academy is, I think, also, besides it’s a lot of fun, that we can also make material studies or product design studies. This is super far from being a commercial product in every sense, from manufacturing and... It doesn’t make sense to make it like this, but it’s nice like this. It feels good, and...
+Audience Member 
+I’ve seen  people are using stuff that looks a lot worse.
+Maximilian Rest
+Yeah. And the same thing with this guy, [speaker picks up Granular Convolver prototype] we actually explored aluminum in this one, and we explored stainless steel in that one. So, to answer your question from another perspective, we would also have to completely re-engineer it in every sense, if there would have to be an idea of making it available.
+Audience Member 
+Thanks.
+Tatsuya Takahashi
+Be nice.
+Maximilian Rest
+Say again?
+Tatsuya Takahashi
+Be nice.
+Audience Member 
+Well, thanks for the great talk. The visual aids were amazing and I may borrow them for teaching them in the future. My question is actually quite simple. It’s about the choice of technology for the unit. You’re using Raspberry Pi. Just maybe to support the first question, I guess convolution, from experience, is a very simple concept, but it’s hard to implement, right? It’s very CPU hungry, and this is why this is such a unique product in my opinion. Well, it’s not really a product, but a unique device.
+My question is, how much are you pushing the limits of this Raspberry Pi? You mentioned hacking. How much space did you leave for anyone who’s lucky enough to have one? How much can they do, still, on top of what’s already running?
+Tatsuya Takahashi
+Well, we’re only using two of the four cores, actually, aren’t we? But that was more a trade-off of battery life, because it had to be a portable device, so it was finding the balance of what would make sense. If you wanted to really push the capabilities of the Raspberry Pi, then yes, you would get more. But that wasn’t really the point. You would probably get a longer grain size. You would be able to work with longer grains. ’Cause currently the setting is from seven milliseconds to 700. But that is enough. If you wanna zoom into a certain fragment of the sound and use that, then you actually don’t need long convolution. So it kind of depends on what you want to do. In terms of performance, yeah, we can push it a bit more.
+Audience Member 
+Maybe bit more detail?
+Christoph Hohnerlein
+In general, CPU load-wise, on average, we’re below 50.
+Maximilian Rest
+Yeah, I think in the 20s.
+Christoph Hohnerlein
+Maybe 30. I mean, whatever the precise number is. It’s more that since there’s certain times that we have to do a lot in this case, just time-wise, there’s performance spikes where obviously you can’t hit 100% otherwise you’ll have drop-outs and it will sound absolutely terrible. In a screen, you can have a drop-out, if you miss a frame, it’s not that bad, but in sound if you have just a tiny slice of silence it will sound terrible. So it absolutely cannot drop a single frame, obviously, and that might be the problem that you had before actually, having the average CPU load very high.
+Audience Member 
+I was just asking in terms of just curiosity how much hacking space there is.
+Maximilian Rest
+Yeah, but there is the space.
+Audience Member 
+That’s great.
+Maximilian Rest
+And if not, just remove the Convolver script and put something else there. [laughs] Then you have the full CPU power.
+Audience Member 
+All right. Thanks guys.
+Tatsuya Takahashi 
+Are we good? OK, let’s wrap it up. Thank you very much for your attention.
+Maximilian Rest
+Yeah, thanks.
+Christoph Hohnerlein
+Thank you. [applause] 

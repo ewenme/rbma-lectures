@@ -1,0 +1,100 @@
+Chris Palmer of Layered Studio in Johannesburg is often name-checked as the best mastering engineer for dance music in South Africa. He’s also cut a bold swathe across hip hop and classical jazz recording, not to mention SA’s home-grown genre of kwaito, which depends on kicking percussion and a boompty-boomp bass. In his session at the 2003 Red Bull Music Academy in Cape Town, he shared insights into the mysteries of mastering. It’s not always about what your ears can audibly perceive: “The more you trust your feelings, the better the track will sound at the end of the day.” 
+Tony Nwachukwu
+Hi Chris, what do you do?
+Chris Palmer 
+Four things. First and foremost, I’m a mastering engineer, which means basically spending all day and most nights in the studio so I have a healthy studio tan. Secondly, I’m a producer. Thirdly, I’m a DJ and fourthly I edit a magazine, Music Maker Magazine, which I pass around so you guys can have a look. Basically, I’ve been working in the industry for about 13 years.
+Tony Nwachukwu 
+OK, 13 – not 30, yeah?
+Chris Palmer 
+No, not that old. I started out in live sounds, working on rigging and stuff with a lot of bands that were coming out there, Crowded House, Depeche Mode and OMD.
+Tony Nwachukwu 
+So you do the front of house mixing?
+Chris Palmer 
+Helping with rigging and stuff, learning basically but then after working...
+Tony Nwachukwu 
+Did you have the obligatory cheap black T-shirt and black trousers?
+Chris Palmer 
+Yeah, but after working 56 hours non-stop on the beach one day, I decided loud sound wasn’t for me anymore. Then I got into studio [work], started editing. I luckily missed out the tape editing stage, thank god! Any of you ever edited on tape? It’s a complete joke. You don’t ever want to do it, trust me. You gotta make working copies of what you done, then you start editing and if you make a mistake you got to go to the next copy and cut from there. It’s quite a mission. And then afterwards, you got to run the whole lot down to another tape and that adds a lot of noise as well, some of it good noise, not all of it. [smiles ironically]
+Tony Nwachukwu 
+When you first started, what kind of system were you using?
+Chris Palmer 
+When I first started editing, it was a small Mac with the very first Sound Tools, which was a baby brother of ProTools. That was before ProTools came out. It was just a basic 16-bit, two channel editing program with not much else on it besides some rudimentary EQs and a couple of crappy compressors. So a lot of processing was done in analog domain as well, which still is the best way to do it, EQ-wise.
+Tony Nwachukwu 
+Do you think so?
+Chris Palmer 
+Yes, absolutely. Just EQ-wise, I mean, in terms of all the other processing it’s much better digitally. But for EQ-ing [analog] is still definitely better. I brought a few examples of tracks that are unmastered and the same tracks mastered to give you a better idea of the differences. After the session we’ll do a practical, where I actually take the track that you guys have done and master it to give you a better idea of exactly what goes on. I’ve got a Finalizer here, which is a unit that’s designed for mastering. It’s got a whole mastering chain inside. I go through it with you and show you exactly what it's about. You can do everything that’s on here on software and most people do, but I thought I bring it along just to show you guys because it’s an easy way to demo what mastering is. How many of you guys have actually put out records before? [looks around the  participants] So you've kind of been through the process. Any of the other guys been through the mastering process? Basically, what it entails is two things. Firstly, EQ. Balancing your tracks so that throughout the frequency spectrum – audible and inaudible – you get a balanced sound. That’s the first part of it. It’s all relative, so every time you change one thing, the whole mix changes. So it’s like a continuous refining until you get the right sound. Second to that is the dynamics part of it. As you may know, if it’s louder, it’s better as most people see it in the world. Not always true, but usually if it sounds louder, it’s better. The dynamic part of it perceives dynamics, as well as the actual dynamic range. We’ll go through it with the Finalizer. It’s a nice way to demonstrate it on the demos I’ve got here as well. Basically, what you’re trying to do as a mastering engineer is to get it as hot as possible, get it as balanced as possible onto digital format, or, if you're doing records onto analog format without perceivably changing the mix. I mean, if you guys are going to spend like three weeks mixing a track, I don’t wanna go and change your sound in the two or three hours that I master it. I gotta try and get it where I want it, without changing the sound at all – perceivably. Trick your ears into believing that it sounds exactly the same. That’s basically the idea. Let me play you guys a few tracks and give you some sort of references of where I’m coming from. I play you an unmastered version first and then we’re going to the mastered version just to give you the background.
+(music: unmastered house track)
+The bass is quite floppy in the bottom end and there are a lot of frequencies in there that aren’t really doing the mix much good. I’m gonna give you the mastered version now and we’ll see what you think.
+(music: mastered version of the same track)
+The clarity becomes a lot better and it becomes a lot louder, a lot tighter, too, did you hear that?
+Tony Nwachukwu 
+Let me ask a question. The premastered version, the person who mixed that obviously thinks that’s a mix, right?
+Chris Palmer 
+Yeah.
+Tony Nwachukwu 
+Doesn’t it create a kind of feeling of insecurity? You know, you mastered, you mix a track thinking it is to the best of your ability...
+Chris Palmer 
+No, because there are about three engineers in the whole world that don’t get EQed when they go for masterings. Everyone gets EQed. The mastering engineer EQs everything, trust me. What [the particpants] Marianne and David were touching on yesterday, if you guys were in the studio, about keeping the dynamics fairly open when you're mixing, is quite true. The more dynamic the actual mix is, the more I can do with it once I’m mastering it. The harder I can push it. If it’s too compressed, it’s harder for me to do my job. So just remember that when you guys lay down the mix. Lay it down compressed as you want it, lay it down dynamic and even lay it down on different formats; DAT or CDs and go through which sounds better to you and use that one. OK, I’m gonna play a few more [examples].
+(music: unmastered house track)
+Basically, what I want is, I don’t want the mix to change much. You can hear the mix is still fairly similar. I mean, there is a lot of things that have actually changed, but perceivably it’s still fairly similar to what you heard before. The less you can hear the difference, the better for me actually. As long as it’s louder and it’s kicking. [laughs]
+Participant
+For both of those tracks, was it a multi-band and EQ combination?
+Chris Palmer 
+Yes, I used a mixture of a multi-band limiter...
+Tony Nwachukwu 
+What does that mean?
+Chris Palmer 
+I don’t know if any of you guys have worked with a channel splitter live, where you split the bass, mids and highs into separate signals, so that you can feed different amps to play your sound through. Basically, that’s how it was done originally in mastering. They would split up the lows, mids and highs and then compress them separately because you can set different attacks on the highs because they are a lot quicker and set a lower attack on the bottom, because it’s a lot slower. Basically that creates a much tighter mix and a lot louder mix as well. Also [it will] allow you to EQ all three of them separately as well. On the Finalizer it’s got three band compressors and limiters already here. So it splits up for you automatically then you can adjust them. I’ll show you guys that when we do the practical a bit later.
+Tony Nwachukwu 
+Would you say that mastering is music genre-specific? For example, I wouldn’t imagine that you would master a rock record the same way you would master a reggae record.
+Chris Palmer 
+No, also the audiences are looking for different things as well. Like, an R&B record, the guys are looking for a hell of a bass response. You’ve got a much wider bass range that you use in R&B than you would use in house or rock. Rock is quite thin actually when you master it. So yes, it is definitely genre-specific and in terms of dance music even there are specific things. Like, certain breakbeat styles would be like a lot more bass heavy than...
+Tony Nwachukwu 
+For example, drum & bass?
+Chris Palmer 
+Yeah, drum & bass and even the Prodigy stuff and breakbeat stuff. Whereas some house producers would try to pull back a little on the bottom end just to get more punch. Yeah, this is very genre-specific, absolutely.
+Tony Nwachukwu 
+What has been your worst mastering experience?
+Chris Palmer 
+There’s too many to mention. In this country we have 11 official languages and a lot of the mastering that I have done in the past would get sent to me on an unmarked tape with nothing basically and a track-listing from the record company. And you have to put the two together. Trying to work out which song is which through trying to pick up some of the lyrics. And if that is not working out, try going to find someone that actually speaks the language to come and help me out. Also, just some of the actual mixes that I have got in the past have been horrific. I mean, like 50Hz hum coming through the whole mix, noise like shhhshshshshsh. [whistles loud]
+Tony Nwachukwu 
+That’s character, don’t you think?
+Chris Palmer 
+No, not that, I mean noise like characteristic noise. Dr. Moog agrees with this, characteristic electronic noise is great. I mean, it adds flavor to the song, but just general tape hiss is not cool at all. Bad wiring contributes to this as well. Do you guys know the difference between a balanced signal and an unbalanced signal? In your cabling you have a shield, which covers the wire where the signal goes through, the hot signal. In a two core cable the shield is used for signal as well, so your negative or your ground runs down the shield. So any noise, any sort of lighting cables or electrical noise gets picked up into the cable and transferred into your sound. So basically, it picks up noise from everywhere. Now, what happens with a balanced cable, a three core? It’s got a shield and the other two cables as well. So the ground takes away all the noise and protects your signal. So anytime you’ve got the opportunity to use a balanced signal, rather use the balanced than the unbalanced. It’s much cleaner and it’s much hotter as well. You can play much louder on a balanced signal. Just a bit of trivia information. 
+Tony Nwachukwu 
+Do you have some more music here?
+Chris Palmer 
+Yeah, I got couple more here that I can play. 
+(music: unmastered track, then the mastered version) 
+Tony Nwachukwu 
+Blank CDs, the difference between a branded one and [if it] is unbranded is this process, essentially?
+Chris Palmer 
+No, not necessarily. I mean, you get some unbranded [CDs] that are pretty good as well. I mean, I use a specific branded CD, because at the CD pressing plant where most of our stuff gets pressed, they have had less trouble with this brand than any other brand, so I use this specific brand just because of that. But I don’t think it’s gonna make a difference too much. I mean, there are certain sorts of Taiwanese and various other sort of cheap copies that are really bad and you shouldn’t use them for mastering. But it’s got to such a stage now where most CD-Rs are useable. But when the actual laser is writing, burning onto the CD, you gonna get errors getting transferred somewhere along the line.
+Tony Nwachukwu 
+Getting a bit back on personal production and stuff. I make music at home and also I make demos at home and also I produce records and master at home, not in a studio necessarily. What things should I think about when I’m actually producing records or mixing records?
+Chris Palmer 
+I got the best advice from an engineer called Jay, he mixed Prince’s Black Album and he came out to mix Miriam Makeba’s album at our studio. I used to work at a very high profile studio, we did the Lion King II soundtrack there, the Lion King III soundtrack and other stuff with Disney. It’s a very high profile studio in Johannesburg, probably the highest profile studio in Johannesburg, it’s called CSR. They basically got a 144-input Euphonix mixing console, they have got two other studios with high end digital mixing capabilities. They are running the ProTools high density 192kHz sampling system.
+Tony Nwachukwu 
+Back to the guy who mixed the Black Album.
+Chris Palmer 
+Yeah, the advice that he gave, and this is probably the best that I have heard, is, “Put the mixdown to a soft [volume] level where you can just hear – quite soft, but not too soft that you can’t hear. If you can hear everything balanced when you listen to it that way and you can hear everything cleanly and balanced, your mix is right.” Basically it’s the same for mastering. The more dynamic range you got, the more the mastering engineer can do with it. I can do a hell of a lot more work on something that is like fairly open and got a lot of dynamics.
+Tony Nwachukwu 
+So should I, as a producer, allow you space? What I mean by that is, when I do a mix I might use a Finalizer, I might use a multi-band compressor on the group inserts. Should I then not do that?
+Chris Palmer 
+I would rather not, like Marianne Davis was saying last night, rather not. Individual things like your kick drum and bass I would say, “Yes, go ahead!” But not over the final mix. It’s also not a good idea to master your own stuff. What I generally say to you guys is if you’ve got friends who are doing the same stuff as you, and you both sort of master your own stuff, then give him your track to master and you master his track. Because you lose objectivity after working on a track for so long. I’ve got an assistant that works with me, and then, if I mixed down a track that I have written, he will often do most of the mastering with me because he has got a more objective ear in terms of like I’ve listened to it five million times and I don’t know where I am anymore. It’s a bit of good advice.
+Tony Nwachukwu 
+And is it an idea to do different passes of mixes as well?
+Chris Palmer 
+Yeah. There still is a school, especially in the States, where you do a different mix for every different format: TV, Video, CD, even adverts have a different way that they’re mixed. If you’re doing a vocal track always lay down your vocal mix and an instrumental, so that you don’t ever have to go back when you have to do a remix.
+Tony Nwachukwu 
+And an a capella?
+Chris Palmer 
+Yeah, as many different mixes as you want and you can take them to the mastering engineer and he will choose the best one.
+Tony Nwachukwu 
+But he will charge you as well?
+Chris Palmer 
+Yeah, but I mean, you can find a reasonable mastering guy, it’s not too expensive, I’m sure. Or, like I was saying, if you got a friend doing the same thing, give him your tracks and he goes through yours and you go through his. That’s a much better way, I think.
+Tony Nwachukwu 
+Do you see a day where your job becomes irrelevant?
+Chris Palmer 
+I don’t think so. There will always be a need for the human element in transferring to any format, which is basically what I am doing. I am sort of facilitating the transfer from one format into another and I always think there is a need for that. 

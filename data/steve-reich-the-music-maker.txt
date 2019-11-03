@@ -1,0 +1,853 @@
+The New York Times called Steve Reich “our greatest living composer.” Experienced in the field of Western classical, Reich managed to transcend regional and cultural boundaries, incorporating influences from around the world as well as from past, present and future. Born in 1936 and influenced by John Cage, he walked his own way alongside other American minimalists like Philip Glass, Terry Riley and John Adams – although Reich himself prefers the term post-minimalism. Repetition and the use of speech and field recordings mark the cornerstones of his vast body of work. Naming all of his awards, prizes, or lectureships would take up the space of a small town phone book. Among his most famous compositional adventurous and critically acclaimed works are Different Trains, Music For 18 Musicians or pieces like Come Out. 
+In his 2010 Red Bull Music Academy lecture, he discusses his approach to composition, his inspirations, some of his most lauded works, and more.
+Emma Warren 
+We’ve had Grammy-winners here before
+and we’ve had legends here at the Red Bull Music Academy, but I don’t think
+we‘ve ever had a Nobel
+Prize-winner, let alone a Nobel
+Prize-winner who also won a Pulitzer
+Prize.
+Steve Reich 
+Pulitzer Prize. They don’t give Nobels for music, you have to be in science or
+peace. [laughs]
+Emma Warren 
+I’ll rephrase that then; we’ve never had a Pulitzer Prize-winner. Steve Reich
+is an American composer, who started off working with tape loops and recorded
+speech, and made music you’ll be familiar with, things like
+Drumming and Music for 18 Musicians.
+Obviously, that was just the beginning, because there’s been a whole lot of
+music since then. This interview won’t be definitive — we only have an hour or
+so — but we’re going to make sure there’s lots of time for you to ask
+questions afterwards. I’m sure you’ll have questions, so please make sure you
+hold them in your head and have them ready for us at the end. So, I think we
+should say a very big, warm welcome to Mr Steve Reich. [applause]
+There’s a lovely quote at the end of Alex
+Ross’ book The
+Rest Is Noise, where he quotes
+Debussy, “The job of the
+composer is to point the way to this imaginary country, essentially the place which was off the map.”
+Can you tell us how far off the map you were when you started making music?
+Steve Reich 
+Never thought of it that way. [laughs] As a kid I took piano lessons and when I was 14,
+for the first time, I heard The Rite of
+Spring, 4th Brandenburg
+Concerto, and be-bop,
+Charlie Parker, Miles Davis, drummer Kenny Clarke. I had a
+friend who was a better piano player than me, and he said we need to form a
+band, we need a drummer. I said, “I’m it.” So I began studying drums at 14
+with Roland Koloff, who became the timpanist with the New York Philharmonic,
+but he was also playing a local movie house with glow-in-the-dark sticks at
+midnight. He had a double life. This was back in 1950.
+Emma Warren 
+Glow-in-the-dark sticks?
+Steve Reich 
+Yes, you’d play your Gene Krupa drum solos with glow-in-the-dark sticks in a
+dark movie house. This was a trip in the 1950s. In any event, I didn’t start
+with tape, tape didn’t exist. When I was in high school, someone said, “Hey,
+there’s a tape recorder.” “What’s that?” “Well, you can actually record
+something into it.” It was basically when the American Army went into Germany
+after the war, they discovered the Germans had built tape recorders. The first
+recorder that I saw was called Wollensak, and that’s what I used when I did
+It’s Gonna Rain.
+Emma Warren 
+Now, when you were growing up in the early days, you talk about encountering
+this tape recorder. It was very unusual for people to own machines – there
+obviously were machines in the world, but it was unusual for people to own
+them. When you first came across this tape machine, what was your impression
+of it?
+Steve Reich 
+It was cheap; you could buy it. Wollensak — and I think Revere too — were the first
+home machines. Radio stations obviously had them. I think in those days
+Ampex was the brand that’s long since
+disappeared. At first, it was just a way of recording if you’re playing
+something or recording your voice or whatever. But I guess I started getting
+interested when I moved to San Francisco in 1961, ’62. I was studying with
+Luciano Berio, the Italian composer, and what he was working on when I started
+working with him was a piece called Omaggio O Joyce, meaning James Joyce. His wife, Cathy Berberian, who’s a really good singer, was
+reading bits of Joyce and he was cutting up the tapes into little pieces into phonemes, which is what the book is about anyway. This was very far-out, non-narrative type writing. Basically, you were hearing the sound of letters and not really
+focusing on their meaning. I thought it was interesting. Then he played us two pieces by
+Stockhausen. One was
+called Electronic
+Studies and
+the other was Gesang Der
+Jünglinge. And my ear
+just went [whistles and moves his hand quickly in a straight line] to Gesang Der Jünglinge. Why? Because there was a
+voice of a young kid and I began to realize I’m not interested in electronics
+or synthesis. Still not interested. Couldn’t care less. It’s a marriage of
+convenience, but I don’t like it. I’m interested in really analog sound. And
+therefore when the sampler was invented I said, “That’s for me.” Another thing
+that was in the air in the late ‘50s, early ‘60s, was tape loops. Raise your
+hand if you know what a tape loop is. [few hands go up] OK, when there was
+reel-to-reel tape, you could take a splicing block and splice the beginning to
+the end of a six-, seven-inch piece of tape. And the head assembly of these
+small tape recorders was small enough that you could fit the loop over the
+head assembly, press the “go” button and it would compress up against the head
+and play back. You’d be recording at seven-and-a-half inches per second. You’d
+get very unusual results that nobody had ever heard in the 1950s or ’60s. At
+that time I also became aware of West African music, both by listening to
+recordings and by discovering a book called Studies in African
+Music,
+which was the first book of accurate scores of music from Ghana. I think you
+can find it online, actually. Google is going to steal everything, so I think
+they managed to get this far. Anybody here have any familiarity with musical
+notation? [some hands go up] Well, those of you who do, you will see basically
+divisions into subdivisions of 12, patterns in three beats, patterns in four
+beats, patterns in six beats, patterns in twelve beats. What’s strange is, you
+say, “Where’s the downbeat, where’s one?” Well, the rattle has it here, this
+drummer has it there. That’s from Mars, you know? Generally, when you listen
+to rock, you’re in four-four, everybody knows where one is. Here’s a music
+where there is no one downbeat. There are multiple downbeats depending on the
+player, and they just feel it that way. Alright, when I was working with the multiple
+tape loops and hearing it, I said, “What have I got here? mechanised
+Africans.” [laughs]
+Emma Warren 
+There’s so much to talk about in there when you went to Ghana and it was
+different from what you’d read about, and also what you read at university and also what youexperienced outside of that. But I think we should bring it back for a minute
+to the piece of music we’re going to play and talk about. Can you tell us what
+we are going to listen to?
+Steve Reich 
+OK, she’s right. It’s Gonna Rain. In 1964 a friend whose name I can’t
+remember, who was going to make films and never did, said, “I have heard the
+most amazing black Pentecostal preacher in Union Square in San Francisco.
+You’ve got to record him.” I had a Ewer portable tape recorder and an
+Electrovoice cheap shotgun mic. So I went down on the Sunday, and sure
+enough there was this guy who called himself Brother Walter. He was preaching
+about the flood of Noah in the Bible, which is about the end of the world.
+This is 1964. In 1963 was the Cuban Missile Crisis. Anybody know what that is? Khrushchev, the Russian leader, had sent over nuclear missiles on a boat for
+installation in Cuba. John F. Kennedy said, “If you do that we’re going to bomb
+Moscow with hydrogen bombs.” So everybody was kind of concerned; the ships kept
+going and there was a blockade around Cuba and many of us — me included — felt the clock was ticking. We could just turn into so much radioactive
+smoke. Fortunately, Khrushchev backed down, so don’t think about JFK as a
+peace-loving wimp, forget it. And it passed. But it made a mark in every human
+being who was alive then. So a year later, I’m in Union Square and this
+preacher is laying it down about the end of the world. It’s not abstract. It’s
+not abstract at all. So I’m going to play the whole first movement, which is
+about six or seven minutes. The whole piece is about 17 minutes. Then I’ll
+explain how I made it. Some of it will be very clear to you, some will be a
+bit weird. But it turns out I was actually doing some DJing. I was playing a
+preamp. So I’m going to play it, then I’m going to sit in the back because
+it’s weird to just watch you (stands up and sits down in the back of the
+room).
+(music: Steve Reich – “It’s Gonna Rain” / applause)
+Emma Warren 
+So you come back from Union Square with your recording. How do you take it
+from how it sounded to that?
+Steve Reich 
+Good question. First of all, I’m gonna ask you, when you hear It’s Gonna
+Rain, first you hear in the background wha-wha-wha-wha. It’s a drummer,
+right? But it’s not a drummer. So what was it? Any guesses? [inaudible from
+participant] Yeah! Somebody cheated. [laughs] The moment I recorded it, and
+he said, “It’s gonna rain,” a pigeon took off. And when you looped it, pigeon
+drummer. Didn’t have to pay him extra, he wasn’t doubling. [laughs] So
+that’s just there. The piece starts in mono and you hear the source material.
+You think, ah, this is some really strong black preacher laying it down about
+Noah. And then you hear this funny “it’s-go-it’s-go-it’s-go-rai-rai-rain.” What’s
+happening is, I’ve got a stereo loop and one track is “it’s gonna rain” and on
+another track is “it’s gonna rain,” but they’re offset, so “it’s gonna” is on
+top of “rain” and “rain” is on top of “it’s gonna.” So, if I go back in the
+tempo of the loop, I get “it’s gonna, it’s gonna, it’s gonna...” But what if I
+go a little faster than the tempo of the loop itself? Then I’m going to start
+phasing ahead, and that’s what you heard. There are two cycles of that. You’re
+moving ahead because your hand... I had a weird preamp, it was one of these preamps
+that had a lot of controls; who needs them? But it turned out there was this
+mono-A, mono-B. So you could have all of the A track coming out of both
+tracks, or all of the B coming out of both tracks. I was just going back and
+forth between mono-A, mono-B. Start off in rhythm, and gradually phase ahead of the
+tape myself going from mono to mono, mono to mono. Finally, after two cycles
+of that, you get “it’s gonna, it’s gonna...” and you’re back in the mono loop
+coming out of both channels. Then, all of a sudden, you hear a change in
+quality. What is it? It goes into stereo. You feel it, like something weird’s happening. You know exactly what it is that’s happening. Then, slowly, I think it’s the
+left-hand side begins to go faster. Why? I tried to cut the loops as
+perfectly as I can, but you know, what does that mean? There’s gonna be some fractional difference between
+them, right? Maybe there’s a bit of dirt on one of the motors. These aren’t
+like the kind of motors we have today, they’re motors with a certain amount of
+drift to them. So one channel begins to slip ahead of the other. Now, the effect
+of one sound coming in sooner than the other will give you the sense of
+direction location. You will hear it coming from the side that is coming in
+first. If you’re listening to the piece with headphones, it feels like this – the sound comes over
+your left shoulder, slides down your arm, off and away. It’s creepy, it goes
+across the room. And then you hear reverberation, when it gets far enough
+apart. But when it’s really close together – and I suppose you could do this
+digitally – you have slight differences in what comes in first. This was
+established in Bell Labs years ago.
+Someone asked how people know where voices are coming from, where are they? Well, it gets to one ear sooner than the other. Or we just look in that direction. So this is that phenomena happening in that piece. Then it very slowly goes
+around from unison, out of phase, pigeon drummer, whole nine yards, back into
+unison, then “it’s gonna rain” after a while. Now, the second movement gets
+very spooky and very far out and I felt very paranoid, but given what was
+going on in the world, maybe it wasn’t. I won’t go through that, but if you’re
+interested, it’s quite a trip. It’s basically where he’s in the Ark and locks
+the door. People knocked and the skin came off their hand, the door was sealed
+by the hand of God. It is the end of the world, it’s a portrayal in sound of
+the end of the world. Yes, I was in a bad state of mind at the time.
+Emma Warren 
+How did the music sound to you at the time and how was it seen by people you
+played it to and people who heard it?
+Steve Reich 
+Well, the first question I can answer and the second question they can answer.
+When I did the first part there was no question it felt incredibly invigorating, wow, what energy and this guy’s fantastic. And the treatment of the voice and the voice itself
+are hand in glove. I think that that’s a general principle that can be applied to most
+anything you’re doing. If the musical material – whether it’s notes or sampled
+material – and what you’re doing with it reinforce each other, then you’re
+probably on the right track. This is a very intuitive thing and there are no
+rules, but there’s a gut feeling about it. And different material wants different technical treatment. As to how it affects people, pass the mic around and find out.
+Emma Warren 
+I suppose what I’m more interested in is how it was perceived by people at
+the time. So, when people heard it, what did they make of it?
+Steve Reich 
+First of all, nobody was giving me interviews in London. I was driving a cab
+in San Francisco. I was just out of graduate school and I decided I wasn’t
+going to teach. So I was a cab driver and one day I got really zonked out. I
+was going about five miles an hour and, you know, you can’t have any problems
+because you’ve got your foot on the brake and you’re only inching forward; but
+I inched right into the back of somebody. So then I ended up working at the
+post office. [laughs] A few people came over the house and said, “Man that’s
+far out!” OK, that’s true. Then it was played at the San Francisco Tape Music Center and
+people said, “Oh, wow.” But there were maybe only about 75 people there. And the
+piece didn’t really have an audience. It came out on a Columbia Masterworks
+record in 1969, a year and half after Come Out was released on
+Columbia, and that really got a lot of attention. So this piece was in the shadow of that first piece.
+Emma Warren 
+I want to ask you about the Tape Center we just talked about. I know you
+weren’t really involved, you did present your work there. You just talked about your day job.
+Steve Reich 
+Night job.
+Emma Warren 
+Post office, night job, day job, whatever. But a lot of people here are in
+similar positions, having to do day jobs until they reach that point where
+they can bridge into a full-time music career. What was the benefit for you of
+having that day job and how did you use that to feed your music?
+Steve Reich 
+Necessity is the mother of invention. I had an MA in music and I could’ve
+pursued it, applying to university x, y and z, teaching harmony and theory in
+Nebraska. [laughs] Or some major city perhaps. But I just felt up to there with the
+academic world. I just felt I had a teacher earlier on I admired in New York.
+He did the arrangements for Thelonious Monk’s concerts. He got asked to join
+the Juilliard faculty in New York and I saw his shoulders sag. I think the
+academic career can be… Although who knows, maybe that will work for some of
+you. I’m sure there are universities here in the UK that are starting to open
+recording labs and you’ll get your undergraduate degree. “What did you read?” “I read DJ."
+[laughs] You know? Anything can be turned into academic trash, no question
+about it. You’re not exempt. In my time it was composers. I suppose, if you went through your W9
+forms, your tax return forms, every composer in America, somewhere between
+90-95 percent of them would be at universities. I’m not looking down my nose at
+them. It’s really the job that’s most open to you, but I felt this myth, well, you teach
+during the day and the evening is so and so. But there’s a certain amount of
+energy that goes into teaching people and if you don’t give them that energy, then you’re immoral. And if you do give them that energy, then you’re wiped out.
+Because there’s only so much energy one person has. So I’d rather drive a cab. I
+bugged the cab and I made a tape piece. I stopped the cab and played shows with
+the San Francisco Mime Troupe with Phil
+Lesh, who became the bass player for
+the Grateful Dead. I had a good time driving a cab. And I wasn’t invested in
+it, you know what I mean? I could make music, take time off to play a show. It really fit me, and I was making more
+money than most assistant professors too. [laughs]
+Emma Warren 
+So you’re in a cab, interacting with street culture in a very direct way. The
+sound of the streets and that street culture is very present in a recurring
+way throughout your career. So you think that street life was influential for
+you musically?
+Steve Reich 
+Well, you could say I did City
+Life because I drove a cab
+in San Francisco. I don’t know how true that would be. I’m a native New
+Yorker, as you can probably tell. I think all music comes from a time and
+place. The Beatles come from ‘60s England, Kurt Weill comes from Weimar Republic in Germany, the baroque period. Bach comes from
+Eastern Germany. I come from New York and the West Coast in the 1960s and
+’70s. The composers we know and love I think give honest expression to that. Not by
+trying to write the great American piece. Forget that. You just are who you are. And if you’re honest about who you are, then that music will bear evidence to the
+honesty of your situation, no matter what it is. What you guys are doing right
+now is evidence of what’s going on in the world. How well you do it will
+determine how long and how much interest there is in it. Because musical quality
+doesn’t change. There was this story about George Gershwin meeting Alban
+Berg, who was a friend of
+Schoenberg’s. Gershwin was a bit
+nervous and Berg could tell that, so he said, “Mr. Gershwin, music is music.”
+That’s the kind of truth that stays the case. Sorry, I’m losing my train of
+thought there.
+Emma Warren 
+No, it was a fantastic thought. One thing I’m interested in is you as a young
+man being obsessed by Coltrane. I
+understand you went to see him 50 times or more.
+Steve Reich 
+I didn’t count but it was a lot.
+Emma Warren 
+Where did you see him and how deep was your connection to the music? Paint us
+a picture.
+Steve Reich 
+I saw him a lot when I was a junior in New York at the Five Spot. Saw him in
+San Francisco at the Jazz Workshop. Once saw him there with Eric
+Dolphy. Eric Dolphy was responsible for the bass
+clarinets in Music For 18 Musicians. I brought that in, we can talk
+about that briefly. Why was I interested and why were so many other people – Terry Riley, La Monte Young? Anybody with a pair of
+ears should listen to Coltrane. I highly recommend an album called Africa /
+Brass. Not necessarily the most
+famous, but for musicians in terms of an extreme form. It’s about half and
+hour long and it’s got a very big band and Eric Dolphy did the arrangements. I
+think there are French horns playing like elephants coming through the jungle.
+But what’s interesting is that the whole 30 minutes are in E. You know how
+jazz men talk about the changes? “What’s the change?” “E.” “No, no, no, what’s
+the changes?” “E!” E for half an hour. “Wait a minute, come on, E for half an
+hour?” Well, it’s built on the low E of the double bass, played by Jimmy
+Garrison. You’d say, “No, it’s stupid.
+That’s too boring.” But it’s not. It’s definitely not boring. Why? What’s
+going on to compensate for the lack of harmonic movement? Now of course, you live in a
+time when we’ve had a lot of water under the bridge. But I’m talking 1963,
+’64, ’65. There’s incredible melodic invention, sometimes Coltrane’s playing
+gorgeous melodies, sometimes he’s screaming noise through the horn. Sometimes these elephant
+glissandos going on, which are basically French horns playing glissandos, scored
+by Eric Dolphy, who was a great musician and one of the great alto sax players
+and a very schooled musician as well. And two drummers, Elvin
+Jones being one of the
+most inventive jazz drummers who ever lived. And I think Rashied Ali was the other drummer. So you’ve got an incredible amount of rhythmic complexity, temporal variety and
+melodic invention. And they more than compensate for the harmonic consistency.
+As a matter of fact, there’s a tension because it doesn’t change. At the same
+period of time there was a Motown tune by Junior Walker, saxophone player back in
+Detroit, called “Shotgun.” The
+bassline was like this... [imitates bassline] And because it didn’t change,
+you’re waiting for this thing [to happen], but it didn’t. In America in the
+mid-‘60s, there was something in the air about harmonic stasis. We were
+hearing Ravi Shankar coming in from India; we were hearing Balinese music; we
+were hearing African drumming; we were hearing John Coltrane; we were hearing stuff coming in from Junior Walker and Motown. Bob Dylan, “Ain’t gonna work on
+Maggie’s farm no more.” Alot of stuff on that first album, there’s a lot of the one
+chord. A little turn around on four and five and right back on one. And that
+incredible non-, but wonderful, voice that he has. So there was this thing in the
+air coming in from various sources outside of the West, from jazz, from popular music, which was pointing in this direction. And without that I never would’ve done what
+I’ve done, Riley would never have written In C, etc., etc. Things come from a
+certain time and a certain place. If this hardware weren’t around [gestures at the turntable], you would
+be doing something else. We interact with what’s around us. That’s, in a
+sense, folk music. What you guys are doing is basically now a kind of folk music, which, as I
+understand, has already been codified and is being studied and multiplied. But it
+spontaneously arose in the culture and now many, many people are developing it. I’ve always seen pop music as the folk music of our time. Dylan’s plugging in was the end of that old Woody Guthrie folk music and the beginning of firmly establishing rock music
+as the folk music of our culture, and now the further developments thereof.
+And when you look in the window of a music store, what do you see? You
+see electronics, and that’s the folk instruments of our time. That’s how I see it.
+Emma Warren 
+If we’re staying in New York around this time, what did the city sound like?
+So much of your music is based on the way you hear the environment around you.
+How did it sound?
+Steve Reich 
+Noisy. I used to walk around with ear-plugs. Shall I play some of City Life?
+I felt after It’s Gonna Rain and another tape piece called Come Out, this
+was a fantastic technique, this phasing idea. Tapes can do it, windshield
+wipers on a bus can do it, bells on a railway crossing can do it, but you
+can’t do it and I can’t do it. Finally I said, “I’m the second tape recorder.”
+And I made a tape loop of a piano pattern, sat down with it, closed my eyes
+and I just got as slowly ahead of it as I could. And this piece Piano
+Phase came out, which eventually
+could be done by two pianos. And it is done by two pianos and there’s a
+recording of that here. I thought I’d play you that.
+Emma Warren 
+Let’s do that, because I wanted to ask you about that. I read something where
+you said that when you did that, you needed to listen in a way you’d never
+listened before. Is it possible to improve or radically alter the way you
+listen through practice?
+Steve Reich 
+Oh, absolutely. Can someone come up here and move… I have no idea what all this
+[equipment] is. We were on track four and we need to go to track two. Can you do
+that?
+(music: Steve Reich – “Piano Phase” / applause)
+That’s Nurit Tilles and Edmund
+Neimann playing two pianos. Now,
+how do you play that piece? First of all, you memorize the notes because
+they’re obviously pretty easy. Put notation on the side, one person starts, the
+other closes their eyes probably and gets in unison. And then one maybe nods to the
+other person, like, “OK, I’m gonna try and move now.” And then tries to
+slide ahead as slowly as they can against the other player. The other player has
+got the easy part? I don’t think so. I usually do the phasing, I have high metabolism. The hard
+part is staying put. It’s like a vacuum cleaner. The tempo’s going up and
+you’ve got to say, “No, I’m not going with it. I’m going to let them pass me.”
+There’s like a physical force pulling you, but you want to stay in the
+irrational, irrational relationship, and if you do that right you get this kind of
+spinning around, and then finally it gels. And that's what you just heard too. And eventually it comes around and
+back in unison the way It’s Gonna Rain did. But for me this was, “Look ma,
+no tape!” [laughter] So it opened the floodgates to working with
+instruments. Because I was a composer, I didn’t want to be the little old
+tape-maker. Again, no casting aspersions on people making laptop music,
+everything has its place. But me, at that time, that’s how I felt.
+Emma Warren 
+How difficult – or how interesting – did you find that transition between machine and musician?
+Steve Reich 
+At first I was like, “I’m trapped, what have I done? I can’t leave this thing,
+I can’t do it live.” But I finally said, well let’s try it. I could do it
+against tape, then a friend and I could do it together and then other people started doing
+it. I felt liberated, I felt exhilarated, I felt the door had opened. That led to
+Drumming. If you want to
+go Queen Elizabeth… Well, it’s sold out, but those of you who are there
+tonight will hear Drumming, which was the last piece to use the phasing
+technique, in 1971. Never used it since. Why? Because it is a weird
+technique. If you go to a conventional music school anywhere in the Western
+world, or Japan or anywhere else, they will not teach you how to phase –
+except some teacher who’s into my music may teach you how to do that. The
+percussionist will do it, but there are other ways of getting what is
+called… like, "Row, Row, Row Your
+Boat," a canon or a
+round. That’s basically what’s going on
+here. That’s what’s going on in It’s Gonna Rain – it’s one sound against
+itself. That’s a canon; it can be from the 13th century, it can be Johann
+Sebastian Bach, it can be Bela
+Bartók, it can be Steve Reich. It’s
+one thing against itself rhythmically displaced. So this is that principle. But the odd part is that usually it’s like, “row, row, row
+your boat gently down the stream” and on “merrily,” you come in with “row.”
+That’s the way it is. OK, that’s one way that it is. The way it is here is
+that people come in together and irrationally slide ahead. So in a sense, it’s
+kind of a footnote to the history of imitative counterpoint or round or canon
+in the Western world. Now this is not something you will find in Africa or
+Bali or anywhere else, it’s something quite unique to our civilisation. Why?
+Because the idea came from a machine. Now, this is one of the things I want to get
+across. We live in a time where’s it’s possible to get ideas for music
+from machines and get ideas for computer music from live music, that are
+perfectly valid and will work if you get it right. That to me is a kind of solution
+to anyone who looks at people who make electronic music as a whole bunch of
+robots. That whole syndrome is locked on the idea that you’ve got your minds
+closed to anything that’s to do with live music, which would be an unfortunate
+situation to be in. But it’s the same thing with people who are into live
+music. Now, I think everybody within the culture is open to all music. This is
+something pretty much well understood by all of you. But for me, it was a big
+deal because this was not the case. Just a few people beginning to see that
+these are permeable divisions. This is a very, very clear example of that,
+just taking it right from the tape and putting it right into instruments.
+Emma Warren 
+I wanted to ask you something about Drumming. I understand the Steve Reich
+and Musicians, the ensemble, when you gave them the piece you wouldn’t give
+them notation; you taught it to them and made them learn it. So they had to
+feel the music and learn it without seeing it. Now a lot of people here are
+using programs where you almost can’t avoid seeing the music because it’s
+there in front of you. What are the benefits of learning the music without
+seeing it?
+Steve Reich 
+This is a big deal question. [laughs] When music began and none of us were
+around, we can only speculate, but we know there was no notation. We can be
+sure about that. The greatest music scholar today in my book is Richard
+Taruskin, who just finished
+the six-volume Oxford History of Music in the West. He’s not only brilliant, but
+he’s also a pretty hip guy and he’s basically saying, “Look, I’m writing at a
+time when notation began, so I can refer to things that I can see. And I
+realize I’m entering a period” – i.e. now – “when that notation is in question.”
+Because we are moving on many levels towards… [puts the mic down and stands
+up / inaudible / laughter] You walk down the street in London or New York,
+most people are in that position, or some variation of that position. Now that’s not
+without consequence. That’s leaving a mark, and people of all ages. Sometimes surprisingly at how old people are who are still doing that. Notation started
+somewhere around the 10th or 11th century, and it was quite different then than it is now. There are lots of arguments. I love
+Pérotin, Pérotin was in the 11th
+century in Paris, at Notre Dame cathedral, writing things out. But writing
+wasn’t the main deal, it was just, “Well, I want to save this for posterity,
+blah, blah, blah.” But he was a singer and he would sing in the parts, the way
+a guitar player would go like this and the bassline goes like that. That’s how
+it works. How many people here are involved in live music? So is this an
+experience that rings a bell for you? OK. That’s really how it all begins.
+Then the idea of notation appears in certain cultures. I know there’s no
+notation that I’m aware of in West Africa and I don’t think it’s in East
+Africa. I think in Indonesia there may be some isolated forms of notation,
+certainly not like ours. I think in Japan there’s some notation for
+gagaku. The imperial household had very
+high level, very beautiful harp music. Sounds electronic, doesn’t it? It’s a
+marginal thing, notation. If you were to take a balloon view of the earth and
+a balloon view of history, you’d say, “Well, there’s a little pocket here
+where they wrote things down.” So when people talk about pop music and classical
+music, I say, “Wait, why not just talk about notated music and non-notated
+music?” Of which, non-notated music is enormous and notated music,
+historically speaking, is a small subdivision thereof. That’s not to belittle
+it. I’m spending my life doing it and hope there’s some future in it, but sometimes
+I wonder. So that’s that.
+Emma Warren 
+Thank you. Talking about notated music and non-notated music leads us neatly
+to Ghana, which you visited for a few weeks in the early ‘70s. I know you’d
+been there before and studied at the University of Accra. A friend of mine
+went there and he experienced Ghanaian drumming in the villages, essentially
+at these beach parties. They were parties for everybody, they weren’t
+necessarily like a rave or something. And I was just intrigued to know what
+you experienced in Ghana. Were you mostly just at the university or were you
+out and about as well? What did you hear?
+Steve Reich 
+I went to Ghana in 1970 when it was quite different than it is today. I was living outside of Legon, which is a suburb of Accra, which is the capital, and where there’s a university and where the Ghana Dance Ensemble was formed. The Ghana Dance Ensemble
+is basically quasi-British – Ghana was a British colony, so they have that
+basic mindset. And there are about five or six major tribes in Ghana and,
+demographically speaking, the Ghana Dance Ensemble had to represent them all.
+The Ashanti have always ruled the
+roost. They also sold the slaves back in the “good old days.” And you also
+have the Guans and
+the Ewés, who are sort of at the
+bottom of the social ladder, because they weren’t really Ghanaians, they were
+from Togo. The way I experienced the music was that it was not party music
+at all – although I learned one tune,
+"Gahu" [imitates sound with
+mouth], is the basic rhythm in Gahu. But most of the time it’s a new chief
+being installed, so we’ll play this piece. Somebody dies, and there’s a lot of funeral
+music and what they call wake-keeping, meaning the anniversary of the death
+of whoever. There was a lot of that because if you have a large family there
+are a lot of people whose anniversary there is. So it’s religiously-oriented,
+it’s politically-oriented, and it’s historically-oriented. And it’s part of life, it’s
+not a concert. When the Ghana Dance Ensemble was doing what the French would
+call a ’momo musique’, they would take a three-day piece and give you 20
+minutes of it, because they were going to tour London, New York or whatever
+and they couldn’t give you three days because you weren’t in a village. But I
+did hang out with my teacher, Gideon, in his village and managed to get
+malaria. I was wearing my sandals, tourista. I mean, I was taking the pills but when
+you get a hundred bites in each foot, the pills don’t work. Meanwhile, they did
+a piece that took three full days, with people in boats and an incredible scene
+where there was a circle and they go around and sing and isolate individuals – it was in their language so I
+couldn’t tell, but they seemed to be saying, “You’ve been doing so and so.
+Now, are you gonna stop doing that and straighten out?” And the guy would...
+[nods head] It felt – and I’m just projecting what I could read out of it –
+it felt like a moral upkeep of the community done in a musical form. Quite beautiful stuff, stuff that would be impossible to reproduce onstage. A couple years ago I was asked to talk to a New York musicological conference at
+Manhattan School of Music. I noticed the only black face there and he looked
+African and I said, “Where are you from?” He said, “I’m from Ghana.” He must
+have been in his 50s or 60s. I said, “Oh, I was in Ghana in the 1970. Do they
+still play agbadza and gahu?” He paused
+and he said, “Well, that’s grandpa’s music.” [laughter] So, times change.
+Emma Warren 
+Of course, time marches on, always. So when you came back you said it wasn’t
+possible to replicate it.
+Steve Reich 
+I had no desire to replicate it, that was the last thing in my mind.
+Emma Warren 
+Of course, no one with any creative heart wants to replicate, but how do you
+deal with that problem of being inspired by something very locally specific
+and making it yours?
+Steve Reich 
+That’s a very good question. A lot of people of my generation drowned in the
+music of India and other places, because the music of India and Indonesia and
+Africa are continents and thousands of years of music and they’re like an
+ocean. A lot of people go wading in and, just as an individual, with a whole
+lot of mistaken ideas and don’t really get out of it. I’ll give you a concrete
+example. I brought back a set of metal gongons, iron bells, not steel. Double bells that are two
+through to six octaves, and I took these tokes, they kind of look like
+an enchilada. [laughs] And they’re used to accompany songs, very beautiful songs.
+And what really got me was the accompaniment, they’re like interlocking bell
+sounds. They weren’t that big, so I put them in a canvas sack. I think I had
+about six of them, and I brought back a rattle, a beautiful rattle that I
+still have. And I thought I’d use them in my music. I didn’t know. I got home
+to New York and I don’t have perfect pitch, so I didn’t know what the exact
+notes were. But I tested them with the piano and said, “Wait a minute, these
+are out of tune.” So what do I do? Get a metal file and go [makes filing
+noise]? That doesn’t seem like the right thing to do. Then I thought, “I
+don’t want these things in my music.” “Hello, I’m a gongon, pleased to meet
+you.” So I took them to my ensemble, taught them how to play them the way I’d
+been taught, and we used to take them to parties. They were called ha-cha-cha
+pattern and everybody loved it, thought it was great. And that was basically
+it. It became clear to me that I’m not an African, I’m not gonna pursue
+African music. What have I learned that can travel? What I’ve learned that can
+travel is the structure of a piece of music, how is it together. Think about a
+canon or a round. How does it sound? I have no idea how it sounds. I heard a
+canon done by a friend, James
+Tenney, who’s no longer with us,
+which was a glissando [makes sliding ascending sound]. We used to call it the
+“barber pole piece” or “busy day at JFK.” That’s a canon. It has nothing to with... [sings],
+which is the 13th century. It’s the structural idea that exists independently
+of any sound whatsoever. You can fill it with scotch, Coca-Cola, Red Bull – you
+name it. It’s an empty vessel, that’s what can travel. Notes? The Balinese
+tune very differently than we do. If someone gave me a gamel, I’d say, “Thank you
+very much,” and give it to the trophy museum in Holland or wherever. I’d feel
+burdened by it. It’s the weight of a culture that’s not mine. I want to go to
+48th St. in Manhattan. Anything in that store, that’s mine.
+Emma Warren 
+The Steve Reich Ensemble, an
+interesting thing…
+Steve Reich 
+Well, we’re on pause right now.
+Emma Warren 
+But it’s an interesting entity, to have a group of musicians who work
+with you so closely, who are prepared to go to those extra lengths for you.
+And you have that history as well. What does it bring to your music, to have a
+group of musicians like that who you are with for the music you’re performing?
+Steve Reich 
+Well, it’s fantastic. It’s like Count Basie or Duke Ellington, any group of musicians that stays
+together for a long time develops an ensemble that’s inimitable. Nevertheless,
+I suspect that tonight the Colin Currie group is going to do an absolutely dynamite job on Drumming. Maybe I’ll be wrong, I hope not, but I really feel that way.
+I’ve been to places like Riga in Latvia and heard people burn Music for 18
+Musicians right down to the ground. How? Well, they’re young. They heard it when
+they were 14, 15, 16, 17. They really know how to play their instruments and
+they really like the music, and it’s just like, “Oh, what’s the problem?” In
+my generation, we’re the gold standard. [laughs] But happily other
+generations have come along who have just picked it up because they wanted to and for
+no other reason. And if that doesn’t happen, you’re dead.
+Emma Warren 
+Please forgive me for asking something you’ve probably been asked about so
+many times, but for the benefit of those people here who may not know about
+the stories or the genesis, can you tell us about Music For 18 Musicians?
+Steve Reich 
+Can’t tell you a damn thing, let’s put it on. [laughter / swaps CDs around] I’m gonna play the opening two sections. Does anybody wanna look at the score? [passes the score out] We’ll start at the beginning.
+(music: Steve Reich – “Music for 18 Musicians” / applause)
+Emma Warren 
+We’re going to pass questions to the floor shortly, but I have one more. What
+is the difference between the performance of a piece and the recording of a
+piece? What did you have to do get the recording you wanted?
+Steve Reich 
+[laughs] Redo takes. Splice. EQ. Reverb. Usual tricks.
+Emma Warren 
+So there was nothing specific about the way you miced it?
+Steve Reich 
+Well, OK, OK, good question. That rasping bass clarinet [makes sound], you have to mic
+them the wrong way. The way you mic a clarinet, classically speaking, B-flat
+would go in the barrel. Bass clarinet is probably the same thing. Bass
+clarinet looks like that [makes long straight line with hand] and rests on the floor. You tend to come in on the barrel
+with the mic. No, not to get this effect. To get that rasp you go right into
+the barrel, which is wrong. To get that with an E-flat, which is just ouch!
+But if you go into the barrel of a bass, then you get this rasp by turning up
+both the high frequencies and the low frequencies. And maybe a little bit of
+3K, too, just to make sure you bite everything. Everything else is pretty much
+normal. I don’t know mics. Judy
+Sherman’s my producer. Classically speaking, she’s Grammy-winning, wonderful, ears
+around the corner. This was all
+ProTools. The first recording
+on ECM was obviously analog, still in a pop studio in Paris, on probably a 16-track Studer in those days. But the Beatles did Sgt. Pepper on four tracks, so stick that in your nose, man. [laughs] Can I have
+my score back? [laughs] Oh, if someone else is looking at it, fine,
+just give it to me at the end, don’t walk off with it. I only have one of
+those previews left. Just make sure when I leave, let me leave with it.
+Emma Warren 
+It will come back, don’t worry about that. So, does anyone have a question?
+Audience Member 
+How do you balance an idea with musicality or the sound? There were several
+guests we had here who had different opinions on how to use an idea to incorporate music. Some said you had
+to make it listenable, some said you had to stick to your ideas as closely as
+possible regardless of what the audience expects. So how do you balance it out?
+Steve Reich 
+When I write music, I’m alone in the room. My criteria is this: If I love it, I
+hope you will too. I’ve been fortunate, God knows. I don’t think there’s any
+other way. If you’re writing a jingle – and that’s a perfectly valid thing to do – then you’ve got to satisfy a customer. If they don’t like it they send it back. I respect that, that’s craftsmanship. Or
+if you’re writing for a film, etc., etc. I’m not. I’m in art composition,
+whatever that is. As I say, I’ve been very fortunate. That’s how I operate in my field, that’s basically how it
+works. People are very smart, very intuitively smart about music, and you can’t fool ’em. And if you do something that you think they wanna hear, they smell a rat.
+Audience Member 
+Early on you mentioned something about notated music and other music. For
+someone who’s not classically trained, how possible is it to get into
+composition?
+Steve Reich 
+A very good question. First of all, there are various degrees of being able to
+read. Sometimes you could follow a score. You couldn’t sing the lines, but you
+can see the shapes and follow them. My son is a rock ‘n’ roll musician and
+when he first got ProTools his music changed. He had been working with a
+guitar and doing everything with the guitar. When he first got ProTools, he
+saw what he was doing: His eye became involved in addition to his ear. I think
+with ProTools, and maybe other programs I’m not familiar with, any program that shows you where the guitar is playing and where it’s not, where the drums
+are playing and where they’re not, suddenly changes your perspective. I think all of you work with programs where you can see the music, and therefore you
+are composing, insofar as you use those tools to arrange what you are doing.
+What do you generally use, what software?
+Audience Member 
+FruityLoops, Cubase.
+Steve Reich 
+I don’t know Cubase, but does it represent the music graphically?
+Audience Member 
+Yes.
+Steve Reich 
+You are, in a sense, using notation. Staff notation is very precise. It isn’t
+as global a picture, you know what I mean? When you look at a screen, you can really see, wow! You
+can shrink it, you can see the whole piece on one screen and have details as
+you like. I work with
+Sibelius, that’s pretty
+much standard issue. Finale is used, but Sibelius seems to really be the one, it’s easier. You can learn the basics of music notation from a friend, from a book, and
+you can get simplified versions of Sibelius. The question is whether it’s
+gonna be useful to you. And I can’t answer that. You should speak to
+someone who is fluent, a film composer, anyone you’re friendly with that you can speak to candidly, to see if
+it’s gonna help or if it’s an illusion. And I can’t answer that.
+Audience Member 
+With the phasing effects it seems you’re pretty much into audio illusions. I
+don’t know if that’s the right term for it.
+Steve Reich 
+I haven’t done phasing piece since 1971. That’s, uh, 39 years.
+Audience Member 
+But you also say you mic a clarinet the wrong way to get a certain sound, you
+seem to like the limitations of things. It’s interesting talking to electronic
+musicians who prefer analog and talking about whether or not they like a
+certain sound because it’s incorrect or because there’s too much bass or something like that. Do you
+find digital software doesn’t have those kinds of quirks and errors? Is too
+clear for you?
+Steve Reich 
+My entire arsenal of equipment at this stage of the game is Macbook Pro with
+Sibelius and Reason as a software sampler, and I don’t use anything in Reason
+except the NN-XT sampler. I’ve got stacks of them
+filled with musical instruments. Now I’m gonna be working on a piece of speech
+samples to do with 9/11. Before that there were samples in other things. The
+samples get triggered by a separate staff in Sibelius that hits a separate
+MIDI-track in Reason that I fill up with certain [phrases], like “check it
+out” in City Life, or what have you. Or air-breaks. In other words, it’s a
+sampler triggered from a notation program. There’s one other piece of
+software somebody gave me. I wanted to be able to do the equivalent in sound of
+stop-action in film. So if someone said, “zero,” you can go “zeroooooo” [holds note]. In 1973, when I got the idea, [deep voice] “Darth Vader.” Now, I
+understand it’s called granular synthesis and there’s a
+program that originates in Paris but is filtered down into Macs. Some
+friend of mine has put a front end on it and I can locate something in there,
+so if I want to stop the voice on, for instance, a consonant – I saw a
+fissssssssssssssssssssh – and it does a fantastic job of it. But those are the only things I use. I also use, there’s a little
+recording program called, I think, WireTap made by Ambrosia. Basically it will take anything in your Mac and it will dial up – is it coming from Safari or
+Mac basic sound? And you can record it lossless and you can edit like a
+standard Apple. I just use a graphic equalizer. Any kind of reverb I leave for
+production. I’m just making mock-ups. The samples, those I really have to work
+with because I don’t wanna waste too much time in the studio, we don’t have
+those kinds of budgets adjustingthose. I don’t want to spend time adjusting those, so we will
+trim them. What I’m doing is making MIDI-mock-ups of what will be live
+compositions and I make them sound as good as I can because I will send them
+to the performers. The performers can use them to play along with and when
+they come into rehearsal they’re two or three rehearsals down the road because
+they’ve played at tempo, they know what the context is and so on and so forth. But that’s my entire
+involvement, so a lot of the things you’ve mentioned I just don’t know.
+Emma Warren 
+You just mentioned you’re working on a piece about 9/11. You had some
+recordings from the previous World Trade Centre bombings in a previous piece.
+What’s the 9/11 piece?
+Steve Reich 
+For 25 years I lived at 258 Broadway, which is at the corner of Broadway and
+Warren, which is four blocks from Ground Zero. When it happened, I was
+in Vermont with my wife. My son, my daughter-in-law and my granddaughter were
+in our apartment. I’m not going to go into all the details, but it was
+terrifying. Thank God they’re alive. When somebody asked me if I was going to
+put this to music, I was in the middle of Three Tales, which was a very sample-
+intensive piece and I didn’t know what to do with 9/11 in a musical sense.
+About a year ago Kronos Quartet came back to
+me and said, would you write us another piece, with electronics? I realized I
+had unfinished business. So I’ve just got through interviewing my neighbors,
+who saved my son and my granddaughter and got them out of the city. I’m also getting
+the recordings of Norad, which is
+just, “American 11, 40 miles north of Kennedy.” “Where’s it going?” “We don’t
+know.” A lot of recordings of the police and fire departments talking to each
+other, volunteer ambulance drivers, one victim. The web is full of stuff like that,
+so it’s very, very powerful stuff. But there’s also a lot that’s beautiful in
+there. There’s a Jewish tradition that you don’t leave the body until it’s
+buried. So these women came down, not knowing which bodies were in this tent
+or what parts of people were in this tent, and said psalms around the clock until the bodies and parts were buried. I’ve actually located one of the women, who’s now living in Los
+Angeles, and she’s coming to New York and I really want to interview her about
+what she did. So that’s gonna take the piece somewhere else.
+Emma Warren 
+Absolutely. Any more questions?
+Audience Member 
+My question seems very frivolous after that.
+Steve Reich 
+I don’t want to put a kibosh on the conversation, let’s lighten up.
+[laughs] At the moment, they got London once and hopefully they’re not back in a hurry.
+Audience Member 
+In the early days when you were introducing your music to people, how did
+you describe it if you were asked to describe it?
+Steve Reich 
+I’d get nasty and say… I don’t know what I would say. I don’t think it’s very
+important. Journalists, they will invent something, and they did. Somehow there’s a
+Red Bull interview with me online, which you can hear, and I’m real short. If you went to Paris and dug up Debussy and
+tapped them on the shoulder, you’d get, “Excuse moi monsieur, est’que vous un
+impressioniste?” “Merde!” [laughter] It just doesn’t matter. I might’ve said… I don’t know. I think Phil Glass said
+“repetitive music.” I don’t know what I said. I didn’t like minimal, but on
+the other hand it’s better than trance or some other things. [laughter]
+If a journalist says that to me, I say “OK.” But if a musician says it, I say, “Hey, man. Wash your mouth out with soap.” It’s your job to write the next piece, it’s
+your job to not know what’s happening. It’s your job not to put yourself in a
+box and say, “I’m a minimalist.” it’s boring, it’s stupid, it’s self-
+destructive. You should worry about what the next piece is going to sound like
+and do the very best you can, then onto the next thing, it’s someone else’s
+job to do that. You can be polite, don’t make enemies if you don’t have to.
+But I don’t think it’s a major concern that as a musician, as a producer of music you need to worry about.
+Emma Warren 
+Time for a couple more questions, I think.
+Audience Member 
+I was hoping you could take us into the process of when you do sit down in that room alone and you start writing. How much trial and error? How much do you throw out? Is there
+something you hear here [points to head] you want to address? And what is
+that solitary process you go through? And how much has it changed now you have
+the computer screen in front of you?
+Steve Reich 
+Oh boy, very good series of questions. I did a couple of pieces for the
+orchestra, which are by far not my best works. I really don’t need 18 first
+violins, 16 seconds. It’s too fat for what I do, it’s bad orchestration. I
+learned that in the later ’80s, ’85, ’86, ’87. Basically, what I’ve been doing
+since the beginning – with a little break in the middle – is inventing the
+ensemble that I’m writing for. The inspiration lies in, wow, Six
+Pianos or Four
+Organs or whatever the group that I’m
+writing for. Even when I was writing Different Trains, it’s not for a string
+quartet. It’s for three string quartets, or maybe four, and pre-recorded
+sounds. Triple quartet. The string quartet, something is missing, because I
+like identical pairs of instruments. Where’s the second viola, the second
+cello? So some of the inspiration is simply the line-up of instruments, then
+getting it on the page and saying, “OK, this is what I’m writing for.” [exhales] Before
+Music For 18 Musicians it was a rhythmic melodic pattern that really got me
+started. For instance, I was on the phone and I was [taps fingers on a book]. Hm, that might be a good idea. And that’s Drumming. That pattern,
+or some form of it, in different notes, in different tempos, is going on for
+an hour. Starting with Music for 18 Musicians, I said, “Well, what if I sat down and worked things out harmonically?” So I sat at the piano and worked out a series of
+chords, the way composers would, jazz musicians might, Paul McCartney might.
+And it really worked in that piece, and that was encouraging to continue
+starting with a harmonic superstructure. Very basic, very basic, just take up
+maybe half a page of the notebook. Before the computer, the music notebook was used
+in conjunction with multitrack tape. First, I was just working with stereo,
+going back and forth, sound on sound. But I always worked in real sound. I
+always heard some mock-up of what I was doing. I wasn’t just figuring it out
+on the piano or trying to work it out in my head. I’m a cripple, man. I have
+to hear it. There were various ways of doing that. In about ’83, ’84, I got a
+grant for when Tascam first started. There was TEAC, then Tascam invented itself and
+basically created a kind of Scully,
+8-track on half-inch. It weighed a ton. It was one thing just transfer, one
+thing just electronics. I worked on that through Music for 18 Musicians and probably
+for another ten years after that, at which point MIDI appeared on the
+scene. Different Trains was done on a Mac Plus. The notation was done on
+something called Professional Composer – which is a
+complete lie, it crashed every 15 seconds. [laughs] But you could export it
+to Performer. I don’t
+mean Digital Performer, I
+mean Performer. Then you could play it back and mock up and transfer the
+digital samples from Performer. So it was lots of Band-Aids and chewing gum.
+The piece could never have been done without a computer, but it was in the
+very early days. But still, the idea of going to a piano and working out a
+harmonic framework, in Different Trains that didn’t work. Because in the
+speech pieces, people don’t speak in A-flat, they just speak. You can go to a
+computer and change their pitches, which I did in Three Tales, but in
+Different Trains and The Cave, which are about subject matter that I thought was serious enough that I felt wrong in messing around with the
+voices. My freedom was to choose what I wanted to do, but not to change it. If
+I didn’t like it, get something else. So I had to change tempo and key every
+45, 50 seconds, which was something I’d never done before. It was a workout, helped me to invent harmonic movements that I never would’ve come to
+intuitively, because I was trying to follow some words that made some sense.
+So the recorded speech pieces, it’s like hanging onto a horse for dear life, trying to keep it
+under some control. Right after that I went back to working in instrumental
+pieces of music, which I would organize harmonically at the piano first. Once
+that organization is done at the piano in music notebook, then it’s pretty
+much an intuitive process. Most of it’s done at the computer, playing back;
+first it was Sample
+Cell, now
+it’s Reason. Somehow playing back notation. And there’s a lot of garbage. My trashcan runneth over. Most of what
+I write [gestures throwing away]. I could burn up a few firewire harddrives.
+Emma Warren 
+How are we doing for time? So a couple more questions.
+Audience Member 
+Continuing with the discussion of the writing process, how would you advise
+participants to move from songs to symphonies and having longer works? How do you
+visualize longer works like Music for 18 Musicians? Is it as component parts?
+Steve Reich 
+First of all, I would never advise Radiohead or Stephen Sondheim to write
+symphonies. When certain well-known pop people try to do that, it’s usually a
+disaster. They are geniuses as it is and anybody who doesn’t recognize that is
+deaf. It ain’t what you do; it’s how you do it. That’s what I’m a firm believer in. So the first question is: Why
+bother? Unless it’s burning a hole in you, and if it’s burning a hole in you,
+then you have to look into it. It may mean going to music school. It may mean
+– I don’t know what your skills are in terms of notation, if you wanna write
+for musical instruments. If you do, then you not only have to get the notation
+skills, but you have to get some idea of what the ranges of the instruments are. It’s
+very good to go to a music school where there are lots of performers, i.e. a
+conservatory rather than a college, because instead of just talking about it
+you’ll be able to go down to the cafeteria at lunchtime and write something
+for a string quartet and they’ll be able to play it. ”What’s it like playing A
+on an open string and A on a closed string?” And so on and so forth. This is all practical
+knowledge. And the biggest thing to decide is, do I reallyneed to go through all
+this? Is this really who I am and is this something I ought to do? You want to be
+very sure of that before embarking on something that could be a very laborious and time-consuming
+period of years.
+Emma Warren 
+Is there anyone else who has a question they’re burning to ask?
+Audience Member 
+I don’t know how relevant this is but I’m still in a weird state from that
+piece you played before, because it had all this emotion that maybe in English
+you can’t express in words. I’m a singer, and I do that the best, so I communicate with my
+voice a lot and it’s hard for me to express that type of stuff that I get from your music. That’s
+just a random thought, not a question. But I just wondered how much you use
+concept as a limitation to your creativity. To me, since being here, I’ve
+realized how not having any concept and just going off your feeling and the
+feeling and the energy of whoever you're creating with, drives the creation of a
+piece of music. So how much do you let it depend on that particular moment in
+that time and place, and how much do you try to communicate a certain message?
+Emma Warren 
+How much are you following emotion and how much are you following concept?
+Steve Reich 
+I’m not much of an improviser and I think what you’re describing is improvisation.
+Improvisation is an ancient and very honored tradition. Johann Sebastian Bach
+was not known as a great composer in his day, he was known as the greatest
+improviser of his day. People were afraid to have an organ match with him. What you’re
+talking about is very real. I don’t participate in that part of the world, but
+I know it’s there and it’s ancient and very real. So if that’s something that
+works for you, then you should pursue it. Composition implies there’s already
+a certain amount of thought gone into it, but the bedrock of anything I’ve
+ever done has rested on musical intuition. Whatever ideas I may have had and so on and so forth, the test is: How do
+they sound on Monday, how do they sound on Tuesday, how do they sound next
+month? And do they keep sounding good? And if they keep sounding good, then they are good. And
+if they don’t, then they’re not good. [laughs] Thank you all for coming, I
+appreciate you being here.

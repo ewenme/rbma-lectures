@@ -1,0 +1,473 @@
+A Grammy winner for his work with Red Hot Chili Peppers, Adele and Ziggy Marley, Andrew Scheps has had an extensive career behind the boards engineering and mixing records for some of the world’s biggest rock bands, including Metallica, Red Hot Chili Peppers, Green Day and U2. A former employee of Synclavier, Scheps spent time on the road with a pair of certifiable legends, touring as Stevie Wonder’s keyboard tech and mixing live sound for Michael Jackson before working on Jackson’s HIStory.  Scheps currently runs his own studio Punkerpad West as well as the Tonequake record label.
+In his 2015 Red Bull Music Academy lecture, Scheps imparted decades of recording knowledge, discussing everything from parallel compression and the intricacies of recording vocals to his work with Adele.
+Todd Burns
+Andrew Scheps, everyone. Thank you very much for coming out.
+Andrew Scheps    
+Thanks for having me.
+Todd Burns
+The track we just played is “99 Problems,” for those who may not know it, by Jay Z. You’ve probably heard that song a thousand, 2000, 3000 times?
+Andrew Scheps    
+I don’t know. I’ve been asked about it or asked to make something else sound like it more than I’ve heard it, though.
+Todd Burns
+What was your exact role on that song?
+Andrew Scheps    
+I mixed it. We mixed it for three days so there was a lot going on, all the 808 programming, all the live percussion. Most of Jay’s vocals all happened during those 3 days. It was mixing while doing everything else.
+Todd Burns
+Do you have any special Jay-Z stories you can share with us?
+Andrew Scheps    
+No, I didn’t actually ever get in the room with him. He was somewhere else recording things and his vocals were just coming in, so no, I don’t have any Jay-Z stories, not a single one.
+Todd Burns    
+OK, that’s fair. You’re an engineer, you’re a mixer, you’re a producer as well.
+Andrew Scheps    
+At times, yeah.
+Todd Burns    
+You’re a label owner.
+Andrew Scheps    
+Stupidly, yes.
+Todd Burns    
+You recently started a label after many, many years in the business.
+Andrew Scheps    
+Yeah.
+Todd Burns    
+What do you regard yourself as though when you think about your…?
+Andrew Scheps    
+I don’t know. You always think you’re something and most people don’t realize you think you’re that. I think, at the moment, I’m a mixer. That seems to be what the record industry has decided I’m going to do. I love producing and I think I’m really good at it, but I don’t get that many opportunities anymore.
+That’s part of the label, is I’m very, very involved in all the records that happen to be on the label, but at the moment, I’m a mixer. Which is fine for me because it’s super portable, my time is flexible, I can come to Paris … I did a mix revision last night in a hotel, answering emails at the airport saying, “Hold on, I’ll be there in a minute” then sent it. You can’t do that if you’re producing or recording. You have to be in a room with someone else to do something.
+Yeah, I’m fine with it, but I guess that’s what I do, but I just love music. I wanted to be in a band and play trumpet, that didn’t work out. I got excited about the recording part of making records and that was my way to be in the band. Producing is the closest you’ll come to being in the band without actually being in the band. That was what really drew me to it. Since then, I get a ton out of mixing, just creatively anyway.
+Todd Burns    
+You got your, I guess, proper start in the industry, so to speak, as assistant engineer working with New England Electronics?
+Andrew Scheps    
+Well, New England Digital, but …
+Todd Burns    
+New England Digital, sorry.
+Andrew Scheps
+I wasn’t an assistant engineer. The normal route back when I was young, because I’m slightly old now, but the route was the very traditional studio route where you would either go to school or not and there are plenty of people who argued against going to school. I went to school, I went to the University of Miami and did a recording degree, so a four year Music major with a minor in Electrical Engineering, then as much as time in the studio as you could possibly get.
+Then, normally, what would happen is you’d get a job at a studio. You’d be a runner, then maybe eventually you’d be an assistant, then maybe the engineer would get sick and then you’d be an engineer. You’d follow the traditional career path, but a friend of mine was working at New England Digital who made the Synclavier, which is one of the first digital, started off as an FM synthesizer with a sequencer. You heard some Michel Jackson earlier, that weird ‘dong’ sound at the beginning of “Beat It,” that’s the Synclavier FM synthesis.
+Then they also developed monophonic sampling, then polyphonic sampling and then even disc recording. They were in the forefront. They weren’t the first with any of that, but between them, and Fairlight and the Waveframe, those were the three big players in digital audio for making music. A friend of mine had a job there and said, “There’s an opening in the L.A. office. Do you want to be the field service tech?” Okay, so that actually pays money whereas working in the studio, it doesn’t pay money, so I took the gig that paid money and figured I’d learn something.
+Todd Burns    
+Your job is, as far as I can tell, quite stressful though because here’s this extremely expensive piece of electronics and oftentimes when you’re called in as the field service guy it’s broken.
+Andrew Scheps    
+Yeah. No, always, always. It’s one of the worst jobs ever. It’s the thing where you get a call because, first of all, the box cost at least $100,000. If you had everything, you might have spent a quarter of a million dollars on it. It was broken and you’re sitting in a studio that’s costing you thousands of dollars a day, sometimes with an orchestra that’s costing you $10,000 an hour sitting out there and the box doesn’t work.
+You jump in a van and you drive across town, you show up and you try and fix it. The cool part though is that no one would ever trust that it was actually fixed so then they’d say, “Stick around, take a seat. You’re not going anywhere.” I’m like, “Oh, really, Sting, you want me to hang around? Yeah, yes, Mr. Jackson.” I got to hang around on sessions that, as a runner or as an assistant, I would never have been anywhere near it, because it was all successful artists, because otherwise they couldn’t afford it.
+I had many nights just hanging out watching Frank Zappa edit live shows together because that’s just what he did in his spare time. That experience was just absolutely incredible, but it also got me in the door on a lot of sessions. Then when I didn’t want to be a field service tech anymore because I wanted to make records, I now had this talent of programming as well. I wasn’t just fixing them, I learned how to run it as well as anybody in town, so that became the way I got back into doing sessions, I was a programmer.
+Todd Burns    
+I guess it’s also great when you come and save the day because everyone’s like, “Oh, wow.”
+Andrew Scheps    
+Yeah, they’re really angry and then they’re really happy, so yeah.
+Todd Burns    
+What was the first record that you worked on officially then after you came out of your field service?
+Andrew Scheps    
+Well, I came out of that and pestered people that I’d met. Finally, a guy named John Barnes, an amazing keyboard player, played on a bunch of later Motown stuff and some Michael Jackson stuff, amazing keyboard player hired me as a programmer/assistant. I did a lot of engineering and also a lot of programming.
+We did some film scores and we worked on tons of records in little roles, but then I got some work touring, much to my wife’s dismay. I did a Stevie Wonder tour as a keyboard programmer, then I did a Michael Jackson tour, the Dangerous tour. Because of that, I ended up working on the Michael Jackson HIStory records.
+That was the first full-on, massive record that “you’re here to do something other than clean up after people.” I mean, I’d done a lot of programming at that point, but it was the first full-on big time record. Which is a pretty good way to start, I suppose
+Todd Burns    
+What’s it like working on a record with a hundred other people, though, who all have their hands in…
+Andrew Scheps    
+It was weird. There were a lot of camps. We were working in New York for eight months, I think eight months, and maybe longer and we’re working at the Hit Factory which is a four studio facility on West 54th St. Then they had another two studios in a building a couple of blocks away. There were times when we had all six studios. Cutting an orchestra up in the big studio, we had two rooms where we were just set up constantly, then Steve Porcaro from Toto showed up and I had to go engineer for him.
+What was good about it is I had this weird floating role and I wasn’t tied to any particular room, so I could go hang out and watch Bruce Swedien record an orchestra, then go down and watch Steve Porcaro program synths, then go across the road and watch this guy, Rene, put together tracks and then hang out while Michael’s singing. I got to float around a little bit which was pretty cool.
+Todd Burns    
+Why don’t we play one of the next songs. There’s a band that you’ve worked with quite a bit over the years that you quite had a relationship with, the Red Hot Chili Peppers.
+Andrew Scheps    
+Yeah.
+Todd Burns    
+Let’s play the song first, then we can talk about how you got to meet them and your relationship with them.
+(music: Red Hot Chili Peppers - “Dani California” / applause)
+Todd Burns    
+That was “Dani California” from the Red Hot Chili Peppers.
+Andrew Scheps    
+Yeah.
+Todd Burns    
+What number record, was that with working with them?
+Andrew Scheps    
+That was the second record. It was the first one I did any mixing then, but that was the second record I worked with them. 
+Interestingly, that is the first in many years and the last project I’ve done that if you buy the vinyl of that record, Stadium Arcadium, it is completely analog, 100%, start to finish. There’s no recording on computers. There are some background vocals because we ran out of tracks, but two 24-track tape machines mixed on an analog board through to 1/2 inch tape. For the vinyl, it was mastered analog and cut. That hasn’t happened since and it hadn’t happened for years beforehand.
+Todd Burns    
+Was that your decision or was it the band’s decision?
+Andrew Scheps    
+It was the band’s decision. Yeah, the band just wanted the record to be that way. John, especially, was just really adamant about wanting to make a record that way. There were times during the process where I think he was thinking that maybe it would’ve been easier if he hadn’t, because he’d be out there trying to do background vocals like, “Hold on, I got to get you another track. Hold on, John … Oh, I think we got to bounce these together now because we are out of tracks. Oh, hold on, John, let me make another slave. No, I can’t fly that. No.”
+All the stuff that we just take for granted working digitally is really, really difficult on tape. Also, tape, there’s this nostalgia for tape especially by people who can’t be nostalgic because they never actually used it. It’s amazing for the workflow and it can sound great, but it can also sound terrible and be absolutely the wrong thing. You get a sound and it’s just amazing, then you record it and then you hear it back like, “Oh, right, that’s what tape does.” Anyway, that production was very much a full-on analog thing. That was the idea from the very beginning.
+Todd Burns    
+With the analog, digital thing, it seems like you’re remarkably agnostic.
+Andrew Scheps    
+Yeah, I don’t care. It’s just what comes out of those. We can go into deep concept land here, just for a second. I said this a couple of times last week so I feel like I’m starting to repeat myself, but you haven’t heard it yet. A lot of people say, “Well, it only matters what comes out of the speakers,” but I think that people tend to not necessarily believe it or buy into that, and it is so true.
+If you make a record and let’s say you’re lucky enough that it actually gets released and normal people buy it, if you’re lucky, 1% of the people who buy it have some idea of what recording and editing is, maybe some of them know the difference between digital and analog or they just happen to have owned a turntable and now they don’t. Maybe a tenth of that percent actually would understand if you said, “Hey, check out what I did to the kick drum.” They don’t care.
+If you can make an amazing sounding record on anything, then that’s great, but if you make an amazing feeling record, it doesn’t matter what you’ve used to do it. There are plenty of records, early Stones stuff where they couldn’t beat the demo that they had on Keith’s cassette recorder so that was what they put out. It sounds terrible, but it doesn’t matter, it feels amazing.
+I cannot stress that enough. There’s plenty to talk about in terms of the record-making process and all the rest of it, but just like Sheila was saying before, if she’s not happy fun onstage, what’s the point? If you don’t make a record that feels amazing and people want to hear, I don’t care if you used FruityLoops or analog tape, it doesn’t matter. It’s not called FruityLoops anymore, is it? But regardless, do you want to know what I use on the kick drum on that one? It’s pretty awesome.
+Todd Burns    
+If you want to talk about it.
+Andrew Scheps    
+No, but my start with that band was actually interesting. I’d gotten a call. I’d already 
+been working with Rick Rubin for a while, but hadn’t worked with the Chili Peppers yet, which is a shame because they were…I saw them play live in ’86 and was one of the best shows I’ve ever been to. I got a call because somebody had been doing vocals with Anthony and then also doing overdubs with John. They were going to move Anthony over to where they were mixing so John needed someone to engineer.
+They said, “Come over Saturday, just see what’s going on then,” I don’t know, “You’ll start Monday” or something like this. And we had plans for dinner on Saturday, like, “Okay, it’s fine, I’m just going to go in for a couple of hours.” You never just go in for a couple of hours. I showed up, this guy who had been recording all John’s overdubs said, “All right man, so the hard drives are over there, we’re using this microphone, I got to go and John will be here in twenty minutes.” Just like, “What?”
+I haven’t heard a single song on the record. We’re set up in a hotel room and John just walked into the hotel room. I think I’d met him, maybe, but maybe not. He just walked in through the living room and out to the bedroom where the vocal mic was and said, “All right, let’s go.” Like, “What song are we…What are we doing?” That was my introduction into Chili Peppers land and John in particular. This is on the By the Way record, so the record before Stadium.
+We spent, I think six weeks or something doing overdubs with John which was just amazing. We recorded the guitar solo and I had to stick a mic on an amp I’d never seen before. I had no idea how loud it was going to be and the recording was so terrible. It was just a square wave. The solo was amazing and that’s it. John’s like, “Yeah, sounds great. It’s a little bright.” I’m like, “Yeah, because it’s completely distorted,” but it didn’t matter, like, that was part of the tone at that point.
+Todd Burns    
+It seems like you really like them as a band, just as a straight-up band.
+Andrew Scheps    
+They’re amazing, they’re amazing. They’re some of the best musicians I’ve ever worked with. Flea can play anything and still doesn’t think he’s any good. He does about two hours of Hanon piano studies every day because he still feels like he wants to get better at piano. He went back to college to learn music theory because he felt like he was getting left behind sometimes in a conversation. Meanwhile, he’s one of the most badass bass players ever born. Chad, obviously. Anthony is of the best frontmen ever. John and now Josh, they’re just incredible.
+I’ve been really lucky. I’m like, over the last year or so, they were just writing and they wanted to get writing demos, so it would just be the 5 of us in a room, recording them. It’s just insane, just to have a band be that good, have that much fun and just want to do it all the time.
+Todd Burns    
+You talked about Flea playing piano, trying to get better and better, how do you get better as a mixer or as an engineer?
+Andrew Scheps    
+You just have to know that you suck. I don’t think I’m any good. I don’t know. Every once in a while, I hear something I’ve done, like, “Oh wow, it’s actually pretty cool,” but it’s because it was it was well-recorded and the arrangement’s amazing, anybody could have mixed it.
+I suppose that if I’m completely honest, I feel like, “Okay, I’ve got something going on,” but I just, I really, I don’t think I’m that good, so I’m constantly trying to learn and trying to be better. I hear stuff other people have done like, “Oh my God, that’s ridiculous.” I want to find out how they did it or just study it because it’s not even necessarily about the sound or the specific things they used.
+I’m an electronic music neophyte, basically. I like some old stuff, but like Musique concréte. When I first heard Skrillex, who I’m sure wasn’t the first to be doing these crazy drops and his mixes are unbelievably loud and whatever, but it was so breathtaking. Your heart would stop for a second, then the track would slam back in. I’m like, “Okay, how do I do that? How do I make that happen?” Not, “How do I make my bass sound exactly like that? What EQ did he use,” but just hearing the inspiration of how emotionally manipulative you can be as a mixer and how that can really make the song just explode. That’s what I’m always going for. I don’t think I’ve ever achieved it. That’s how you get better is to just suck. Then you can only get better, right? You can’t get worse.
+Todd Burns    
+That’s fair, yeah. I wanted to ask you a couple of technical things before we open it up to questions, just in a general sense. I noticed there’s a couple of things that you’ve talked about in the past that you do, one of which is you mix all in the box these days.
+Andrew Scheps    
+Now, I do, yeah.
+Todd Burns    
+When did you make that decision and why?
+Andrew Scheps    
+I started off with an analog Mackie console which, actually, I mixed an Iggy Pop song on, so that can work. Then I moved to a Mackie digital console, then moved into the box because that’s what made sense. I really didn’t come completely on to large consoles until Stadium Arcadium because that was part of the directive was it’s an analog thing, you’re mixing it on a Neve.
+From that point forward, I was mixing on a console because I could. But the reality of mixing on a console is disaster in terms of modern workflows. You have a song and it’s up on the console and that console has literally a thousand knobs on it. Some of them have little detented positions, most of them don’t. They’re all about an inch and a half tall, so unless you’re standing directly over it, you have no idea where it’s pointing. You can’t just take a few pictures and hope that’s okay because the parallax of the thing, you’d get it all wrong.
+To do a recall, to write down where all the knobs were would take me a hour and a half when I got fast at it and would be about 40 pieces of paper. You take it off the console, then a week later, you put it back on the console. 800 of those knobs are not exactly where they used to be anymore, plus the fact that any EQ was broken so you swapped it, the gain structure is different, the power is different, it’s hotter that day, everything just sounds different. That goes for the console and all the outboard gear.
+You explain that to people like, “We’re going to mix one song at a time. When you sign off, that song is done.” They go, “Okay, great.” Then they call you a week later and say, “So, on that one that we worked on last week, let’s turn the high hat up and do the background vocals. The next one, I really feel the bass isn’t big enough.” Nobody gets it anymore. It’s just not the way records are made.
+I had enough experience working just in the box to know, “Okay, I know I can do it.” It also sounds great now in any of the programs you use and a lot of the plug-ins are amazing. They filled in the gaps in terms of plug-ins that sound like a particular piece of gear if you’re really stuck on that kind of thing. I decided to start making the transition just to make my own life easier.
+I was about halfway through and really second-guessing it, then I went out and was lucky enough to have lunch with Tchad Blake who if you guys don’t know Tchad Blake, one of the best mixers ever, amazing producer as well, but one of the coolest, most adventurist mixers ever. If you want to hear what I think is one of his best records, his record called Latin Playboys. They made two records, but the first one, self-titled one, all made on a 4-track cassette in the kitchen. It’s one of the coolest sounding records ever made.
+I went out to see him, pick his brain a little bit. Before I even started talking, I realized, “Hold on a second, he’s been in the box for five years now. I don’t have any excuses, I have to be able to make this work.” I just made myself and I did. It’s been, I think, almost two years now.
+Todd Burns    
+Compression?
+Andrew Scheps    
+Love it.
+Todd Burns    
+You do parallel compression?
+Andrew Scheps    
+Yeah, almost exclusively.
+Todd Burns    
+Can you explain what that is for those who may not know?
+Andrew Scheps    
+Okay. Everybody knows what a compressor is? Okay, good, so I don’t have to go back that far. Parallel compression is setting up a compressor the way you would set up a reverb. Instead of putting it directly on something, you just now have the compressed version of the thing. You put it on a send.
+Your thing, let’s say it’s a kick drum, you still have the uncompressed recorded kick drum, then you send it off to a compressor and you might crush it, you might not or whatever, then you blend that in. You have an uncompressed signal and a compressed signal. That’s why it’s called parallel because you have this two parallel audio pads.
+It’s been around forever. I did it back in the days before there was a box to do it in, but the great thing about being in the box is that you can have as many of these parallel changes as you want. As long as your software takes care of the delay compensation, which we don’t have to get too technical, but if it doesn’t do delay compensation, you cannot do this, it won’t work, it’ll sound phase-y and weird, but if it doesn’t, then you should probably get into some software that does, because most things do at this point. But the way I use it which may be slightly different, is a lot of people will have a compressor for the kick drum, a compressor for the snare drum, maybe a stereo thing for the drum kit, maybe one for the bass, maybe for the vocal.
+I have, I don’t know, thirty of them. The only ones that are for only one thing are a couple that I have set up for the vocals. I’ve got one for the kick and the snare. I’ve got one for all the drums. I’ve got a stereo one that’s for every single thing in the mix except the drums and the bass. A copy of the mix minus drums and bass goes off to a stereo compressor, then you blend that in.
+What it does is, parallel compression versus insert compression, when you just put a compressor on something, it catches peaks and turns them down. It changes the shape of the peaks and leaves the quiet stuff alone. When you blend in a compressor from the side, what you’re doing is bringing up all the lower stuff, so changing the way that sounds, but you actually leave the peaks alone because that peak in your uncompressed signal is going to be louder than anything you’re blending in.
+That uncompressed snare hit or attack of the kick drum or uncompressed vocal, which is what carries all the emotion, will still be there and you can blend how much of the compressed part you want, which is what’s going to help it be louder, help it to be more consistent, sound a bit more like a record. But you are balancing that with the uncompressed, raw, exciting version of it.
+By sharing the compressors, it just makes my life easier. The song is mixing itself because in the stereo compressor for everything except the drums and bass, when the vocal’s really loud, it turns the guitars down. Then as soon as the singer stops singing, the guitars come up, so I don’t have to do that ride anymore, it’s all done for me. But it isn’t done on the compressor you’re hearing alone, it’s just one that’s blended in. It’s subtle, but it just makes everything interact, sound much more urgent, more energy and more like you’re in the room watching people play.
+Also, like people are playing together, because if you have a downbeat where six people all hit that downbeat, they never all hit it at the same unless you edit them to make them hit at the same time. But what you get is you get the sound of the first guy who got there, but then that turns everybody down a little bit so you don’t get messy flam, but you still get that ridiculous groove of things not always being lined up. That’s the very long answer to compression.
+Todd Burns    
+Reverb, do you?
+Andrew Scheps    
+No.
+Todd Burns    
+No?
+Andrew Scheps    
+No, no, I like reverb, reverb’s all right.
+Todd Burns    
+It seems like you don’t use it that much, though
+Andrew Scheps    
+I don’t use much. Part of that is working with Rick Rubin for twelve years. He’s not a huge fan of reverb. I kind of hear it the same way. I love what reverb can do to a sound, make it sound more natural and in a bigger space and it’ll help you build a world for a mix to live in, but I don’t like obvious effects unless it’s supposed to be a really obvious effect. I don’t like songs that just have reverb on stuff.
+I love super long reverbs or one snare hit into a cavern or something like that because it’s something to grab your attention, create something within a song, but the whole style of mixing where every snare hit is like in a swimming pool, I just… To me, it just sounds unnatural. What I want to hear, which is what any mixer is doing, is just creating what they want to hear, I want to be able to feel like I’m in the room with whatever’s going on.
+Even “99 Problems,” which is obviously not a band, it’s still drums and guitars supporting a voice. I feel like it’s all of a world. You’re in a room. That room just happens to have a couple of turntables and drum machines instead of a drummer and a bass player, but it’s very much a natural thing.
+I use reverbs to lengthen snares, to make toms explode a little bit more. If you solo it up, it sounds crazy. The reverb doesn’t sound natural at all. But in the track with distorted guitars, that snare reverb just becomes length, because otherwise the snare sounds a little choked. It’s really just about making things naturally sound like something unnaturally. That didn’t make any sense, but you know what I mean.
+Todd Burns    
+Before we move up to questions, you’ve worked quite a bit with Rick Rubin. What did you learn from him, what was the key essential lesson that you took away from your work with him?
+Andrew Scheps    
+There’s a lot of little stuff I learned. Part 
+of that is being left with the band to do overdubs. That’s where you learn to produce yourself is actually doing it, because Rick’s thing is to be very involved in the songwriting, the basic tracking, the vocals and the mixing, but if you want to spend nine hours messing around with the chorus guitar part, feel free, and he’ll check it out when you’re done.
+I got to be the guy working through all of that with Chili Peppers and Weezer and all these amazing bands. There was that hands-on thing, but I think really the biggest thing is that he’s always just a listener. What I was saying before about you’re making records for people who don’t know anything about making records, that’s the way he always listens.
+It really reinforced the fact that if it’s not cool coming out of here, you can’t just make an excuse. You can’t turn around say, “Well, that’s because I haven’t done this” or “It’s because the drummer wasn’t feeling well.” Nobody cares. You’re not going to be able to go to everybody’s house who buys the record. Well, actually, with a lot of records that come out, you could do that. Sell four copies and three of them are to your mom. You can go tell your mom why it’s not happening, but yeah, people don’t want to know.
+It’s not that they’re callous, it’s just it doesn’t mean anything to them. Like, “Why do I want to hear about the making of this record that I don’t really think is that great and I don’t want to listen to it anymore?” They want to get a “behind-the-scenes” on the stuff that’s amazing, but the excuses for why something isn’t good just don’t matter at all. It’s terrifying because even if you have a really good excuse or even if it’s not your fault, who cares?
+Todd Burns    
+Did you have a couple of those “not my faults” that you worked on?
+Andrew Scheps    
+I don’t know, I’m sure I’ve had hundreds, but I try to block them out.
+Todd Burns    
+Does anyone have any question because I wanted to…Yeah, all right, let’s go.
+Audience Member
+Hello? Okay. It’s an honor to have you with us, thank you for your time.
+Andrew Scheps    
+Thank you.
+Audience Member    
+I would like to ask, what is your advice on mixing with headphones? I know the general consensus is don’t, but for a lot of us who can’t afford acoustic treatment in the room, nice monitors, what is the best way to go about this?
+Andrew Scheps    
+Well, why don’t you play “Phantoms,” first of all, because there’s a little story.    
+(music: Low Roar – “Phantoms” / applause)
+I only wanted to play that because that’s got lots of low end, it’s got a lot of top end. That entire record was mixed on headphones. I assumed that, because I was travelling, I assumed when I got back to my studio and put it up on my speakers, that’s when I was going to fix everything. It’s some of the best sounding stuff I’ve ever done.
+The answer is, first of all, it can be done. You have to be careful because there’s stuff you can’t hear. I just have Sony MDR 7506, whatever they are, they’re $200 or $300 cheapo headphones. I have them because they’re bright, so when you’re recording, a drummer can actually hear them without destroying themselves. I know them because I’ve been listening to them for years. I think that’s the most important thing.
+You don’t need tons of acoustic treatment, though, to be able to setup speakers. The most important thing as a mixer is your speakers, because that’s what you’re listening to. That’s it. There’s nothing more important. As long as you’re in a room that isn’t tiny, you can make it work. Just angle yourself across the room instead of going straight down the rectangle. Lean a mattress up in the corner and now you’ve bass trapped your entire room.
+There are ways to do it. I think the biggest thing is you want to be able to just hear the speakers and not the room. The deader it is and the bigger it is, the better, but you can do it in a small room. There are people who spend their entire careers, people way more successful than me at mixing, just getting new speakers, chasing it and whatever. I’ve used one pair of speakers for 25 years now and I know them. It doesn’t matter what they, they’re all Tannoys, it doesn’t matter what they are. For me, I need something that’s nice and bright so I can really hear what’s going on and the headphones match the speakers that way.
+For the low end, a lot of that is that you can feel what’s going on in headphones. But you want headphones that aren’t hyped in the bottom which are hard to find. Like, Beats, some people love the way they sound, but you’ll never know what’s going on in the low end there because it’s super processed. But it’s also, the more you mix, the less you have to focus on individual things and what they sound like. The more you’ll realize how the bass is killing the vocal means that the bass isn’t right.
+When the vocal’s right, the bass must be right or is nonexistent, then you can just decide if you need to do something about that, but the interaction between the things that you’re mixing is much more important than how any of those individual things sound, so you can do that on anything as long as you can hear.
+I think the most natural sounding thing you can find, try and just learn the speakers. Do it by listening to tons of stuff that you didn’t work on, but that you know you think is awesome and make sure if it all sound awesome coming out of your speakers, then all you have to do is make your mixes sound awesome coming out of them and you’re good.
+A little corollary to that, just because it may not come up, but the idea of not everything having to sound good is huge. I’ve only just learned this. This is in the last year that I’ve really put into practice the idea that in any mix there are a couple of important things. Almost always the vocal, if there is one. For me, kick and snare are always super important, bass and then one or two instruments that play the body of song. That might be all you have on a song, in which case, everything should sound good, or you might have 60 more tracks of stuff.
+It absolutely doesn’t matter what any of that stuff sounds like because you’re never going to solo it out. Same way people can’t know what microphone you use. They also can’t go back and solo the high hat loop to see if it’s a good high hat loop or if you high passed it well. None of it matters.
+If you get the core elements sounding good, the rest of it, just pan it and find a level. Don’t spend any time in EQing it, adding effects, don’t do anything to it. You’ll mix way better and way, way, way faster that way whether you’re on headphones or speakers because it’s just a lot less to concentrate on than going through every track in the session and saying, “Man, that third acoustic guitar sounds awesome.” Then putting it back in the mix at minus 20 panned underneath the second acoustic guitar. It really doesn’t matter. Fix hideous problems with things, but just go for the stuff that’s super important.
+Audience Member
+Hello, just a follow-up question. With regard to listening levels when mixing, I think I remember Chris Lord-Alge listening really low so much. It’s so low that you can hear the hard drive better than the actual mix.
+Andrew Scheps    
+That’s too low.
+Audience Member    
+Yeah, but where do you sit on that?
+Andrew Scheps    
+There are people, like, I know Tchad actually has a sound meter sitting on the board. He makes sure that he’s always at a certain level. If you can be disciplined enough to do that, I think that can be good because you get used to that level and you know things should hit you a certain way. I don’t do that at all. I listen really loud or really quietly.
+The really loud is because I can feel things and I know that it’s good. Also, I can’t kid myself about something because whatever is bad is really loud bad. Then really quiet is because when it’s really quiet all you can hear is the mix, as a whole, just balanced. Like, does something stick out, is something way too loud, can I hear the vocal all the way through? That kind of stuff you can only check quietly. It’s just two very, very different ways to listen to it.
+I don’t think I ever listen at a normal volume, ever, but once I’ve got a mix where I think it’s good and I’m just making changes, I’ll probably never listen to it loud again. It’s just super quiet the whole time.
+Audience Member    
+Okay, thank you.
+Audience Member    
+Hi, thank you for all the advice. A lot of us here produce our own music. From start to finish, probably the only professional involvement would be at the end, the mastering stage. I’m wondering, what does the stuff out there sound to you like, the self-released stuff on SoundCloud, does it miss fundamental mixing techniques? Do you encourage bedroom producers to obtain professional services for the mixing stage because that’s overlooked today by a lot of producers?
+Andrew Scheps    
+Yeah, there are two sides to technology now. The democratization of making records, anybody can make a record. What’s amazing about that is somebody who might have never have gotten into a studio with an engineer and a producer can now actually make a record, so there’s all this music you would never have heard otherwise and it can make it out there.
+I think that the idea of an engineer as a craftsman, there’s so much, it’s not even technology, there’s so much physics involved, electronics involved in recording. It’s a really technical job, but it’s only to serve the creative purpose. I would love to say that you should all hire me to mix stuff when you have money because otherwise it’s not hiring, it’s the definition of the word, but the reality is it’s hard to make that argument, it really is. I think that I’ve heard lots of…I just talked to a class at NYU last week. One of the guys is a songwriter. He said, “Yeah, I get my song recorded and I’m really happy with it. I think it feels good. I mean, it doesn’t sound that great, but it feels really great. Then I get it mixed and it feels worse.” Like, well, but that’s the opposite of what it should do. The mix should take everything that’s good or needs to happen and make it happen, make it happen bigger, but in a way that just enhances the song.
+The point is it’s much more important for it to feel good and sound good, so therefore, if you can get your stuff to feel good, then you don’t need another mixer. If it feels good to you, but nobody else agrees, well, then you’re making records for yourself. There is the idea that the public has to like it therefore there is a certain standard sonically that will get it up over the threshold of what people will listen to, but it’s a really vague concept.
+I wouldn’t trust it to mastering, either. Why would a mastering engineer be a magic bullet for a crappy sounding and feeling record? When I do seminars, these week long seminars and you get people in who are really experienced and their stuff sounds amazing, but what happens a lot of times is the song starts, it sounds incredible, you get to the chorus and it just sounds exactly the same. Like, “Well, okay, maybe you need to make the intro in the first verse not sound as incredible so that when you get to the chorus it explodes.”
+It’s that kind of thing that, maybe as an artist, you don’t know how to achieve. Your arrangement is good, you’ve got some extra instruments that come in in the chorus, you added a tambourine, but it just doesn’t work and that’s something a mixer can definitely bring help out if they’re good. But that would be the point of having a mixer, is to just realize the thought you’ve already had.
+If you just have a track that lays there like roadkill, chances are a mixer’s not going to be able to sort that out for you. Chances are even smaller that a mastering engineer will sort that out. They can make it louder and brighter, but so could you.
+I think that as a craft, especially for recording acoustic instruments, having an experienced engineer is definitely something you should strive to have, and an experienced producer, just to have an outside opinion on your music and performance and not have to assess your own vocals because that’s a really difficult thing to do. But there’s so many records being made without it that I couldn’t sit here and tell you, “Yes, you all have to hire engineers and producers.” I think it’s more about collaborating. If that happens to be with an experienced engineer, great, but just realize your own shortcomings and find somebody you can bring in.
+Case in point, my wife hears every single mix I do before I send it out. Part of it is because she listens completely like a consumer and just like, “I don’t like it. It doesn’t work.” Like, “Ugh!” It makes me crazy, but she’ll always be right, but it’s also the idea that as soon as you play your music for somebody else, you hear it differently. That’s a really important part of the process is to get that kind of reset to the way you’re listening. Because it’s really easy to check out how cool your own programming is and how you got that vocal effect in the second chorus and it’s awesome, but you’re not listening to the song.
+As soon as somebody else comes in the room who doesn’t do what you do, then you immediately assess the song that way. Professional collaboration can do that for you all the way through the process, but at the very least, you got to have somebody come in and reset you. I kind of danced around that a bit, but...
+Audience Member    
+Thank you.
+Audience Member    
+Hi. Hearing you talk about the use of parallel compression like that is something that I haven’t heard before, like using it that much and in that way. A lot of the time, you’re working with people who record their own vocals just at home on whatever they’ve got. Do you have any tips like the parallel compression one for dealing with vocals that are sometimes poorly recorded or recorded in a harsh way, just to get them to sit in what are sometimes really big and cluttered productions that you may not have produced yourself?
+Andrew Scheps    
+Obviously, every track is totally different. If a vocal is harsh, you’ve got to get rid of the harsh frequencies, period. You can either do that with a notch filter that just sits there somewhere in that 2 ½ to 4k range that hurts, or you can be a little more creative using either a multiband compressor or one of my favorite things to use is an active equalizer and there are a few different ones, but the McDSP AE400, I think it is. Basically, what that is, it’s like paying somebody to hang out by the EQ and every time a certain frequency gets out of control, they just dip it out. 
+It’s a much less invasive way sonically to deal with it, but it’s dynamic. An example of that where the vocal was superbly recorded is the Jake Bugg record that I mixed. When he sings quietly it’s a very full, open sounding voice and when he sings loud, it gets very nasal, it closes up. That’s the nature of his voice, there’s nothing wrong with it, but all of a sudden, you’ve got these frequencies that are just killing you. Rather than automate an EQ and spend three hours doing it, I just found the frequency and it was just seek and destroy, so the vocal can get super loud but that one frequency just stays because it gets turned down.
+You’ve got to deal with deficiencies in the sound of the voice first. Then once you’ve done that, I think it’s about finding subtle effects that will work. Slap delays. Short delays that are filtered so S’s and T’s don’t pop out, but they’ll thicken the vocal this way. Then little pitch shifting. If you go like plus nine cents on one side, minus nine on the other with a very short delay, now, all of a sudden, your vocal’s gone this way. A very, very short reverb, short plate or ambience type of reverb, all of a sudden you’ve gotten a vocal which used to be like this and now it’s a world, but it’s a see-through world, so other instruments can still poke through that, but now it has some 3D depth to it which will lend itself back to the track.
+Audience Member    
+Thanks.
+Audience Member
+Hi man, thank you for being here.
+Andrew Scheps    
+Thank you.
+Audience Member
+I’ve got a question regarding visual and stuff, when you do a mixdown, how much of your work is happening on a visual base like spectrometers or…
+Andrew Scheps    
+None.
+Audience Member    
+Really?
+Andrew Scheps    
+Yeah. I don’t look at meters, I don’t care. My mixes are super, super loud, that I know. Just the nature of the way my mixes come together with the parallel compression, things like that, they always end up around the same level. What that level is, I don’t know. It’s too loud for most mastering engineers, they complain. I think I’m making their life easier because all they need to do is transfer it.
+Yeah, I have absolutely no idea. I mix something, this is back when I was still in the console and Bob Ludwig was mastering it, who I respect. He’s, whatever, he’s a genius and he’s one of the people who invented mastering, in a way. He called me up and he said, “Hey man, I don’t know what you’re doing, but your mix is at plus 8.” I’m like, “Plus 8 what? What are we even talking about?” “Well, can you send me one without the limiter?” “Well, there isn’t a limiter.” “What do you mean there isn’t a limiter?” “I don’t know, I’m pushing the console until it feels good.”
+My mixes are crazy loud and I really don’t ever look at anything. There are people who do though. This is just me personally. I think one of the problems is that you can, especially looking at spectrum analyzers and things like that, you can kid yourself. I’ve spent some time, fortunately for me, developing the plug-in with Waves and doing some EQ development time where you’re being an über-geek about it and you’re not trying to get work done. You’re really only caring about what an EQ sounds like.
+We were trying to model a band of an EQ and it’s not a Neve thing, it was something else. It looked exactly the same on an audio precision which is a $40,000 version of a spectrum analyzer. It looked exactly the same. It just didn’t sound right. Put a snare drum through it, nope, this sounds way better than that. We found out that it was because we hadn’t bothered to put in the low pass at 25K and the high pass at 3 Hz that you get going through a transformer.
+That’s nothing to do with the EQ circuit, it’s the input to the box. As soon as we put that in, 1K sounded right. It doesn’t make any sense some of the time. I think that unless you’re just trying to find a problem, there’s a buildup frequency and you’re just trying to find it to get rid of it, there’s no point in knowing what frequency stuff is happening at, because the way it interacts doesn’t always make sense.
+Audience Member
+All right, thank you.
+Todd Burns    
+Did you ever look at those things and stop or you just never even started?
+Andrew Scheps    
+No. I mean, you know in the analog days, you had to look at meters. You had to print things to tape at a proper level. But “99 Problems” was coming out of the desk so hot that I just had to uncal the tape machines and crank the input down like 8db. Because if I turned the mix down, it didn’t sound as good, so, okay, I left it up and just uncaled the tape machine so it would fit.
+Yeah, I look when I have to look, when there’s something that’s going to break because the level’s no good then you’ve got to figure out where in the chain to bring it down and you never have to bring it up, in my case, it’s always bringing it down. But just level, no, I never, never looked at anything else.
+Audience Member    
+Hi, first of all, thank you for being here. You’re a big inspiration for me, mix-wise, especially. A few years ago I stumbled upon this new artist on SoundCloud, Jai Paul. He put up a song called “Jasmine.” Have you heard 
+this song?
+Andrew Scheps    
+I haven’t, no.
+Audience Member    
+Okay, it’s very much…Okay, then my question is 
+not…
+Andrew Scheps    
+Sorry.
+Audience Member    
+No, it’s okay. He mixes his stuff, I would say, very unconventionally. He puts so much sidechaining that you hardly can hear what he’s actually saying. I know back in the days he got a lot of harsh criticism on it, but that actually makes his intimate sound. Now, he’s at such a stage where every day I hear a new SoundCloud artist that are copying what he’s done. To what extent…I get a lot of people that say my mixes are way too loud, I don’t mix myself, but I know what I want to hear. To what extent do you think you have to listen to someone that’s actually technically schooled or just follow your intuition, because I feel you’re a very intuitive person?
+Andrew Scheps    
+You only have to listen to them if they’re right.
+Audience Member
+When are they right?
+Andrew Scheps    
+In a way, they’re never right. If you would be unhappy with the change, then they’re wrong, but like I was saying before, if you’re the only person on the planet who likes your mixes, then you have to come to terms with that. The idea of the music business is to have things that lots of people like. The idea of music is to have things that you like. You just have to decide where you want to live in that.
+I am much, much happier as a producer having made records for Gogol Bordello and the Duke Spirit that they love. The bands love the records. They didn’t do nearly as well as some of their other records, but I don’t care. That was the case where we’re not going to listen to other people if they have something to say about it, but it’s always worth investigating because if someone says something, unless…I don’t want to pick on mastering engineers, sometimes a mastering engineer will look at the meter and tell you something is too loud. Well, that, I don’t,  whatever. Just find a different mastering engineer at that point.
+Audience Member
+I did.
+Andrew Scheps    
+Seriously. Find somebody who likes you mixes because that’s where you have to start. But I think it is always worth it to try and figure out what it is that they’re reacting to and then decide whether it’s something you don’t mind changing, then all of a sudden, you still like it, but now you’ve got more people who like it or whether it’s something that destroys what you love about it.
+It happens in the micro sense all the time like, “Oh, I really want to hear that shaker louder.” Okay, it’s not going to mess with the groover, isn’t it? You got to try it and find out. Or it’s, “The entire way you do your music is terrible to me.” Like, “Well, okay, that doesn’t give me much to go on, but give me some specifics and we’ll see.”
+I think it’s important to be humble enough to listen to the criticism and decide whether or not you should do anything about it, but you have to be hopefully silently arrogant enough to say, “My art is going to be destroyed if I do it.” But it’s really easy to become arrogant enough that you say, “I’m not even going to listen to what you’re saying because you don’t like what I do.” It’s very, very difficult to take the criticism sometimes, but it’s important to then crawl back into your hole and try and figure out what the criticism was actually about and see if there’s a way to fix it because maybe you’ll learn something about your own process that way. Sometimes people are just dicks, then you ignore them.
+Audience Member    
+Thank you so much.
+Audience Member    
+Hi. I do most of my mixing in Reason. That’s like an SSL emulator. I don’t actually mess with the faders at all, I generally keep them all at zero and just tweak with the gains and maybe the actual instrument’s output. I don’t know, maybe just to get a little bit of difference I’ll maybe move down by half a decibel or just a decibel to get some kind of range, but is that a terrible protocol?
+Andrew Scheps    
+No, as long as you understand the signal flow of what you’ve got going on. Because the line trim, if they’re actually emulating an SSL, is the very first thing that happens. The fader is the very last thing that happens. If you want less level going to an insert compressor, then you turn down the line trim and that’s fine, but if you think it sounds awesome, but it’s too loud, you don’t want to do it at the line trim because now that’s changed the sound by making less of it go to the compressor so you should turn it down at the fader. But there’s no right or wrong way to do that if it still sounds great, but just realize when you’re going to affect other things and when you aren’t, because it’s really important to know what is pre and post in the signal flow of what you’ve got going on, especially if you’re doing sidechaining or shared parallel compression or something like that because changing it in one spot won’t affect certain things, but changing it in the other will affect everything.
+Audience Member    
+I always find that, for some reason at least, when I mix, the gain always has less of a profound effect and the fader always seems to really mess with my…Well, just totally, I find the fader to be more exaggerated and I could get more subtlety just tweaking the gain.
+Andrew Scheps    
+Yeah, if it works, it works, absolutely.
+Audience Member
+Cool.
+Andrew Scheps    
+Again, you’re not going to have to go over to somebody’s house and explain that you used the line trims.
+Audience Member    
+Hey, as a mixer you are very influential on what that sound of the music business, what you just said, sounds like, where you create expectations. Because you were talking about deciding from your artistic point of view or then decide from what is expected from how something has to sound. Don’t you feel responsible for that you could change the whole way of listening to certain types of music?
+Andrew Scheps    
+I don’t ever think about it in the macro sense like that. I think that every mix I do is an encapsulated thing. Sometimes it’ll spread over to a whole album or something, but my mixes, as far as I hear them, are just the bigger, louder, deeper, 3D, more exciting version of where the artists had gotten to before I started mixing. Sometimes, like on the Low Roar stuff, I have a lot of input. I’m doing a lot of modular synth programming, I’m making decisions about arrangement and things like that, but most of the time, I’m not making any musical decisions in that way unless I really hear something that I’m inspired by and feel would make the song a lot better.
+I don’t then carry that forward and think I should do anything in particular or that I have the opportunity to do anything in particular because I’m not making my record, I’m making the artist’s record. If I’m lucky, my name’s on the back and usually it’s buried inside, which in this age means it’s not on it at all.
+I don’t feel like I have the power to do anything like that and I also don’t feel like I have the responsibility. We won’t talk about it, but the whole thing, if you know about the Metallica record I mixed which everybody said was way too loud, but I figure I won the loudness war, so it’s over. Not only is it over, but I won. But I don’t care.
+When I hear a track off of that record through somebody’s iPhone speaker or through laptops speakers, it sounds exciting as hell. My job is done. That was the point. It’s supposed to be an aggressive, exciting record and that’s exactly what it is. The mechanics of when things got clipped here or there, whatever, I got plenty I could say about it, but it’s all irrelevant, it doesn’t matter. Yeah, I would never give myself the responsibility though to think like, “Oh, I’m the face or the ears of music to come,” because that’s way too much for me to think about.
+Todd Burns    
+After you got some criticism around the Metallica record-
+Andrew Scheps    
+Death threats. Literally.
+Todd Burns    
+Was there any, “I should pull back?”
+Andrew Scheps    
+No. I don’t really want to go into it, but everybody involved in that record heard the record and said it was awesome. The only thing that made that controversy much, much worse was that one person involved in the process didn’t understand that there’s more than one person on the Internet, and responded to somebody and tried to explain away his role in it. That just threw other people under the bus, made it specific, but mostly said, “Yes, there is a problem with the record,” where everybody else involved, just like, “Well, this is the record we made.”
+Todd Burns    
+Yeah, I guess I’m not that curious about that specific record, I guess I’m more curious just about your own process of thinking: Does criticism or adulation from the outside, has it ever affected what you do?
+Andrew Scheps    
+No, because you can’t preordain what you’re going to do with the mix, you can’t control what you do with the mix. There are times when I’m mixing and I finally get the chorus to work, then I realize, “Wow, this is kind of blown up” or “What can I do about it?” And I’ll bring it back and now the chorus doesn’t work. I’m like, “I really wish I could find a way to do both things,” so I’ll make some compromises to the point where the chorus still works, but it’s not just a square wave, but that’s just on that mix.
+Then there are mixes where that doesn’t come up. It’s so much to do with the song, the arrangement, the recording, the performance and things that change completely from song to song, not just a little bit. Even on the same record, one song will be amazingly easy to mix and another one will be ridiculously difficult. There’s no thing you can point to that says what it is, but it just doesn’t come together as well.
+The only thing I can take forward is I’ll figure something out on a mix and then I add it to my template. “Oh, that worked once!” And maybe it’ll work again, but in terms of big, overarching concepts for my mixing, I don’t have any anyway.
+Todd Burns    
+On many records, you’ll only do one or two songs, then obviously other people are doing mixing on other songs. What is the process like in terms of getting it consistent or talking, like, what is the process of talking to the artist ensuring that everything as a whole comes together?
+Andrew Scheps    
+Well, that’s not my job, my job is just to mix the songs I’ve got. I can’t think of a time when they’ve said, “Oh, here are the other mixes.” There were a couple of times when I was brought in late in the project to mix two tracks they don’t feel like they got with the person who had mixed, only to have them thrown out again in mastering because the mastering guys, “Oh no, no, they sounded different, I couldn’t make it work.” Like, “I thought that was your job, but okay, whatever.”
+Todd Burns    
+You really have a thing about mastering.
+Andrew Scheps    
+I’ve had some bad experiences. I have a couple of mastering guys that I absolutely love, Eric Boulanger, he used to work at the Mastering Lab Networks. He’s got his own place called The Bakery in L.A. and Chris Bellman at Bernie Grundman’s are amazing, but they like what I do, so when I send them a mix and they’ve got criticism of it, I know it’s because I screwed up. I will absolutely revisit the mix and address whatever it is they’re hearing that’s wrong because most of the time, they’re like, “Man, this was awesome.” Like, “Great, okay.” Now, I’ve got somebody who hears things the way I hear things. Mastering has just become a very weird, nebulous area of voodoo and magic. It’s not and it shouldn’t be. Yeah, sorry. I’ve had a couple of bad experiences, they all just came rushing back.
+Todd Burns    
+Go ahead.
+Audience Member    
+Hello. A lot of us in here produce our own stuff, then we’re mixing everything we’re producing. As you’re making something, you obviously have to mix. You have this mix at the end when you’re done making something and you just mess with it from there. What’s your process on the things that you’re co-producing when go back to mix it, do you set everything back to zero? How does that compare to records when you just get everything, you have no input on it and you just go and mix it as opposed to something you’re co-producing the whole time?
+Andrew Scheps    
+If I’m producing a record, especially a live record, say the Gogol Bordello record in particular, that’s eight people playing live. We tracked that record live as a band, we did two songs a day including all of the overdubs except vocals, so very, very quick. That was completely about performance. In that case, if I’m tracking a live band, all of the playback is completely flat. There’s not a single EQ, not a single compressor because it’s about assessing what we’ve got and is it awesome? If it isn’t awesome, let’s record it differently, get a better take or change a guitar amp or something like that. I don’t want it to be about the manipulations because then you’re fooling yourself about what you’re actually getting.
+If I’m producing, there’s no mixing at all until it’s time to mix. The Low Roar stuff, which is that song we played off my label I did on headphones, that’s very much a production, but it’s all in progress. Those mixes were happening as they went, but then I mixed the record. I took what was there even though I’ve been involved up to the mixing stage, then said, “Okay, now we’re starting to mix.” That’s, of course, exactly where I am when I’m mixing something that comes to me from someone else.
+If I’m just mixing, I will usually just keep everything that’s already going on, pretend it’s been tracked that way because that’s the way modern production is. Instead of tracking it in a very stylized way for that song, everything gets tracked incredibly simply, just microphone straight into the computer, then it gets messed with later. But however it comes to me is how everybody was hearing it and said, “We’re done, it’s time to mix.” There has to be something about that. It could just be the balance and sonically you can do whatever you want, or sonically it might really be stylized and specific, in which case, I’m just there to make the record version of what’s already there.
+I like to have the mixing stage be its own thing and I will very rarely strip everything off of a song and start over because it’s just wasting time. I call it “black boxing” it, but I just pretend that I can’t get at any of the stuff that’s already been done. Then when there’s a real problem, rather than try and fix it after the fact, I’ll see if I can undo what’s making the problem. So I’ll dive back into it, but it’s generally like, “Oh, that’s the way the song goes. Now, how do we make it done?”
+Todd Burns    
+Do you have any gripes about how things are delivered to you or ways that you would like things to be delivered to you when you’re getting set to mix something?
+Andrew Scheps    
+No, it’d be really easy for me to say everybody should spend lots of money, go to studios and record, but it’s just not the reality of what stuff is. The only stuff that bothers me is when the song is terrible, the arrangement is bad or the performances are bad. It bugs me when I’m mixing a song, and this has happened a couple of times, there’s no bass in the verses. That can be a really cool thing, there doesn’t have to be bass in the verses. But on this song, it feels terrible because there’s no bass in the verses. Then it becomes a process. I’ve actually played bass in the verses, but then you have to send a note to the producer and the artist like, “Hey, don’t know what happened here, but your song didn’t have any bass in the verses. I just felt like it would be so much better if it had bass in the verses. Once I did that, it needed B3 in the choruses, so I did that.” It becomes this whole apologizing for finishing their song for them.
+Then the reaction is, “Oh, that’s awesome, that’s great. Yeah, we probably should have done that.” Yes you should have done that! That’s the stuff that drives me crazy. It’s just being lazy. Instead of saying, “My song is done and it’s awesome, let’s get it mixed,” it’s, “I’m sick of working on this. Let’s send it to Andrew and see what happens.” Like, “Fuck…” That’s a whole level of involvement that is sometimes incredibly great, it’s really inspiring, creative and fun to do that kind of thing, but not when you’ve just been hired to mix and you said you would do it cheap and they want it right away.
+I get really annoyed about that. Obviously, when I get a rock record to mix and the drums are recorded in the living room and it really sounds like it, it doesn’t make me angry, it makes me sad, because I know there’s only so much I can do. This record should be exploding out of the speakers, instead it’s just going to be like little M80s in the toilet or something like that.
+Todd Burns
+If you only have a living room to put your drums in, are there any tricks that you would suggest on?
+Andrew Scheps
+Yeah, deaden the walls. I’ve gone to people’s places where they’re recording drums. These are established bands, they’re just bands that have always done it themselves. They’ve got the drum kit setup in a living room, and it’s a very narrow living room in one instance and the kit is the width of the room, so the cymbals are about four inches away from either wall and it’s just plaster walls. Like, “Hey, you got a packing blanket or a rug we could hang up there?” You do it and like, “Oh wow, that’s awesome,” just because they have no idea.
+Deaden the room. Like I was saying with speakers don’t always setup straight down the room, set up across the room. That way, any further microphones won’t be sitting right in the middle of a standing wave that you’ve set up with a kick drum. It will have a harder path. But there’s no substitute for a good sounding kit and a good drummer. If you don’t have that, it doesn’t matter where you are.
+Start there, use as few microphones as you can because then you actually concentrate on them. It’s really easy to put up thirty microphones and a drum kit and say, “Ah, the sound is in there somewhere,” but all of them sound terrible. That’s happened to me. I’ve gotten many tracks like that. I would rather have four mics and really be railroaded into it sounding like a particular way, but it sounds a particular way. But yeah, a kit and a drummer, the most important things.
+Todd Burns    
+What about vocals?
+Andrew Scheps    
+What about them?
+Todd Burns
+In terms of, if you don’t have the means to be recording in a great place?
+Andrew Scheps    
+Yeah, it’s a mistake to go in a really small room. Be in the biggest room that you can be in. Not a big live room, like big wood floors and brick or plaster walls. It wants to be dead, but you really do, unless you’re going for an effect or it’s The Hives where you got a far mic and you’re distorting through an amp or something like that, but just for normal vocals, you just want the sound of the microphone. You don’t want the sound of the vocal bouncing off the ceiling and into the microphone, off the wall and into the microphone, off the window and into the microphone. It just make things sound messy, distant and far away.
+The drier it can be, the better, so a dead room, but also a big room because even a room that feels dead, once you’re on the microphone, it will not feel dead, it will feel phase-y and weird or there’ll be a slap echo. Yeah, that’s it. Also, make sure it’s the right mic for the vocalist. There are theories about what’s the right mic for different things and voices. It’s the most varied sound source of anything you will ever record.
+There are times when you need a really expensive mic and there are times when an SM57 is the thing. Every U2 record, every single vocal is an SM58 in the control room. He’s one of the most iconic rock singers around. You don’t need a 251 to get good vocal sound. There’s no excuse for not getting a good vocal sound with a cheap microphone.
+Todd Burns    
+Are there any other questions?
+Audience Member    
+Hey, just like two mini questions.
+Andrew Scheps    
+That adds up to one normal sized question?
+Audience Member        
+Yeah, yeah.
+Andrew Scheps    
+Cool.
+Audience Member     
+Math. Are you mixing left-center-right 
+exclusively, or are you putting gradations in there?
+Andrew Scheps    
+When I was on the Neve console, I mixed left-center-right. There was a physical reason for it, there’s a button for the left speaker and a button for the right speaker and  if you put them both then you’re in the center. If you wanted to pan anywhere in between, you had to actually switch in a pan circuit, which is just some resistors, but to my ears, aside from dropping the level a little bit, it just didn’t sound as good. So I tried to avoid it as much as I could. Now that I’m in the box, I’m panning stuff all over the place.
+Audience Member
+OK, I’m glad these two questions somehow go together. How are you approaching mixing in a box compared to mixing on a console because you can’t really go past zero, as opposed to your plus 8. You can drive a console pretty hard, but you can’t really do that in a computer.
+Andrew Scheps    
+Well, when you’re printing the mixes back to a computer, you still have a limit, what’s the biggest voltage you can get in? My console would put out plus 28 and my interfaces were aligned to minus 18, so I had to bring the mix down 10db to fit it back into Pro Tools, anyway. You actually have infinite headroom in Pro Tools now, Logic and I believe Cubase. I don’t know about Reason and I don’t know about Ableton, but those are floating point mixers.
+Not to get too technical, instead of the normal encoding, which when you record something and it’s a 16-bit or a 24-bit thing, those are values that correspond to voltages and you have a maximum voltage that you can describe with that number. With floating point, it starts using exponents and you can describe a number that is a 100db above the loudest voltage. If you manage to turn it down at some point before it gets out of your converters it remembers where it used to be. It doesn’t just become squared off and live that way.
+I actually have way more headroom in the box than I ever did on the console. I can turn my mix down at the very last gain stage and recapture all of the wave forms that would have been clipped if I’d printed it too loud, and I can mess with it too. I can just go in and see, without changing the sound of the mix at all, how much I can push it and how much not before it starts to sound bad. It’s a really great tool.
+I don’t want to get too technical but if you’re in Pro Tools, you’ve got a stereo bus that’s getting your whole mix before it gets into whatever plug-ins you’ve got on your mix itself. Make a master fader for that bus and you can recover all of your peaks. You can just mess with that fader anytime at all, your mix will sound exactly the same, but you can completely change the level of the mix.
+Audience Member
+All right, thank you.
+Luisa Puterman    
+Hey, I’m just curious if you mix DVDs and how it’s to mix 5.1 or other surround configuration like that?
+Andrew Scheps
+I’ve done a couple of things in surround. Personally, unless it’s a live show, I don’t see the point. Unless you’re doing your production for 5.1, you’ve done all of your recording listening to two speakers. You don’t necessarily have enough instruments to fill up a 5.1 space.
+Like I was saying earlier, I really feel strongly that, especially if it’s live musicians, that I understand the room I’m in from the very beginning of a mix and that things make sense. If there’s a song, a really acoustic song and it starts off with just one acoustic guitar, then in the second verse, the second acoustic guitar player comes in, I actually like if at the very beginning of the song you hear the chair creak on the side where the guy’s not even going to play for a minute and a half because then when he comes in, you already knew he was there. He exists as a musician in the room.
+You would think easier to do in 5.1, but I think it’s much more difficult because nobody  as a listener sits in the middle of a band. For music, I don’t think it’s a good idea, I actually think it’s a bad idea. Also, how many people have a home theater where, okay, you know where you’re going to sit because the screen is there, but 5.1 music is supposed to be five identical speakers. Who in this room has five identical speakers in their surround setup at home? Who sits in the same spot every time they listen to music and who doesn’t move around?
+Stereo, you can recover from walking around the room, 5.1 you can’t. It’s also, like I’ve heard some of the Steely Dan 5.1 mixes where there’s a shaker part in the rear right speaker. First of all, I didn’t know there was a shaker on the song because in the stereo mix, it’s blended underneath the high hat and makes it sound awesome. Now, not only am I really annoyed by the shaker player sitting behind me, but the groove is gone, it’s completely gone.
+Just to talk too much about this, you can get the exact same education about how that can work by listening to the mono and stereo versions of a lot of The Beatles records. They were not in the room for the stereo versions, but in the States, that’s all that was released. In England, the monos were released, but the States needed something different. In France, I don’t know which were released, maybe both, the mono, whatever. Most of those early records, you’ve got stuff on the left, stuff on the right. There aren’t pan pots and there’s nothing in the middle.
+If you listen to “Doc Roberts” or “Lady Madonna,” the mono version which the band was involved in are completely different to the stereo version. “Lady Madonna” has a groove like a hip hop track in the mono version. It’s ridiculous. The bass, the kick and the piano go together and they practically make something that feels like a loop. In the stereo version, that stuff is split up and it sounds like a honky-tonk song. It’s a totally different song. I never liked “Lady Madonna” until I heard the mono version. Take that and wrap it into three more speakers and a subwoofer that you’re nowhere near the middle of, I just…anyway, enough said.
+Luisa Puterman    
+I’m sorry, another question. You have something to say about mixing orchestra?
+Andrew Scheps    
+In what way?
+Luisa Puterman     
+I don’t know, any secret?
+Andrew Scheps    
+I don’t know. One of the things is that I treat every mix exactly the same, I really do. Obviously, what I end up having to do along the way to make it do what I want it to do could be totally different. The method working in the box is completely different than when I was on the console in terms of what order I do things in and what I use to do things, but all I’m trying to do is make it exciting.
+I’m saying this because I just mixed a classical record for a composer in New York, Sara Snider, this amazing work, full orchestra, seven solo voices, choir, sound design and tons of percussion, so hundreds of tracks and making that work. It really became, there are obviously very specific things from Sara about, “Okay, I really need the second oboe to come up here because that’s supporting this line or echoing this,” so a lot of compositional things that were very, very important, but the thing that was really important is that it kicked your ass the exact same way “99 Problems” does.
+When that thing starts, you are just like, “What?” Then the voices come and you want to listen to them, all the music supports the voices and it’s super exciting, super loud, probably the loudest classical record of the year, and the percussion is badass and has all the exact same parallel compression I would put on a rock drum kit because it’s the same job, it’s about impact, power, size and depth.
+I think it’s really important to be specific, if there are microphones that are further away from the orchestra and it’s a good performance, to try and really lean on those, as opposed to trying to take a bunch of spot mics and make them recreate the space the orchestra was in. But specifically other than that, I think the big thing is not to let yourself try to do something totally different than you would do mixing something else.
+Luisa Puterman     
+Thanks.
+Todd Burns    
+They’ve got a question over there, yeah?
+Noash Heark        
+Hey, I just have a question about stereo imaging and how do you go about, so you have a super mono track, this is like right in your face and you want to widen it. I know you mentioned detuning and short delays earlier. Is there anything else that you do?
+Andrew Scheps    
+Yeah, short delays, short reverbs. The pitch shifting thing like on a guitar solo works great because as long as you don’t go far enough where it starts to sound chorus-y, all of a sudden, there’s stuff coming out of the speakers. The key to that stuff, though, is that you want to be, while you’re listening to it, like you’ve done it and then go back and you want to listen to the balance of your mix, you want to feel like, “Wait a minute, did I do that yet, is that stuff on there?” Then when you take it off, it goes “Blink” and it feels like it’s being shoved through a tiny, little hole. Put the stuff back in, you’re like, “Oh, right, yeah, yeah, I did all that stuff.”
+As soon as you start to hear it, though, I think it’ll start to be gimmicky. Sometimes it would be better, obviously, with the vocal, you can’t necessarily do it, but sometimes it’s better to just take that thing out of the center, put it on the side. There’s nothing wrong with having a guitar solo on the side, that just feels like a band.
+The Sabbath record I mixed, there are two guitars. One of them is live and one of them was the overdub. Every once in a while, there are more than that, but that’s the basic layout for that record. If his live guitarist panned left, then he starts soloing, he’s the guy who played the solo. It doesn’t make sense to move him to the middle.
+Todd Burns    
+You’ve talked quite a bit about, at least in your philosophy, that you want to hear a band, a live band, you want to hear people playing. A lot of the people here are electronic producers where that’s not necessarily the point or something that they’re striving for. Have you done work where it’s more surreal rather than realistic?
+Andrew Scheps    
+Yeah. That entire Low Roar record, there are a few songs that feel like a band, but there’s a lot of programming or like on that track, it’s kick, hat, then there’s a cymbal stack on the snare and that’s it for the drums. There’s one tom fill in the entire record. It’s just, that’s the way that that was put together and obviously “99 Problems,” but I think it’s more…When I say a band, it’s people trying to get something across to you. It’s trying to be as excited as Sheila is playing every night. You either see them, you hear them smiling because they’re having such a good time, or you see them shredding. It’s this idea of leaning forward, and the parallel compression makes things sound to me like they’re leaning forward. It’s just having the energy that you would get from people performing the music. It can absolutely just be loops and programming, but loops and programming can just sit there or they can be super exciting. It’s not just about the placement in time and the groove, it’s about the way it sounds, the way it interacts. 
+Yeah, I think “band” is my generic term for whoever is playing. Band applies to that classical record as much as it does to “99 Problems,” as much as it does to the Chili Peppers. When there’s an actual band, then you get into specific musicians and a certain part of the sound stage just so it makes sense, because I think the listener feeling like they’re hanging out with the Chili Peppers is not a bad thing, and the fact that they sound like they’re super excited and happy to play the song for you. That’s the point, but you can make that out of anything.
+Todd Burns    
+Are there any other questions?
+Andrew Scheps    
+The real point to that is, I don’t know of anybody who makes a record that’s supposed to be boring, so there you go.
+DXHeaven
+Hey, sorry, just one more on you feeling the need sometimes to fill in the bass part that wasn’t there or something like that. At what stage as a mixer do you draw the line between embracing the crappy drum sound that’s recorded in the living room as part of the production and then moving over to adding in a kick sample or even playing the bass part that wasn’t there? How do you find that balance?
+Andrew Scheps    
+Well, I have to get the mix done and I can’t deliver something that sucks. It’s whatever it takes to do it. Then my threshold for how much I will do on a track is directly proportional or inversely proportional to how much of a pain in the ass the people are. To be honest, it really is. If I don’t like the people I’m mixing for and I don’t feel that they… They don’t have to respect what I do or whatever, but they won’t even see that I’ve done something that’s really helped their track, then I’m much less inclined to do it.
+You get people who are appreciative of what you’re doing, then it’s a collaboration. I’m really into it and I’ll do whatever it takes, but you can’t just say, “Here’s your mix, it sounds terrible. I hope you like it.” You have to just say you won’t do the gig. That’s where that threshold goes. It goes from doing stuff and being unhappy about it to doing stuff and being happy about it or you just not do it at all.
+DXHeaven    
+Yeah, okay.
+Todd Burns    
+Are a lot of the gigs that you’re turning down because you’ve maybe worked with those people in the past or you’ve heard something and just been like, “I don’t want to touch that.”
+Andrew Scheps    
+I don’t turn down a whole lot. The reality of the economics of the record industry is that nobody has any money at all. I remember setting my threshold for things like, “Well, I really can’t work for less than this a song.” A month later, you’re taking half that. The money thing is not really ever part of turning down a gig, but the pain in the ass thing absolutely is.
+It’s not that…There are plenty of artists who have very myopic, weird, crazy visions of what it is they’re doing, but if it comes from a creative place, then I’m willing to do sixty revisions on a mix to realize it. Sometimes, it’s like, “I don’t get it, but I know they do,” but sometimes they’re just doing it because they can’t finish or they want to control it.
+I don’t remember what project this was, but there was a time when somebody actually let it slip that they felt it was a sense of power to have me make mix revisions. But it was nothing to do with whether the mix needed revisions or not. They felt like, “I can make Andrew Scheps make changes to a mix, I’m going to do that now.” Those kind of people, you just don’t want to work with. When the money is small, it’s super easy to turn it down because it’s not like it’s going to make that much of a difference in your life.
+If someone’s to offer me a million dollars, they’re allowed to be a total pain in the ass, and I’ll work on it for a couple of years, if that’s what it takes, but the economics are not there so you really…I think the most important thing for yourself is you can only work on music that you actually like or find something in it that you like. You don’t have to love it. It can be the kind of thing that you’re into it while you’re working on it and then you just don’t tell anybody you worked on.
+I mixed a Barry Manilow record. I didn’t mix the record for somebody who sounds like Barry Manilow, I mixed an actual record for Barry Manilow. It was something to do. It’s nothing I would ever listen to again, but it was a really interesting process. That was fine, but if you don’t like the music, you can’t do a good job. It’s impossible, so you really shouldn’t do that to the artist, I think.
+Todd Burns    
+This should no way be taken as relating to the last answer, but I would like to play one more song that you picked out, just so maybe you can talk about it a little bit and to just have music in the room. This one’s by Adele.
+(music: Adele - “Love Song” / applause)
+That was Adele, “Love Song.” Can you talk a little bit about that song and mixing it?
+Andrew Scheps
+Yeah, first of all, the fact that it’s a Cure cover is awesome and that it’s a bossa nova Cure cover is even better. I mixed seven songs for that record and they used four, I think is how it went. It was all very strange. I’d done like a mix shootout for a different record Rick was producing. Apparently, won the shootout that didn’t get the gig, I’m not sure why or how that works out.
+Todd Burns    
+What is a mix shootout, for those who don’t know?
+Andrew Scheps    
+A mix shootout is when several people mix songs for an artist and then the artist chooses the mixer. Just don’t do it, that’s all I’m going to say. Anyway, he said, “Oh, well, you’ve got some time free, you want to mix the Adele stuff we tracked?” Like, “Okay.” I didn’t really know anything about it. I think this was the last song they mixed as well. Look, obviously, she’s talented and everybody loves her. I kept saying, “I wish she would stop yelling at me.” We get to the choruses and her voice is so powerful and it had to be so loud in the mixes because all of the mixes are very much that, you are in the room with her. So it had to be super, super loud. It was just killing me mixing this record. You’d think Metallica or Sabbath would, but it was really difficult.
+We got to this song - “Hey, she’s not yelling.” I remember telling, “Come listen to this one” because also, nothing sounds better than people playing instruments quietly. There’s so much tone and air. This track just feels huge. I finally had something I felt like I could play Al Schmitt and he wouldn’t kick me out of the room, like, “Oh, Andrew, you don’t suck so much anymore” or whatever.
+I love the mix, I love how quiet it is and I love the way she sings it. It’s a very intimate vocal, but without ever getting worked up about it because that’s not what the song is. It’s a very, very simple mix. It’s on the Neve. There’s probably no automation. I doubt it’s wider than 24 tracks. I maybe used three or four parallel compressors, maybe a couple of EQs, like there’s nothing, there’s just nothing on those mixes. I don’t know, I think that’s what I liked about it.
+Todd Burns
+Are there any other questions?
+Audience Member    
+Hi, thank you for being here. I’ve had this conversation with a couple of friends. I also do mixing. I mix sometimes for other people. I love it, but I find it to be lonely sometimes, especially in this age of getting sent stuff online, sometimes there isn’t a whole lot of contact. What’s the point of which when you do have the luxury of being in the same city with the artist or the band at the same time that you have people come in and check stuff out? What’s your normal process?
+Andrew Scheps    
+Obviously, it’s changed a lot. When it was on the console, I had to get them over to the studio because otherwise, they just wouldn’t listen and we’d never get the mix done. I actually don’t like people coming over. First of all, I hate people. No, that’s not true, just nosy people.
+Audience Member
+Totally.
+Andrew Scheps    
+The way my mixing has evolved, first of all, I’m never mixing one song at a time. If I’m going to mix a whole record for somebody, I’ll start with at least three songs. They don’t hear anything until I’ve got the first three done. The reasoning behind it is, first of all, for me, I get a better sense of the record because I’m actually working on songs, just listening to the whole record full of roughs and then working on one song, it doesn’t really get you into the spirit of the album.
+The other reason is on one of those three, I might be completely off the mark. If that was the first song I did, then they’d think, “Oh, we hired the wrong guy.” This way, I’ve got two that are going to be close, if I’m lucky, three, but if I’ve completely missed it on one, they’d go, “Okay, we’ll come back to that later, don’t worry about it. These two, just tweak these little things and let’s move on.” Then after that, I will mix the entire rest of the record. The specifics of my process don’t really matter, but it means that I’m constantly working on lots of mixes, when I can, which I love. Then I send mixes to whoever needs to approve them.
+The biggest thing about it is, just like I said a million times, not only do I not care what I’m using on the kick drum, I refuse to let the drummer care about what I’m using on the kick drum. It’s none of their business. If they like the sound of the kick drum is exactly what their business is. If they don’t like it, it’s my job to make them like it. They’re the drummer, the kick needs means to do a job and it needs to sound good to them, but mixing old school in a studio with lots of outboard gear, the band comes in like, “Hey, what are you using on the bass?” “Oh no!” Because they had some guy who put that on the bass and it turned out that guy sucked. But now every piece of gear he used is tainted forevermore.
+I like people to listen where they’re used to listening. Hopefully, it’s where they last listened to the rough mix because hopefully you have destroyed the rough mix. They’re used to hearing their song in a certain spot and all of a sudden, your mix comes tearing out of the speakers, they’re usually pretty excited, but the biggest thing is their objective. They can only make comments about what they’re hearing and that’s the most important thing.
+That said, depending on the album, how complicated it is or just who it is, it can make perfect sense for them to come in, but then it would be at the very end. I would actually always want to get through it at least one round of mix notes remotely. Then, like the Ziggy Marley record, he came in and we spent, I think it was all in one day. We just tweaked every single mix on the record. Some of it was arrangement stuff. He just wanted to do with me, that actually we weren’t sure about some percussion things and some of it was just, “Hey, on this song, we just got to turn up the guitar and the chorus.” We did it. The song was opened for five minutes.
+The Heavy album that I just mixed was exactly the same thing. Spent weeks going back and forth, then we all just hung out in the room for an afternoon and finished off the mixes. With some people, it’s the only way you actually finish because they have a very hard time describing what it is they want and they’re telling you one thing and it turns out it’s nothing to do with that, it’s something else. That’s when it’s good to get in a room, but I think it’s really good to do it when you’ve got multiple things to work on. That way, you don’t just go down the rabbit hole, because I had band that wanted to be in the room the entire time while I mixed one song for them and they wanted three days.
+I’m like, “You guys are insane.” I talked them into me doing a mix, sending it, giving me comments and then they would come in. I did the mix, they sent me pages of comments. Addressed all those comments, sent them a second mix, then they show up the next day. We spent 4 ½, six hours tweaking one song. Okay, got it done, printed it, everybody’s happy. An hour and a half later, an email shows up with two pages of notes. Them being there and not being there was not going to make them less of a pain in the arse.
+Audience Member
+They just didn’t want to finish.
+Andrew Scheps    
+They didn’t want to finish. Before I even started mixing, they’re like, “By the way, we printed all the guitars through a Leslie, slow and fast, and you see what you want to use.” Like, “Wait, wait, wait, wait, wait, is there a rough mix of this song?” “No.” “Okay, you guys aren’t ready to mix.” You’ve got to get to the point where you can at least do a rough mix before I’m going to mix. Now, you want to give me production credit and three more points, I will choose a Leslie on every guitar for you. But then I’ve made the choice, you can’t come back and second guess all my choices.” “Okay, we’ll start next week.” It took them three days to do a rough mix because there were so many decisions that hadn’t been made.
+Audience Member
+Well, that sounds like it worked because you can file it under “not your problem.” They got through a lot of decision-making that they should have done before they came to you.
+Andrew Scheps    
+Right, but then still did ten revisions of the mix, usually with pages and pages of notes after they said, “This is amazing, it’s done,” except for everything.
+Audience Member
+Bummer. Yeah, thank you.
+Andrew Scheps    
+Thank you.
+Todd Burns    
+Are there any other questions? Well, I guess we’ll stop there for now. Thank you very much. Andrew Scheps.
+Andrew Scheps    
+Thank you. 

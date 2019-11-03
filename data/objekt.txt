@@ -1,0 +1,310 @@
+Many musicians are genre-hoppers these days, but few have an inventive take on every style they touch. RBMA alum Objekt could be an exception to the rule. His first record, the white-label Objekt #1, came out in 2011.  Across his subsequent club output on labels such as Hessle Audio, Leisure System and Power Vacuum, audacious sound design and meticulous arrangements have served to buckle and twist dancefloor conventions. His debut album, 2014’s Flatland on PAN, consolidated his influences – IDM, electro, techno, industrial and ambient, among others – into a sonically adventurous narrative imagining “a world in which any scene can be seen from every angle at once.” His 2018 follow-up, the introspective Cocoon Crush, deploys a more organic sound palette of foley recordings and ASMR-inspired textures in service of more personal themes. In parallel, Objekt has built a reputation as one of the must-see DJs of his generation thanks to a deft, highly technical mixing style combined with a technician’s mindset honed through his years working as an instrument developer at music software company Native Instruments. 
+In his lecture from Red Bull Music Academy Berlin 2018, Objekt delved deep into the intricacies of his sound design process, as well as his meticulous approach to DJing.
+Lauren Martin 
+So, hello everyone. Welcome back again. Our guest today came to the Academy as a participant some years ago, and had been making music for quite some time before then. And in the years since, he’s gone on to make more music, some of it which is very much aimed towards the club dancefloor and currently one album that explores other kinds of spaces. He’s got a new album out very soon that goes even farther into that really interesting territory, and today we’re going to have a talk about how to combine a technical knowledge and emotional expression across music and DJing, so please help me welcome Objekt.
+Objekt 
+Hi.
+Lauren Martin 
+How does it feel to sit on this side of the room?
+Objekt 
+It’s pretty nice. It’s a nice room. No, it’s nice to be back. I had a really great time at the Academy in New York, five, six years ago and it feels like coming full circle a bit.
+Lauren Martin 
+So, lets get right into it. As someone that’s always really enjoyed listening to your work, you strike me as someone who’s always been quite an imaginative person. Someone that’s quite keenly aware of sounds, and how they affect you, and how you move around in the world. Do you feel that you are, you’ve always been quite an imaginative person?
+Objekt 
+I don’t know, actually. I feel like, in a way, my approach to sound is more about letting processes and equipment do the imagination for me and arranging the results of that myself, rather than being someone who necessarily comes up with the ideas in the first place, or originates the ideas. So, although there’s aspects of my music which might be unconventional, I think I might struggle when faced with a blank canvas to be imaginative in that sense.
+Lauren Martin 
+OK, if you don’t start with a blank canvas, what do you often start with? What’s in front of you at home that you tend to reach for first?
+Objekt 
+It could be anything. It could be a synth or a sample, or a drum rack, but a lot of the time it has to be something with an element of uncertainty or uncontrollability, the results of which I can then sculpt or steer into the right direction, rather than create the humanism to begin with.
+Lauren Martin 
+What do you mean by humanism?
+Objekt 
+Anyone who makes music with a computer is quite intimately familiar with the feeling of listening to a loop over and over again and getting very frustrated by how stale it becomes and how little variation there is, how it feels like there’s no life to it. And I feel like a big part of making the kind of music that I make is trying to give it a life-like aspect and trying to make it dynamic and responsive and enjoyable for the listener in a way that goes beyond just following a repeating pattern over four bars.
+Lauren Martin 
+Speaking of responsive actually, your mom was a working musician when you were younger.
+Objekt 
+Yeah.
+Lauren Martin 
+What kind of music did she make?
+Objekt 
+She was a composer that... She wrote some library music, she did a couple of film scores, quite a lot of music for ads, that kind of thing.
+Lauren Martin 
+Did she compose something when she was quite heavily pregnant with you?
+Objekt 
+That’s a good question. I’m not sure, actually. She was definitely playing the piano while she was pregnant with me. I would quite narrowly kick along to that while I was in her tummy.
+Lauren Martin 
+So the kick is key. Did you ever start playing around with the things that your mom would have made music on, then? Do you remember anything like that?
+Objekt 
+Yeah. Absolutely. So actually, my introduction into the world of making music on anything other than conventional instruments was playing around in her studio. I say studio, it was a pretty rudimentary home studio with... What did it have? It was controlled by an Atari ST. I mean, this is the ‘90s. So there was an Atari ST with a Cubase-controlling a sampler, a couple of sound modules, a mixer and a synth or two. She would use it in very much the way a composer would use it, rather than a dance music producer. Obviously, at the time I was completely unaware that halfway around the world people were using basically the same set up to make jungle, for example, or early techno. I literally used it to record cover versions of Tears For Fears songs. [laughs]
+Lauren Martin 
+That’s a strong choice.
+Objekt 
+Yeah. I actually wonder if those tapes are still around somewhere.
+Lauren Martin 
+I’d listen to that. So, tell me when you say that she worked more like a composer than a dance music producer. What kind of language did she start talking with you about sound and music?
+Objekt 
+I actually don’t recall talking to her that much about composition. It was more about piano. I mean, I would have been about ten at the time. But she was a classically trained composer. She was a very gifted pianist who then went to Berkeley to study composition and arrangement, and she would arrange for ensembles and orchestras and vocal groups, and in a way, I think she was probably most comfortable writing notation on paper and the home studio set up existed for her to be able to make demos that would subsequently be recorded in actual studios. But she was a composer and arranger first and foremost, rather than a producer.
+Lauren Martin 
+You didn’t go to study music at university. You did something quite different.
+Objekt 
+No, I studied engineering, electronic engineering.
+Lauren Martin 
+Whereabouts did you study that? And what was expected of you in studying that? What was expected of you by your teachers or by yourself? What was the course that you were supposed to go on with that?
+Objekt 
+So, I studied engineering at Oxford, which is a pretty general course, at least initially. I mean, I did two years of learning as much about car engines and bridges and all the rest of it as I did about circuits. And I ended up specializing in my third and fourth years more into electronics, but also into information engineering which covers signal processing, image analysis. Not really focused on music or audio at all. We would be learning about, technology that would analyze an X-ray for possible tumors, radio transmission, this kind of thing.
+So, there wasn’t really a creative element to it at all. There was a lot of maths. It was very theoretical, and it was pretty academic. So, it certainly wasn’t anything to do with music. But the signal processing side of things did relate pretty strongly to what I was exploring on the side at the time, which was getting more and more into electronic music production, having spent most of my teenage years playing in bands and playing drums, lugging amplifiers around, this whole being in a band thing, which I did for a good few years. Got sick of that, ended up getting more into... That would have been around the time when I was getting more into DJing and making music on a computer. It was pretty interesting, being able to independently put two and two together with some of the instruments and plugins I was using and some of the more fundamental, technical, mathematical things I was learning at university, like thinking about how sound actually works, thinking about what it means for sound to be a waveform, what information this waveform can contain, what features of this signal are relevant to how it ends up sounding and how it can be processed and what these processes are doing to it.
+So while I didn’t study anything explicitly music-related at university, it definitely shaped my understanding of audio, and laid the groundwork for the job that I ended up doing from there, which was doing signal processing stuff for Native Instruments.
+Lauren Martin 
+So you mentioned that signal processing was an element of your degree that you found particularly interesting, and then you go on and develop for Native Instruments as, essentially, a signal processor. Can you break down a little bit more what that actually means? What is that job?
+Objekt 
+Sure. So, officially, I was a DSP developer. DSP stands for digital signal processing. I was a software developer working mostly in C++, some MATLAB. But, whereas most software developers would be able to put together an application that you could use and that would do something useful, and might not know much about how audio works, I, as a software developer, probably couldn’t build you an application that did anything useful, but I could make a drum machine for you. Or I could analyze a circuit, like an analog circuit diagram, and get an idea of what each component was doing and how that could be recreated in software algorithmically. I would have more of an idea of what signal was coming into a particular piece of software and what signal was going out, and what you would have to do to that signal in order to get it to sound a certain way.
+Lauren Martin 
+So in a sense, it’s like creative problem solving.
+Objekt 
+There’s definitely a creative aspect of it, but it’s highly technical. I mean, depending on how you approach it, it can be more or less technical. There’s DSP developers and engineers working for car audio companies, or building radios, or building X-rays, or doing stuff which is primarily technical where there are specific criteria and technical requirements that need to be fulfilled. And there’s DSP developers that are involved in making synthesizers and instruments where obviously there’s a huge aesthetic and objective component to it, where it has to sound good and has to sound better, or has to have a certain personality to it, which is... I would say that’s a creative task, yeah.
+Lauren Martin 
+It’s really interesting when you say things like, “I try to get something to sound better, or something to sound good.” For an engineer, probably, a purposely naïve question, what does that mean?
+Objekt 
+I would say that that question itself... The answer to that question itself, or even the question, is much a part of the design process as the answer. How do you quantify ‘better’ when you’re talking about a problem that is ostensibly an engineering problem, but is as much down to personal taste as anything else. What is it that makes a particular compressor or a particular synthesizer sound good, and why is that not a figure of merit for every compressor and every synthesizer? If one synthesizer sounds good because ‘X,’ then why doesn’t this one sound good if you make it more ‘X?’ 
+That’s precisely what gives all of these older analog instruments so much character, is because they have all of these weird quirks and idiosyncrasies that work well in the context of their own... Of them as an instrument as a whole. But you can’t necessarily take one characteristic from one device and expect it to translate well across everything that you’re trying to design. 
+Lauren Martin 
+Maybe as an example then, what is, or what are, some of the machines that you would have been working on in that regard, that you looked behind that Wizard of Oz curtain as it were, as an engineer, and saw how they worked and how you could change elements of their character as you described?
+Objekt 
+Lets see. So I spent a couple of years working on the... I designed some of the drum synth modules that went into Maschine 2, which came out a couple of years ago. I worked on the more electronic sounding ones, because there were some very electronic synthesized ones and some more acoustic sounding ones, and I did the former. And as part of that, I spent a long time looking at, for example, the waveforms of a 909 kick drum or an 808 kick drum, and trying to figure out not just how these things were generated, but what is it about the shape of the oscillators, of the envelopes, of the way it’s put together. What is it that makes these sound so iconic and effective at what they do?
+What I learned was that you can change certain things about them and retain the character of the instrument. You can change other very minor things about them and they’ll sound completely different. And the fact that someone, without the help of computers, managed to design these things in the first place is a miracle. I guess a lot of these circuits were happened upon by accident. A lot of them were developed very precisely and deliberately. I’ve lost track of what the question was, sorry. [laughs]
+Lauren Martin 
+Well tell me a little bit about the shape of these waveforms? Everyone that makes music sees a waveform in whatever piece of equipment, or software or hardware, whatever they use. When you were picking through these machines and looking at these waveforms, how did you start to visualize them in your own head? Would a sound have a shape to it, if you heard it?
+Objekt 
+That’s a big question, I guess, because on the one hand, you’ve got the actual shape of the waveform, which is very easy to visualize. I mean, you look at the waveform on a computer, or you divide up the synthesis process into different blocks, whether it’s oscillators or envelopes or filters or whatever, and you look at the signal before and after each component. And that’s one aspect of it. The other is looking at sound more macroscopically, in more a synaesthetic kind of way. And from more of a kind of metaphorical standpoint. Soes this sound feel a certain way? Does it have a texture? Does it have an emotional quality? Does it have a mood? Is this soft? Is it hard? Is it bright? Is it dull?
+I guess when I was working on these instruments, it would mostly have been the former way of looking at it. I would look at the waveform of a kick drum and think, “OK, this was made with a certain kind of oscillator, which has been shaped with a certain kind of pitch envelope, and maybe filtered with a certain kind of filter.” But, in that line of work, the devil is very much in the details, and you can’t... It’s very easy to say that a 909 kick drum is kind of a triangle wave with a pitch envelope going down, and a click at the beginning and say that that’s what it is. But give me a triangle wave and a pitch envelope and a click and I would struggle to make you a 909 kick drum without really hacking away at the details, until you ended up with a wave form that sounded exactly the same. It’s really like, 90% detail work and 10% principle.
+Lauren Martin 
+So what is the 10% principle then?
+Objekt 
+Running an oscillator through a pitch envelope. [laughs]
+Lauren Martin 
+OK, it sounds like you say the devil is really in the detail here. So you worked at Native Instrument for years and years, and at that same time you are making your own music. How much of your work, being a developer and thinking about these things, thinking about these details, impacted how you made your own music?
+Objekt 
+I used to think not that much, actually. But in hindsight, I think it must have done quite a lot. I don’t think it had a huge impact on my creative process as far as the melodics or songwriting or song structure, or anything like that goes. But, in terms of shaping how I viewed sound, and audio, and sound design, and even in terms of a few aspects of the workflow, I think it had a pretty profound effect. For a start, one of the things that you... When you’re spending all day making instruments... I mean any of you that primarily work with computers and make electronic music, will be intensely familiar with the experience of tweaking a kick drum all day long, and getting really frustrated at losing all sense of perspective, and not really knowing if it sounds good or sounds bad. Imagine doing that but instead of making music, you’re making the thing that makes the music, and you don’t have any music to show for it at the end of the day. You’re tweaking the parameter ranges and parameter curves of a synthesizer that makes a kick drum. It drives you absolutely spare. And you come up with all of these ways to avoid going crazy while making these instruments to maintain a sense of perspective and objectivity in your work. And that’s something that does translate across to writing music. 
+It did teach me to approach production more methodically, I think. To pay more attention to rigorously comparing how it sounded before and how it sounds now. Keeping better track of what I’m actually doing. Not getting too carried away thinking of signal chains in terms of what is each element doing, rather than, “Oh, I’m just gonna throw another saturator on there and hope for the best,” and just keep wrestling with this thing until maybe it sounds a bit better. It did make me work more methodically, sure.
+Lauren Martin 
+Does your workbook folder look like “Track 147.2,” “147.3,” “147.4?” All the little tasks?
+Objekt 
+Yep. [laughs] Yeah, absolutely. 
+Objekt 
+My work flow... It’s been like this for awhile, actually. But it is now, it’s methodical to the point of being dogmatic. I mean I will religiously, at the end of every session, I’ll do a render of whatever I’ve been working on, save it under a particular version number, and at the start of the next session, the first thing I’ll do is open the last render from the previous session, listen to it, ideally in iTunes, not in Ableton, because that way I won’t be tempted to make any changes. I’ll listen through it, I’ll have a TextEdit document open, and as I’m listening, I’ll make notes with timestamps, and make notes as I go along of what I want to change.
+ 
+These notes can be as broad as, “Get rid of this section entirely,” or “This bassline sounds like shit.” Or, “I like this part.” Or, it could be as specific as, “This one little glitchy noise needs to have a bit more high frequency.” Or, “Shift this hi-hat back by 20 milliseconds.” And so, at the end, I’ll usually have a set of between five and 20 things that I want to change. And I’ll open Ableton and try and be as meticulous as possible. Meticulous is the wrong word... As strict as possible with myself, only doing those things. When I’m done, I’ll bounce it again and just keep repeating the process until there’s nothing left to change. And for me, having the recording from the previous iteration is tremendously important, and I think that did actually come, at least partly, from working at NI, because it really hammered home the importance of having something to compare what you’re working on to. Particularly if you’re someone who, like me, goes very deep into detail and can spend months working on a track, or hours working on one particular sound. If you don’t have a point of reference, if you don’t know how it sounded before and you’re just letting yourself get sucked into this wormhole, then who knows where you’ll end up? And who knows how you’ll be feeling about where you’ve ended up and whether you’ll be able to actually locate where you are in the broader space of music and sound?
+Lauren Martin 
+That’s very thorough answer, thank you. Characteristically thorough. You’re an engineer and developer, you worked at Native Instruments, you have this very technical, learned language with which to explain your processes and ideas. When it comes to people who have not worked at Native Instruments, who are not trained engineers, but do make music and are intrigued by this way of working, what are some tasks that somebody making music at home could do, like you’ve described, but without, necessarily, the education of an engineer? Is there something that you would maybe, recommend that people could do along that kind of line of thinking?
+Objekt 
+All of the stuff that I’ve described isn’t really engineering related, it’s just workflow. And it’s what works for me, it doesn’t necessarily work for everyone. In fact, I would hesitate to recommend my workflow to anyone, to be honest, because it’s incredibly time consuming and laborious and it drives me nuts. But, given that I’m someone that takes so long to make music, it’s just one kind of coping mechanism that I’ve developed, to allow me not to go completely insane. 
+Lauren Martin 
+Maybe we should listen to something that you’ve made, then. Why don’t we listen to a track from your debut album, Flatland. I’d really like that.
+Objekt 
+Sure.
+Lauren Martin 
+We’ve talked about being metic... Not meticulous, that’s the wrong word. We talked about the attention to detail and everything, it would be great to hear something that you’ve made. I know you’re quite a fan of “One Fell Swoop.”
+Objekt 
+That’s one track you could play, yeah, sure.
+(music: Objekt – "One Fell Swoop")
+It’s so nice to watch the track move on the screen, because of what we’ve been talking about so far. I found myself going, “Oh, oh yeah. Oh, wait, yeah, yeah, yeah.”
+Objekt 
+It’s also a track that covers a lot of ground.
+Lauren Martin 
+Yeah.
+Objekt 
+In terms of the... Well, not so much the instrumentation, but the moods and the territories that it kind of traverses over four or five minutes.
+Lauren Martin 
+So, when I listen to a track like this from your debut album, I’m really struck by how synthetic it sounds.
+Tell me a little bit about that synthetic palette of sounds, what is happening in that beast in there?
+Objekt 
+I think aesthetically that’s just where my head was at at the time. I was just making... I guess maybe it was a product of the kind of effect change I was using at the time, or maybe the equipment, or whatever. But I was making quite crunchy-sounding, bit-crushed, compressed tracks that... I think maybe I didn’t even realize that that was the sound that I was making at the time. I listened to that album again not too long ago, and I listened through it, and I was like, wow, actually, this kind of... It sounds a bit... It definitely sounds like I was in an identifiable headspace, sonically, which I’ve since moved out of a little bit. I mean, this track in particular, is pretty... Everything is pretty crunchy and pretty glued together, which I was kind of going for at the time, I guess.
+Lauren Martin 
+Was that an aesthetic choice? How would you execute that? You used words like crunchy and glued together. It’s a very tactile way to talk about things.
+Objekt 
+Yeah, and I think that’s another way in which I think about sound. Although I’ve been using quite technical terminology, up until now, I do also tend to approach sound from the other direction as well, just like how does this sound make me feel? What images does it conjure up? What direction does it pull me in? Texture, and glue, and mood are equally important to me as the technicalities of how it was actually made.
+In this case, I think at the time I was feeling very satisfied by a particular kind of crunchy, gritty sound that maybe in the years after Flatland came out, I realized that I’d had my fill of, and I kind of moved on from it, but at the time there was something very pleasing about the way that... The backbeat, for example, in that track, which is a pitch envelope zap on a filter, I think. There was something that I found very satisfying about the way that it was kind of going like [mimics short synth sound] and be very raspy and gritty, and lot of the sound design that went around that was intended to fit in with that kind of sonic space, I guess. 
+Lauren Martin 
+Let’s think about this as a compositional tool. For example, something that’s very common that people do when they’re making electronic tracks is a field recording. They go into the world with a little TASCAM, and they record around themselves, take it home, turn it into a sample pack, turn it into a track. Now, even when you’re doing that, it’s not totally random. 
+Objekt 
+Sure.
+Lauren Martin 
+You’re deciding where to go, your ears are tuned to certain sounds, and then you make decisions with that recording. So even a field recording is a process of choice and decisions. 
+Objekt 
+Sure.
+Lauren Martin 
+When you’re working with sounds that are really synthetic and digital, where do you figure in that? What are your choices about things that give you sonic satisfaction so it actually has an emotional value for you?
+Objekt 
+A lot of it is just following your nose, you know? You hear a sound and you feel like, “Oh, I’m interested in this particular texture in it, or this particular transient or attack, or this particular harmonic that appears a few seconds in. How can I emphasize that? How can I make more of that?” For example, a lot of the melodic elements of my tracks originated not with me playing on a synth, but pitch bending some sample, or recording, or resampled sound into oblivion until a particular set of weird warped harmonics came out and I thought, “Oh, actually, this conveys an interesting mood,” or “This fits well with some other part of the track,” and I just work from there, whether it’s by chopping up that particular bit and stretching it out more or processing it with a long reverb or something to draw it out. Or, for example, maybe in processing some other content, I’d hear a particular percussive sound that I had liked and wanted to embellish somehow in order to turn it from a random clunk into a really powerful drum, but on its own, that clunk isn’t enough to actually have any impact. It then becomes a question of “what is this sound missing in order to push it in the direction that I want it to go in?”
+Lauren Martin 
+Speaking about direction, I want to read you something that Brian Eno said in 1996 because it got me thinking about your music. “The thing I’ve most disliked about a lot of recent music, particularly music done in sequencers, is that it’s totally locked. For a listener, that is very uninteresting. Instead of going for a walk in a fantastic forest, it’s like being on a railway line.”
+Objekt 
+Sure. I guess there’s a couple of interpretations of that. The first and maybe more obvious one is, is he talking about a fixed grid, like a fixed tempo? You’re playing to a click, basically. Which, actually, is something I’ve been experimenting with more recently, particularly with the new album. Quite a lot of automating the master tempo over the course of a track so that you can’t really tell where the count is.
+But even if you are working to a fixed grid, which, to be fair, most people are doing most of the time, that is one of the big challenges of writing electronic music, is how to make it sound like it’s going somewhere in a way that doesn’t just sound contrived. And for me, having this sense of direction running through a track is really key. I guess propulsion, maybe, is a keyword here. I like music that I make and listen to, for that matter, to be somehow propulsive. That doesn’t necessarily mean there’s always someone with their hand on your back, pushing you forward the whole time, but a track, for me, needs to have a sense of what it’s trying to achieve and where it’s going from here. And I think that was actually one of the reasons why I used to struggle so much with writing more loop-based, functional dance music because I would use as a crutch... As a crutch, I would tend to write tracks in modular blocks, almost more of like a verse, chorus, breakdown chorus, verse, whatever, structure, as a means of maintaining interest, which is something that I still do. I feel like I’m going off on a tangent here, maybe.
+Lauren Martin 
+You’re going for a walk in a fantastic forest.
+Objekt 
+Yeah, I mean, that’s one approach to making music, I suppose. [laughs] But actually, so that last track was maybe a particularly extravagant example of me wanting to take the listener on... This is a horribly contrived answer, but take the listener on a meandering journey through different soundscapes and worlds. There’s a part halfway through which... I mean, I didn’t really write it like this, but I realized halfway through that that’s what it sounded like, it sounds like you’re flying through a storm, and then at some point, you break through the clouds, and all of a sudden you’ve just got this blue sky over you. 
+For me, one of the fun and rewarding parts of making music, particularly when you have such a long and tedious and convoluted workflow, is when you realize that something in the piece of music that you’re working on could have a certain interpretation and you lock onto that, and you start following that as a means to get to a particular creative goal, and so when I realized, “Oh, this is what that sounds like, what can I do in order to bring that out? How can I emphasize that? How can I shape the rest of the piece of music around this?” That was, I would say, that was a turning point for that particular track, for example.
+Lauren Martin 
+Could we please play the first video just now? 
+(video: Most viewed ASMR Soap crunching/crushing)
+So tell me a little bit about sonic satisfaction and ASMR. What kind of roles do they play? That video we just watched is of somebody really slowly crushing up little shaved kernels of soap, and some people get a lot of physical satisfaction out of very particular kinds of sounds.
+Objekt 
+I would be lying if I said that ASMR, explicitly, and the online ASMR community were a massive influence to my work. In fact, I only really started reading more about it quite recently. But this whole idea of sounds having a physically satisfying quality is interesting to me, and it was something that I was unknowingly exploring even a few years ago or longer, just realizing that the physical impact of a sound was something to explore but also to strive for and aim towards in my work. But, I guess whereas before that would mostly come from synthetic processes, or maybe even by accident, I would be, I don’t know, using granular time stretching or abusing the Ableton warp engine, for example. I realized more recently that actually, if I want a particular kind of satisfying texture, or impact, or reverse sucking sound, or anything like that, there’s nothing stopping me from just drawing from the wealth of actual organic recordings at my disposal, whether it’s recording them myself or using film sound design sample packs or sampling off the internet or whatever. And yeah, I’ve been having a lot of fun recently using more organic sounds to accomplish the same thing but with a slightly different palate. Less crunchy and a bit crushed, and much more just open and almost honest-sounding, I guess. I guess I could play something.
+Lauren Martin 
+Let’s hear something from your new, as yet unreleased, album that would explain this.
+Objekt 
+OK. So i’m going to play a track called Silica, which... Actually, this kills two birds with one stone because it has quite a lot of foley recordings and sample pack stuff, and texture, but it also has a completely deranged time grid, so it ties back into the Brian Eno quote from before, because basically, what I did was open the automation line for the master tempo in Ableton and I just went like this [makes scribbling motion with hand] all over it, so you can’t really count any kind of beat, but it did definitely steer me in quite an interesting and more free direction, where instead of trying to get the listener locked into a rhythmic groove, I was trying to steer the track in just a more generally sonically satisfying direction, with a sense of push and pull rather than constant pushing. You can kind of hear it in the gaps between the drums where you feel like you’re being stretched and compressed in a way that’s, hopefully, satisfying. 
+I would add that... I guess if you’re watching this on the internet, you’re good, but in the room it’s a pretty... I mean, it sounds great in here, but it’s still pretty reverberant and a lot of this stuff is probably best listened to on headphones because it’s quite textural and detailed.
+
+(music: Objekt – “Silica”) 
+
+[applause] Thanks.
+Lauren Martin 
+OK, so you’re making all this music for pure, personal, sonic satisfaction, and then you go and take it to get it mixed and mastered. What kind of relationship do you have with a mixing and mastering engineer when tempo is not the main concern, when this is something that feels really satisfying to you, and then you’ve got to take it to someone else, and they decide it should maybe sound one way or the other, or something else. How do you have those conversations?
+Objekt 
+Well first of all, I don’t think tempo is really a consideration here, whether it sticks to a fixed grid or not doesn’t have that much of a bearing on the mixing and the mastering. But in terms of what kind of conversations you should be having with a mixdown engineer or a mastering engineer, I’ve always mixed down my own stuff, largely because, for me, the mixing process is completely integral to the songwriting process because... I mean, some of my tracks have upwards of 100 channels, and to hand that over to someone else to mix down opens up so much... Well, I was going to say opens up so much potential for the track to sound completely different, but I think that’s the case no matter the arrangement.
+No, I mean for me I mix down as I go, but in terms of mastering, I don’t know. There’s always a trade-off between having a clear idea of how you want it to sound and what your expectations from the process are, and being willing to give up your own creation to the objective and technical viewpoint of someone else who might have a much better listening setup and a much deeper technical understanding than you do. Dealing with this kind of process is... God, what to say, really?
+ 
+On the one hand, it is worth bearing in mind that by the time you finish working on a track, particularly if you’re mixing it down yourself, you have a very entrenched view of how you think it should sound that might be colored by your own listening environment, but even more so by your own experience with that track and your own quite colored feeling of how the elements and the frequencies work with each other and it is very worth getting another set of ears to even that out for you. On the other hand, it’s also very true that mastering engineers come in all shapes and sizes, and some of them... You can give a premaster to three different mastering engineers and get three drastically different results, and none of them is right or wrong, and it’s up to you to pick a mastering engineer whose work you respect and also tell them what it is that you’re looking for. And I think this is even more the case when dealing with mixing engineers because the scope for change in a mixdown is an order of magnitude greater than the scope for change in a master. The mixdown can completely shape the way that a track feels when you listen to it. It’s not just a case of emphasizing some elements and de-emphasizing others. It can be a case of totally recontextualizing a track. That was a long and winding answer where I’m not really sure where the take-home points are but I guess it’s basically a trade-off between acknowledging your own limitations in objectivity and maintaining your own creative vision and remembering what it is that you want to get out of a particular piece of music that you’re working on.
+Lauren Martin 
+You quite struck me earlier by using the word honest when it came to the sound.
+Objekt 
+Sure.
+Lauren Martin 
+We’re talking about technical expertise, things that give you sonic pleasure, things that are personal to you. What are you being honest about?
+Objekt 
+This track was, maybe, a poor example of that because actually... Well, actually, this track was kind of a bridge between the stuff that I’ve been working on years ago and where I’ve ended up now. It actually started life as... Basically, I tore out the drums and synths from a track called “Ganzfeld” that I put out, maybe, four years ago, around the time of my last album, and embellished it from there. So it’s not quite this open and honest sound that I was talking about.
+But I guess what I was going for, talking about sonic honesty, was just this... I don’t know, a much more clear sound, in which everything exists in its own space with pinpoint clarity and is not so glued together by overall processing, it’s not so obscured by synthetic textures. It’s more, I don’t know, like a clear starry night.
+Lauren Martin 
+So we’ve talked a lot about your music production, but you’re also an absolutely amazing DJ, and I’d really love to... 
+Objekt 
+Thanks. 
+Lauren Martin 
+... I would really love to speak about your DJing, but also we’ve been talking a lot about textures and honesty and all these very minute details, but something that really strikes me about your DJing is you have this, a phrase that you’ve used before, this energy contour. It’s not tempo and going from A to B to C with beatmatching as your concern. This is something that really takes a fantastic walk through a forest as a DJ.
+Objekt 
+I mean, it is still beatmatching, and that’s, for me, one of the necessary creative limitations is that, generally, I would still need every track to feed into the next, tempo aligned obviously with, sometimes, breaks if I need to switch tempo, but I don’t know. I like the idea of thinking about musical progression in terms of a multidimensional space where you’re always moving forward in time, but there’s a lot of different axes or variables that you can traverse in trying to illustrate a musical point, whether that’s how hard the music is, or how sparse or dense it is, or what kind of emotional color the music might have, whether you’re trying to intensify the experience or give people a break, whether you’re going up or down or left or right. And this is something which applies, I think, equally to DJing, but also to sequencing an album, or even the progression across a single track, which, in my more self-indulgent moments, I’ve been guilty of as well, making nine or 10 minute tracks that are supposed to be club records, but go off on their own garden path. 
+Lauren Martin 
+Nothing has to be a club record. Nothing is supposed to be anything other than you want it...
+Objekt 
+Sure.
+Lauren Martin 
+I want to slowly torture you [laughs] by playing a very short clip of a live recording of you DJing.
+Objekt 
+OK.
+Lauren Martin 
+This is a way for people in the room to get...
+Objekt 
+Where’s this from then?
+Lauren Martin 
+Where’s this from? This is from a festival called Freerotation.
+Objekt 
+What year? [looks at CDJ screen]
+Lauren Martin 
+Yeah.
+Objekt 
+OK.
+Lauren Martin 
+I saw you play this set, and I just want to play a short clip for people so that you can get a sense of this energy contour, so don’t kill me. 
+So great. Sorry if I put you on the spot like that but...
+Objekt 
+That was very much the energy contour moment of Sunday evening at a festival. If you’re gonna play RUN DMC at a techno party you’ve got to pick your moments I think. [laughter]
+Lauren Martin 
+I was there and I can attest it was like a tank rolling through the room. It was wonderful. Tell me about this idea of an energy contour.
+Objekt 
+I mean, this idea, this idea of an energy contour. I don’t know, I just like to think of a DJ set, and also longer pieces of music, just in terms of the route that they take you through and one of the main variables, particularly in a club set, where people are dancing and that’s the functional purpose of a DJ set, primarily, is the intensity, I guess. The energy. And that can go up and down and it can trace interesting shapes, and it can go sideways while still staying at the same intensity. It can change tempo, it can change mood, and for me, DJing is largely about finding a balance between tracing an interesting and varied route and staying as focused as I need to be in order to maintain the energy of the room and the interest of the crowd. 
+Lauren Martin 
+What kind of techniques and approaches do you have to actually put that in action? What kind of tricks have you developed for yourself in this current philosophy of DJing?
+Objekt 
+Well, there’s a bunch of mixing tricks. I tend to mix pretty quickly and using quite a lot of rapid fader movements and stuff. I probably didn’t hear that much of that in that clip, but a lot of the time I’ll be cutting back and forth with the crossfader or taking the EQ in and out. So there’s the kind of performance aspect of it and the other side of it is extremely rigorous and methodical organization, maybe unsurprisingly.
+Lauren Martin 
+Just how organized are you as a DJ? What do you mean by organized?
+Objekt 
+I have a very extensive list of quite functional playlists and playlist folders in rekordbox in which tracks are sorted into the groups that would be most useful to me, whether that’s genre, or mood, or intensity. For example, I have several different techno folders that are organized by mood or setting and then each of those playlists is organized by hardness factor, I guess. Like when I add functional techno tracks to rekordbox I’ll tag them with a number from 1 to 10 according to basically how banging they are and then sort by banging so you’ve got quite minimalist, stripped back, polite tracks at the beginning and real face-melters at the end. And then outside of functional techno it’s maybe not so appropriate to sort by ‘bang factor’ so I generally tend to sort by tempo, but I’ll have playlists for anything from genre stuff like I don’t know, disco, or EBM, or electro, to moods like “coming up for air” or “emotional bangers” or “floaty rollers” is a recent favorite of mine. Also some very utilitarian playlists, like really long tracks for when you need to run to the bathroom or long beatless tracks for when you’re playing an opening set and there’s no one in the club yet.
+One area that I’ve gotten quite into recently is poly rhythmic mixing. So I have couple of... Well a few playlists of tracks that can could be interpreted in different tempos depending on how you count them. So, for example there’s quite a lot of tracks that... well I say a lot, it’s all relative. There’s a number of artists out there making music that would kind of fall into triplet drum & bass at 85 BPM or 170 but could also be mixed straight into stuff that’s at 128 BPM and I’ve had quite a lot of fun recently playing in this weird kind of gray zone where you’re not quite sure how to count it and those lists, for example, play quite well with the “floaty rollers” or things with a constant metronome but with no kick drum, like arpeggios and tracks that roll along propulsively but without a defined beat and then you can kind of dip in and out of two different tempos depending on how you’re feeling which can be quite fun. 
+What else? Big folder of set openers, big folder of set closers, big folder of ambient interludes for switching tempo. Yeah, all kinds of lists. I spend way too much time on this.
+Lauren Martin 
+If you have so many lists, what keeps you feeling instinctive and think about reading a room because this feels like this is all very much happening in your little zone that you’ve already prearranged. How do you go out into a room and decide, “Oh this is what I’m gonna do, this is the instinct that I’m working on?” 
+Objekt 
+A lot of that comes from vinyl, actually. Because I still play quite a lot of records and for me, although I do organize the bag of records that I bring with me as well, obviously you can’t keep a stack of 50 records organized to the same degree as you can digital files and various playlists, so if there’s a moment where I’m feeling like I’m kind of... Everything is a bit too controlled and I just want to throw a spanner into the works I’ll just go through a stack of records and pull something out that I think would be fun and just see where that leads me, musically. Obviously, this is all while keeping an eye on what’s going on in the crowd because ultimately, while I do like doing my own thing, it’s much more fun to do your own thing to a crowd that’s actually enjoying themselves, and I don’t want to punish people. My job is still to facilitate people’s enjoyment rather than get lost in a prog rock wormhole in the DJ booth. 
+Lauren Martin 
+In that case then, through, now two albums, lots of more club-focused records, becoming more skilled as a DJ, what do you feel that you now enjoy most that perhaps you didn’t even think about at the beginning? What have you really come to enjoy?
+Objekt 
+Weekends off. [laughter]
+Lauren Martin 
+OK, Objekt, thank you very much. [applause]
+Objekt 
+Thanks. 
+Lauren Martin 
+Do any participants have any questions for Objekt? Yeah.
+Audience Member
+Hi.
+Objekt 
+Hi.
+Audience Member
+Thank you for coming. In the beginning of your career how active are you about getting your music released or getting gigs?
+Objekt 
+I would put my stuff on SoundCloud and I would post on some forums. But I wasn’t really sending it to labels. And I think like... Yeah, there’s a fine line to be towed between wanting to actually wanting people to hear what you’ve done and just working away on your own stuff quietly just to make sure that you’re happy with the output and you’re the best musician that you can be. It took me quite a long time before I put out my first record. I mean I’d been playing music all my life but I’d been making electronic music for probably about seven years before my first record came out and I’m glad that I waited that long and I don’t think there necessarily has to be any rush. I kind of feel like it’s definitely worth getting your music out there and letting people hear it but I didn’t do a huge amount of self promotion. Like I wasn’t sending demos to every label that was accepting them. 
+Audience Member
+Hello.
+Objekt 
+Hi.
+Audience Member
+Hi. Oh first of all thanks for being here. We’re all being part of the academy experience so it’s really nice to see somebody that has been like, through a lot of experience...
+Objekt 
+Why thank you.
+Audience Member
+Of course but it is nice to see that you are here telling your story. So my question is, I think it’s double-sided probably. It’s about DJing and also being a producer because probably, I don’t know, at least in my case, my main goal was producing but then somehow in a really strange way DJing came along for me and I don’t know, like I feel... I really like DJing, I love it, but sometimes it feels a little bit weird because I feel like people are constantly expecting stuff from me and, I don’t know, for example I think most of the time I think I don’t have the mentality of a DJ because the stuff that I’m expecting of the DJs they are, at least in my opinion are somehow different from what it should be expected from a DJ so my question mostly is about...
+Objekt 
+Different in what sense?
+Audience Member
+Huh?
+Objekt 
+Different in what...
+Audience Member
+Different because mostly people want to listen to OK, well it depends... Sorry...
+Objekt 
+You’re good.
+Audience Member
+Again, monitoring is weird. OK, for example, when people go to a club most of the people are just expecting like, “Oh yeah, let’s hang out.” So for example when I play tracks some people are like surprised that I played those tracks. For example, now there was a short extract from your DJ set and it was surprising to hear the vocals from RUN DMC, and the thing is that, to get to the point, my question is what is your main... I wouldn’t say goal but what are you expecting, yourself, from your own DJ set, being also a producer and everything? The thing is that I think that probably, like your approach to DJing is different, so that’s what I want to know, what do you think about your DJ set and what, at least getting more into that?
+Objekt 
+I think the thing about creative freedom in a DJ set is that unlike being a producer and working with recorded music, you’re always gonna be limited by your audience. Whereas as a producer you’re making music for whoever will listen to it, as a DJ you’re by necessity playing to people in the room. My approach to it is generally to be as adventurous as I can get away with given the audience, and then maybe try and push it a little bit further. Having said that, I very much realize that I’m in a, DJ wise, an extremely privileged position where, largely performing as a headliner, people come to see me play, and that means that people are more interested in hearing what weird stuff I might want to play to them whereas when I was starting out, particularly playing shows in Germany in the late 2000s or early 2010s, where it could be difficult to play anything that didn’t have a straight 4/4 kick drum without clearing the dancefloor. I do remember what it was like to have to be much more careful in terms of what you could get away with. So I don’t really have an answer there, I guess. You do still kind of have to be somewhat conscious of who you’re playing to but then at the same time I don’t think you should ever play music that you don’t like and... yeah. [laughs]
+Lauren Martin 
+But perhaps within that you did see that people come to see you because they like the adventure of they don’t really know what’s coming next.
+Objekt 
+Yeah, which is a really nice position to be in and even other DJs in my position, where people would come to see them play, don’t necessarily have the luxury of having an audience who have come to see them be adventurous. Like someone who is much better known for being a house DJ or a techno DJ might have a crowd that is very excited about coming to see them play, but they’re very excited about coming to see them play stompy techno that they can party to rather than come to see them mix polyrhythmically between a meandering techno track and some triplet drum & bass so, yeah. Your mileage may vary. 
+Lauren Martin 
+Anyone else? Oh wow we do have quite a lot, great.
+Audience Member
+Thank you. Thanks. I was just wondering how it was for you to be in the Red Bull Academy experience and with your process that is so detailed and goes into so many layering and it takes a while and you having all these versions of songs and I guess that means having some time to look and get perspective on it. How did you deal with the two weeks?
+Objekt 
+I didn’t... When I was a participant here I didn’t make music in that way. I did come away with a couple of sketches that I then developed further but for me what was positive about attending the Academy was that I was actually a participant in the middle of a stretch of writer’s block and it was from being around all of the other participants and in an environment in which everyone is feeling quite inspired and motivated and excited that helped to lift me out of that. I spent relatively little time locked away in a room tinkering away with the details of a track that I was working on and more time just like wandering around playing on synths and jamming with people. And I don’t think you should necessarily feel bad if you come away from it without that much recorded material, provided that it was a stimulating experience for you. I think that’s just as important as anything else.
+Audience Member
+OK, thanks.
+Audience Member
+Hi how’s it going?
+Objekt 
+Hey.
+Audience Member
+I had the privilege of seeing you play in Miami and it was a really great DJ set so I was just wondering where you like to dig for music or if you have a preferred method of finding new music?
+Objekt 
+Kind of depends on where my head’s at at the time. Like my go to... I guess my go to for vinyl is Hard Wax, I buy some stuff off Boomkat as well. I do some Discogs digging, quite a lot of stuff on Beatport actually, or Juno Download. Some promos. Occasionally I’ll go into record stores when I’m touring and see what I can find there. I actually buy most of my vinyl online just because I got so sick of getting records home and realizing they weren’t really what I wanted. Actually this... So this interestingly comes back to the point I was making before about maintaining perspective and objectivity, and for me being able to shop online and put records in a crate and come back to it later with fresh ears or even sometimes listen to a record that I’m about to buy on different websites because the compression on one webshop’s site is really bad and you can’t really hear what the track sounds, or come back to it the next day and see if I still like it. That’s a really important part of the buying process for me. That’s what works for me anyway. 
+Audience Member
+Would you say you’re meticulous with how you select music? If you say you spend months on one track, do you spend months figuring out if you like something or if it works?
+Objekt 
+Not as much, no. I mean when in doubt I would just buy it, I think. Like one of the nice things about doing this professionally now is that I can justify frivolous music purchases because it’s my job. [laughs] I can always just fill my cart with music that I think I will probably play and if I only end up playing half of it then so be it. 
+Lauren Martin 
+Can we maybe take one more?
+Audience Member
+Hi.
+Objekt 
+Hey.
+Audience Member
+I just wanted to ask a question related to your creative process. You mentioned that you like the uncertain aspect of the machine. Do you ever begin with the uncertain aspect of your humanness and what role does intuition play in your creative process?
+Objekt 
+Intuition plays a huge role. Although I do approach this quite technically, how a piece of music makes me feel is still ultimately the most important thing and that’s actually something that I didn’t touch on earlier but the feeling and the energy that that piece of music induces in me is still ultimately what guides me. It’s not like I listen to something and think, “Hmm, this needs a sprinkle of euphoria and five grams of kick drum.” It’s still the overall impression that’s what matters to me. But I do have trouble originating ideas, particularly melodically. Like if you sit me in front of a piano, I would really struggle to write some of the... Even some of the more melodic pieces that I’ve finished on a computer. Which is why I rely quite heavily on happy accidents or detuning things or processing things to... Processing things in unpredictable ways because for me the results that you get out of, I don’t know, tweaking a delay line or jabbing at buttons on an unfamiliar synth or recording the result while you automate some parameters where you’re not exactly sure what they’re gonna do is a pretty important part of the process. That’s the source material that I work with and using that as a basis, that’s when I can start to let my intuition guide me. If that makes sense. 
+Lauren Martin 
+Objekt, thank you very much. 
+Objekt 
+Thank you. 

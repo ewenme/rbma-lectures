@@ -1,0 +1,1206 @@
+Dave Smith is a synthesizer designer and tech visionary of the highest order. He created the first polyphonic synth, the Prophet-5, which has become the obsession of everyone from Parliament to Arcade Fire to James Blake. He’s also considered the father of MIDI, and created some of the first software synthesizers. The Bay-Area based engineer also founded Sequential Circuits, worked with Korg and Yamaha and, as if that weren’t enough, he heads up Dave Smith Instruments, who create popular synths like the Tempest, the Tetra, and of course the Prophet 08. 
+In his 2014 Red Bull Music Academy lecture, Smith discussed the Prophet-5, Minimoog, and many other instruments that have shaped electronic music.
+Torsten Schmidt 
+We are in good spirits that the gentleman sitting next to me will actually help us trying to figure out where that noise is coming from, because he knows a little bit about noise and stuff. Therefore, I would
+like to ask you to join me in welcoming Mr. Dave Smith.
+[applause]
+Dave Smith 
+Thank you.
+Torsten Schmidt 
+Early on Mr. Tomita was asked whether he ever met Wendy/Walter Carlos,
+Walter/Wendy Carlos. I was wondering, can you actually remember when that
+album came out?
+Dave Smith 
+Switched On Bach or Snowflakes Are Dancing?
+Torsten Schmidt 
+Switched On Bach, yes.
+Dave Smith 
+That was one of the things that initially got me interested in electronic
+music and synthesizers.
+Torsten Schmidt 
+In which shape or form?
+Dave Smith 
+Just interesting to hear something electronic, sounds. It was just so lifelike
+the way she played was just, it sounded like an acoustic instrument. We all know what’s electronic and what’s not. It just had this life into it that was just amazing to hear and the way she played it.
+Torsten Schmidt 
+Was that a record you could actually hear on the radio, or how did you get in
+contact with it?
+Dave Smith 
+I don’t know. I bought the album, but I doubt it was played on the radio.
+Probably not. I don’t remember.
+Torsten Schmidt 
+You never know, I mean, it was the ‘60s and all.
+Dave Smith 
+That’s right, and it was the best-selling classical album of all time. It
+might still be. I don’t know if that record’s ever been broken, but that’s
+pretty amazing for a synthesizer to beat all those big orchestras.
+Torsten Schmidt 
+You might be biased. 
+Dave Smith 
+Might be?
+Torsten Schmidt 
+Where were you at the time?
+Dave Smith 
+What year did it come out? Was it late ‘60s? I don’t remember. I was probably still in college. I don’t even remember what year it came out. Does anybody know? I don’t know, but I was probably still in college.
+Torsten Schmidt 
+What were you doing in college?
+Dave Smith 
+I was at UC Berkeley, and I was in electrical engineering and computer science
+and playing in bands once in a while on the side, playing guitar and bass
+guitar.
+Torsten Schmidt 
+This Berkeley in the ‘60s, was it anything close to what we imagine it to be?
+Dave Smith 
+Yeah, somewhat, regularly. It was pretty crazy.
+Torsten Schmidt 
+Crazy in which form?
+Dave Smith 
+You know, Tact squads coming down the streets and tear gas and whatever. It
+got silly at times, but it was also a pretty interesting period to live
+through.
+Torsten Schmidt 
+Were you a protester?
+Dave Smith 
+I was more of a protester observer. I would watch but not get actively involved.
+Torsten Schmidt 
+I mean, when you think about, or when you talk about all the music and the
+electronics of the time, it’s kind of interesting how close it actually is in
+the overlap to actual current affairs. Like when your friend, Tom Oberheim, lived in the same building as the guys who found the Watergate documents, for example, and all these bizarre little overlaps where you just think like, “Hey, a Hollywood scriptwriter wouldn’t have thought of that.”
+Dave Smith 
+Again, it was crazy times, but when you’re going through it, you don’t recognize necessarily as such.
+Torsten Schmidt 
+What were you studying over there?
+Dave Smith 
+Electrical engineering, computer science.
+Torsten Schmidt 
+What did that look like? Because, I mean, it was mildly different as well.
+Dave Smith 
+Yeah, everybody’s probably tired of hearing about what it used to be like when
+I was young, but the computers were huge. You wrote programs on punched cards,
+and you had to turn them into the computer center and wait a few hours to get
+it back to see if it compiled or not. It was as a slow process. The one thing
+I did do, and this is probably 1971 when I was still there, is I wrote a
+program that composed music. And the only way I could get it out was to have
+it printed on a plotter, so draw five lines and then draw a circle and then put an asterisk in the middle if it was a quarter note. It was pretty rudimentary, but this was way back. Things were basic.
+Torsten Schmidt 
+What were the machines that were processing all this?
+Dave Smith 
+They were room-sized computers that would do it. Control Data was one of the
+computers. I think they’ve been long gone.
+Torsten Schmidt 
+I remember my Dad had a computer book at the time, or a little later actually,
+and there was this photo in there, and someone was extremely proud and had a
+tic-tac-toe drawn onto a screen. It was like, “One day these machines will be
+able to play tic-tac-toe against you.”
+Dave Smith 
+Yeah, I remember my senior year, one of my professors predicted that one day
+that the power of one of these computers would only cost $1000, and of course,
+everybody’s like, “No, no way, it couldn’t be.” Of course, these things were a
+fraction [of the] power of an iPhone these days.
+Torsten Schmidt 
+Do you still care about magnitude and all those laws about how data storage
+and processing powers go up, and what they actually do to you?
+Dave Smith 
+Well, you just take advantage of whatever technology is available when you’re
+designing a new product. I don’t usually think about the details of that, but
+you just say, “I need this kind of a part and this kind of memory.” The basics
+are all the same as they were back then. You have a processor, you have memory
+of input and output, and that’s what makes a computer. Of course, all these
+instruments have at least one or many computers in them to do the same thing.
+Torsten Schmidt 
+In your opinion, how much of that do you actually need to know if you want to
+use something like that efficiently?
+Dave Smith 
+Hopefully zero, if we do our job right. It should have nothing to do with
+computers. It should only be about making music.
+Torsten Schmidt 
+Is that the way you approached it when you first started implementing
+circuitry in order to generate music?
+Dave Smith 
+Well, yeah, I started making instruments for my own use. My first product was
+actually an analog sequencer. I had bought a
+Minimoog in 1972 just to play around with and then decided to build things to go with it, and once I built those, I decided to try to sell them. It was always from a user’s point of view and not from an engineer’s point of view.
+Torsten Schmidt 
+How much was that Minimoog back then?
+Dave Smith 
+$1500.
+Torsten Schmidt 
+Which is about the money of a car at the time, right?
+Dave Smith 
+Yes.
+Torsten Schmidt 
+A pretty good car, actually.
+Dave Smith 
+Not a good car but a car. [laughter]
+Torsten Schmidt 
+So pretty good, not bad.
+Dave Smith 
+You could buy a new car for that amount.
+Torsten Schmidt 
+Where did you get that from? You were out of university by that time, right?
+Dave Smith 
+Yes, I was working in the aerospace industry. This was a time when nobody
+wanted to hire engineers. I was in what was to become Silicon Valley, but it
+was not quite Silicon Valley yet, so it was very early on in the technical
+revolution, I suppose you might say. So I worked at Lockheed doing stupid
+work, because that was the only place I could get a job, and a friend told me
+he saw this synthesizer thing in a music store, and I said, “Oh, that sounds
+interesting.” So I went to look at it, and it was a Minimoog, and I had no
+idea what it did or how it worked. It just looked cool, and it was as kind of
+a perfect combination of my music background and technical background. So the
+next day I went to the Lockheed Credit Union and got a loan and went back and
+bought it, and here I am.
+[applause]
+Torsten Schmidt 
+So yeah, I guess that’s another thing we might need to thank the military
+industrial complex for then.
+Dave Smith 
+Very indirectly.
+Torsten Schmidt 
+But I mean, the machinery kind of looked similar to what you would’ve found in
+an actual Lockheed product, right?
+Dave Smith 
+Maybe. I suppose, if you get back to basics you can make that parallel.
+Torsten Schmidt 
+So you bought that Minimoog, and then you probably had a very similar experience to what Mr. Tomita earlier on described, even him dealing with the modulars that were still a little bit more painful, but anyone every bought something from that era in this room? Anyone ever tried something from that
+era in this room? So I guess the first moment is kind of similar to everyone
+going like, “Yeah, but how do I actually make it sound good?” How did you
+master that?
+Dave Smith 
+Well, it was trial and error. You couldn’t just hop on the Internet and find
+out how something works, so you had to play around with it. I doubt there were
+any books. I don’t think there was even a manual that came with the Minimoog.
+It was just kind of there, and you slowly figure out how it works. Some people
+never figure it out, and they just... There’s a famous story I heard way back
+when about an English friend of mine who went into Pink Floyd’s studio, and he
+saw all these Minimoog’s that were covered in duct tape. So he asked them,
+“Why are all these instruments covered with tape?” And apparently, when
+somebody would find a sound that they liked, they’d have the roadie come out
+and tape all the knobs where they were so that they’d always have that sound.
+That’s early programmability, I guess.
+Torsten Schmidt 
+How would you then take that to the live environment? Does that mean if the
+band decides to play an encore, you’d need a roadie to wheel in the next one?
+Dave Smith 
+I doubt they did that live, but yeah, to use Minimoog live, you pretty much
+had to know what you were doing unless you just used the same sound and turned
+the cutoff up and down.
+Torsten Schmidt 
+How much of what you saw on that machine did actually relate to stuff that you
+were learning at school? Did you know already about waveforms and stuff?
+Dave Smith 
+Virtually nothing. I was taking a lot of computer classes, and I took some
+basic electronics classes that had absolutely nothing to do with any of this,
+so I had to learn about oscillators and filters and so forth.
+Torsten Schmidt 
+Was it a deliberate decision to start when you built your first own unit to go
+with the sequencer?
+Dave Smith 
+That was, again, mostly something I just wanted to play with. I had read
+books. I don’t even know how I found out about it, but Moog made these big
+sequencers. As everybody know what an analog sequencer is like, I assume, just
+rows of knobs, and you just send control voltages out to a synthesizer to
+control pitch or filters or whatever.
+Torsten Schmidt 
+That’s probably the first hurdle where you lose a lot of people. What are those control voltages?
+Dave Smith 
+Well, it depends how far back do we want to go here. How many synth experts do
+we have here? Ooh, OK, we have to work on this. How many people kind of know
+their way around a synth? OK, that’s better. Well, I don’t want to get too far
+into just mumbo-jumbo.
+Torsten Schmidt 
+Mumbo-jumbo is actually kind of good because there’s a good chance that a lot
+of people have been sleeping through their physics classes. And at one stage,
+you start to figure out like, “Oh, hang on. Some of that actually does help.”
+If you could give us the Cliff Notes version of that. I think for a lot of
+people, it might be really helpful.
+Dave Smith 
+Actually, this is kind of relevant now. I like to say that basic subtracted
+synthesis, which is what analog synthesizers are, have pretty much passed the
+test of time now. They’ve been around for a good 50 years. They’re still used
+every day. They’re used in analog form. They’re used in digital form, Access
+Virus, the Nord stuff, software synthesis. Most of them just implement
+subtracted synthesis, and since there’s been a revival of analog lately, the
+real thing is back. But basically you start with oscillators that are
+harmonically rich, and you have different shapes for different tone colors.
+Then you pass it through a filter, and everybody knows what a filter does. It
+takes stuff out. That’s pretty much the basic concept. You start out with a
+lot of sound and you filter it down to what you want, and you use envelopes,
+which basically just control the shape of it to change the sound. 
+For whatever reason, it happened to be a synthesis method that’s really easy to understand and to relate with. I mean, I’m sure most of you know what happens when you
+turn a cutoff knob in the filter. It’s a sound that everybody’s heard,
+everybody can relate to, and on any synthesizer, you know what that knob’s
+going to do. It’s really kind of a classic sound now, and I think it’s going
+to be around for a long time because of that. You compare it to FM synthesis
+where nobody can figure out how to program it. I wouldn’t have a clue. There’s
+just something about subtracted synthesis that’s very accessible.
+Torsten Schmidt 
+Is there something like the perfect patch kind of thing that you could
+probably... We have this nifty setup where we could use one of your machines
+that we will get to in a little bit to probably demonstrate what you’re
+talking about it.
+Dave Smith 
+Sure. The nice thing about the
+Prophet-5 is that it’s very simple,
+where every control is on the front panels, not like most instruments now
+where you have to go through different pages and there’s too many features and
+so forth to get through. I could actually make the whole front panel life, and
+let’s just go with a real simple sound. [musical tones] OK, that’s about a
+simple as it gets, just a single sawtooth. [musical tones]
+Torsten Schmidt 
+Yeah. Sorry, because I saw something earlier with the camera, so I was under
+the impression that we can have that signal on there. My bad. [musical
+tones]
+Dave Smith 
+You want to hold the note?
+Torsten Schmidt 
+I am.
+Dave Smith 
+No, hold the note, then I can… So now it goes to the cutoff. [musical tones]
+Everybody knows what that sounds like. It usually has a little bit of resonance on it, so it’s... [musical tones] That’s the most basic sound you can have on an analog synth. Of course, you could add a second oscillator. [musical tones] Beef it up a little, and from there on, it’s mostly a matter of how you modulate things, how you change the sound in real time. You can add
+an LFO to a change.
+Torsten Schmidt 
+What is the LFO thing?
+Dave Smith 
+OK, the LFO thing. We’re really getting down to our basic class here. OK,
+you’re going to learn 10 years worth of synthesis class in five minutes. 
+[laughter]
+Most main oscillators, the sawtooth that we’re listening to is at audio
+frequencies, so you hear it as a pitch. If you have a really low frequency
+oscillator, you don’t hear it as a pitch because it might be changing once or
+twice a second, but it’s the same basic shape, so if I have a low-frequency
+oscillator... [musical tones] You can hear a change in the frequency. It’s
+modulating the pitch of the main oscillator. This is hard to do without a
+blackboard and describing what’s going on otherwise. But this is using a low-
+frequency oscillator to change the frequency of the main audio oscillator.
+Torsten Schmidt 
+Can we try hand-waves instead of a blackboard?
+Dave Smith 
+Hand waves? So that’s what a low-frequency oscillator is used for. You usually
+use it for vibrato. Most modulation wheels are hooked up that way in most
+synths, and it’s the easy way to get some sort of articulation and sound
+control while you’re playing live.
+Torsten Schmidt 
+How much of that, when you first started thinking about these processes, were
+you just following what other people did? Were you thinking, “Oh, you know
+what? Today I’m going to introduce this waveform in here because I like it?”
+Was there a certain set that you felt got, “Oh, my machine needs to have this?”
+Dave Smith 
+Are we talking specifically on the design of this product? It’s a little of
+both. If you’re familiar with a Minimoog, and you look at the front panel of
+the Prophet-5, you can see a lot of similarities, and that’s because I kind of
+got started on a Minimoog. Back then, the Minimoog and the ARP Odyssey were the two big instruments of the day, and since I got a Minimoog, this looks more like a
+Minimoog, whereas if I’d gotten an ARP Odyssey, maybe it would have looked
+more like an ARP Odyssey. Some of the basics, you always a sawtooth wave. You
+always have a pulse wave. You often have a triangle wave. You always have a low-pass filter. Some of these things are just givens. Beyond that, there’s a lot of things that are different in the Prophet-5 because it’s the first polyphonic synthesizer.
+Torsten Schmidt 
+What is this monophonic/polyphonic thing?
+Dave Smith 
+Buzz words. The funny thing was, when the Minimoog first came out, since it
+had a keyboard on it, a lot of people would go up to it, and the first thing
+they’d do is play a chord, and only one note would play, and they’d go,
+“What’s going on? Is this broken?” Because the concept of the only thing people would see keyboards on would be pianos and organs, and so you could play a chord. The argument was it’s like going up and saying, “Well, I’ve got a trumpet, and I can only play one note on it,” but with wheels and the
+different controls you have on a Minimoog, you can actually articulate so much
+more on a single note because it’s monophonic. Monophonic just means one note.
+You can only place one note at a time, so there were a lot of benefits, and
+that’s why the original use of a Minimoog was usually to play lead lines,
+soloing, or bass lines often too, but a lot of people did want to be able to play more than one note at a time, so if you can play a bunch of notes, then it’s called polyphonic, so more voices, multiple voices. The Prophet-5 was actually the first polyphonic, programmable synthesizer to come out.
+Torsten Schmidt 
+The late Dr. Bob Moog that you recorded earlier as some sort of role model, as at least for the product, he said that, “If God would have wanted us to have more than one
+voice, he would have given us that. So if you want to hear more than one, you
+need to form a choir.” I mean, it’s good for business, you need to sell more synths that way, but if you are into playing a chord now and then, yes, it might help if you [have a polyphonic synth].
+Dave Smith 
+Definitely, and that’s what everybody really always wanted. Even now, there
+are a lot of monophonic synths out again, and you know, there’s a lot you can
+do with it, and they’re fun to play with, but 90% of the actual playing is on
+polyphonic units.
+Torsten Schmidt 
+Even though, at the same time, there were a lot of people that were trying to
+push the boundaries further and said like, “Well, now the keyboard is limiting
+us, actually, and why do we create this new instrument and then start thinking
+in these old terms again?” Some of them were pretty close to you, right?
+Dave Smith 
+Well, that’s always been an argument. In fact, if you look back in synthesizer
+history, the original synthesizers were actually invented by two people at the
+same time, Bob Moog on the East Coast and Don Buchla on the West Coast, and he was actually in Berkeley. The main reason that Bob Moog is more well-known is because he put a keyboard on his synthesizers, and Don Buchla didn’t. He had more different types of controllers, just for that reason
+because he didn’t want to limit it to what he called black-and-whites where
+everything is on-off, on-off, play this note, and it has to be this note. It
+can’t be in between. But Don Buchla also was the first, he invented the sequencer. He invented a lot of things on synthesizers, and I think Bob Moog even said once that Don may have built a modular synth before he did. Most people just don’t realize that.
+Torsten Schmidt 
+I mean, Moog was a really marketable name as well.
+Dave Smith 
+Well, it’s a flashy name but when the Minimoog came out, that was kind of it.
+It had a keyboard, it was portable. It was a reasonable cost and fairly available. I mean, they weren’t everywhere. People think there are millions of Minimoogs, but I think there are only like 12,000 or 13,000 built, which is, in the world of musical instruments, not a huge number.
+Torsten Schmidt 
+That’s still a lot more than the Moog Modulars.
+Dave Smith 
+Right, definitely.
+Torsten Schmidt 
+Or like a Buchla system.
+Dave Smith 
+Yeah, definitely.
+Torsten Schmidt 
+Do you get any educated guess of how many of those units were sold?
+Dave Smith 
+I have no idea.
+Torsten Schmidt 
+I mean, definitely less than four digits, I guess.
+Dave Smith 
+Yeah, I would think.
+Torsten Schmidt 
+When did you actually hear about those people, that it’s not just a machine
+but that it’s actual people behind them building them?
+Dave Smith 
+Well, you would hear about them, but I probably didn’t meet Bob until the late
+‘70s and probably a little later, I met Don Buchla. Alan Pearlman, another
+person, he founded ARP. Alan R. Pearlman was his name, so that’s where ARP
+came from. They were all the guys running the company, and of course, Tom
+Oberheim and Roger Linn and the rest of the gang.
+Torsten Schmidt 
+Did you consider them in any shape or form as competitors?
+Dave Smith 
+In all shapes and forms. [laughs]
+Torsten Schmidt 
+Did you have boxing bouts? “My filter’s better than [yours].”
+Dave Smith 
+Actually, we were all friends, and we’d always get together at trade shows.
+There was no animosity, and we were all in the same place, having fun, doing
+what we were doing. Back then, it was, of course, easier to innovate because
+none of this had been done before, so every year, it would be fun to see what
+people would come up with. It was all new, so everybody knew everybody, and we
+all got along.
+Torsten Schmidt 
+Trade shows were mildly different then. I mean, NAMM was at the basement of a
+hotel, right?
+Dave Smith 
+When we showed the Prophet-5 in 1978 at the January NAMM show, how many here
+have been to a NAMM show? How many people know what a NAMM show is? OK. It’s
+just the biggest trade show for musical instruments in the world. This is
+actually a funny story. When we first showed it, it was in the basement of the
+Disneyland hotel. That’s how big the January NAMM show was. Back then, they
+had a summer NAMM show in Chicago that was huge, and that’s because the
+instrument market was pianos and organs and brass instruments and band
+instruments. Most of those companies were based in the Midwest, so that was a
+huge show, and then they just kind of started this tiny off-shoot in Los
+Angeles, in Anaheim. But then, over the next few years as technology took
+over, it became more of a West Coast industry, and the January show just got
+bigger and bigger and bigger, and eventually, the summer show went away. It
+disappeared for a few years, and they recently brought it back and have a
+small show in Nashville in the summer, and it’s more of a guitar-oriented
+show, which makes sense, but it’s been real interesting to see how the whole
+music industry kind of moved West as the technology took over.
+Torsten Schmidt 
+I was curious about that. You said earlier you were in The Valley when there
+was not that much silicon around, and did you profit in any way from those
+companies clustering up up there?
+Dave Smith 
+Well, sure, yeah. Everything was there. Intel was there. All the high-tech
+companies were very close by, so that was definitely a help.
+Torsten Schmidt 
+When you went out and said, “OK, I really love this machine. I want to do my
+own,” I guess you would obviously not go on the Internet and go like, “Oh, I
+want to have Curtis chips,” or, “I want to have this thing.” It’s like how do
+you actually go about that? You certainly didn’t get the silicon yourself and
+mold it and etch it.
+Dave Smith 
+There were two parts that led to the development of the Prophet-5. One was I
+already had a background in microprocessors, so I knew how they worked. In my
+day job, I was using microprocessors, so it was a real obvious thing to me to
+use a microprocessor to make a programmable polyphonic synth. The other thing
+is, we knew the people from E-mu Systems, who probably most of you know, and
+they were just across town. I had heard that they were involved with developing a new chip set where they had an oscillator integrated circuit, they had a filter circuit, and they had an envelope and a VCA. I said, “Oh, well, it’s obvious. You can take those parts, put them together with the
+microprocessor, and build a polyphonic, programmable synth.” So knowing about
+those two things were what led to this. 
+At first, I didn’t even start
+designing this because I figured it was such an obvious idea that Moog and ARP
+would already be doing it. After waiting a few months, I figured, “Well, maybe
+they’re not doing it,” because I hadn’t heard anything, so then I decided to
+just sort of jump in and do it.
+Torsten Schmidt 
+Which is a pretty crucial step, and I guess that kind of goes in the same way
+for people who are trying to decide whether they want to pursue a career in
+music or starting your own business. It’s like, “Wow, do I really put my all
+behind this?”
+Dave Smith 
+You’ve got to take risks at some point. I mean, again, I started Sequential Circuits as something I did at night on weekends. I had a regular day job
+working as an engineer, and I just waited to a point where I kind of hit my
+critical mass, and that’s when I just kind of jumped in, quit the job, and
+said, “Here we go.”
+Torsten Schmidt 
+How big did that company actually grow to?
+Dave Smith 
+Sequential Circuits? At its peak, we had 180 people maybe, something like that.
+Torsten Schmidt 
+Which is a lot, and also a lot to administer.
+Dave Smith 
+Yeah, it was a headache.
+Torsten Schmidt 
+So did you actually get people to help you with that side, or were you just like, “I’ll have someone else do all this stuff”?
+Dave Smith 
+It was a little of all. It was hard. I didn’t know what I was doing. I was
+just a kid and just kind of worked my way into this thing, and it got kind of
+out of control. We had a great time most of the time doing what we were doing,
+but it was also very difficult, and the competition kept getting ratcheted up
+every year. Fortunately, we had a couple years when this first came out before
+we had much competition, but then after that, once the ‘80s started, it just
+got more and more crowded.
+Torsten Schmidt 
+Before it all got crowded, if you look back at it now, I guess you’re kind of
+doing with the new company you’re doing, but what would you have done
+differently then at that age as well?
+Dave Smith 
+Circumstances are so different now that it’s really kind of an unfair comparison. This company now, Dave Smith Instruments, is just completely different. We’re a tiny company, there’s only 10 of us. I think design tools
+are so much more efficient now. You can just do so much more. There’s really
+only myself and one other software guy and one other hardware guy, and the
+three of us pretty much design all of our products, and we can do it faster
+and quicker than big companies because we are small. We don’t have a marketing
+department. We don’t have a sales department. We don’t have people telling us
+what to do. We just do whatever we want to do, which makes us much more efficient. But we couldn’t have done it that way back then.
+Torsten Schmidt 
+Obviously, because now you can easily source out, let’s say, the motherboards
+or etching and customizing chips and all that kind of stuff.
+Dave Smith 
+One of the main reasons we had so many people back then is because we built
+the units ourselves in Silicon Valley, so we had to have a real factory. This
+time around, we contract out the manufacturing, though they’re just built
+across town. All of our instruments are still built in San Francisco, and we
+just export from there, so we have the advantages of having local production
+and not built in China and all that, but we don’t have the headaches of a
+factory. Big difference.
+Torsten Schmidt 
+Speaking of factories and the market getting crowded at some stage, and Japan
+entered that game as well, can you remember your first visit here?
+Dave Smith 
+I don’t remember my first visit. I’ve been here probably 25 times, mostly over
+those years back then. This is my first visit in 20 years for whatever reason.
+I’m not sure why there was a big gap, so it’s been kind of fun to come back
+and see all the changes and all that. I don’t remember which trip was my very
+first one. It was probably around 1979, maybe.
+Torsten Schmidt 
+What was your reason for going then?
+Dave Smith 
+Visit a Japanese distributor.
+Torsten Schmidt 
+When did you learn about all these other companies, like Roland and so on?
+Dave Smith 
+We already knew about them. I mean, obviously, everybody was selling
+instruments, and you go to the trade show, and you meet people from the other
+companies that you already know what’s going on. Yamaha, Roland, Korg were all
+selling things in the ‘70s.
+Torsten Schmidt 
+The companies were, I guess, fundamentally different, whereas if you look at the lineage of where Yamaha came from as a company compared to Roland, for example, could you explain that a little bit?
+Dave Smith 
+Well, yeah, there’s a big difference. Yamaha is a 100-year-old company,
+whatever, so they’ve been through everything. They’ve built pianos. They’ve
+built motorcycles. They’ve built sailboats and bathrooms. They do all kinds of
+stuff, so it’s the classic big company. When they did the DX7, they thought they’d sell
+maybe 10,000 of them, and they sold 250,000. They never quite understood what
+direction they were going and what they wanted to do. 
+Roland was completely different. Roland was found by [Ikutaro] Kakehashi-san, and he was an engineer, and he is a very sharp guy, and the first X amount of years of Roland was completely driven by him. So it was more of a product-driven company with kind of a
+central person with the vision. That’s the difference. You don’t get that in a
+huge company because it’s all top down. There’s a big difference just between
+those two companies.
+Torsten Schmidt 
+What’s kind of fascinating and probably motivating as well, when you look at a
+lot of those histories is that a lot of you guys had more than one company in
+your lifetime. In the same way as if you read, let’s say, a Quincy Jones
+biography, who went bankrupt, like what, three times? I mean, look at him now.
+Maybe that’s a rather German way of approaching it, but Germany, if you ever
+failed, then you might as well commit suicide. It’s done. It’s over. And you
+guys just go, “Oh, OK, let’s start another one.”
+Dave Smith 
+Glad I’m not German.
+Torsten Schmidt 
+That’s why you changed the name, I guess, or someone in that lineage. No, but I mean, Kakehashi-san had a different company beforehand as well, right?
+Dave Smith 
+Well, he was Hammond, Japan, and Ace Tone, and I don’t know the structure of
+the exact companies.
+Torsten Schmidt 
+But you guys are kind of good, right?
+Dave Smith 
+Yeah, I just saw him last week. I just visited him in Hamamatsu.
+Torsten Schmidt 
+And he’s still up to some tricks, we hear.
+Dave Smith 
+Yeah, he’s not with Roland. He’s kind of split with them, and he’s starting
+another company.
+Torsten Schmidt 
+At age what?
+Dave Smith 
+I don’t know his exact age. He’s got to be at least 80, I would think.
+Torsten Schmidt 
+So there’s a bit of entrepreneurial and research spirit.
+Dave Smith 
+Yes.
+Torsten Schmidt 
+What were you talking about? Circuitry?
+Dave Smith 
+A little bit of everything. I hadn’t actually met with them. As you probably
+know, we got the Grammys together, but he wasn’t able to come over to LA for
+the ceremony, so we didn’t get a chance to meet them, so that was actually one
+of the reasons I came over was to stop by and visit with him. So it’s kind of
+fun. Just kind of catching up on things.
+Torsten Schmidt 
+I mean, you guys worked together on something that’s also known as MIDI-eval
+in the very early ‘80s. What was that all about?
+Dave Smith 
+How long of a story do you want to hear?
+Torsten Schmidt 
+I guess folks just settled in, so do it.
+Dave Smith 
+Nighttime stories. It started in 1981, I guess. What happened was the
+Prophet-5 is the first musical instrument with a microprocessor in it. And
+then soon other companies started making instruments with microprocessors, and
+once you have a microprocessor in an instrument, you realize how easy it is to
+communicate digitally to another instrument with a microprocessor. So we had
+accessories. We had a polyphonic sequencer. We had a remote keyboard, a number
+of things that had a special interface that we had developed just for that
+purpose. It was actually a serial interface that was ten times faster than
+MIDI. Roland had something called the DCB bus. Oberheim had another bus.
+Yamaha, everybody had something different, so of course, products from
+different companies would not connect to each other. Some of us sort of
+figured out that that’s kind of dumb, and if the industry was going to go
+someplace, we should fix that, because at that point, the industry was still
+pretty small for synthesizers. I decided to get somewhat aggressive about it,
+and I delivered a paper at the AES convention in New York in October 1981.
+Torsten Schmidt 
+What’s AES?
+Dave Smith 
+Audio Engineering Society. It’s a technical organization for audio engineers.
+I presented a paper, and it was for something I called USI, universal
+synthesizer interface. It was basically kind of a call to arms. I said, “We
+need to do an interface. It could be this.” We actually fully defined an
+interface and said, “This is a starting point. It doesn’t have to be this, but
+we should do something.” I followed that up with a meeting in January in
+Anaheim at the NAMM show, and I invited anybody who made keyboards of any kind
+to come to this meeting. I think they all did, so it was very well-attended.
+It was the same thing. I said, “Here’s this USI thing. It’s not perfect. It
+doesn’t have to be this, but who wants to get involved?” It became clear
+really quickly that most people didn’t. Some people wanted high speed parallel
+buses. Some people just wanted to wait and see. Other people, it was a “Not
+Invented Here”-syndrome, where “if it’s not my idea, I don’t want to do it.”
+Torsten Schmidt 
+“Not Invented Here”-syndrome?
+Dave Smith 
+NIH. That’s a standard engineering term. NIH means it’s a bad idea because
+it’s not my idea, it’s somebody else’s.
+[laughter]
+So if it’s not invented here, [forget it]. I was a little discouraged after the meeting, but what happened is the Roland people approached me the next day and said, “Well, some of us still want to do it.” We went to their booth and met with Roland, Korg, Yamaha, and Kawai, who were all willing to get together and do something, so we said, “OK, let’s start working on it.” Which we did.
+Torsten Schmidt 
+That’s kind of crazy. It’s like all Japanese companies and you.
+Dave Smith 
+Yeah, it was interesting at times, but yeah, that’s basically how it started.
+We started working on it throughout 1982, and I remember a meeting as it was
+getting close to being done towards the end of the year. Might have been
+around October or so, and Kakehashi came to visit us at Sequential, and so we
+were kind of finalizing things and going over the spec. They had suggested
+changing the name, instead of USI to Universal Musical Instrument Interface
+because it shouldn’t just be for synthesizers, which made sense. And then they thought it was kind of cool because you pronounced it UMII, which means “you
+and me, our synthesizers connect,” and that sort of thing. We thought about it
+a little bit, and I didn’t quite like that idea, so in the same meeting, I
+just kind of threw out, “Well, how about Musical Instrument Digital Interface?” Everybody goes, “OK.” That was it. That’s where the name came from.
+Torsten Schmidt 
+Where did the military come in with the General MIDI?
+Dave Smith 
+That was much later. That had nothing to do with… Leave me out of that one.
+Torsten Schmidt 
+Leave me out of that one is something that a lot of people actually experience
+once they try to use MIDI to make one machine talk to the other, and God
+forbid there’s a third one entering. Is there a layman’s term way of
+explaining of how to solve your MIDI problems really quickly?
+Dave Smith 
+Well, it depends what they are. The basic idea of MIDI and basic interface is
+very simple. If you can plug an out to an in and you can play notes, it’ll
+work. Usually, MIDI problems come from trying to map controllers or
+synchronize clocks or that sort of thing, and then it’s usually something as
+simple as making sure your settings are right so you’re using the right clock
+and that sort of thing. But MIDI problems can mean a lot of different things
+to different people. 
+In general, MIDI survived for 30 years in version 1.0 because it’s cheap to implement, it’s fairly easy to implement for developers, which is important. It’s fairly simple, but it still covers about 95% of what people need to do. If other people had their way, and some of these people who
+were talking about MIDI 2.0 and so forth, it could be significantly more
+complicated to use, because they want it to do everything, which would be
+nice, but unnecessary for what most people want to do. Actually, it’s a fairly
+simple system to use, so you can imagine what it would be if it was hard.
+Torsten Schmidt 
+I guess so, but is there any sort of technique that helps you to determine
+where the actual problem lies or how to find them quicker? Is there a standard
+procedure how to check things? The standard thing is A is not talking to B or
+talking too much, so you keep hearing something without doing anything.
+Dave Smith 
+Well, the basics as with anything audio is to make sure the cable is plugged
+in the right place. That works for audio as much as it does for MIDI, and
+we’ve all done that. “Everything’s set up. It doesn’t work. Oh, it’s not
+plugged in.” I’ve been in big universities where they’ve got everything set
+up, and it won’t work for the lack of one MIDI cable that’s not plugged in or
+one audio cable that’s not plugged in. So that’s the starting point, I
+suppose, is to make sure it’s actually... and going from out to in instead of
+the other way around. I mean, we can talk about this forever, too.
+Torsten Schmidt 
+I mean, it can still go on forever, even if you’re extremely accomplished. I remember a situation where you, Mr. Linn, Mr. Oberheim, and two rather seasoned producers were standing around, I think, a Tempest and another module, and for an hour, we did not have any sound.
+Dave Smith 
+Where was that?
+Torsten Schmidt 
+In Palm Springs.
+Dave Smith 
+Palm Springs?
+Torsten Schmidt 
+Yeah. That took a while, and I think that was the best relief to everyone in
+the room, because it was like, “OK, if these guys can’t figure it out in time,
+then I’m going to just chill.”
+[laughter]
+Dave Smith 
+It was probably a missing cable.
+Torsten Schmidt 
+There is a good chance there was that, yeah. You can use MIDI for a number of
+reasons as well. Was that actually intended in the first place?
+[laughter]
+Dave Smith 
+Most of it. The clocks were in there. The original spec had pictures of
+computers controlling things, so we, even though computers were pretty basic
+back then, we knew that was the future. Yeah, most of it, it’s kind of doing
+the same thing it used to then. The biggest problem that people always
+complained about is that MIDI is too slow, and initially, the problem wasn’t
+that MIDI was slow, it was that the instruments were too slow. All of us were
+guilty of this. We put microprocessors in an instrument, and then we asked the
+microprocessor to do way too much stuff, because we were trying to keep our
+costs down and use a cheaper microprocessor because back then they were very
+expensive. Then the microprocessor is too busy, so when a MIDI note comes it,
+and says, “Well…” and takes it a long time to actually play it. It wasn’t the
+problem that it was slow over MIDI. The problem was the microprocessor
+couldn’t do it quickly, play the note quickly enough. Nowadays, the speed
+isn’t an issue because it’s almost always over USB, so there’s no transmission
+speed problem.
+Torsten Schmidt 
+One of the interesting things about it, if you want to look at it philosophically in a musical kind of sense, is that you were actually able to disconnect various sound sources from the actual playing device, and that, I guess, opened the realm of possibilities. Was that intended, and to which degree?
+Dave Smith 
+I don’t remember on that one, because there’s something call local control
+that does that where it turns off the surface for the instrument and only
+works over MIDI, and I don’t remember that. It might have been in the first spec. I don’t remember. That’s 30 years ago, man, come on.
+[laughter]
+Torsten Schmidt 
+It’s like, yeah, sometimes it’s hard enough to remember what was going on last
+night.
+Dave Smith 
+Yeah.
+Torsten Schmidt 
+When did you start thinking about, “Oh, hang on, this actually allows me to
+separate the unit and probably just sell parts of it as a rack-mount version
+without the keyboard costs and stuff? Because I guess the keyboard as a
+controller is relatively complicated to develop, depending on which amount of
+expression you want to give it. Like how a pianist would be extremely manifest
+about having hammer mechanics and whatever, and if you want to have stuff like
+that and after-touch instead of a simple on-off kind of thing. I was wondering, did you start factoring that in?
+Dave Smith 
+Yeah, as far as the module versus the keyboard, I think that came later. Back
+in the ‘80s, people still liked having stacks of keyboards onstage, even if
+they were connected by MIDI. It just looked good, or they thought it looked
+good to have them all piled up like that. I don’t remember, I don’t think we
+did any MIDI modules at Sequential. It wasn’t until later, so everything
+pretty much still had a keyboard on it. The mechanics of the keyboard can get
+more complicated mechanically. The electrical part’s usually pretty simple,
+but like a Prophet-5, there’s no velocity. There’s no after-touch. It’s as
+basic as it comes. But ever since then, obviously, we have all of that on just
+everything.
+Torsten Schmidt 
+When did you start introducing that into your product?
+Dave Smith 
+Actually, we had one instrument where we kind of went way overboard, and that
+was the Prophet-T8, which actually had wood keys that were this long, and it
+sensed that velocity from a flying hammer. So you’d hit the key, which would
+actually hit a hammer that would move, and then we had little optical sensors
+on it to sense the velocity, and then it actually had polyphonic after-touch, which was pretty rare. And it had 76 notes, 76 keys. So we kind of took that to the extreme, and people still like the Prophet-T8. A lot of people still think it’s the best keyboard they’ve ever felt. In fact, we started selling them to Synclavier after a while, because they wanted a good keyboard, and that was the only thing that they could find and it would feel good enough to
+put in their $200,000 keyboards. But it was also a pain in the ass, because these things were wood. It would take us six or seven hours on each unit to actually regulate the keyboard, almost like you have to regulate a piano keyboard, because it wasn’t just plastic and metal, it was wood.
+Torsten Schmidt 
+So when you realize something like that, and you’re running an actual company, like do you have sirens going off in the building, like, “Holy shit, we developed something that actually takes a lot more work than we can actually facilitate”?
+Dave Smith 
+You never like to find out things like that, but it’s just part of the gig. You just kind of deal with whatever comes up. You can’t always predict everything.
+Torsten Schmidt 
+What were your favorite products out of that era that you did within your own house?
+Dave Smith 
+Well, Prophet-5 is first one, so you always like your first child, but beyond
+that, it’s like picking your favorite child. You can’t do it. You can’t say,
+“This is the best one. This is the best one.” They’re musical instruments.
+They all have their own flavor. It’s like even now, we have the Prophet-08,
+but we also have Prophet-12, and they’re both polyphonic synthesizers, but
+they sound different, so some people like the sound of the Prophet-12 better.
+Some people like the sound of the Prophet-08 better. 
+It’s the same thing. Guitar players pick whether they want to play a Strat or a Les Paul or a Telecaster, whichever one feels right to them, and that’s what they go for. We try to make a keyboards that give kind of that same connection to the
+musician, the same personality and character, that’s kind of our goal.
+Torsten Schmidt 
+How much do you actually talk to musicians to figure out what they want?
+Dave Smith 
+We talk to musicians a lot, but usually after the fact. So when we come out
+with a product, we welcome feedback, but we do not go out and ask for feedback
+as we’re developing it because that would be distracting. I’ve been doing this
+for 35-40 years now, so I have a pretty good idea of what I want to do on a
+new instrument. That doesn’t mean they all come out perfect, but one of the
+reasons we can develop products as fast as we can is because we don’t ask for
+feedback. Another thing I’ve seen happen in some other companies is when you see a new product come out, you can tell it was designed by a committee, because it kind of loses focus, and it looks like, “Well, somebody wanted this idea and pushed hard and got that in, but somebody else wanted this idea,” but the two ideas don’t really mix correctly. And again, when you design a musical instrument, I think it has to have a pretty clear focus. It’s tricky.
+I mean, it’s not easy. The fewer people involved, the easier it is to do.
+Torsten Schmidt 
+Does that hold the same for who you’re aiming a product for? There’s obviously
+the classically-trained musician, the jazz musician, more on the virtuoso tip,
+and then there is like the Brian
+Eno’s of this world, and
+you do it probably as much against the manual as possible.
+Dave Smith 
+Yeah, some people swear they never read manuals, and some people say, “I erase
+every preset when I first get the instrument and start from scratch.” I mean,
+you get a little bit of everything, but yeah, that’s actually a good point. We
+don’t have anything in mind. We’re not saying, “OK, this machine has to do
+dubstep really good, or nobody’s going to buy it.” I mean, we just don’t
+target our instruments for a particular musical genre or style. We build what
+we think is going to be a good instrument, and then we can just kind of let
+the market decide. Sometimes, you come out with something, and it’s not
+fashionable at the time. Then, five years later, it becomes very fashionable,
+then ten years later it’s not, and then 30 years later, it is, and so you
+never know. 
+When we came out with the Prophet-VS, nobody wanted them initially, and then after we stopped building them, about a year later,
+everybody wanted then, and they’re still in high demand now. You know, the
+808, 303, that’s classic examples. When those came out, nobody wanted them,
+and they kind of were around for a while and then went away, and then of course, as we all know, people would kill to get one now, and it’s just they weren’t fashionable. At the time, most of us were building drum machines, once Roger Linn invented the digital drum machine, sample-based, that’s what everybody wanted. They sounded real. They had that great sound to it, so when
+the Roland products came out, everybody kind of laughed at them and said, “That doesn’t sound anything like these things. Why would anybody want those?” So nobody bought them. Then somebody realized later, “Oh wait, it’s got some personality to it, it’s different, and it does this kind of music really
+well.” You don’t always know.
+Torsten Schmidt 
+You said “fashionable,” and you turning out quite a lot of product around these
+days, and it’s almost like seasons, it feels like. Do you approach it like a
+fashion designer in a way? Like, “Oh, we need to have something ready for…”
+Dave Smith 
+This year’s model... Actually, not really. I don’t try to make huge jumps between instruments, so if you look at our line of synths, you can see a lot of common things that are used in all of them, but we try to innovate and do new things on each one, something that nobody else is doing. We don’t want to try to get caught in a rut of building the same thing over and over again
+because that’s kind of silly. We’re not trying to make a fashion statement.
+We’re trying to make something that we think sounds really good that we think
+people might like and just go for it.
+Torsten Schmidt 
+How do you decide on when there’s enough knobs on the box or not?
+Dave Smith 
+[laughs] That is the hardest part in designing, and it’s funny, because,
+you know, most of the people in my company are a lot younger, and they’ve been
+learning about all of this the last couple years, and the hardest thing to
+teach them is what to leave out. It’s not a perfect system, but if you come up
+with any feature idea and say, “Should this be in there?,” the answer’s always
+yes. Of course, it’s a great idea. It should be in there. If you put all of those in there, then you have a product that nobody can figure out and nobody can use. I’ve seen ads for soft synths where they said, “It’ll take you 50 years to learn everything in this product.” I’m going, “Why would I want to spend 50 years learning how to use this product? I want to use it now and keep
+it simple.” There is an art to deciding which features should be there to keep
+it powerful enough to do a lot of things but simple enough to wrap your head
+around it quickly.
+Torsten Schmidt 
+Still, on the monophonic one there, you get about three times the number of
+knobs than on your favorite one.
+Dave Smith 
+That’s 35 years later. These days, a lot of things you just kind of have to
+have, so there are some limitations there. But we still try to shoot for a
+knob-per-function interface so that any feature has a knob or a switch that
+you can grab, and you don’t have to be diving through menus. Menu-diving is
+nothing anybody wants to deal with when they’re trying to make music. That’s
+why I stopped doing software synthesizers. The whole thing just kind of seemed
+silly after a while.
+Torsten Schmidt 
+You were heavily involved in software synthesis for a long time, and probably
+people don’t know your pioneer status on that field enough because obviously,
+everyone always associates you with anything Prophet-related. Can you tell us
+a little bit about your ventures into solely software based?
+Dave Smith 
+I was president of a company called Seer Systems in the mid-’90s, and we kind
+of went through a three-step thing. First, we built probably the world’s first
+commercial software synthesizer under contract to Intel. And they didn’t do a
+whole lot with it, so we did a second generation that was more advanced once
+the Pentium’s came out and as computers got faster, and this one was actually
+pretty cool, mostly a General MIDI synth, but it had a little bit of extra
+bells and whistles. We licensed that to Creative Labs, and they sold a few
+million of them with some of their sound cards. Then, as computers got
+slightly faster, we developed something we called Reality, which is the first
+professional software synthesizer. This is about 1995, ‘96 maybe. It was
+pretty cool. It had subtracted synthesis. It had FM. It had sampling. It had
+physical modeling. It had all this stuff in one software package. And it was
+fairly interesting back then. I’ve learned over the years that sometimes it’s just as bad being too early into a market as it is to be too late to a market as a manufacturer, but we went to the first NAMM show with Reality, and people walked up and said, “What do you got here?” “We’ve got a software synthesizer.” “Oh.” So we’d play then a few notes and say, “This is a new
+product.” “Well, what is it?” “It’s a software synthesizer.” “Where is it?”
+“It’s software running in the computer.” “What do you mean?” The concept was
+just so completely foreign to people that, again, it took a couple of years
+after that. I think, probably when Native Instruments first came out with the
+Pro 5 that people finally started realizing what software synthesizers were.
+Torsten Schmidt 
+Did they ever offer you to be part of their game?
+Dave Smith 
+No, I got nothing out that. Stephan Schmitt did admit that he kind of got the idea when he saw what we were doing at Seer Systems, but that happens a lot.
+Torsten Schmidt 
+Do you think that’s kind of a cosmic balance of like you looked at what Moog
+was doing, trying to do the same. They looked at what you were doing, someone
+else does it, like it’s a give and take thing?
+Dave Smith 
+Well, if I had called this a Polymoog, maybe that would be the same, but to
+actually use the name and to have exactly the same knobs as a Minimoog, then
+maybe, but I think there’s a difference of building on something versus copying it.
+Torsten Schmidt 
+Were you ever considering legal action there?
+Dave Smith 
+Nah, I dislike dealing with legalities. I don’t get patents. In fact, my new
+company, I made a pledge to myself 12 years ago when I started to see how far I could get without using a lawyer, and I have yet to still use one. So, so
+far, so good.
+Torsten Schmidt 
+That is in the United States of America.
+Dave Smith 
+Believe it or not.
+Torsten Schmidt 
+That is pretty impressive. At the same time, though, I mean, all these guys, it wasn’t only them. It was people in other places, they definitely had the youth on their side because, I mean, all of us were like, “Holy fuck.” That’s like half a year of rent’s worth for a machine like that where the other thing is knowing someone and having a CD writer, I guess.
+Dave Smith 
+Yeah, I mean, there’s a lot of really good things about software synths. They’re cheap or free, like you said. They’re in the box. It’s really nice to have everything in your laptop. Most of them sound good. They don’t sound as good, but they sound good. You know, there’s no reason not to use them. 
+In my case, I just had an epiphany one day where I was realizing that for some
+reason I was never playing with our Reality product. I started asking myself,
+“Well, why am I not playing with that? I always play with my own instruments.”
+I realized it was because of, well, type, type, type, click, click, drag,
+drag, click, clack, play a few notes, click, click, drag. It just didn’t have
+the look and feel of a musical instrument. It seemed wrong, so I like to say I
+was the first person to make software synthesizers, and I was the first person
+to stop making software synthesizers and decided to go back to hardware. Now
+you see this happening elsewhere. You see software companies like Arturia
+making analog synthesizers. Well, why are they making software synthesizers
+if, like they’ve been telling us, their stuff sounds just like analog? Well,
+if it sounds just like analog, you don’t need to build one.
+Torsten Schmidt 
+I guess, also, it makes a lot of sense for pure capitalist reasons, because I
+mean, physical box you can still sell.
+Dave Smith 
+I’d like to say hardware’s the ultimate dongle.
+[laughter]
+Torsten Schmidt 
+I say play on, player. I’m really glad we got that picture, actually.
+Congratulations.
+[Dave Smith archive slideshow on video screen]
+Dave Smith 
+That must be like 1976, ‘77?
+Torsten Schmidt 
+Where were you?
+Dave Smith 
+That was in Sunnyvale. That was my first office. It was probably four meters
+by four meters.
+Torsten Schmidt 
+I love how there’s the Moog poster in the background. That’s like being a fan
+of a rock band.
+Dave Smith 
+I had to have something on the walls.
+Torsten Schmidt 
+Right. Let’s quickly switch through those. What are we looking at here? 
+Dave Smith 
+That’s in the early Prophet-5 days, so probably 1979 in a slightly bigger
+factory. I think by then, we probably had, I don’t know, two or three thousand
+square feet.
+Torsten Schmidt 
+That’s a little later.
+Dave Smith 
+That was last year. That’s just the current line-up. Go out and buy some, please.
+Torsten Schmidt 
+There’s a drum machine down there where a lot of people are asking, when is
+the update coming for the firmware, including that man just leaving there.
+Dave Smith 
+We’ve had a few over the years, but I think there’s another one coming up probably within a month.
+Torsten Schmidt 
+Are you still involved in writing actual code and stuff like that?
+Dave Smith 
+Not on that product. One of our other guys is doing that. I’m working on new products. We have something in the works, as we always do.
+Torsten Schmidt 
+All right. Secret? Anything you want to tell?
+Dave Smith 
+No. Sorry.
+Torsten Schmidt 
+Who are all those good-looking gentlemen?
+Dave Smith 
+That’s a good pictures. That’s 1995. That’s myself, Bob Moog, and Kakehashi
+and Tom Oberheim at a NAMM show in LA.
+Torsten Schmidt 
+What happened in LA that’s not staying in LA now that you’re going to tell us?
+Dave Smith 
+Actually, that was interesting. There was this guy, Rene, from Italy, and every year, he would come over to NAMM, and we would do something called Pasta by Rene where we would go to somebody’s house, and maybe 15-20 of us, and have dinner, and then we’d just all put together, make some food, sit down, eat and drink, and that was at one of those parties. You know, Roger [Linn] would
+usually be there, and just sometimes some artists would show up, and just kind
+of an informal thing.
+Torsten Schmidt 
+Let me guess who played the guitar.
+Dave Smith 
+No musical instruments. We’d just got done with NAMM. If anybody’s been, those
+of you... Well, the one guy who had been at NAMM, after about the first hour,
+your ears start to bleed, so when you leave NAMM for the evening, the last
+thing you want to do is hear music. It cures you temporarily, unfortunately.
+Torsten Schmidt 
+What’s your favorite Bob [Moog] story that you like to tell people after half
+a bottle of tequila?
+Dave Smith 
+I don’t know if I have a favorite story. I do know, and this is something I
+can kind of relate to, is if you asked him why a Minimoog sounds so good, he’d
+go, “I don’t know.” It’s funny how as designers for any of these instruments,
+you say, well, “We need some oscillators. We need some filters.” You kind of
+put the parts together, but you never really know how the package is going to
+sound when you’re completely done. I mean, you have some ideas, and you hope
+it’s going to sound good, but there’s always this last magic part when you put
+the whole thing together, and you can’t always explain why it sounds good.
+It’s hard. Why does a guitar string sound good? It’s an interesting way to
+look at the design of a musical instrument.
+Torsten Schmidt 
+As far as design goes, people like Roger or Kakehashi-san mainly came from
+rhythmical instruments. You came more from the sound/timbre kind of fabric.
+Do you find that that results in a different way of engineering a machine?
+Dave Smith 
+Well, it’s funny. A couple things. First of all, my first product was a sequencer, not a synthesizer, so I actually did start with a rhythmical instrument. Roger [Linn] is actually a guitar player, and he just kind of built a drum machine because of the stories about unreliable drummers. He had
+no idea, and he was very confused when people started actually recording with
+the thing, and all those records that came out in the ‘80s that were LinnDrum-
+based kind of took him by surprise. He did think people would actually use it
+that way. To take this mechanical sound and make it into music was not the
+intended purpose.
+Torsten Schmidt 
+I still love how he says “rap” or “hip-hop,” as if there was giant quotation marks around the words.
+Dave Smith 
+[laughs] Yeah, just think of him as the father of hip-hop through the MPCs
+is kind of hilarious, knowing Roger.
+Torsten Schmidt 
+Wow, there’s a lot of people in here now.
+Dave Smith 
+This is actually kind of a cool picture. It was taken at Stanford University, and it might be the best single photo with a lot of cool people on it. Starting from the left is John [Chowning] who basically invented FM
+[synthesis] at Stanford University, so he could be called the father of the
+DX7 and so forth.
+Torsten Schmidt 
+Did Yamaha buy him a house?
+Dave Smith 
+I think he was probably taken care of pretty well. Stanford University certainly made a lot of money on licensing the technology, even though if you ask John, he’ll say that Yamaha did all the hard work, and it wouldn’t become an instrument without all their hard work, and he just kind of came up with the idea, but that’s just him being modest.
+Torsten Schmidt 
+Did you ever ask him whether there was any chance of making it easier, because
+it takes about three people to program a DX7, right?
+Dave Smith 
+Well, he was kind of out of that loop. Again, Yamaha was the instrument
+designer, and like I mentioned earlier, Yamaha had no idea that it was going
+to take off. It was just the right combination of $2000, which was a lot
+cheaper than most instruments then. It had velocity on it, which was new.
+There were 16 voices, which is big because all the analog instruments were
+still six or eight voices, and most of all, it sounded like a Fender Rhodes,
+and that’s why people bought them because they weighed a whole lot less than a
+Fender Rhodes. Back then, people were still taking Rhodes with them on tours,
+and they weigh a couple hundred pounds. And it had MIDI on it. It was one of
+the earlier MIDI instruments.
+Torsten Schmidt 
+It was a lot lighter than the
+CS-80.
+Dave Smith 
+Yes, and a lot like the CS-80. Also there, well, you can see me. To the left
+of me is Roger Linn. To the right of me is Don Buchla, and then next two over
+from him is Tom Oberheim. The older gentlemen in the middle is actually Leon Theremin. Next to him is Max Matthews, who’s the father of computer music. He
+was doing computer music at Bell Labs in the ‘50s, so it’s just a great combination of very influential people in the world of synthesis.
+Torsten Schmidt 
+Who are those two?
+Dave Smith 
+That’s, I think, Paul Lasky, a composer. That’s David Wessel, he was at Earcam
+for a long time, and now he runs SymNet, which is the electronic music at UC
+Berkeley.
+Torsten Schmidt 
+Over here?
+Dave Smith 
+I don’t know who that is.
+Torsten Schmidt 
+Good suit, though.
+Dave Smith 
+Yeah, I don’t know who everybody is. I forget who those people are also.
+Torsten Schmidt 
+I think that’s what they tell you in middle school, like, “Write the names on the picture because in five years you won’t remember.” Oh, wow!
+Dave Smith 
+This is a picture from three or four days ago, actually, when I stopped to
+visit Kakehashi, and again, this is the first time we got together since our
+awards last year, so it was very fun to visit with him for the afternoon.
+Torsten Schmidt 
+And...
+Dave Smith 
+That’s what I called the Model 600. That was my first product ever, 1973 maybe, ‘74.
+Torsten Schmidt 
+A rhythmical instrument.
+Dave Smith 
+A rhythmical instrument, yeah, it kind of works like you imagine it might,
+looking at that and knowing how sequencers work. After I’d built it, I figured
+other people might want to buy them, so I started a company called Sequential
+Circuits, and I think I sold four.
+[laughter]
+So this was a booming business.
+Torsten Schmidt 
+We’re you thinking of throwing yourself off the bridge then?
+Dave Smith 
+Oh, I didn’t care. I was just amazed I could sell anything. So that’s the spec
+sheet for the Model 600. OK, this is the amazing first MIDI connection ever.
+It was at the 1983 NAMM show.
+Torsten Schmidt 
+It looks like a Jupiter.
+Dave Smith 
+I’m actually playing a Jupiter-6 at the time, and there’s a couple of Roland
+people there and somebody wearing a very cool satin Sequential Circuits jacket.
+Torsten Schmidt 
+Do you still have any of those lying around somewhere?
+Dave Smith 
+Yes, we do. Denise and I both have one at home, and some day, I’m actually going to wear it in public again.
+Torsten Schmidt 
+Do you do them in XL?
+Dave Smith 
+Well, when they see something like that, everybody says, “Oh, we got to remake
+those.” You never know. Some day we might start taking orders.
+Torsten Schmidt 
+You still hold the name rights?
+Dave Smith 
+Yes, actually. We just recently got them back.
+Torsten Schmidt 
+Were you ever tempted to do Sequential II?
+Dave Smith 
+We talk about it, and someday, maybe we’ll do something, but no particular
+plans. Here, let’s take a vote. Should I change the name of the company from
+Dave Smith Instruments to Sequential Circuits? Somebody say yeah just to...
+yeah, OK? Just for the jacket? Yeah, there’s... We should use them all. Yeah,
+OK.
+Audience Member
+[inaudible]
+Torsten Schmidt 
+Yeah, you could do that. That would be like...
+Dave Smith 
+We could do anything we want. That’s the best part.
+[laughter]
+Torsten Schmidt 
+Yeah, you just do like, you know…
+Dave Smith 
+We’ll start a side business.
+Torsten Schmidt 
+Like the prime, very limited line.
+Dave Smith 
+Exactly, yeah.
+Torsten Schmidt 
+What’s with all the prog rock typo, like the Prophet and the letterings that you used?
+Dave Smith 
+That was just something that we came up with 35 years ago. I don’t remember.
+Back then, to do something like that, does anybody know what Letraset is?
+That’s where you get sheets of letters in different fonts, and then you rub
+them onto paper. That’s how we used to things like that. That’s where the
+Prophet-5 and even the Sequential Circuits were both Letraset fonts that we... I
+think you can get the fonts now.
+Audience Member 
+[inaudible]
+Dave Smith 
+Is it? Could be. Could be.
+Torsten Schmidt 
+They’re around the corner as well.
+Dave Smith 
+Yeah.
+Torsten Schmidt 
+You could sell to Apple as well. It would work with them.
+Dave Smith 
+There’s the Prophet-600 and the Roland Jupiter-6. The Prophet-600 was actually
+the first MIDI instrument of any kind. We shipped that in December of 1982,
+and then a few months later, the Roland Jupiter-6 came out. What happened, we
+were at the NAMM show, and they were showing the Jupiter-6, and we were
+showing the Prophet-600, so at one point, this is all very informal, we
+decided to bring their product over to our booth, so we just kind of made room
+for it and stuck it in there, and we got a MIDI cable, connected it to, and it
+actually worked. People asked, well, “Did you have all the press there? Was
+there a big thing?” We said, “Well, no, we just kind of did it.” I mean, this
+whole thing was so informal. If we had done MIDI the usual way, getting a
+standard made takes years and years and years, and you have committees and
+documents and da-da-da. We bypassed all of that by just basically doing it and
+then throwing it out there. It was fitting that when we first connected the
+two instruments that there was pretty much virtually no fanfare involved at
+all.
+Torsten Schmidt 
+Can we see the fanfare moment again? Oh yeah, great. That’s the origin of
+MIDI-eval.
+Dave Smith 
+An early Prophet-5 ad.
+Torsten Schmidt 
+Where did the Sphinx come in?
+Dave Smith 
+I don’t know. That was out of the brains. We had this guy who did really cool
+airbrushes, John Maddis, who’s actually still around. I just ran into him a
+couple months ago in San Francisco. I don’t know where he came up with the
+idea. We probably said we wanted the legend in its own time, and that’s what
+he came up with.
+Torsten Schmidt 
+Where did you find the wood?
+Dave Smith 
+Where did you find the wood or why?
+Torsten Schmidt 
+Both.
+Dave Smith 
+I guess a lot of is still the Minimoog influence. The original Minimoogs were
+done in wood. The first 1000 Prophet’s were made from a wood called koa, and
+they were just this stunning, beautiful wood, but a limited supply, and so we
+had to stop using it after a while. I think these are made with walnut maybe?
+I forget what we switched to. It’s kind of the idea, analog synthesizer, more
+organic, just wood kind of warms it up. Back then, a lot of people, we’d hear
+of doctors and lawyers buying Prophet-5’s just to have in their living rooms, just as furniture.
+Torsten Schmidt 
+It makes for a great heater as well.
+Dave Smith 
+Yeah. And another early ad back in the days when we were just trying to explain to people what the programmable synthesizer could do for you, the fact that you could actually hit a button and completely change your sound, so you did really get a number of different instruments for one. 
+This was from today. We were wandering on the streets of Shibuya, walked into a music store, and they have a Prophet-5 in there that costs over $5000, so it’s more than $1000 more than what they cost when they were new. In the same store, they had a
+DX7, and it was about $200. Basically, there’s no market for vintage digital
+gear, and there’s a huge market for vintage analog. If you asked me 35 years
+ago if I think people were still using those, I would’ve laughed. I mean, the
+thought of designing something electronic that would be used for that long. I
+mean, think about it. Nobody has anything electronic that’s more than, what,
+two or three years old? You might have something, a toaster that might be a
+little older, but basically, you don’t have old electronics. Keeping old
+electronics running like this is a non-trivial thing. It’s just the whole
+concept of electronic instruments that old is, I think, very strange.
+Torsten Schmidt 
+It’s pretty resourceful though.
+Dave Smith 
+I mean, they sound good.
+[applause]
+Really? For the Pro-1? Wow! That was a cool one. This was kind of funny. I think I mentioned earlier, everybody else was starting to make polyphonic programmable synths, so after two or three years, we just decided to just, kind of for the hell of it, to build a non-programmable monophonic synth and kind of turn it all upside-down, and we tried to make it as inexpensive as we
+could, which is why it looks so funky with that weird plastic that we used. We
+probably tried a little too hard to make it cheap, but it sounds the way it
+sounds, and people like the way it sounds, and it’s another one of those, not
+completely accidental, but it’s just kind of cool how well it took off. And
+since it wasn’t expensive, tons of people bought them. I know they’re really
+big in the UK, in Europe in general, just because the cost made it available
+to people, and as we all know, a lot of cool music was made from them. 
+Here’s an example of the kind of thing that was way too early and didn’t catch on.
+This was in the early ‘80s, and it’s basically a programmable, modular effects
+device before anybody had programmable effects. The idea was you could buy a
+distortion unit, a mixer, a delay, a phase shifter, whatever, and you plug it
+into one of these racks, and it became programmable. You could set up all
+these different effects and turn all the knobs and make a sound out of it and
+press a button and remember the settings. For whatever reason, it was fairly
+expensive, but it never really caught on, so back then, when things wouldn’t
+catch on, we’d just stop doing it and moved on, and had we kept doing it, we
+probably would’ve been successful as they got cheaper and smaller but... oh
+well.
+Torsten Schmidt 
+You’re still smiling, so it’s not that bad.
+Dave Smith 
+That’s the monster Prophet-10. The
+story there is when I first did the Prophet-5, I actually had two versions,
+and you could buy either a Prophet-5 or a Prophet-10, and it was exactly the
+same case. The only difference is, the Prophet-10 had twice as much electronics inside so you could play twice as many voices, but it turned out not to be very reliable, or even less reliable would probably be a better way of putting it, and it just got too hot, and we just, after not selling too many of them, we just had to discontinue it. It always seemed like we had to come up with a proper Prophet-10, so we built this monstrosity with the two
+keyboards and a polyphonic sequencer in it. It’s a fun box but it’s huge.
+Torsten Schmidt 
+Yeah. It’s good fun, but you need to rearrange your living room after that.
+Dave Smith 
+Yeah, pretty much, and hire two strong guys to carry it. This is the Prophet-2000, the rack version. I guess we did have a rack version, there we go. This is a couple years later, so this is our first sampler. The difference with samplers back then, the way
+we did it, is the digital samples would actually play back through an analog
+filter, and it really gave it a different sound, because it kind of – I hate
+using all the usual words – but it kind of softens it up or makes it more rich
+or whatever you want to say, but definitely, using an analog filter on a digital sample really does affect the sound. The original drum machines were all that way, the LinnDrums, the drum tracks and so forth, and once they turned completely digital, then it was always a slightly different sound.
+Torsten Schmidt 
+Those buttons look oddly familiar.
+Dave Smith 
+Yeah, they were the same ones that’s here, but we also had a matrix for programming. Not necessarily the best interface, but this is kind of problem is the same thing that happened with the DX7 is: once you get to the point where you have too many parameters to control, then it gets really difficult
+to come up with a usable user interface. It’s certainly much more of a
+challenge.
+Torsten Schmidt 
+How do you navigate that now, because I mean, the modular version of that has
+about a tenth of the knobs?
+Dave Smith 
+Yeah, it would’ve been fun to have one to show because it’s actually very
+quick because there’s a main control. You just hit it if you want to program
+the oscillators. You hit the oscillator switch, and the displays on these are
+very clear and easy to read, and it’s very fast, so even though it’s
+technically a menu system, it’s really hit one button, hit another button, and
+turn a knob. Everything is very quickly accessible.
+Torsten Schmidt 
+With those displays, do you care in any sort of way what those displays are in
+10 to 15 years. Obviously, you can’t really foresee that, but I mean, with
+those, you know, OK, those are going to be standard issue, and even if they’re
+not working, you just use them to step through a very simple set of parameters. Whereas there, you really need that, like how do you fore-plan that when you design it?
+Dave Smith 
+Well, we do things like have it turn off when you’re not using it, and things
+like that, because an OLED display will eventually gradually get slightly
+dimmer. Well, here I’m talking about 40-year-old instruments, so I suppose we
+should’ve designed it to last 40 years, but they will probably have to be
+replaced in 25 years? I don’t know. I won’t be around so I won’t care.
+Somebody else can deal with it. 

@@ -1,0 +1,695 @@
+Nobody knows prolific and mercurial Atlanta rapper Young Thug quite like audio engineer Alex Tumay. The Queens native has been the only professional able to keep up with the talented rapper, harnessing his abilities on the Slime Season trilogy of mixtapes, I’m Up and JEFFERY. An unheralded yet essential presence on a number of pivotal Atlanta hip-hop albums, Tumay has also worked with Travis Scott on Rodeo and lent his ear to the track “Highlights” from Kanye West’s The Life of Pablo. In his lecture at the 2016 Red Bull Music Academy, Tumay discusses how he stumbled into engineering, working with one of the brightest and weirdest talents in rap, and how Atlanta’s new generation achieved a unique sound.
+Rollie Pemberton
+We're here at Red Bull Music Academy in Montréal. We are here to talk to a man who has mixed so many jams, so many tracks by Young Thug, T.I., Travis Scott. Here we have Alex Tumay.
+Alex Tumay
+How's it going y'all?
+Rollie Pemberton
+My first question is, who's on your hat?
+Alex Tumay
+It's a picture of Young Thug.
+Rollie Pemberton
+It's a goat, if you can't see it.
+Alex Tumay
+It's a goat.
+Rollie Pemberton
+You're mainly known for music in Atlanta, but you are originally from Queens?
+Alex Tumay
+Yeah, I was born in Queens. Grew up in Queens, in the Bronx, Jamaica, Queens. Grandma was in the Bronx. I grew up there. That's actually where I started listening to hip-hop, listen on the street. Lot of Dominican music also. It's a little different.
+Rollie Pemberton
+From what age did you live in New York?
+Alex Tumay
+Till I was 10 years old. Not the formative years. My formative years were in a really terrible place.
+Rollie Pemberton
+Called Florida.
+Alex Tumay
+Called Florida. Yeah, then I lived there till I was out of college. The first thing I did was go to Atlanta. Came home.
+Rollie Pemberton
+Right. When you were in Florida, were you hearing a lot of rap that was coming out of there at that time?
+Alex Tumay
+Like Daddy Yankee and Pitbull, and all that reggaeton? 
+Rollie Pemberton
+Okay. Okay. Okay. You said you were going to college there?
+Alex Tumay
+Yeah, I went to Full Sail in Orlando, and I went to Gainesville at [University of Florida].
+Rollie Pemberton
+You had a lot of different majors before you decided to make music.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+What were some of the majors that you were doing?
+Alex Tumay
+I think I had 9 or 10, maybe 11 majors. I didn't last that long in all of those. I did a year of each, because I'd be 40 right now if I did. I started in architecture. I went the first day, and I was like, "I can't do this. I gotta go." I went straight out. I walked in the class, sat down, they started talking, and I was like, I got up, went straight to my advisor. I was like, "Let me try English." I was like, "Nah, I can't read all this. It's too much reading. Too much work." So, left that. I did pharmacy, pre-pharm because my dad's a pharmacist. I was like, "He likes it. He's having fun. Nah, I can't do that." Chem 101, I was like, "I gotta go. It's too much." Did business classes. That didn't work out. I can't remember all of them, but that's the main ones where I spent the most time. Yeah.
+Rollie Pemberton
+That's kind of atypical because usually people, they have one thing and they go on it really hard from the beginning.
+Alex Tumay
+Nah, I had no idea. I didn't want to go to college at first. I wanted to take a year off and try to do a bunch of odd jobs and figure out what I wanted to do. I was like, “I'm 18. I've only spent 18 years here.” That's not that much time to figure out what I wanted to do.
+Rollie Pemberton
+When did you have the eureka moment like, "Oh, music. I want to do this."
+Alex Tumay
+I had flunked out of college three times. I moved back home. I think I was 20. I was working at a restaurant doing promotions. Promotions, I mean dropping off flyers at other restaurants and businesses.
+The kids that I was working with were in a band. We used to jam out after work. I went to his house, and he had a laptop rig with a couple of mics and one of the Fast Track M-Audios, or something like that. I just sat down, started messing with Logic, played a couple things.
+I was like, "Oh, this is a whole career. This whole thing." It just never really clicked for me that that could have been what I do because I didn't find myself to be a specially talented musician. I had played my whole life, but I never really wanted to be on stage or wanted to be in front of people, or wanted to be in a band. All I did was listen to music. Everything I ever did revolved around music. I just sat there. I was like, "All right. This could work. I could sit in a room. I don't have to be on stage." That's not really working out right now, but I don't have to be in front of people. I don't have to do anything. I could just make and help create something awesome through this.
+Rollie Pemberton
+And so you decided to go to school for music?
+Alex Tumay
+Yeah, I enrolled in Full Sail the next day.
+Rollie Pemberton
+Where is Full Sail for people who don't know? Where is that located?
+Alex Tumay
+It's in Orlando, Florida.
+Rollie Pemberton
+Okay. You're in music school in Orlando. What was that like?
+Alex Tumay
+It's a cultural haven. They have stuff like Disney World, and suburban sprawl and Olive Gardens. There's a lot of inspiration there.
+Rollie Pemberton
+What did going to music school teach you? What did you learn there that you didn't know before?
+Alex Tumay
+They taught me all the basics to how everything works: signal flow, all the technical aspects, but they never really taught, I don't think you can, teach how to mix. It was not part of it. They also didn't tell you that when you leave, you're going to be at the ground level. You're not going to come in and you're not going to be like star engineer day one. The day you walk into that studio, no one's going to be like, "Hey, come and sit in this chair. Record this dude. Mix this album. Do all that." No, it's like, "Come in, clean these toilets. Go on this food run. Wrap these cables up. Then in six months, we'll talk."
+One of my teachers the first month was super honest about it. He was like, "Y'all at best might come out and be assistants. At worst, you're going to be unable to find anything and end up at Guitar Center." He's like, "That's the range for 99.9% of you."
+Once he told me that, I started looking for internship files in school. I applied to a whole bunch of stage internships because I wanted to do movies and video game sound originally. It wasn't really music. Then, I was telling you yesterday, the fit, the moment for me was when I heard Merriweather Post Pavilion by Animal Collective. I was blown away by the production, and the way it sounded. I was like, "How do you get from 0 music at all to that." It's experimental, but it's a pop album, it's really just pop music, to me at least.
+Rollie Pemberton
+That led you towards Ben Allen.
+Alex Tumay
+I was looking for him, but I didn't know he was at the studio that I applied to.
+Rollie Pemberton
+Which was Maze Studio?
+Alex Tumay
+It was Milk Money Consulting, and Maze Studios and Solitaire were in it. Solitaire is CeeLo [Green]'s studio, and Maze's was Ben's. I went in there, it said Milk Money Consulting, I was like, "I'm about to work for a consulting firm? What is this?"
+I walked in, and Brad McDonald, who is one of the managers there, was like, "Oh, here. Let me show you around. This is Ben Allen's studio." I was like, "Excuse me? What?" I didn't know he was in Atlanta. I didn't know any of that. I was visiting my ex-girlfriend at the time, I was like, "I'm just going to go look at studios," and never left. I went for a weekend, and I never left until, yeah…
+Rollie Pemberton
+You would end up working on a record with Ben Allen.
+Alex Tumay
+I worked on 12 throughout the time.
+Rollie Pemberton
+Youth Lagoon.
+Alex Tumay
+Yup. Bombay Bicycle Club, Youth Lagoon, Animal Collective. Then there was smaller records. I'm trying to think of others that I did. Fanfarlo, which is a band I love. They're not in existence any more, but I love them back in…
+Rollie Pemberton
+What kind of things were you doing in the studio?
+Alex Tumay
+It was mostly assisting. Right off the bat, like I was saying, they told you if you're going to have to go be an intern, the first day I went in there, I wanted to make a good impression. I literally took everything apart in the studio and cleaned the whole studio top to bottom. There's like curtains that hadn't been moved in years. I went behind them and scrubbing the walls on my hands and knees doing all this stuff. I was like, "I'm going to make sure that they notice me," because they told me day one, "You're not going to get a job here. You're just going to intern. You're going to learn a lot and you're going to leave." I was like, "Yeah, I'm not going to listen to you." I'm like, "That's cool that you say that."
+Day one, Ben pulled me into the room, was like, "Come sit in on this session." I just gravitated to that situation and just sat in all the time. I would clean, do all the stuff I needed to do, sit in on these sessions, then whoever was in Cee Lo's room would start at 10PM or later. I would be there from 8AM until 8AM, four or five days a week.
+Rollie Pemberton
+You'd be working on an Animal Collective album by day, and then CeeLo Green by night?
+Alex Tumay
+Gucci [Mane] came in and stuff like that. I was too scared of him back then. He came in, and they were like, "You want to engineer this?" It was like, would have been my first session ever. Would have been a Gucci session. I had heard stories, obviously. I was like, "I'm good. You guys can go get someone else. That's fine."
+Rollie Pemberton
+Well, I'm going to play one of those records that you worked on at Maze Studios. This is “Rosie Oh” by Animal Collective from Centipede Hz.
+(music: Animal Collective – “Rosie Oh” / applause) 
+You're working on these kind of indie-ish records by day and you're starting to work on rap music by night, right? Before that, how familiar were you with rap music around this time period?
+Alex Tumay
+In Atlanta?
+Rollie Pemberton
+Yeah.
+Alex Tumay
+Not so much. I would listen and I would go to shows and I would be around, but it was like a completely new thing. I actually moved to Atlanta, the first internship I got with that one was a television one, so I was working on TNT Latin America and just doing Spanish television. I had both internships back and forth and then I started getting introduced, like Bangladesh came through and obviously he's an amazing producer.
+Rollie Pemberton
+Produced “A Milli.”
+Alex Tumay
+Yeah. “A Milli,” “Lemonade,” just to name a couple. He works constantly. He's constantly like, if he's not at the studio at night, then he's flying out of the state to go work in LA and comes back at night and just sleep on the plane or something like that. I was watching him work and watching him bring all these artists in and do all these tracks on the spot. He's old school. It's like MPC, straight into Pro Tools. He wasn't like FL Studio until later. Later, he started to bring in the digital sound. The more DAW side of it. He really knew the hardware. That's what he used. He used like a Fantom and an MPC and that was his sound.
+Rollie Pemberton
+What kind of things were you helping him with?
+Alex Tumay
+Back in the day, it's like mostly wiring the studio, setting all the stuff up, making it easy for him to produce. Helping him run stuff down into Pro Tools and get the beats in. Usually, he had an engineer at that point, but it was like he would bring me in at night because the engineer would be exhausted and leave because it'd be like four-day long sessions and the engineer would be like, "I can't do this anymore," and get up and leave. He'd be like, "Alex, can you just record for the night?" I started getting recording gigs and started working a little bit more.
+Rollie Pemberton
+Around that time, how many hours a day were you working?
+Alex Tumay
+Between, just there?
+Rollie Pemberton
+Doing work with Ben Allen during the day and sometimes night session, as well.
+Alex Tumay
+I was doing like 80 hours there and then I had the other internship and then I had my job, which isn't really a job. We talked about that. I could talk about that, right?
+Rollie Pemberton
+Yeah.
+Alex Tumay
+I worked at, like, I dealt poker at an illegal underground game for money and I used to play on the side and that's how I paid for my internship, was playing poker because I needed money. I didn't want to work a 9 to 5 ever. I played poker before I did any of this, so it was easy to just... Actually, I got tricked into doing it because I thought it was a charity thing. (laughs) The dude hit me up, I saw it on Craigslist, which, you know, reputable. It was like, "Charity Dealer Needed for Non-Profit." I got the address and I looked it up and it was like a house. I was like, "Maybe the dude just works from home. Maybe it's like a home office." I go and he's like, "Come in through the back." (laughs) I'm like, "What the hell is going on? All right." I go downstairs and there's a dude, like a bodyguard, he's like a doorman. I'm like, "What the fuck? What is going on here?" I walk in and there's just like a table. It's dingy. There's like smoke everywhere and the dude's like, "All right. You make 25 an hour plus tips and if you want to play, we'll leave a seat open here and you could deal and play." I was like, "Yeah, dude. This is great." (laughs) I started that. I would leave the sessions, if there was no night session, I would just go to that and deal.
+Rollie Pemberton
+Okay, so you're doing all these rap sessions, all these big music acts and then later in the night, you are dealing at an underground, illegal poker game.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+Then playing, as well.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+When you were playing, how much money were you making from playing?
+Alex Tumay
+I mean, I could lose all the money I made that night.
+Rollie Pemberton
+Right.
+Alex Tumay
+I'd play. I'd deal for 8 hours, get whatever, and I would know what I was about to make and I would take that and I'd buy in with that. At worst, I'm breaking even. I mean, by breaking even, I mean I just lost 8 hours of my life for nothing. (laughs) Normally, I'd play, I'd win. Let's just say I'd win.
+Rollie Pemberton
+OK. Do you ever talk to Ben Allen?
+Alex Tumay
+Yeah, all the time. All the time. He has two kids now. He didn't have any kids when I first started working with him. Now he has two little kids and he's doing albums, so it's hard to catch up with him, but I just saw him for his birthday. He did like a crazy, he had Washed Out DJ his birthday party and it was like in Athens in this abandoned warehouse. It was incredible. He's still out there being awesome.
+Rollie Pemberton
+There came a point where you had to eventually, your work with Ben Allen would cease. How did that happen?
+Alex Tumay
+Me and my two best friends in Atlanta were his assistants for two and a half years straight. It came time where he was like, "Y'all aren't progressing." We didn't care. We were like making amazing records, hanging out with your best friends. We loved Ben. His main engineer is Jason Kingsland. He's a great engineer. We're all just watching him and learning and we're making awesome music, so we didn't care that we making like zero dollars. He pulls us aside one day, he's like, "I kind of have some news. I want to move to a one assistant system in one month, so one of you guys is going to be my assistant and the other two of you have to go." We're all best friends, so I'm like, "What if we just all stay and you never said this and we continue about our day." He's like, "No, this has to happen."
+A month goes by and my main thing in the studio is I got along with the bands really well. We'd all go out at night, we'd all hang, we're all still friends. I really love those guys. That was kind of what I thought was my strongest characteristic when it came to music at the time. Like, I knew I could make something, I could record, but the interpersonal skills really set me apart. Sumner Jones, who's another one of the interns there, is like a tech genius. He can fix anything in like 10 minutes. He just blew us all out of the water. He just knew. If you have $500,000 worth of gear, who are you going to pick? The guy who gets wasted with your clients or the guy who can make sure you never have to spend money on the tech? He won and I was out of a job.
+Rollie Pemberton
+At that time you were thinking, like, “I'm going to just focus on the underground gambling, I'm out of music.”
+Alex Tumay
+I was like, "Imma move. I've got to move. I can't stay in Atlanta." I was doing mostly indie rock at the time. That's where all my experience was. There's not a lot of that going on. Ben's clients are flying to him. He's not finding people in Atlanta, they're coming to him. I was like, "What am I going to do? I don't think I can go into rap. I guess I could because I have some experience." It's a whole new world to break in. I was involved in this whole world and I didn't feel comfortable jumping in and starting over. I really didn't want to go intern again. I didn't want to start straight from the toilets and work up. I'm just sitting there for a week and my manager at the time, Monica Tannian, she goes, "You want to take over DARP?" Which is Dallas Austin's studio in Atlanta. It was where they did TLC, Boyz II Men, all these legendary late ’90s, early ’90s R&B records. It's like, "Absolutely I do." She's like, "Go check it out. You'll see if you like it." I was like, "No, no. Just give me the job." Like, "I don't have a job. I'll take it." I go up there, and I think Dallas is still the owner when I go up there, but it turns out that this couple from Tennessee had bought the studio from Dallas. They had taken over and wanted to make it a hip-hop studio. At that point, Dallas's studio hadn't been used that much. The consoles were all good. I think a year before I started there, the SSL caught on fire. They had to get rid of it. They basically hired me to rewire the whole studio for the new age of hip-hop, which is a PC or a MacBook Pro and one mic pre[-amp], one compressor. Basically one vocal chain, and sound effects titles, and some what nots in the background that never got wired up. For the most part it's computer, mic. That's it. 
+Rewired the whole studio, gutted the thing... You can imagine how many miles of cables are there from an SSL. You pick up the floor and it's like this... When you pull it out, it's squeezed down because the floor's like this, but it's this high [shows height of cables]. We're like, "What are we going to do with all these cables?" It's like three months of me and two other dudes just rewiring the studio and pulling everything out and making sure it doesn't catch on fire again. We got it to be one of the more functional studios for young rap kids in Atlanta. The studio owners wanted to bring in the young Atlanta rappers. What they did was they let the producers come in and produce during the day when nobody was in the studio, so an 18-year-old Metro Boomin was in there, young Southside, young TM[88], young Sonny [Digital], all these kids. Then they didn't have an engineer, and I wasn't technically the engineer. I was the house tech and I managed the interns. That was it. Then…
+Rollie Pemberton
+Then there was a fortuitous situation came up where an engineer was needed for a session.
+Alex Tumay
+Yep. It's a [Young] Thug session. I didn't know that at the time. I had listened to his music. I didn't know him personally, and I had been working with Metro a little bit but it was free. I was just trying to get my foot in the door. I'm just working for whoever will let me in the room.
+Rollie Pemberton
+The atmosphere at DARP Studios at time... Were people kind of living there pretty much?
+Alex Tumay
+Yeah, I lived there. I was working ... I would have to be there at 11AM to set up for the day and I would leave no earlier than 7AM. I worked there seven days a week for two years. I took five days off in those two years. It was crazy. It was me, and the manager Chris, and Ricky Racks was signed to the label that owned the studio, which is how me and him became close. Metro sleeping on the couch. Spin's sleeping on the couch. We just worked in shifts just constantly making music. All my interns got shots to record and mix. One of my interns has more platinum records than I do because I couldn't be in a room, and he did “Tuesday” by Makonnen and “Flex” by Rich Homie Quan just because he was there. Through all this... Basically rap camp that we had going on, Metro one day comes in and he's like, "This dude's kicked out six engineers. All the dude's you keep sending in…"
+Rollie Pemberton
+What's the problem?
+Alex Tumay
+They're not fast enough. He's like, "They can't keep up with him. He's pissed off he's going to hurt one of them." They're like, "You haven't had a problem. Just try it." I walk in. They go to American Deli, which I don't know if you know what that is, it's a wing spot in Atlanta. It's a fast food wing spot. If you drive there and come back, it's maybe 10 minutes. They leave and by the time they come back, we finish the song which is the first song me and Thug have ever done. I didn't see him. I had headphones on because he likes to record with headphones, so I had headphones on. He's in the booth. The booth is pitch black. By the time I'm done recording and I'm comping and putting everything together, he's gone. I didn't see him for the first three songs we did. I didn't know what he looked like. I thought he was somebody else. I kind of got a glimpse of him. I turned around and somebody else walked back in. I started talking to him like it was him. They're like, "Yeah, man. It is a dope song. Like, why are you talking to me like this?" I'm like, "Oh, shit. This is the wrong person." Which is I guess this song. They came back from American Deli. He's gone. They'd just got food and they're looking back and forth like, "Yo, where is he?" I play the song and they're like, "OK. Holy shit."
+Rollie Pemberton
+He's right there…
+Alex Tumay
+Yeah.
+Rollie Pemberton
+In the song. We're going to play that song for you. "Some More," Young Thug.
+(music: Young Thug - "Some More" / applause)
+Alex Tumay
+This is also back in the day where I had no idea about RMS standards, or how to master. I would just make it comparably loud to something else that I heard. These mixes were from the day. This song was never touched after he walked out of the booth. I just made it loud and he was like, "All right, cool." That was it. It was like a 15-minute mix and it was always what they just kept. We would go back and do more and they would be like, "Nah, it's not the vibe anymore. It's too different. It's too clean." It's too this or that. The only thing we changed about this is that I took the "Metro Boomin wants some more" out without telling anybody and I made the tag that Metro uses, or used, for some of the years. I put it at the beginning where it's like, reverse reverbs into it.
+Metro's like, "What's that?" I'm like, "It's your tag now." I was like, "You should use this as your tag." This is from his project 19 & Boomin, which is the first project I had executive production. It's a mixtape so executive production means like... But it meant a lot to me, because that meant that he trusted me to help him put together the project. That's what we spent like three months on. That's how that tag came to be.
+Rollie Pemberton
+That song in particular really reflects the atmosphere at DARP Studios because you notice it has all the tags of every producer. So many people were involved in that song it seemed like, right?
+Alex Tumay
+Yes. It's TM, Sonny, and Metro on that one. There's been tracks with all of them. All the dudes I've mentioned, they've all had their tags on it. It's like a 30 second intro. Just all of the tags because they all worked on the song. It's like a family. If the song is good, get on it. "Come on, let's all make some money."
+Rollie Pemberton
+What is it like mixing for four different producers who are working together? Were they all on different rigs? Were they sharing? Were they…
+Alex Tumay
+I've posted video before. We'd have wooden tables all over the studio and each of them had a different rig. Sonny has this, I don't know if he still has it, but back in the day he had this like 35- or 40-inch TV screen that he brought with him everyday to the studio with his PC rig, a full PC. It's a table twice this size just to get all his stuff on it. He took up this much. We put that in the center of the room. His rig would be there. Metro had a laptop and he would be on the side. They had all their keyboards set up and whoever would do it, I would just walk in, and they all wanted to work on their own interface and just be wired directly into the system. It's super simple set up but there's eight of them, or nine of them. They're all in different rooms and they're all constantly moving. The rapper comes in and you got to climb over the desk to get to the chair. I'm standing or sitting on the desk catty-corner trying to record. I don't know, it was really like a camp. It was like summer camp, just with a lot more weed.
+Rollie Pemberton
+You make that song and it works.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+Metro, you've helped him get a tag and you've gained his trust. The ghost of Young Thug appears again in the booth, but not for a very long time. He only needs a very short amount of time to record this next song.
+Alex Tumay    
+This song, I think it was two months later. Two months after "Some More". It must have been mid-2013.
+Rollie Pemberton
+It ended up coming out in November.
+Alex Tumay
+It came out a few months later, cos the label didn't know what to do with it. They were trying to figure it out, like "What do we do with this song?" It was like, it was Metro and me and Thug were in the session and Metro's running through beats. Thug had done five or six Metro beats. A lot of them are in 19 & Boomin. A lot of them came out later. He was like, "You got anything else? You got something from somebody else?" I walked around the studio and it's like, there's the B Room, the A Room, those are the two big rooms and then there's two small rooms and Southside is in one of the small rooms and he has the door open. He's starting a beat. He's literally starting it. If I time it, I walk down the ramp and into the rooms and it's almost done and that's the beat for “Danny Glover.” I was like, "Give me that. Just give it. Figure it out later. Just give me." He's like, "Hold on." He puts the 808 in, he puts the drums in real quick and just hands me his beat and I walk back in, I play it once, and he's like, "Pull that up."
+He goes in the booth and I've never... I can remember the session. I don't remember sessions. Way too many. I don't remember sessions from like a week ago. I remember this session like it was yesterday. He goes in and like every line... He punches in, but every line is the keeper take. Every time, the first time he does it we keep it. He's like "OK, cool. OK, boo I love her." Kept. "Imma save her just like Danny..." Kept. For three and a half minutes. A whole song, no second takes. Maybe one second take. It's one of the smallest session sizes I've ever had because it was just like, "All right, we're done."
+I walked out in six or seven minutes, went into the other room. I had put a five-minute mix on it, went to the other room, got Southside. I was like, "You have to hear this. You have to here this now." He was doing something, I'm like, "I don't care. I don't care what you're doing. Get up. You have to hear this." I pulled every single person in the studio. Pulled the manager, pulled the interns. "Y'all, put your phones down. No one's ever going to hear this. You have to hear this song right now." Forty-something people are in the room and it's going crazy.
+For some reason in rap in Atlanta, you make a song like that, people listen to it for weeks. We were in the studio. We would be like, "Oh, you got stuff to do." It's like, "No, no. Play that song again. Just play it again. You should play it one more time." It's like over and over and over again.
+Rollie Pemberton
+You make me now want to hear it really bad. You guys want to hear it? This is “Danny Glover” by Young Thug. 
+(music: Young Thug – “2 B's (Danny Glover)” / applause)
+Alex Tumay
+I love that song, man.
+Rollie Pemberton 
+Along with that song and “Stoner,” around this era...
+Alex Tumay
+That's what he was performing live because he didn't like performing back in the day. He loves it now. I don't know if you've seen him in the last couple of years or seen him perform, but he goes crazy now. He used to stand still with his head down like this, do just those two songs and then leave, for years. Then started, during Rich Gang and stuff they started doing stuff and then he did one show, Fool's Gold Day Off in Atlanta, just traps his show. But “Skyfall” had just come out and I called him. He was over at the Hawks game with T.I and I called him and said, "You've got to come to this thing. It's going to be crazy. You have to do “Skyfall.” You have to do "Mamacita." You have to do it. You have to do it now. Please come." He's like, "All right." Pull up to Fool's Gold Day Off. It was where Rodeo Tour came from, is how crazy people went when they saw those two live together. They were like, "We have to go on tour together." Right there. "We have to."
+That was one of those moments. It was in this place called Masquerade in Atlanta. That place is rickety. I thought we were all going to die. It's upstairs and the floor is going like this, shaking up and down with people jumping. You can feel it. You feel like this is about to end, we're all going to die, but it will be great. It would be a good way to go out.
+Rollie Pemberton    
+Thug, “Stoner,” “Danny Glover,” these songs are going crazy. You got Nicki Minaj jumping on “Danny Glover,” you got Drake dancing on a Vine.
+Alex Tumay
+I saw Kanye dancing to it. I wanted to cry because Kanye is like my hero. I saw that and I was like, "Holy shit, this is real. This is for real, for real."
+Rollie Pemberton    
+At that point the vibe had to be starting to change at DARP, right? Were people really excited though?
+Alex Tumay
+Everybody was really... The song came out on a mixtape so the excitement was kind of whatever. In Atlanta, the songs we were making were getting played on the radio already. “Some More” was on the radio, so when “Danny Glover” hit the radio we were like, "Okay, this is whatever." Then we saw it, like you said, like on the [inaudible], "Oh, this is for real." Then the label started showing up. It was still us. Nothing really changed until Bird[man] showed up. For, I guess, what was it, four more months or something like that it was the same kinda thing. He'd come in every so often, we'd make like 17 songs in two days and then he'd leave and then he'd come back like two months later, make another 17 songs and then leave again. That's his vibe. Everybody was like that. They'd come, make a bunch of songs, we'd all chill, then see them a little later.
+Rollie Pemberton
+When you continued recording with Thug and you actually saw him in the studio, you visually saw him... I've heard rumors about him drawing on a piece of paper, drawing pictures and stuff.
+Alex Tumay
+I never saw that.
+Rollie Pemberton
+You never saw that?
+Alex Tumay
+No. I never saw him touch a piece of paper. I've never seen him write. I think maybe he wrote something to tell somebody once and handed it to him. He doesn't write. He doesn't write in the booth. He walks in and he raps and that's it, and you better be ready. His sense of timing is so... Sometimes he wants to start before the song starts so he'll be like, "Alright, just pick an arbitrary point for the song." He hears it once. He's like, "Alright, start it again from that point," hits record, and it's 100% on beat with no click, no lead in. It's just an arbitrary, 16.387 seconds. He's like, "Literally, just pick a random time." I'm like, "No, I'll put it on the grid." He's like, "I don't care." I just move it and he raps and it's constantly on beat. Any time you hear him rap before the beat starts on the song, where it's him talking first, that's him just doing it.
+He has the craziest sense of timing. He can hear a half a millisecond. I'll nudge something like a millisecond, he'll be like, "What'd you just do?" I'm like, "Excuse me? What?" "Yeah, what did you just do?" "I moved it back a little." He's like, "Don't move it back. That's wrong. That's not what I wanted." I don't know. His ears are insane.
+Rollie Pemberton
+Would you ever get in arguments about little things like that?
+Alex Tumay
+All the time. We were on the same page creatively for most of the stuff. It's just mix changes after he leaves the booth, as far as if I put harmonies on something. I use a Harmony Engine a lot. If I do something like that and I don't do it before he leaves the booth, while he's recording. Or delays or anything like that. All my delay throws, all that stuff is being done, I have the track open, I'm drawing them in while he's recording because… On the track he's not recording on obviously, but while he's recording because if it's there and he hears it later it's different to him now, it's a different song. You've messed with the essence of the song.
+I had to get fast at really dropping plug-ins in and doing harmonies or something like that. I'd have to in my head hear them and be like, "Okay, I want to do the octave, the fifth and the third or just the octave and the third." I would draw them in and put them and hope that it was right because if it's not the right the first time it's coming out and it's never going back in. There are songs like "Half Time", where he's talking, "Hey, let's have a good time." All those were in… I put them in on a track before he even recorded it, I dropped them down and crossed my fingers, and it worked. I was like, "Thank god."
+Rollie Pemberton
+That's become a big part of his sound.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+How did you think to do that?
+Alex Tumay
+It was literally, like, randomly on a song. I was like, "He never does stacks, it's always one take. He might harmonize once every so often but I think it would bring a lot more to the song melodically because he's got such great melodies and he's got such great cadences, to put something else in there." I remember messing around with the Harmony Engine when I was an intern and I pulled it up, put it on a track, put it in the key…
+Rollie Pemberton
+Do you remember what song?
+Alex Tumay
+Yeah, but it's not out. I can't play it. I would but I can't. It's the song I was telling you about where it was the first Rich Gang song ever. Bird came into the studio, didn't like it at all because it didn't have a console, didn't know me, Thug was vouching for me, a few other people were vouching for me, but he was like, "I don't care. Whose studio is a trap studio? Good music can't come out of here." We had mains, we had [inaudible] all that, but we didn't have a console. He was like, "I hate this studio."
+Thug was like, "Give it one day." We did one song that day and it was that song I'm talking about where I threw it on, I guessed and it worked. All I did was high harmonies, all I did was an octave. That has to work, right? It's an octave, it's the same freaking note, it's not going to mess it up. I put that in and then I threw in another one, I put it low so he didn't notice, and Bird came back in the studio and was like, "Call your manager up." I was like, "Why?" He was like, "I want this studio for 90 days straight." He booked every single room for the next three or four months on the spot. I was like, "I guess my next 90 days are decided for me." That's when the Rich Gang stuff started, it was just like that. It started with Thug and then the next day Thug brought [Rich Homie] Quan in and they never left. We were living there again.
+Rollie Pemberton
+During the recordings for the Rich Gang album... would you consider Rich Gang to be the most culturally important record that you've been involved with?
+Alex Tumay
+Yeah by far because it changed people's perception of the Atlanta rappers too. They didn't think that they could put together something like that and they did, easily. The first week we did 75 or 76 songs. That's just me and Thug, I'm not counting the ones that Quan and Justin did in the other room, that's literally just what I recorded. Quan was on the ones with Thug too but that's my room, not the other room. It had to be in the hundreds.
+Rollie Pemberton
+The studio was where?
+Alex Tumay
+Atlanta.
+Rollie Pemberton
+Which studio?
+Alex Tumay
+DARP. 
+Rollie Pemberton
+Rich Gang, it took place in DARP.
+Alex Tumay
+Yeah, 100%.
+Rollie Pemberton
+Wow.
+Alex Tumay
+Except for "Lifestyle,” which they did in Miami.
+Rollie Pemberton
+Right.
+Alex Tumay
+Other than that every other song was there.
+Rollie Pemberton
+What was the atmosphere during those sessions? It feels like such a cohesive release. It feels like every song is of one out of what ended up on the release.
+Alex Tumay
+It was the most hectic time I've ever had other than recording the Migos and another artist. The Migos are good, but you throw another artist in there, now it's four artists on the same track and they're going back and forth, you know they go line for line. You never know who's rapping until they're rapping. They're all in the booth and they're handing headphones back and forth and they're starting and they're going and they're back.
+That's the most hectic ever, but between Quan and Thug who rap 100% different, use different punch techniques, I have completely different settings on everything. I like different mics. I wanted to set up two whole chains but they were like, "No, we're not doing that. We want to rap on the same mic." They would literally sit right next to each other and go back and forth, all that. For them it was amazing. For me... I'm wearing a hat because I lost all that hair from that situation.
+Yeah, it was stressful but also you just knew. It's like “Danny Glover,” you knew. Every time something happened I was like, "This is never going to happen again. This is something special." Every moment, the way their voices worked together, the way they vibe off each other, the way they made each other better rappers. Quan's cadences changed up and Thug's lyrical content changed up a little because it was almost a competition between them. Who could spit the greatest shit ever? I would sit there and be like, "This is crazy." They would come out of the booth, I'd be like, "This is so crazy, what's happening right now."
+Rollie Pemberton
+I feel like the hip-hop police will give me shit for saying this but I feel like it's almost like new school Phife and Q-Tip, because the rapport they had together, it's so fluid. I'm going to play a song from the Rich Gang, Tha Tour, Pt. 1, this is my favorite song from it, "I Know It." 
+(music: Rich Homie Quan & Young Thug – “I Know It” / applause)
+I feel like the Rich Gang mixtape is one of the only releases where I like the DJ drop and I think I would miss it if it was gone, the Rich Gang drop.
+Alex Tumay
+I have always staunchly been anti-drops, anti-DJ drops, all that. If somebody wants me to put them in I'm like, "I don't know how. I don't know what you're talking about. It's different, I can't do that, I don't know." He would have me put them in and I would put one or two or three. I'd be like, "That's good, right?" He'd be like, "No, you need more." It became such a competition between him trying to get me to put more drops in and me not wanting to do that he flew his engineer up at the end of the Rich Gang stuff specifically to take my bounces and add more drops. That's where all the drops came from on that album, it's because he's like, "No, Alex, put more drops." I'm like, "I don't know, man. I feel like that's enough." He's like, "No, we're bringing my engineer in." Sitting on the laptop, I'm mixing and I'm bouncing stuff and he's doing it and he's putting all the drops in. That's what came out. They all fit so I was wrong. I still like my versions.
+Rollie Pemberton
+The Rich Gang album comes out, we get into Barter 6 but around the time of that album's release the leak happens. There's a massive leak of all the sessions from the Rich Gang recording sessions. You take to Reddit and made a big statement and I want to actually quote directly from your statement. "I don't do this for the money. I do it because I care greatly about making something new and unique. Making my clients' music better, making quality sounding music in a genre that changes/experimentation/ sonics often become an afterthought in. I want to change the world of rap music, and unless these songs are heard the less of an impact they will make." Why did you feel the need to make this statement?
+Alex Tumay
+It was like April, or March, something like that, right, something like that? That's the worst day of my life.
+Rollie Pemberton
+How did you hear?
+Alex Tumay
+My phone looked like, you know how you get messages, I could scroll, and it just went on forever. From all my friends, and all the people, all the Internet notifications, all that, "Yo, what's going on? It's 40, it's 60, it's 100." I'm like, "What do you mean, 40 what? What's happening right now?" I got out of bed, it's like, just left a session, it's 11AM or something like that, I'm ready to go back to work. I didn't go, they were like, "Go to work." I'm like, "No, you guys can wait outside for a few hours. I just need to collect myself." There was a smaller leak before it, like a 10 song leak, where somebody called it Tha Tour Pt. 2. It's not that I saw it coming, but there were songs from randomly throughout I think. I was like, "Whoever hacked, whatever email that they hacked, picked and chose these songs because they're not chronological at all."
+I was worried, and I was hitting the label, I was like, "Guys, let's put something out, because we have to. I feel this is not the end of this.” Who hacked what? Where? Whatever, whenever I send anything, I wipe everything I send. It's like, "You have it, I don't have it anymore. It's not on me." You know what I mean? It'll never come, I destroy files that aren't on a hard drive, no matter what, every time. I was trying to figure it out, I went into this Internet investigator mode, where like, went on KanyeToThe, because that's where a lot if it came from, is those sites. That it was perpetuated, I don't want to say it came from there, but they shared it with everybody and somebody from there dropped the .zip file for everyone.
+I went in, and I was talking to the kids and the kids saw my message and they were deleting their own posts from the Internet. I was in awe, because of all the posts that were on Reddit, because that's where I really saw that people were sharing it, that's why I posted it there. Because a whole front page of the hip-hop Reddit was like the leaks. It was like four pages of it, and I was like, "You all, please stop, just stop for a second. You keep sharing this stuff's never going to happen, these albums are never going to happen. You're listening to a huge chunk of it all at once. Don't you want it to come out finished? These are unfinished songs, don't you want to hear them one day, for real? Don't you want these guys to make a Rich Gang Tha Tour Pt. 2, and make it an album, and then tour off it?" Then everything will be copacetic forever because that's what would've happened, I was like, "You all just took that away by being greedy." Because all it would've taken is the 10 people who got it first or whatever, to just not. Just don't do that, because if you're not sharing something that's finished, you're not sharing the artist's intentions, you're just sharing something you stole.
+Rollie Pemberton
+Did you ever concretely determine how they were leaked?
+Alex Tumay
+I have theories. Because somebody sent me an email chain, where it came from somebody I know's email. I was like, "It's got to be him." When to question him, it was like, "No, I sent it to this person, it was somebody in the camp, and it came from that." It's like you look down the chain, there's a point where it fans out. I think somebody's left their email open, that it was sent to. Obviously, do not ever send anything via email but we were making so much music that handing it off on hard drives became impossible. People are like, "No, I need it now, put it on my phone now." I'm loading these phones up and I have a stack of phones like this [shows height], because Bird's got however many phones, Thug has four phones.
+I'm just like, "Guys, this is going to take me as long as it took to record all this music, to load your phones up, can we figure out something better?" I wanted to get them something better, and it is such a hectic time that it just came out to, "You have to email it to us, you have to." I was like, "This is not going to end well." Right, but somebody's email got hacked from that. Hacked, or left open around somebody that they thought they could trust that they shouldn't have trusted, is what happened.
+Rollie Pemberton
+I feel like, with you making the statement, and people taking down all the links, I feel like this was a real, like, bell weather moment in Internet piracy rap albums. Because especially with mixtapes there's this expectation that, "Oh yeah, we deserve all these free albums." There's this, "We deserve it or something." Then they see that there's people like you who are working behind the scenes, and working really hard on this music and it put a face to it. I feel like that was a really important moment.
+Alex Tumay
+I immediately regretted posting that, for one reason, and one reason alone, is articles started getting written about it and it brought more attention to the situation. People were like, "What do you mean leaks, where?" I was like, "No." That was my mentions for the rest of the day, was like, "What leaks, where?" I was like, "Crap." I left it up because the message was the message, I had to leave it up, I stood by that message. I, at the time, was not making a lot of money, I was working a lot, but I didn't know that engineers could charge a certain amount. I didn't want to charge a certain amount, I charged a flat rate, because I wanted to make something cool. I knew with the amount of hours we were working, that nobody would pay one engineer that amount to just be there 24/7.
+That's an insane, four months, 24/7, label's going to be like, "Yeah, that's fine, I believe that." No, I was there 24/7, I would take a nap, there's so many sessions where I would be there, Bird would be kicked up, he'd have his feet kicked up, falling asleep. I would be in the chair, in the booth, half passed out, rapping. I would just be asleep on the desk and wake up the next morning and just hit record again and he starts rapping again. That really happened, that happened on “Skyfall,” he showed up at like 5, 6AM, and was like half asleep. It was like one of the longest times it ever took us to record a verse because he was nodding off and I was nodding off. I'd hit record, I'd be like... [nods off to sleep] I'd fall back first time, hit record again. Then I eventually had to go get an intern to sit next to me and hit me every time I fell asleep. Like, literally had to punch me every time, because I'd be like, "I can't stay up anymore." I had the music all the way up, in the room, I had my headphones on, all the way up. It's just trying to shake my body awake and rap has become soothing to me now, after that. To the point where I could fall asleep anywhere that's playing rap. It could be all the way up, and I'm like... [nods off to sleep]
+Rollie Pemberton
+I'd like to actually talk about your work with Travis Scott. Was Travis in the studio with Thug for those sessions?
+Alex Tumay
+Those sessions happened in the same day. Travis booked the morning, they were like, "We can't book you, Travis. Rich Gang has taken the whole city." He's like, "What about between 1 and 5?" Which, they always showed up at like 4 or 5PM, and they're like, "OK, Alex, get up here." I'm like, "I just left." I literally left at 10AM that morning, and they call me at like 11, like, "Travis is on the way, come up." I'm like, "I'm so tired, please don't make me do this." Obviously I got up, but I got there a little later, I let my assistant do the beginning and he was working and he did, I think he recorded that "Backyard" freestyle, because I mixed that one when I showed up. Then there's that, I know you haven't seen the video of the making of “Skyfall.” There's a video online of all of us in the studio, it's like Metro cooking up the beat and then Travis is in the room over my shoulder. He liked to rap in the room at the time, he's literally like closer than you are to me, rapping over my shoulder and I have headphones on, I'm recording, and they're breaking down the beat, and all that is happening. He lays the hook and all the background vocals and then a scratch verse. Then Thug comes in and he's like, "Imma to do that later tonight." Then we did the Rich Gang stuff, we did a bunch of Rich Gang stuff after that, Travis leaves, we do all the Rich Gang stuff. Now, 6AM or whatever, and I'm falling asleep, because I haven't slept in like three days.
+Rollie Pemberton
+You're skyfalling asleep.
+Alex Tumay
+Yeah, and he hits the line that he has in the song, the first line he has, and I'm like, "OK, this is going to be crazy." Then I fall back asleep.
+Rollie Pemberton
+Then you fall back asleep, briefly wakes you up.
+Alex Tumay
+It's another song, where it's like immediately we're all like, "This is going to be a smash, something important." Maybe not a hit, but this is an honest, important song. It's one of my favorites ever.
+Rollie Pemberton
+Let's play it. It's definitely sonically reflective.
+Alex Tumay
+Yeah, this song is... I sent it to the mastering dude and he's like, “What the hell?” There's a lot of weird phase effects and all this stuff on Travis's vocals. He's like, "Did you mean to do all this?" I was like, "Maybe." I've perpetually only ever had maybe one or two days to mix the albums. I did Barter 6 in two days. I did Rich Gang Tha Tour in a day and a half. I did the six songs on this, I did in a day. Jeffery was quick. Slime Season 2, all that stuff. Slime Season 1 was a day. I literally had a day on that... I lost my point, I'm sorry. 
+Rollie Pemberton
+Let's listen to “Skyfall.” This is “Skyfall” by Travis Scott and Young Thug.
+(music: Travis Scott ft. Young Thug - "Skyfall" / applause)
+Alex Tumay
+I remember my point, by the way. My point was that I had no idea at this point. I mixed the song. He's like, "Is this phasing shit on purpose?" I'm like, "Fuck it, I don't know anymore." I had mixed all these songs in like a day or two. We didn't have time to master because it dropped at like 8:13 that day. I got to pick three songs to get perpetually mastered. It was “Skyfall,” “Mamacita,” and “Quintana Pt. 2.” He was like, "Did you mean to do all this weird phasing stuff?" I did. Obviously, everything was on purpose. Nothing is a mistake. I'm just kidding. Everything I do is by accident. I was like, "Does it sound cool?" He was like, "It sounds weird." I was like, "Just master it then." 
+Rollie Pemberton
+Listening to that and listening to some of the Young Thug stuff, it seems pretty interesting that you were in the room for an Animal Collective record. Right?
+Alex Tumay
+My main job with the Animal Collective record was recording Geologist and Avey Tare do vocal tweaks. We were upstairs in the B room studios, this tiny studio watching hockey. That's all we did. We watched hockey the whole entire record. Watching hockey, then we had an H3000 and a slew of guitar pedals that went around us in a circle. I'm just running Pro Tools rig. I'm recording and we're tweaking it. We're just running through and turning stuff and acting crazy. There's like 30 or 40 tracks of vocals and just the effects. That's why there's so much crazy vocal effects on there. It was just all hardware prints. We're just mixing it, matching and selecting whatever.
+On that track specifically, I pulled down 20 tracks and just dropped like an H Delay on each one and dropped a whole bunch of different timing effects and reverbs and phases and pitch effects. I would take the vocal and I would just drop it. I didn't have an H-3000. I had Pro Tools with a bunch of cracked plugins. I did what I could. If you listen to that song closely, every time a delay happens, it's slightly different than the time before. There's 20 tracks. I would drag it down 20 times and I would just randomly pick and choose whatever sounded the coolest and I would just delete the ones that didn't fit. That's super unorthodox. Most of the time with timing effects, I'm using an aux, I'm just doing a send. It's full on 100%. We're just like, “Forget it.” It's just got to be 100%. Everything we do on the song is going to be way too much. It kind of... I like it.
+Rollie Pemberton
+I feel like it really changed everything. This was a totally new sound for rap. Were you in LA for some of the sessions too? Did you do that at all?
+Alex Tumay
+For this?
+Rollie Pemberton
+Some of the Travis Scott stuff you did.
+Alex Tumay
+For Rodeo. We went to LA. I was originally picked to mix that album. Obviously if Mike Dean comes calling, I have nothing against that. I get it. See you guys later. I ended up recording and doing a lot of rough mixing and a lot of vocal productions stuff like that on the album. It was awesome to work with him. It was cool to get feedback from him too, what he thought about what I had done up to that point. That was my first time ever being flown anywhere for anything. I literally live in that studio. This is when I quit DARP, was for Rodeo. I was like, "The Rich Gang stuff is not happening anymore. It seems like I can freelance." Thug asked me to do Barter 6 and Travis asked me to come to LA for Rodeo and I was like, "All right."
+I didn't know that I would ever... Just to back it up a little, my thought process about music was, "I'm going to be poor forever but I'll make some cool shit." I literally was like, "I'll make 25 grand a year and live in a one-bedroom apartment and die alone with some cool tracks." That's what I was thinking the whole time. Literally, I was dating a girl and she was a lawyer, had her life together, and I'm interning, playing poker, doing all this shit. She's like, "Get your shit together. Do something else." I'm like, "No, I got this. This is going to be good." What I'm thinking is I want to make like $15-20 an hour. Then somebody is like, "We're going to fly you to LA. We're going to put you up in Beverly Hills in Seal's producer's house at the top of the hills." It's going to be like you, Metro, TM, Wondagurl, Travis Scott, Allen Ritter, who else... FKI was there. A whole bunch of people were there. You're all going to live there for a month or two months and just make a record. I thought I was just going to go and mix. I thought the record was done. I got there and they're just cooking beats. I'm like, "Why am I here? I got tricked into being here." We ended up, they had five engineers and most of the engineers were like, "Fuck this." Because first of all, it's 24/7 because you're in the house, living in the house. There's a studio in the house. Travis is intense. The time is intense. You're just constantly... There was like three days where I was like, "I have to go to bed. I can't do this anymore. I don't have it in me. I just can't get up." Luckily my bed is like 40 feet away and not the 30 minutes it takes to get to the bottom of the hills. Literally every time I got into Uber, it was like $50 just because of the hill, just to get to the top.
+Everybody's leaving. It's super intense, it's 24/7. If he's asleep, the producers are awake. They want to tweak up the songs that he's already done. They need you there. You're working in Pro Tools and they're like, "Switch this kick out. Switch this out." Everything was so, "Let's keep pushing and pushing until the sound gets too intense." I recorded “90210,” which I was talking about. “90210,” Allen Ritter is live playing the keys for that, the main keys on like two keyboards while Travis is in the booth recording the original hook, the scratch hook. It's all happening at the same time which is super not orthodox for how rap works. It's usually like a two-track beat. All right, now rap on it. It's like he's playing the keys. He's like, "Oh shit, press record." I always had to record. I just had it muted. I hit three and he runs in. The whole thing is running down. Then we just cut it to the best parts and then bring it back. That was the vibe the entire time, chaos. Producers running out of FL Studio, out of their weird, USB interface directly in the Pro Tools I'm recording down. We're like, "OK, we're going to use that." I'm like, "Let's see something else.” They're like, "No, we don't have time. Go rap over it." It's a distorted beat, and we go back and replace the beat and fix everything. It was like, "No, but we like that sound, we like the distorted sound." So now we're going back and we're trying to figure out how to get that broken sound that we got from FL into the fast track into Pro Tools or into pre, into Pro Tools. It was way too many game-staging situations, but it just turned out dope.
+Rollie Pemberton
+There's something about FL Studio, and how things sound after they come out of it.
+Alex Tumay
+I love FruityLoops. It's one of those programs that takes away the technical aspect really, because I don't think... I personally don't believe that's important. I think you have to hear the music in your head and then whatever helps you get it from your head to everybody else's ears is what's important. How you get from point A to phoint B, it doesn't matter. Using Ableton, using whatever. Ableton definitely requires a lot more technical skill, but the stuff that came out of FL and the weird, unorthodox ways that they were making stuff hit, Wheezy's 808s for example, are...
+Rollie Pemberton
+Wheezy beats.
+Alex Tumay
+Wheezy's 808s are some of the craziest 808 patterns. I watched him do it, and I'm like, "That's wrong. No, don't." I was trying to stop him, back in the day. This was before he was working on Barter 6, so 2013. He was working with [inaudible] and he's doing stuff, and I'm just like, "Why are you doing this?" And he's like, "It works." Inverting the wave, and I'm like, "Why?" He's like, "It makes it hit hard." I'm like, "No, it's just making everything move more." And then the way that it was wrong, was right. You know what I mean? I stopped arguing. I couldn't argue anymore. I was like, "Y'all know better than me."
+I stopped trying to get everybody to track everything out, out of FL. I would just go, mix it in FL with them and if it sounded good, it sounded good. No more rules. The routing was weird, so you can't balance everything out. And it stems, and it still feels the same. You lost something every time you brought it out of there. For some reason, that FL, and the way that these kids took their zero technical knowledge and still made stuff work just enhanced everything and created this new sound, especially out of Atlanta. That was the sound. It's still the sound. It's still FL Studio, mp3s.
+Rollie Pemberton
+A lot of the time when you're mixing tracks, and this, it seems somewhat unbelievable, is, you're sometimes just getting one file.
+Alex Tumay
+I mean, [21] Savage runs his stuff, fully tracks it out. Every time Metro does anything he fully tracks it out. Anytime Ricky does it, he fully tracks it out. But a lot of these dudes are so protective of their sounds, first and foremost, because they're dealing with a lot of engineers that are like, they don't know. And the dude is like, "Give me the track out." And they're like, "Why would I do that? Then you have all my drums, you have all my custom synths, anything I've made, anything I've created, you have now." And they don't know these dudes. It's become, they've gotten got too many times. So now they're like, "No you're going to get my mp3, and then when it goes down to mixing, you'll get this."
+And then time passes and they can't find the files and they're like, "That's what you got." It's chaos, but that's what makes it work. If there was a dude sitting behind them, like, "Let me organize your files." It wouldn't work. It just wouldn't work.
+Rollie Pemberton
+I want to play a song from Barter 6 and I'm going to play “With That," by Young Thug, and that was produced by…
+Alex Tumay
+London.
+Rollie Pemberton
+London On The Track. What was the process of...
+Alex Tumay
+So this…
+Rollie Pemberton
+How did he give you the beat?
+Alex Tumay
+This is the last track added to Barter 6. Like I said before, I had two days to mix it, but I had already turned in Barter 6. They gave me this song, we recorded something else, and they brought it in and London was like, "Fix this real quick." I was like, "Why?" He was like, "I think it should be on Barter 6." I was like, "It's dropping in like..." It dropped April 16th? And this is the 15th. I'm like, "No, no, it comes out tomorrow. It's coming out tomorrow." And then he was like, "No, add it. It needs it." And I was like, "All right." So I mix it, I send it to 300, and they get it mastered and it's on the album the next day. That's the process that we're dealing with, 24/7. It's like, "No this is a good one."
+That's what happened with Rich Gang. I was telling you, in Rich Gang, I mixed, I think it was 20 songs? Or 18 total? Between 10 and 15 of them were added the last day. So I swapped out between 10 and 15 songs on the last day of the tour. It was just songs they did that week, they were like, "No, this one's better. No, this one's better." And we're trying to get the track list, and they're like, "What if we switch this out for this?" And I'm like, "What if we listen to all the rough mixes and decide and then give those to me and then I'll mix them." And they're like, "No, no just keep mixing." I have headphones, I'm mixing with headphones, and they have an aux and they're listening to the music in the room, picking these songs while I'm mixing. And I have headphones and I'm like, "Can you guys just be quiet, just one second? Just one second, I just need to finish... All right." So holding the headphones right against my ear, trying to block out the fact that “Beat It” is playing in my headphones but a whole 'nother song is playing in the room. I'm like, "All right, well I guess this is how this is going to go." But yeah. That's the vibe all the time.
+Rollie Pemberton
+This is the environment where this song came from. “With That”, from Barter 6., Young Thug.
+(music: Young Thug ft. Duke – “With That” / applause)
+That song was significant because you told me you had an amazing experience performing that song along with Young Thug as Young Thug's DJ. Tell me how that came to be. You becoming Young Thug's DJ. Had you DJed before?
+Alex Tumay
+No, I still don't know how to DJ. I DJed for him for 6 months and I kind of started getting it. Being a hip-hop DJ, you yell into the microphone and you play dope songs and then you yell in the microphone some more. At least you can get by doing that. You don't have to be the dude who's going back and forth, doing all this blending. You just didn't have to. I thought I did. I tried. I would do it, and people would be like, "I'm kind of not feeling it." And then like, when I would open for him and just play songs I thought were hype and just jump into the crowd, people would go way crazier. I'd just be like, "All right, cool, I just do that."
+I started editing his songs for shows and with that is one of the... That song goes live. People go crazy. But they weren't going as crazy because, you know how in the beginning, it ramps up? You know it's coming? The synth, it's kind of fading in? I just took that out and put the tag in there. So it's like, "We got London on the track" and then the beat drops. The first time I ever did it was in London, at O2, it was a small, 800, 900 people. It might as well have been 50,000 people when that song drops. Again, there's video of it and we hit it, you can't hear the music. You can't ... Nobody can hear the music. I had no idea what was going on because the crowd is going so crazy and jumping up and down so much, the whole building is shaking. They're screaming. And I'm just like, you can see it, I'm just like, "What the...? What's happening? Did the music go out?" And they're so loud. So loud. And I was like, "Okay, I'm never playing the regular version of that song again. Ever." That was, it was crazy. It was a crazy show.
+Rollie Pemberton
+You go from DARP Studios…
+Alex Tumay
+Yeah.
+Rollie Pemberton
+Can barely see this guy.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+To playing in front of thousands.
+Alex Tumay
+The first time I ever DJed was Lollapalooza in front of 7500 people, and I have terrible stage fright, I can't look at people. This is crazy, this is insane right now for me that I'm doing this now. The first five times I went up I would unplug the mic and then act mad that the mic wasn't working. I'd pretend to talk into it and be like, "Come on guys, what are you doing? How are we doing this? What are you, not professionals?" Then play the songs and not move and act upset about it. That's how I got by DJing. 
+The first time I did it he tricked me into DJing for him. He was like, "Do you want to go to Lollapalooza? Paul McCartney is headlining." I'm like, "Absolutely I want to go see Paul McCartney in Chicago live, yes." It was the next day and we were on the first day and I was like, "I'm going to stay, I'll find a place to crash, I have some friends up there. I'm not leaving so give me a one-way ticket and I'll go to New York or something after."
+He got me a ticket and we're there and we're all hanging out and I made a show mix for him, every time he had a show before that, because he used to travel, I'd give him a USB drive and be like, "Here you go, that's for the show." I'm like, go to hand somebody a USB drive when he's about to get on stage. I'm sober, we've been hanging all day, I've been eating backstage. I worked with Walk The Moon back in the day and they were there, I was hanging out with them. I was all happy go lucky, I was like, "Look at all my friends, this is amazing."
+Then he's like, "No, what are you doing? Who are you trying to hand that to? You're going up there." I'm like, "What? Excuse me?" He's like, "Yeah, I didn't bring a DJ and they don't have one here." I'm like, "Dude, I didn't bring my laptop. I don't have anything. I can't play." I literally, at Lollapalooza, take the tour manager's laptop, this is 2015, from 2007, it's the 17-inch Macbook Pro, the one that they haven't made in ever but they made that one year. It's got all his tour management stuff up, there's 50 programs up of spreadsheets and stuff like that. I'm like, "You could have closed some tabs."
+I'm trying to open iTunes to aux-cord DJ, like live, and I have it going in here so I have control of the fader and that's it. I'm shaking so bad that I couldn't press the spacebar. I press play on one song and I run off stage and I run to the bar. I see the bar out of the corner of my eye, I hope a fence and everybody's looking at me like I'm crazy. I hop a fence and I grab six beers and then... It's backstage so it's free. She's like, "You get one." I'm like, "No, I'm going to need more. Don't you see what I'm doing right now? I'm not supposed to be up there." (laughs) I get a big glass and I'm like, "What do you have liquor wise?" She's like, "I think I have vodka." I hate vodka. I'm like, "Fill the glass up." I hold my nose and chug it and I go back up there and my hand steadies enough so I can press play. By the end I'm chilling, dancing a little bit and my mic's unplugged. I'm like, "I'm not doing this." The crowd goes way beyond what you can see because he was on a main stage, but he was a big deal. People left the main stage and it was forever, it goes back forever. I couldn't believe it. I was like, "Why am I up here? Why would I ever be up here?" His daughter was there so I was hanging out with his daughter. I picked her up and I was using her to distract myself from the crowd. I was holding her like a baby, DJing. (laughs) That was the first time and I was like, "I don't think I can do this anymore." I pulled him aside and I'm like, "Dude, this is terrifying. The last thing I ever wanted to do was be in front of people." He took out a wad of cash and without counting it grabbed a handful of hundreds and gave it to me. I was like, "Maybe I could do this a couple more times." (laughs)
+I didn't do it for a while and then they were like, "We're going to Europe." I had never traveled for leisure, I had never had the money or the time, it was one or the other. We're going to go to Paris, we're going to go to London. I'm like, "You need a DJ? I'll figure this out." We did a show in Finland and we did a show in Copenhagen and I wasn't talking, I wasn't doing anything and then I was sober for the rest of the stuff. I was like, "I'm going to get on stage, I'm going to move my shoulders a little bit and I'm going to drop it and I'm not going to say anything." I did the whole unplugging the mic thing. There was one show where BLB is like, "You got to go crazier because fans aren't doing anything. They're not… You're not opening, you're just going out there when he goes out there." He's like, "Do 25 minutes opening, just pick your favorite songs and play them." I go, "All right, that sounds terrifying. You want me to perform now? Not just play stuff, you want me to perform." He was like, "Yeah, just get wasted." I go to the tour manager, I'm like, "I need a bottle of Jameson on my tour rider." I was like, "How much Jameson could it take to get me on stage to do this?" Cut to an hour later, the bottle's empty and I'm losing my mind jumping into the crowd, all this stuff. There's video in Copenhagen where I'm literally running and sprinting and jumping into the crowd. I didn't care. I hit play on Dirty Sprite 2 and ran in.
+Slowly but surely I figured out a little bit and started… I'm an engineer so I would cut the songs together ahead of time. I'd have three songs in a row and press play once, they all blend and they're all… I would go up there and pretend and it worked. No disrespect to DJs out there (laughs) But you all know it could be easier.  (laughs / applause)
+Rollie Pemberton
+You know you are on Red Bull Music Academy here.
+Alex Tumay
+Yeah, I never claimed to be a DJ, that's all I'm saying. I'm an engineer who got thrown into that. I tried to get people to give me lessons. I hit A-Trak up, I'm like, "Yo, please help." I watch him DJ, every time he's around I'm like, "I'm going to sit behind him and stare and see if via osmosis something sticks." Every time I'm like, "I don't know, man, still nothing." Everything he's doing is complicated, he's triggering, he's got pads, he's got eight million cues. I'm like, "Naaaah, I can't do all that." One.
+Rollie Pemberton
+You say you're not a DJ, you're an engineer.
+Alex Tumay
+Yeah, I would love to DJ but that seems like it would take a long time to figure out.
+Rollie Pemberton
+You're more than an engineer though, as evidenced on…
+Alex Tumay
+I'm not a DJ. I'm not even a little bit of a DJ.
+Rollie Pemberton
+... As evidenced on Slime Season and Slime Season 2 and probably many other releases that we don't even know, you were involved with some of the track listing and stuff.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+Tell us the process of putting those records together because they were partly from…
+Alex Tumay
+From the leaks.
+Rollie Pemberton
+From the leaks.
+Alex Tumay
+Slime Season 1 was originally London's idea and it was going to be all London On The Track and Thug, but then during that the leaks happened more, they were getting traction. We're like, "There's some great tracks in here that we need to throw in there." A lot of Slime Season 1 is London but then a lot of it is we wanted to put some new tracks in there, we wanted to finish and remaster the old tracks, we wanted to really put together a project of… Slime Season was supposed to be hits. It was here's Thug's range, here's some crazy pop stuff, here's some hard stuff, here's his most popular song ever now and then I put my favorite song, "Freaky," on there. It's my favorite Thug song.
+Rollie Pemberton
+It's also my favorite Thug song.
+Alex Tumay
+Ever. Then he gave me 30 songs that he was like, "Pick." I got it down to 22, which shows how decisive I am because I couldn't pick, I really couldn't. Then we added… "Quarterback" came the day of, that was literally the day of. I was in bed and we had two versions of it, we had the Migos one and the [PeeWee] Longway. Longway's verse on there is so good and I was like, "I'm not leaving that out." I'm in bed mastering it and putting it together and sending it off to go onto Live Mixtapes or whatever. That whole tape was, “We're going to save these songs, we have to save these songs. We're going to take control back.” Same thing with Slime Season 2 and a little bit of Slime Season 3 also.
+Rollie Pemberton
+Okay, we're going to play something from Slime Season, which is Young Thug's biggest track to date, it is "Best Friend" by Young Thug.
+(music: Young Thug – “Best Friend” / applause)
+Slime Season 1 was primarily like a vehicle for "Best Friend" in a lot of ways. I think you were mentioning.
+Alex Tumay
+I mean that's what we, that's what me and Thug decided. It's like the labels are going to push “Good Times,” we're going to do this and we're like, "No, we have this track. It's super topical like, it's like amazing." Like I said Ricky is like my best friend in music, like he...
+Rollie Pemberton
+Ricky Racks who produced that.
+Alex Tumay
+Ricky Racks, like he was signed to the people that owned DARP and we had been making beats and like just hanging out for years and he hadn't had like a breakthrough track but like I always had like a pack of beats from him and they were always like that. They're always like that good. Every single one's that good or better. Thug didn't know him and so I'd just like throw a beat in there every so often and I'd be like, "What about this one?" He'd be, "Uh," and then that happened and like it became, like, “Where is the Ricky beats? Where are the Ricky beats?” I'd just call him up and get like a 10 pack and be like, “Here you go,” so it became like, I mean there's a lot of Thug and Ricky on the way. They have so much music together now. Which is amazing because he deserves it. He's like one of the hardest working people I know.
+Rollie Pemberton
+Around that same time period of when Slime Season was coming out, it was kind of a weird period for Thug because he got arrested by the... going into Lenox Square Mall.
+Alex Tumay
+Thank god I wasn't there that day, because I have all the files.
+Rollie Pemberton
+That's right.
+Alex Tumay
+And they raided his house and they took everything. They took the computer, they took somebody else's, they took like, Wheezy was up making beats and they took his laptop. They took everything. I'm sitting at home and it's one of those days, just like the other day it was like, “Where are you? Where are you? Where are you? Where are you? Are you home? Do you have the files? What's going on?” I was like "What's up, man?" Look at the Internet, and it was like I looked and it was like Thug arrested for yelling at...
+Rollie Pemberton
+Terroristic threats they said.
+Alex Tumay
+It's like, “Come on man.” He was like riding around on one of those little two-wheel things in the mall and some guy told him to get off and he was just like, "I'll kill you," or whatever, allegedly. He was probably like, "Get out of my face," and the dude was... I mean he's like 6'4" and then he's standing on that thing so he's like 6'7" and like, he probably just got scared. I mean those guys have them too, those... and I was just that could have been a cool high speed chase like if he's going through the mall and trying to catch him down. They've got like the little three-wheeled ones and they got their helmets on.
+Rollie Pemberton
+Yeah, Paul Blart, Mall Cop.
+Alex Tumay
+Yeah who would listen to that guy, I wouldn't. They're like, “Get off,” I'm like, “No man.” I just wouldn't get arrested because cops are racists, so you know, it's the story out there. Sorry guys, [inaudible].
+Rollie Pemberton
+Speak your mind.
+Alex Tumay
+I mean he's in a nice area, dressed like how he dresses, it's like northern Atlanta, it's a very white neighborhood and he's riding around on the thing making a scene. I think he was a little targeted. I don't think that's like that crazy to say. It's a super affluent neighborhood that he was in.
+Rollie Pemberton
+I was just in Atlanta and just from all the trap songs I was like, "Oh, I need to check out Lenox Square Mall." Right.
+Alex Tumay
+Yeah, it wasn't even in Lenox. It was in like the mall north of Atlanta.
+Rollie Pemberton
+An even northern one, yeah. But…
+Alex Tumay
+Lenox is lit, they don't care. You could like ride those down the escalator, they don't care. (laughs)
+Rollie Pemberton
+When I got there Young Thug was standing outside at the mall.
+Alex Tumay
+Yeah, they love him. I see Quan there more than I see him anywhere else now. It's like, I just run into him at Lenox.
+Rollie Pemberton
+What is it with the Atlanta culture? There's like everyone hanging out at that mall, you know, we've got like Magic City. There's like these hubs but there's…
+Alex Tumay
+Because those places are great.
+Rollie Pemberton
+Right, but…
+Alex Tumay
+Magic City's amazing, I mean what do you want? It's an amazing place to be. It's a friendly environment where like the community hangs out and they enjoy entertainment. (laughs)
+Rollie Pemberton
+Adult entertainment.
+Alex Tumay
+Yeah. You know bring the whole family.
+Rollie Pemberton
+You had all the backups, luckily.
+Alex Tumay
+Yeah, which was before, it was before Slime Season I think is when they raided him, right before it.
+Rollie Pemberton
+Right.
+Alex Tumay
+We were able to drop them, and like, "So you got the files?" It's like, "Absolutely I have them." Because I have a safe and like everything, like everyday I go home and I back up my drive onto the drive on my safe to lock it up, hide it again. I don't believe in one back up. I don't believe in two. I believe in three. Like, the artist should have one and you should have two. Honestly, “Skyfall” wouldn't have existed without me doing that. Because Travis is like, super protective of his files because like Kanye had just had a situation where he had a leak from somebody stealing something. Travis was like, first day working he was like, "Do not save anything on your drive." I was like, "All right."
+I knew the risk I was taking which is if something comes out and it's from me, like, that's the end of my career, but I also knew that we can't have one version of this. This song is too good. What if we lose it? He went to, like, a restaurant and somebody went into his car and grabbed his backpack when he was in the restaurant. He hit me up, he was like, "Do you have the files?" I thought it was a test. (laughs) I was like, "No dog, I don't got no files." He's like, "No, no. Somebody went into my car and jacked my bag," because they thought it was a nice Louis bag or something. They saw it through the window in valet and the valet probably left the car unlocked and like snatched it right up and they took his drives. I was like, "Oh yeah, I have it. I definitely have it." (laughs) He was like, "Yeah, can you send it?" I was like, "Yeah, definitely." That's when he went in and redid all the vocals and like finished the song and sent it back.
+Rollie Pemberton
+Was he mad that you'd done the backup though?
+Alex Tumay
+I assume not.
+Rollie Pemberton
+Clearly not, right.
+Alex Tumay
+Clearly not. There's a few songs on there that I was like, that came out like the one with Future and him that came out before. That was on there. There's a few songs that I had because we had been working for like two weeks or whatever, so I had a good handful of songs that, like, would never have seen the light of day if I wasn't just, like, a little drag and drop.
+Rollie Pemberton
+So it's three back ups. That's the rule.
+Alex Tumay
+Three.
+Rollie Pemberton
+Around the same…
+Alex Tumay
+In different places.
+Rollie Pemberton
+Oh yeah?
+Alex Tumay
+Yeah, because like, if your house burns down while you're away. Just like, it's like literally how I think. I'm like, “What if my house burns down while I'm out?” I like, literally have my backpack on me all the time. If I'm working on a project I'll have like a flash drive or something so if everything goes wrong at the same time, I still have this because, "Just in case." That's just how you have to think when you engineer I guess.
+Rollie Pemberton
+Around the same time period it was “Good Times” comes out I learned something about how that beat was picked out and I find this very interesting. Can you tell the story of how the beat was discovered for this song?
+Alex Tumay
+OK, so this is like during, we did “Good Times” during the Rich Gang sessions, but I knew that it couldn't go on the Rich Gang tape because it's Jamie XX and that would be... That would have been, I mean I would have liked that but I feel like he sent the beat through 300 to me to be played for Thug because Thug would only listen to beats that I picked for him to listen to. If somebody else picked a beat he would be like, "OK, cool," and then just move on, they go play pool or something in the lobby. If I played it for him it would be like my co-sign, like I've... people would give, like, hundreds of beats a day especially during the Rich Gang stuff and he'd be like, "Alex, what do you got for me? What'd you pick?" I'd have them all marked like colors, like red was the best ones, yellow and just kind of worked my way down. Then like grey out whatever I picked.
+I made one of them blue, which is "Good Times" because they sent me a pack and I was like, "What's this and why does it say Jamie XX on it?" Because I'm a fan, obviously. They're like, "Oh he's making an album, just see if he'll do it maybe." I was like, "Oh yeah, just see if he'll do it maybe." For the next two and a half months during the Rich Gang shit the first thing I did every day when Thug walked through the door was play the “Good Times” beat. He was like, not in that vibe. I think we did that song the same day we did “Imma Ride,” which is like, a super, like, trap song, like super aggressive, like, it was just not, it was like... We weren't doing a lot of cross over stuff at that point and he was just like, "Man, why do you keep playing this beat? It's too happy. It's too happy. It's too happy." Like two and a half months go by and I play it and he's like, "Fine." Comes in, raps on it, and it's the first thing we do that day and the one thing I'll say about it is they took my name out of it, like Jamie's people, because he says my name in the very beginning. I don't know if you know the song. He says, "And he's running up the money on these hoes." That line? He says, "I've got Alex in this bitch with me," and that's the second half of the line. I guess they didn't think it fit or whatever.
+Rollie Pemberton
+They didn't think you fit.
+Alex Tumay
+Yeah, they didn't think I fit, had a place in the song. I'm not that mad about it. I just cry about it at night and stuff. (laughs) I was like, "Jamie and Thug on the same song with my name on it." I was like, "Imma frame the waveform."
+Rollie Pemberton
+Let's take you down memory lane.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+"I Know There's Gonna Be (Good Times)," Jamie XX featuring Young Thug. 
+(music: Jamie XX ft. Young Thug & Popcaan - "I Know There's Gonna Be (Good Times)" / applause)
+Whenever you hear that song, you feel like the Popcaan, you're like, "errr"...
+Alex Tumay
+I mean, first time I heard anything it was a surprise because I thought it was just a Thug and Jamie track. When we first heard it, too. Like, "Okay, send us the files." They sent me the beat track out. They're like, "All right. You got to try to mix it." Obviously, they added a whole bunch of stuff and changed it. They sent it back and I was like, "No, no, no. This is not what I sent you at all." I was like, "Can you put my name back in?" The Popcaan part, it threw me off because I thought the sample was going to be the hook and then he went on top of it. It grew on me because I had heard our version for months. It had been months and months at that point, so it took a while to grow on me, but now I love this version, minus like the first 30 seconds where they don't say my name. I'll let it go. Don't worry. I love it now, but it definitely took a while.
+Rollie Pemberton
+That song ended up becoming the song of the summer. It was just such a jam.
+Alex Tumay
+Yeah, definitely.
+Rollie Pemberton
+I feel like it's also a result of your previous experience with any music and the knowledge of knowing that, that could've been an opportunity that just never happened.
+Alex Tumay
+Yeah. I think definitely the fact that I knew who he was made me force... They had sent it to a bunch of rappers. There's a bunch of rappers out there that have verses and a lot of other versions have come out, but apparently they said I played it for them over their phone and they're like, "Yeah, we need that one. That's the one we need." I was like, "Yeah, I get it. It's really good. He's really good at rapping."
+Rollie Pemberton
+That was the biggest mainstream moment for Thug.
+Alex Tumay
+Yeah. That was the biggest crossover, for sure, for him.
+Rollie Pemberton
+How did that change things just for your general operation?
+Alex Tumay
+For between me and him, nothing was changing at that point. We were literally like brothers. We literally lived together for the most part. I built a studio in his place. He had a mansion and I literally would just go there and lay on the couch, fall asleep, wake up and be like, "All right. Let's make some more music." I got him a vintage [Neumann] u87 [mic], CL 1B, Apollo 8 [audio interface], like the trash can Mac. It ran better than most of the studios that he went to and it sounded better. That's where “Best Friend” was done, I think. We didn't have to leave. We were just hanging out all the time. After that, it was just business as usual for the two of us, I think.
+Rollie Pemberton
+And something amazing happens. Kanye comes calling.
+Alex Tumay
+Yeah. It was like late last year and we were touring. They're like, "Alex, get in the car." I'm like, "Where are we going?" It's like middle of the day, like we don't normally move until like 8 PM.
+Rollie Pemberton
+He seems very impulsive Young Thug.
+Alex Tumay
+Yeah, 100%. I mean, you're always just on your toes. You've got to be ready for anything all the time. I think one of the dudes from the label was like, "Get in the van now. Get everything you have and get in the van. We're going." I'm like, "Where are we going?" He's like, "Can't tell you." I was like, "I wish you would tell me because of the situations that you guys have gotten me into before. I just wish you would just say something, like throw something out there." (laughs) We're in this car and we're going and we're driving and we're driving. We get to this neighborhood and it's got a gate. They're like, "We're here to see Mr. West." I said, "Excuse me?" I'm in the back and I'm like taking pictures at this point. I'm like Snapchat-ing. I'm like, "I'm going to Kanye's house. I'm going to his house." Like freaking out. We get to the house, sign all this paperwork or whatever, and then we go in and he's got... It's the house from the TV show. It's like the big courtyard and they're building everything and in the back, they have a studio and Noah [Goldstein] is there and 'Ye is there, and that's it. It's me, BLB, the security, Thug, Thug's girlfriend, Thug's daughter. The mic's in the room. It's super chill. They have like a big old TV, like one of those 90-inch LED screens. We're just chatting for the first couple hours and playing music and Kanye's like the nicest person I've ever met. I was kind of worried because you've seen the rants or whatever. I was like, “No,” he's literally the nicest person. All we did was talk about movies and I mean we worked a lot, too, but he put up, There Will Be Blood and American Psycho and we watched them on silent. Thug had never seen them before and it just never had come across him.
+First of all, I had to narrate these movies because they were on silent. I've seen them enough to be able to do. I was telling Thug what was happening, he's like, "Man, these movies are amazing." I'm like, "You should hear them. They're even better." (laughs) We're just running through tracks and 'Ye is playing stuff and he's like, "Maybe record on this. Maybe record on this. Maybe record on this." He pulls this one up and he's like, "Maybe record on this over these vocals." Thug does his vocals and it's a small part, small, but I got to work on a Kanye album, so like, if I recorded one word, I'd be like, "Credits: Kanye West". That's happening like, 100% of the time. We were there for like 15, 16 hours just working and working and working. They'd pull up new beats and Noah would go in and he'd record or I'd record and we'd drop back and forth. Noah's an amazing engineer and has a crazy sense of timing, too. They're working off grid the whole time, and he's, like, flying stuff, and it's all just like, he knows what it looks like, and it's not me. I'm not the tap-to-translate dude, I'm like, “OK, let me build the grid and move everything and make sure it's perfect,” then I'll adjust it later to how I want it, but he's just like, "Nope. Nudge nudge, I'm going to…" "OK." I was just watching and learning, because obviously he's probably had to fly by the seat of his pants more than anybody with that situation, because they're making albums and they're finishing them the day of... It's the same situation, it's just… There's a lot more production going in with a Kanye album than there is anything else.
+Rollie Pemberton
+Let's play the result of that. This is “Highlights.”
+Alex Tumay
+I cried the first time I heard this. I heard it along with everybody else who was watching that Madison Square Garden thing, so I didn't know that our vocals made it, and I'm watching, and I'm like…
+Rollie Pemberton
+Thug is sitting on… Modeling.
+Alex Tumay
+He's sitting there, and I'm like, "We had to make it. He's there, we had to make it," but I didn't know, and they played it, and I just lost it. I was like, "I just made a Kanye album [inaudible]." That's the bucket list! It's that, and, like, Andre 3000, were one and two, and I was like, "That's one." I was like, "Just from a random day, where I got told to get into a car and just said OK."
+Rollie Pemberton
+For anybody watching, if someone tells you to get in a car, you might end up at Kanye's house.
+Alex Tumay
+You never know.
+Rollie Pemberton
+This is “Highlights.” Young Thug and Kanye. 
+(music: Kanye West – “Highlights” / applause)
+One of the interesting things about that song is, I feel like Kanye's really good at doing this thing where…  That song, to me, sounds influenced by Young Thug's music, and it has Young Thug in it, and it's got those colors but it's unmistakably still a Kanye song. How would you recommend, for people who are mixing or working on a track, how do you be influenced by something but still maintain the sonic identity that you're known for?
+Alex Tumay
+One thing that I always talk about is, when people ask me for mixing skills and tips and tricks, I never have a, "Do this to get this," you know what I mean? It's all in the philosophy of, you have a voice and your voice is super important. It's what happened with a lot of the stuff we did in the beginning. It's like, "We have to maintain this Atlanta voice. This has to feel like Atlanta. It can't be too polished, it can't be too perfect. It has to be a little wrong." That kept the voice of everything we were doing back then.
+With Kanye, he's like, "All right, I'm going to throw these samples in, I'm going to do this, I'm going to do that. I'm going to make it mine." I think, when you're collabing, it's like a back-and-forth. Who's going to be featuring who? You know what I mean? I think when it's your track, and you have another producer on it, like, make it yours. Let them influence it, but that's your track. You have to keep you at all times, because that's what you have. You have your voice and that's something that nobody else has, so when you're trying to copy people or you're trying to emulate people, and that's all you're doing, you're erasing the only thing that you have that no one else has.
+Everybody else can do… Everybody else can copy. I've traced before, you know what I mean? It's a lot easier than drawing, and… I don't know. I just think that whatever you do, you have to make sure that it's you first and not anything else when you're creating. You could bring in the influence, and it's OK to be influenced by stuff, but it's not OK to just turn around and just become that project that you're trying to emulate or be influenced by.
+Rollie Pemberton
+That's something that's happened a lot with the Atlanta sound, right? Where people have taken it and run with it, and this is something that was originating in DARP Studios when you guys were just all hanging out.
+Alex Tumay
+Yeah, I mean, I don't mind seeing artists that sound like Atlanta artists come out, especially because when you travel the world… We were in Dubai and heard rap there, and it's like, "Oh, sounds kind of like Atlanta." You go to France, and you're like, "This is just Atlanta. This is amazing." We went there and we worked with this artist Doce, and he had such an Atlanta sound, but it was French producers, French artists, everything's theirs, and it's like… We were in this WWII bunker, which is crazy, that was converted to be a studio, and that's the crazy thing, but we were sitting there, he's playing all this music, and I'm like, “It's crazy how this sounds like Atlanta two months ago.”
+We were there and Barter 6 was still pretty recent, and it sounded like Barter 6, and it was like… It had those same musical elements that London brought with that, and the tune, and the same hall reverbs and stuff. I was like, "Y'all do your homework. That's awesome," but it still felt like his… It felt like [inaudible] and Doce and all of them, they still sound like them, but they just sound like them who have been listening to Atlanta for a few years, like, "Well, that's fine."
+Rollie Pemberton
+I guess another way of keeping moving, and avoiding style being totally taken, is to just keep changing and keep growing.
+Alex Tumay
+I think, especially in Atlanta, you don't really hear two artists pop off that sound the same. You've got the Migos. the Migos sound like the Migos. You have Thug. Thug sounds like Thug. You got Quan, you have fucking everybody. Future. Future sounds like Future, out of Atlanta. Nobody sounds like Future.
+Rollie Pemberton
+Gucci sounds like Gucci.
+Alex Tumay
+Gucci sounds like Gucci. Gucci doesn't even rap. Gucci just says stuff that's baller as fuck and is amazing. He talks like that. That's like, how he talks. He could say anything, at any point, and you're just like, "That was better than anything I could think of, ever, with an hour to write it." He's amazing. All of them. Pee-Wee Longway, sounds like Pee-Wee Longway. Everybody sounds like, they have to create their own unique identity, because biting in Atlanta is like a crime. If you sound like someone else, it's talked about forever. It's like, "You just bit him, that's just stealing." You know what I mean?
+Rollie Pemberton
+I want to talk about this next song that I'm going to play, which I feel like has created a lot of social media interest in you specifically, so I'm going to play the song first, and then we're going to find out, once and for all, what is actually being said here. I'm going to play “Digits” by Young Thug from Slime Season 3. 
+(music: Young Thug – “Digits” / applause)
+On Twitter… There were some magazine articles, you went on Twitter, you bass-boosted, you boosted the vocal, you isolated the vocal, you made kind of a techno track, just looping the thing.
+Alex Tumay
+I did all that... Like, I make jokes, and I think they're funny, and then people think I'm serious.
+Rollie Pemberton
+They grow legs.
+Alex Tumay
+They grow legs. Like I did ... I talked shit about “The Star Spangled Banner," because you know how like they're not standing, Col Kaepernick's not standing for it right now, and I was like, “Of course he's not. It's not a banger. That song kind of sucks. That's the weakest national anthem of all time.” I was like, “Francis Scott Key got no bangers, bro.” I'm like, “I'll stand for it when it's got the Metro tag and the 808 sign.” So I did that, but I put it in there, and I said, “Star Spangled Banger coming soon.” And like they wrote an article about that, and now I have to do that, like I really have to go make “Star Spangled Banger,” and like the same thing happened with “Digits,” because I thought it was "horses" from the beginning. I've always thought it was horses. I don't know what y'all think.
+Rollie Pemberton
+It's either, "Horses don't stop," or, "Hustlers don't stop, they keep going."
+Alex Tumay
+London says it's hustlers. 300's come out and said it's hustlers, so I'm in the minority, but like I recorded it, and I heard it, and I thought horses the whole time, and I was like, "That's a weird line," (laughs) But it's kind of true. They run for a really long time, so like...
+Rollie Pemberton
+It reminds me of wild horses.
+Alex Tumay
+Exactly, and I was like that's kind of dope, like, and I've been saying horses for like a year-ish, if not more, and like now everybody's telling me I'm wrong, so I'm sticking with it and so I made like a chopped and screwed remix, where it's just like horses over and over and over again, and that grew legs, and it grew legs again like the other day. Somebody went and reposted it. It came back up. I'm like, "Please stop," because I'm in the wrong, apparently. It's like Doug's people say that it's hustlers, so it's hustlers, right? Not to me. It's horses. It's definitely horses.
+Rollie Pemberton
+I feel like it's horses.
+Alex Tumay
+Yeah, in my heart it's horses.
+Rollie Pemberton
+This is a good example, though, of the power of social media, and you're very good with social media.
+Alex Tumay
+I'm all right. I'm hit or miss.
+Rollie Pemberton
+Your Twitter's pretty fire, but this is emblematic of kind of a new face of the engineer now, because back in the ’90s, with rap, you have Bob Power. That would be like the only person that people could name at that time, but now everyone's got a Twitter. You got MixedByAli. You got kind of like these star engineers. You got obviously, you mentioned before, Mike Dean, and you're part of this kind of new wave.
+Alex Tumay
+Yeah, I stuck in. What I did when we were in the studio all the time, I'm posting about what's going on, and I'm not like giving anything away. I don't ever do that, don't ever say, "This is a song we got coming," don't ever claim anything. I never did that. I'm just like, "In the studio with Metro and Thug," doing this, doing that, and I'll post, I'll wait a day or whatever, "Oh, we had an amazing session," and then when people would post the songs, I would make them aware that I mixed them. I'm not obnoxious, but it worked, because “Danny Glover” came out, and I was like favoriting every single person that liked “Danny Glover.” I was just like, “I got to like build some sort of other identity for myself through this, because this could all go away at any time, and it'd be cool if more people knew who I was, it would be easier to get more work, because nobody really talks about the engineers being important.” They're expendable at the end of the day.
+If you're an annoying engineer, and even if you're really good at your job, but the artists don't want to sit around you, they'll just go get a worse engineer and then pay a better mixer to fix it. It's not how it should work, but like that's how it works, and so in a world where people are seeing you as kind of, or at least the labels and the general consensus is, they would do this for free, because it's a great job and it's a lot of fun and they get to be part of something, and they're just the technical side, when I look at it as like sculpting and, like, art. I wanted to make it known that that's how I view it and slowly but surely it built this following or whatever. That's how I know Ali and I know Mike Dean now, through that.
+Rollie Pemberton
+I feel like part of it has to do with things like Genius and people getting really into minutiae of all these rap records and wanting to be like, "I found out who mixed this track before anybody else." Before, it used to be, in the ’90s, it was like producers, we were starting to learn more about producers, but now it's like people, they want to know every part of it.
+Alex Tumay
+I know you mentioned Reddit. Before anything, I offered, I was like, "Here's I mixed in...” This was after “Danny Glover.” "I mixed “Danny Glover." I'm like "If y'all have any music that you want me to hear, send it," and they sent like 600 songs, and I gave feedback on each and every song and that built this relationship between me and the fans, where they felt like they can communicate with somebody who was involved. Maybe it wasn't the artist or the producer, but it was somebody that was involved.
+The same thing happened with the leaks. They saw when I put that statement out there, they were like, "Oh shit, that's a person. There's a person behind that's affected more really than anybody else, because he can't go on tour to get that money back." Those are 150 mixes that I never got to get paid for or whatever. Do you know what I mean? That was like, we did all the songs. "I'm going to be all right." You know what I mean? "I'm going to be able to charge the label for each and every mix of each and every song, because eventually it's going to all come out," and it was like one day I woke up and I was like, "Whoop, there goes a year's worth of work." Really, two years' worth of work. It's not all of it, but it's enough of it, and I think becoming a human instead of just a name at the bottom of credits was important, and also I wasn't getting credit. It's just mixtapes, so I felt like I had to say something all the time.
+I was like there's no AllMusic for mixtapes, really. Nobody really cares who mixed 19 & Boomin, you know what I mean? Nobody really cared. Now it's on there because some fan did it and they put the information up there, but it's really like, if it's not an official credit that a label posts... Like I still don't have credit for Barter 6, the mixtape, and there's no physicals except for the vinyl, which like, who from AllMusic is going to buy a Barter 6 vinyl and check for my credit? It just doesn't happen, so I feel like reaching out and solidifying a name in a whole different arena helps a lot with that, because otherwise you wouldn't be able to search me on the Internet at all, so it would be hard to find the guy that did all these songs, because there's no “Danny Glover” credit, there's no Rich Gang credit. There's none of that. It doesn't exist, which is a shame, and it should. It definitely should.
+Rollie Pemberton
+What do you think can help change that, because it seems like it's kind of a rap thing, where you have these kind of like incorrect track listings and just like missing information, and it's always been that way.
+Alex Tumay
+I think engineers should stand up for themselves more. I think that's... I mean, when you're putting the track together, I know it's like Seth Firkins, Future's guy. When he did Esco Terrestrial, his name's on the front of it because he stands up for himself. He's like, "No, if this isn't going to have credits, I want my name 'mix and mastered' on the cover," and that's the way that it has to go. I did it with Metro. I was like, "Metro, can you just throw something in there like 'mixed, executive' or something like... Put my name on this tape." And it's like those little images get circulated forever. That's going to be the closest you can get, because there's no label pushing AllMusic. There's no paperwork usually. It's usually like a cash in hand situation or the label or the artist is paying you off the books. It's definitely not a label invoice where you can prove, "Oh, I did this," because that didn't exist for like Rich Gang Tha Tour. That was just like, Alex mixing it and I was like, "All right, let's go. Let's just do this now," and then like it comes around a year later, it's like, if I didn't literally just like scream from the mountaintops that I mixed it, nobody would know anyway. That's just kind of how it is.
+Rollie Pemberton
+Now you're starting to get your props, and I think this next song, in my opinion, is your best achievement, because you helped it get free and get heard by the world. This is from the most recent Young Thug release, Jeffery, and it's a song called “Harambe.”
+(music: Young Thug – “Harambe” / applause)
+I feel like comparing that to “Skyfall” or “Danny Glover,” I feel like it's almost like he's like a different person is making the song.
+Alex Tumay
+Yeah. He grows exponentially every time I see him. Every time I see him, he's just trying something new just because. He makes it work. He just knows what's going to sound good in his head, and he just goes for it. He loses his mind in a booth. He's not one of those dudes that just stands there. He's dancing around, jumping up and down, and all that. You hear it in certain songs. You can hear his footsteps on quiet parts of songs. He's like stomping and I didn't pick up on it or something like that. I put on headphones and I go back, and I'm like, "That's dope. I'm leaving that. I like that." Bruce Swedien left Michael Jackson snapping.
+Rollie Pemberton
+That's right.
+Alex Tumay
+So. I'm not going to take out my Michael Jackson's stomping.
+Rollie Pemberton
+That song almost didn't make it onto Jeffery?
+Alex Tumay
+This was another one where it was like, with that situation, we were at Jungle City in New York, which has two rooms, he's in the room upstairs recording, just because he never stops recording, and I'm downstairs mixing. I'm getting all these files. This is like, mid-August, early August. I'm getting all these files, and I go upstairs to play, I think “Nascar”, or it's called “Wyclef Jean” now. I go to put the drive in, and he's like pulling up a song that he had halfway finished, which is this. He's playing it and he's just kind of shrugging his shoulders, like, "Nah." He's like, "Maybe I'll finish this song." I'm like, "No, no, no. This is going on the album, finish it now." I told the engineer, just keep playing this. Keep playing this until he finishes it. He had the last verse and then he like, flew the hook. He had half a hook, and the last verse to do, and I was like, "You have to finish this now."
+Then the second he finished it, I don't know if he was sold on it yet, I just went up there and I told the engineer upstairs to text me. I was like, "Put it on a hard drive, and I'm going to come up there, quietly take it from you, and go back downstairs." I stopped everything I was doing and I mixed that. I brought it back up like an hour later and I was like, played it. Video got to be out, because they had a dude filming the whole time, but we went crazy. I was standing by the credenza, like jumping up and down in the room. I love that song. That song's so hype. I can't wait for him to do that song live. I really want to see that. That song live is going to be insane.
+Rollie Pemberton
+I really feel like, the sound of rap, it changes so fast, right? We've seen it just from the beginning of the songs that we played to now, and it's really a short period of time. I feel like, so many rappers and producers, they faded away over time. Because their music never really evolved, they just kept doing the same thing, same thing. Then they just kind of fade out of the mainstream. I'm wondering how do you keep sound appealing to people who are already feeling it, but fresh enough to still be cutting edge? How do you not stay stagnant?
+Alex Tumay
+I think, the second you start to feel bored, or not inspired by it, you just throw everything in the garbage. Every little template I've had that I've mixed on, where it started to feel like, "OK, I've been doing this for too long." So I get rid of all my presets for any of my delays. Switch up the plug-ins, do all that. For me at least. That's how I kept my sound continuing. For him, it's like, switch up the producers, get yourself out of your comfort zone, rap like that. Whatever it takes to not be comfortable. Because comfort's like the death of creation, anyways. Anytime you’re comfortable, nothing good's happening. Personally, that's how I feel. I'm always kind of on edge, in the studio, and so is everybody else. It just fosters that environment, I think. At least for Atlanta rap, you know? I don't know about pop music. I don't know, if maybe you want like that situation, in like, Katy Perry's room. For me...
+Rollie Pemberton
+Not in Young Thug's room.
+Alex Tumay
+Yeah.
+Rollie Pemberton
+I think that's a good way to start, stop. (laughs) Shout out to Alex Tumay. (applause) Yeah, let's open it up to questions.
+Audience Member     
+Hi.
+Alex Tumay
+How's it going man?
+Audience Member     
+Pretty good, and you?
+Alex Tumay
+I'm all right.
+Audience Member     
+OK. I feel like you touched on this a bit before, but I feel like there is a bit of a connection between the kind of like, spacey, like, "wrong sound" in Animal Collective records and in rap that you were doing later, do you feel that? Do you feel like there's an influence? Did you think about the engineering and the mixing in similar terms? Did you bring anything from that over to hip-hop?
+Alex Tumay
+I think, the only things that have to be a certain way in rap, are the kick, the snare and the 808. Those always have to hit hard, and be in your face, because that's the driving, definitive part of rap. The vocal has to be clear and present. Everything else, I did like I would do. I never wanted to mix rap like a rap record, because I was in city where everybody was mixing rap like a rap record. Thinning out the vocals too much. Making them a little over-compressed for the sake of being over-compressed. Just making everything in your face and dry, and right there, and heavily Auto-Tuned, and that was the sound. I was like, "What if we pulled back on the Auto-Tune? What if we added a little bit more? What if we threw some weird tape delays in there?” Stuff that you don't normally get in rap and that's kind of like, I wouldn't say it's better or worse, but it put me here, and everybody else is right here. Everybody else is competing for the same stuff, working together, and I was over here, doing something slightly different, just because it's what I preferred. I did what I preferred, the people who gravitated to it did, and those are my clients now. The people who didn't, stuck with the handful of other engineers who were doing it all that way. I think that was a big part of it. That opening influence of, there are no rules, changed how I looked at rap. The fact that I ran into Thug, at the studio, is the luckiest thing because he's the perfect vehicle for that kind of sound. He doesn't abide by the rules of rap, at all. I think that was just the universe, or whatever. It was just me getting really lucky.
+Rollie Pemberton
+Anyone else? Oh. Back there?
+Audience Member     
+It was really interesting you talking about how you were kind of there, when the Atlanta trap scene was coming up, from the beginning. What cities in the US, or anywhere, are kind of emerging new sounds and creating new sounds? Where should we be looking to kind of see the new rap, or the new hip-hop?
+Alex Tumay
+Houston's incredible right now. Houston. Detroit. Chicago. Miami. New York's got like a whole new vibe that they're kind of working on right now. A lot of the dudes from New York aren't abiding by the boom bap rules anymore. Like Desiigner, and of course you have LA. Really, a lot of the new, interesting stuff I'm hearing is from Houston. That stuff kind of blows me away right now.
+Rollie Pemberton
+Right there?
+Audience Member     
+I also choose to believe he says horses.
+Alex Tumay
+Thank you.
+Audience Member     
+Anyways, did you work on the Bankroll Mafia tape?
+Alex Tumay
+I had recorded a few songs on there but it was done mostly by T.I.'s engineer, Elliot Carter, at the studio next door. Because they were going back and forth, at the time Bankroll Mafia was recording a whole bunch of songs, at Song Sound Studios, and we're neighbors, and so it was a lot of like, back and forth with that. I did, Bankroll Mafia was created by one of the dudes in the studio. It was Shad [da God] originally, and his buddy, we came up with it way back, way earlier, and it just kind of like grew, over time. Then Tip was like, "All right, let's do this," Thug got in. There's a song, “I Need War,” and that was where it became a real thing. That was one that I did, but, I only worked a little bit on that one.
+Audience Member     
+Another question, how do you deal with the artists in terms of letting them do what they know how to do, what they want to do? But still, do you ever have to be like, "No, you have to do this, this way." How do you deal with that situation of getting what you need as an engineer and letting the artist do what they need to do?
+Alex Tumay
+It always depends. One thing I'll say is, especially when you're starting, the only thing you have to do is show up. Show up all the time, and show up first, and leave last. Because until they know you and you have a reputation, or they've worked with you enough, nobody cares if you're good, or what your opinion is, or what you have to say. Because, like I said, they look at you like an engineer, and it's your job to prove that you're opinion is valid, and that they should listen to you. Certain dudes, like PeeWee Longway is always looking for feedback. He's like, "What do you think about this line? What about this one? What about this?" He'll just rap it over and back, "All right, this one's best." And take that and move on.
+There's certain artists that are looking for it. There's certain artists that, if you interject you've thrown them off their whole creative process, and now the session's ruined, and they're never calling you again. It's just, I only speak up when I know I'm right. When I'm 100% like, "This is how this should go." I say something. Because, at that point it's detrimental to the music and the end project. So you have to, at that point. That's your risk to take. I've done it a few times, but for the most part, unless I know I'm right, or something could be cool, and it's an environment that's fostering that. Like, he's done, say Thug's done, I'm like, "Yo, what if you went back and like did some ‘ohhhs’ and ‘ahhhs’ here and here?" And I did something to them. Most of the time, what I'll do is I'll take old takes, like with a situation like that, I'll just go in and I'll open up my tracking track and I'll put it in playlist, and I'll drop it down, and I'll just solo like every little like sound he makes, and chop them up and put them in the background and stuff like that. Because sometimes you've got to just work with what you have. I mean, there's 300, 400 takes, there's got to be something in there.
+Rollie Pemberton
+I had a question for you.
+Alex Tumay
+You again?
+Rollie Pemberton
+Yeah, that's right. When can we expect Hy!£UN35?
+Alex Tumay
+[pauses] I know nothing about release dates, ever. You know when I know about the release date? When I say, “Here's the album.” Every other time I've been like, I don't ever know if you've ever seen, I will not speak on it.
+Rollie Pemberton
+Right.
+Alex Tumay
+I don't know. It's not because I, like, know and I don't want to say it. It's like, "I found out too, from the Internet!” I found out from the little video they put out also, that said, August 26. Then I was like, "August 26, that's the date." Guess I won't be sleeping for the next 10 days, and that was it.
+Rollie Pemberton
+What else is next from you? What are you going to be working on?
+Alex Tumay
+I got a call a couple of days ago, from Metro. I think he's going to be doing his own project, an album. I'm going to be mixing that, I'm hoping. Because, as far as dudes who have done the most for me, Metro has done the most and I really want to consistently be working with him, all the time. He's always looked out for me 100%. More than anybody else. He's the one who cosigned me, he's the one that got me in the room with Bird the first time. He's always been like, "No, you should trust this dude. I trust him. You should trust him."
+That's how, with the Savage Mode stuff, that's how that even got in the door. He called me, and he was like, "Yo, you need to do this." I was like, "Absolutely. But where are you?" He was like, I forget where they were, they were in LA or something, but they were coming back to Atlanta, but I wasn't in Atlanta, so I flew back to Atlanta. I met him in the studio, and they gave me one or two tracks, and I did one, and it was “Ocean Drive”, and I did it. The Auto-Tune was in the wrong key, the dude who recorded it. I don't really like Melodyne, so I had to put three or four different Auto-Tunes on it. I put the Auto-Tune EFX, which is like super strong, like 100%, and I put it in the right key. He's still hitting notes weird, so I put a slower Auto-Tune on it, which slowed down the way it grabbed it. It basically re-humanized the wrong notes and then I put the harmonies on there. It transformed into a whole 'nother song, and they were like, "Okay, you can mix the whole album." I was like, "Oh, cool. It was fun."
+Rollie Pemberton
+Okay, let's end it there. Let's give it up for Alex Tumay. (applause)

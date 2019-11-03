@@ -1,0 +1,535 @@
+The go-to guy for anyone seeking the analog dream in a digital world, mastering engineer John Dent started in the glory days of the industry, working at Island Records in the ’70s, and placed himself at the heart of London’s sound world, seeing the birth of the CD and the explosion of digital. 
+In his lecture at the 2008 Red Bull Music Academy, Dent explained why digital sound is inferior to analog and why MP3 doesn’t even register while taking us through the mastering process step by step. 
+Benji B 
+Today we’re going to be talking about the final stage in the recording
+process, mastering. There are few people better to talk about that with us than the man on my left. Please welcome John Dent.
+[applause]
+John Dent 
+Thank you very much.
+Benji B 
+To kick off, what exactly is mastering?
+John Dent 
+Mastering is about making choices. You’ve recorded the tracks, you’ve mixed the tracks and, in theory, you want to do something with them. The world out there is very competitive, lots of professionals making really good recordings, so if you don’t do something with them they may sound weak, lifeless and insignificant. It
+may not seem like that while you’re working on it, but in my room in my studio in the west of England sits a pile of gear and a reference monitoring system, but you can tell in stark black or white whether something has got something or it hasn’t. 
+I get a lot of material in the studio now, especially recorded and produced in the digital domain that actually doesn’t sound that clever. The files that I get in are probably seven to eight dB quieter than they need be. I’ve got the skills and the tools to create much bigger sounding files. But I don’t actually do it by just
+hitting it with an L-2, which is kind of what happens in a workstation. My approach is a lot more subtle. I tell my clients I’m the plugin. I construct a signal path with this equipment and out of it comes some wonderful music. And I can give some demonstrations at some point.
+Benji B 
+When you master a track, what exactly are you trying to achieve?
+John Dent 
+There’s a number of factors. At the end of the day, someone is trying to say something
+musically and that has to override everything. You also have to look at the type of musical style, the genre someone’s fitting in. There will be people who invent new styles, but there’s always a ballpark area that someone’s fitting in. In the real world we all listen to music that’s been finished and we accept what we hear. That music may well be a really good sound, a really good level and it’s an imprint, which becomes the identity of that music for its lifetime from then on. Once you know the tune, you hear it everywhere, and that’s the tune.
+Before you get to the mastering stage, I would say that’s not necessarily the case before you get to the mastering stage. I would say somewhere between five and ten percent of what I receive is approximately right, somewhere close to a good level, an ideal. Out of that five and ten percent, most of them would be the analog tapes that I get, not the digital recordings. I still have a very sound client base that works primarily in analog, but uses digital technology for the benefits it offers, the quick cut and paste and some of the effects they can use. But when you get a tape with a PJ Harvey track on it, sometimes you just record that into the digital system at zero and it automatically sounds fantastic, you don’t have to do a lot to it. 
+The yardstick I use is I have a large database of
+finished, mastered recordings I have, and I will always as a matter of course I compare what a new piece of music sounds like to this database. As an engineer I’m not actually in a rush to hit the knobs or tweak peoples’ sound until I’m sure what it is they’re trying to say. I have been known just to spend all day not doing any mastering, just playing the tracks for the project, trying to work out which tracks sound the best before you start – that’s quite an important one. Often the clients know that before they come in, they’ve been playing them around people, they get a feel for one
+particular track that as a mix for some reason stands out as sounding better than everything else. 
+So you can use that as a yardstick for the album and nudge everything else up until it sounds as good as that. Nowadays, with lots of different file formats and lots of ways of delivering to the studio, quite often I’ll often start a project with a huge pile of source material. Right now, I’m working on a Franz Ferdinand album at the moment. Some of the material is on tape, some of it is being mixed by four other producers and it’s coming in over the internet on FTP from different parts of the world. A lot of files are 24/96, some are 48k,
+some are 44.1; and it’s my job to become the coordinator for putting this project together. In the middle off all this, the main producer has decided it would be nice to put some of the tracks to vinyl prior to making the CD. 
+This job has been going on for about two months and it’s getting more and more complicated. When I get back on Sunday, the first thing I’ll do is go back to the studio to carry on because they’re giving me more and more bits and pieces to add to this album. Mastering can be as simple as doing nothing, or it can be a really in-depth
+project, where once you get to the end of it so much has happened and transformed the project into a form perhaps no one would’ve thought of in the first place. 
+Interesting things happen in the mastering room. I had a guy come in with an acoustic album, really struggling, because he wasn’t happy with the sound of his music, so I put that onto the vinyl lathe and he said, “That’s the first time my guitar has actually sounded like my guitar in the entire recording process.” He was really happy, so we did the whole project like that. Mastering is not a plug-in piece of software, it’s an approach. I’m from the old school approach, where my training and my experience is there for anybody in the music industry. There are others like me, but there’s not many others, and I’d certainly recommend that if you’ve got projects for which you want to explore an interesting approach to mastering and if you’ve got the budget to do that, the rewards are huge.
+Benji B 
+Before we get into your background and history, maybe the best thing is to do a
+“before-and-after”-type demonstration of what mastering can do to a record.
+John Dent 
+There are a couple of things I’ve brought with me. There’s a Santogold single that was out earlier in the year. I have a copy of the original data file, which [Academy crew member] Erik [Breuer] should be able to play, then following that the master track. I was working under instruction from the producer. The recording sounds okay, but it has no weight
+and it’s certainly a bit thin and distant compared to how I wanted it. The final result is actually quite weighty and heavy and it does sound  good on the radio. So
+this is a good example. This is before.
+(music: Santogold — “L.E.S. Artistes” before and after mastering)
+That was fairly obvious, I would’ve have thought. There is a lot of compression going on there, but it’s done in the analog domain so it doesn’t have that hard digital edge to it. The next stuff, after I was lecturing at Red Bull in Melbourne I came back and did some lecturing for the BBC. One of the guys in
+the audience had some funding from the BBC to get an album started so he was at the same stage as a lot of you guys are at here. He heard my lecture he sort of checked me out and came down to do a few tracks. Bit by bit he’s been putting an album together and I’ve brought some before and after of his stuff because I was impressed
+with his whole approach to it. There are three tracks, I think we can play before and after of each. 
+(music: Dr Mika — unknown, before and after)
+John Dent: 
+That’ll do. You get the idea. Clyde [Dr Mika] wanted it at a good level but he didn’t want to change the tracks too much. That’s the kind of art of getting mastering right.
+Benji B 
+You say there aren’t many professionals around at your level. How did you get to that stage, what was your journey?
+John Dent 
+It’s an interesting one. I started as a teenage record collector, mad about music, and my ambition was to record or work in music. I applied to the BBC; they had no vacancies but sent me a
+list of London recording studios and I managed to get an interview in Advision studios. That didn’t happen, but my next interview was Trident Studios and they took me on. They needed three people to man the studio 24 hours a day, sort of tea boy, runner, assistant to the staff, and I was one of those three. Trident Studios is in Soho, Wardour Street, and at the
+time it was probably the leading studio in the country, if not Europe. 
+I’d got a job in a world where every day you walked in... Queen were managed by Trident and they were there most of the time with their equipment. David Bowie used to walk in the door. I had to prepare meals for him. Elton John recorded there. It was just a focal point for a lot of the music that was going on at that time. I was introduced to the studio environment, working as a tape op for the main engineers there, and whilst I was there one of the guys in the disc cutting room announced he was leaving and I asked if I could go in there. Being a mad record collector, the thought of having a disc cutting lathe there and having to do it myself was unbelievable. They gave me a try, they trained me, and I took to it literally, like a duck to water. It was clear they liked my approach and I liked being there. The training was partly sitting around watching what’s going on, partly talking about how the equipment works. 
+And it was a completely analog set up. A quarter-inch tape machine was the main replay, some of the recordings were Dolby A, some of them weren’t. There was a nice analog console mainly full of 19-inch rack gear, Pultec’s and stuff like that. There was a Fairchild limiter, really nice monitors and a Neumann cutting lathe. So my
+first training, on this nice ‘70s equipment. 
+It was the mid-’70s and there was a big resurgence of music in the UK, punk, reggae. I managed to start doing a lot of the smaller bands who’d come in. They would tell their friends, oh there’s this guy at Trident who knows how to cut vinyl. Very quickly I had quite a named artist client base, just turning up for me to cut their records. I did all the Stranglers first material, their two first albums and the singles. I worked with Tom Robinson, “2-4-6-8 Motorway” was the big track at the time. The vibe was good. Ray Staff, who trained me, he was working a lot of rock bands. He worked with Genesis, the Rolling Stones, Led Zeppelin. It was a real focal point for a lot of great music at that time. 
+So I stayed at Trident, and one of the clients I was successful for was Island Records. They were cutting in New York and needed someone in the UK to do a lot of their reggae and they found that my approach really suited their material. So that’s when I started doing a lot of Bob Marley stuff. The first record I cut was “Waiting In Vain” as a single. I did “Exodus” as a 12". That lead on to me getting the Live at the Lyceum album, which really launched Bob Marley and the Wailer’s career with “No Woman No Cry.” Throughout my time there I was just being given more and more great music to work on.
+Benji B 
+Do you want to play this?
+John Dent 
+I suppose I could do.
+Benji B 
+And this is something you cut, right? For Island.
+John Dent 
+Yes, this is something I cut.
+(music: Bob Marley & The Wailers — “Is This Love”)
+The temptation is to keep listening to it all, but we’ll run out of time. Chris Blackwell, the founder of Island, used to attend the cutting sessions and while I was working on John Martyn’s One World album, Chris expressed a wish to have his own vinyl mastering studio. I just jumped at the chance. I said, “I’ll look for the gear, see if I can find a studio and come and work for you.” So that’s what I did. I sourced some equipment in Paris, made contact with the finance people at Island. We started a studio in 1979 called the Sound Clinic. Chris Blackwell always viewed the job I did like going to the doctors for a fix, so that was the name we came up with. 
+I had a fairly free rein on the choice of equipment. Interestingly enough, I had access to American equipment, a Scully lathe, Westrex cutting amplifiers. I tried it out, it was a little bit coarse but had a fantastic sound, so we started the studio based on that equipment. It was slightly unconventional. We
+were entering the ‘80s with lots of big producers, big budgets and I scared a few off. They came into my studio, saw that it wasn’t a Neumann lathe and got very insecure and went away. But the music I cut there was a lot of very influential Island stuff: Grace Jones, Robert Palmer, more Bob Marley, Steve Winwood. There was just more and more going on there.
+Benji B 
+That’s an amazing era to be at Island, the era you’d want to be at Island.
+John Dent 
+Yeah, it was.
+Benji B 
+So you set up an in-house cutting room at Island. For anyone not familiar with
+what a lathe is, can you explain?
+John Dent 
+[points to pictures on whiteboard] Yeah, here’s a lathe. This is a VMS-70,
+built by Neumann. The shape and form of the lathe dates back probably to pre-World War II. They kept the same basic design and format. In the early ’80s they did actually redesign the lathe, made it a bit more shiny, more buttons to push, but
+actually I didn’t like the sound of it. There was a system on there for tracking the grooves and adjusting its depth, and it was doing it in time with the music and it sounded like a compressor, so I wasn’t a big fan. So when I
+set up my studio at Loud I sourced the lathe that I trained on. 
+It’s a big, heavy piece of equipment, you don’t want to move it around. Once it’s set up you leave it. You’ve got a microscope for
+inspecting the grooves. Over here on this side there’s 600 watts per channel of cutting power and the cutting head – this black and yellow object in the middle – is a stereo transducer, like a loud speaker but with moving arms that actually
+hold the stylus. The record is physically carved out. So everything you see on vinyl has been through a machine like this, whether it’s this make or Scully or whatever. There aren’t many people around who actually know how to work them, they’re strange beasts.
+Benji B 
+And do you want to run through some of the people you cut during the time you were cutting at Island? You were telling me yesterday you cut for Dire Straits.
+John Dent 
+Yes, I had a building reputation. Island was my biggest client and I spent a lot of time working on their material. I didn’t rush into things. I remember having “Could You Be Loved” to cut and because vinyl is a physical medium – some sounds get accentuated, some get lost – most people like a good vibe off the record. It has to be a certain volume to excite the cartridge. I was talking to Dennis Coffey the other morning and he was talking about guitar pick-ups, and he was saying the old Gibsons had more energy and he can’t stand the new ones. Similar thing, the record starts to sound good when there’s a decent level on the record. I’ve lost the thread...
+Benji B 
+We were talking about the Island years.
+John Dent 
+Oh yeah, so what happened, artists liked the sound that came off the record. If they were a big enough artist, they would actually insist that the same cutting room would cut all the major parts for the whole world. I did a double album for Dire Straits, Alchemy. And Mark Knopfler and the band really liked what I’d done, so the order came
+in to do something like 15 sets of cuts on a double album for dispatch across the world. That order came in about two days before Christmas and I literally spent my whole time during that break period cutting Dire Straits records. But that’s how it used to happen. 
+Some bands like Genesis would have six sets of vinyl cut, all simultaneously, and they’d then choose which of the six sounded best at the factory. People really did embrace this medium for their music and career. Working with Island, I was at Island through to the end of ‘86. I worked with lots of up and coming ‘80s artists: Peter Gabriel, Phil Collins, Paul Young. There was one edition of Top of the Pops, where every record on that had actually come through my studio. I’d cut about two-thirds of them and my assistant had cut the other third. It was quite a diverse thing, I cut three Motörhead albums. 
+Rather interesting story with one of their tapes. I was working quite late into the night so I just placed one of their mastertapes on the bin at my feet, and to my horror the next morning they were gone. Island’s cleaner had actually thrown them away, and in the yard was one of these huge six-foot-high waste bucket things and basically we had to tip out to find the tapes. But we did, they were alright, but that’s the sort of thing that used to happen.
+Benji B 
+And fast forward into the ‘90s, you set up a cutting and mastering room in London.
+John Dent 
+That’s right. This really came about because of CD. The CD was invented, there were
+companies like Phonogram pushing it, Dire Straits did one of the first CDs and my clients were saying, “John, are you getting the CD gear?” It kind of fell on the lap of the mastering companies to supervise transfers for CD. Island had changed quite radically by then. They had gone from the original record company headed by Chris Blackwell to a company was really kind of being motivated by accountants; it just wasn’t the same record label. I couldn’t get the money
+from the label to get the CD equipment. It was very, very expensive. But there was no choice, you just had to have it. So I went to the bank, told them what I did and they were quite happy to lend me the money. 
+So myself and my engineer Graham, we looked for premises; we found them in Camden, North London and started building the Exchange while we were working at Island. We didn’t tell anyone, it was a secret mission. The whole idea was we wouldn’t be off the air for long, people were relying on us for their cutting. At some point we did take Chris Blackwell aside and told him, “Look, Chris. This is what we’re doing. We’re leaving, Island aren’t coming up with the money.” He perfectly understood, and he even let us take all the equipment we were working on at the Hammersmith studio, so we had enough equipment for a second room. On top of that he said, “Look, I’m going to give you our entire back catalog to master for CD. Don’t pay for this equipment, just work your way through it.” 
+So that’s what we did. We literally transferred hundreds and hundreds of albums. Fairport Convention, Cat Stevens, Free, you name it. Sometimes the original producers would come in and supervise. That’s how the Exchange got going. We had this independent studio and trained up a lot of engineers and the Exchange is still going. I’m no longer there, I wanted something more personal than the Exchange, which was rooms being shared by all manner of engineers. I’m the kind of guy who likes to switch off, go home and come in the next day with everything where you left it. I’m a project guy. 
+So I decided to leave the Exchange, had a rethink about where I wanted to live and moved to the west of England. I put out a few feelers and managed to find some equipment very quickly – it took no more than a week to find a whole
+mastering room’s worth of stuff – put the studio together, phoned my clients and it was like a switch. They all came and I just started working. That’s where I’ve been ever since.
+Benji B 
+So we can find you at Loud Mastering.
+John Dent 
+Loudmastering.com.
+Benji B 
+So if I give you a DAT or a CD or a reel, can you explain the process from the moment I give you that to when it gets onto vinyl?
+John Dent 
+Vinyl and CD are different mediums and there are things you need to do for vinyl that perhaps you don’t need to do for CD. The problem with vinyl is you can cut a very, very good record and sometimes very few people can actually play it back. A record player cartridge is effectively a filter and the better the cartridge, the better the record player, the less of a filter it is, you hear more of what’s on the record. Nowadays, most people have Technics turntables and DJ cartridges you can back-track. Those type of pick-ups actually do change the sound quite dramatically – they might have good bass, but they are changing the sound quite a lot. You don’t really hear what’s on the record. 
+So when you come in with your DAT, the first thing I’ll do is transfer it onto a Sonic Solutions workstation. The reason for that is after a lot of listening, playing the sound off a workstation, the bass sounds much better than playing it directly off the DAT machine. It’s linked to clocking. Digital systems sound much better with a good clock, you get an extension of the bottom end and it sounds less harsh. So for a start, I make sure that every recording is played back as good as I can get it. And then you do need to explore. You need to play other records, you need to see what you’re dealing with. 
+My first test cut is usually at a good level with nothing done to it, just so you can observe what happens. Quite often, the record needs more bass or it sounds a bit dull, you
+form an opinion of what needs to happen. I do that on a range of decks, I’ve got about six different pick-ups I can plug in to get a feel how it sounds. Then you push it, you see how far you can go with it. As you push it things start to distort; “s”‘s break up, hi-hats start to break up, kick drums. As you cut a record, things like kick drums, the groove gets more extreme as you go towards the label and you get more jumping. 
+You form opinions about where you’re going with that music. It will have a sound, it will have a level. If you’re doing it right, it will generally sound good and the next stage is to do the test cuts. Then you put them to lacquer. The lacquer is a much larger disc, a 14" disc, an acetate disc covered in nitrous acetate. The material is a bit like nail varnish. It’s quite soft, the modern day replacement
+for wax, basically. The cutting machine will cut it, and we don’t play the master cut so there’s a cut for one side, then you concentrate on the other side, so you end up with a disc for each side that’s unplayed. We bolt it in a box, it gets sent to the factory. 
+The factory washes it, sprays it in silver and electroplates it onto a disc and they pull off a reverse, that’s called the mother. That’s a metal version of the record in reverse, so instead of being grooves, it’s points that stick up out of the stamper that they make. So they then electroplate that again, so that’s the second stage of electroplating. Now you’re back to the record again, but in metal form, which is called the positive. The factory will play that and check that nothing strange has
+happened – because it’s a physical process you get lumps of grit and plastic
+and metal making noises. 
+Once they’ve approved the positive they electroplate again and form the stamper, and that’s where you combine the two sides of the
+record. The stamper is put onto the press. The press is a big machine that basically pushes plastic into the record, often with an automatic labelling system. It’s stamped out under heat and the record comes off the press with quite a jagged edge, which
+is then trimmed on a hot wire. The records are then stacked in piles of probably about one hundred high with a weight on top to stop them warping and buckling. You may well have done the sleeve and label design and at that point it becomes a record, something to sell. 
+In the middle of that process we do advise that we ask for test pressings from the factory. A lot can go wrong. One of my biggest bugs about the factory is that the hole when you cut it disappears in the center of the processing and they have to recut it. There are loads of records that are cut off-center and if you listen to keyboards and stuff they’re “wowing,” you’ve got a horrible sound. I’m constantly telling factories they’ve got it wrong because it becomes unlistenable, and if you really listen to something which hasn’t been checked out, unfortunately, you’re stuck with it.
+Benji B 
+So we want to send our tracks to you to be mastered. What stage should they be delivered in?
+John Dent 
+You’ve got to be happy with your mix. Everyone has to be happy with their mix. If you’ve got a mix that’s working for you – it may not necessarily be at the right level, but generally the sound and feel is right – then that’s the right time to send it in. If you like the idea of extra compression, extra limiting, then maybe you do some quick
+CDs to send to the record companies or radio. Quite often it’s a good idea to send copies of the limited compressed version and the raw uncompressed version, at least so that I can see what the difference is and what makes you think that works. The equipment we use in the studio is more subtle. We can achieve better, bigger levels without losing too much. So it’s nice to get an idea of what you want without having the whole thing compressed out.
+Benji B 
+Now, as a vinyl expert I was interested to hear you describe the difference between what we get from listening to a record and what we get from listening to a CD.
+John Dent 
+The world of analog recording is very high resolution. By resolution you have to think in terms of pixels. In the days of multi-track recording, good desks and disc cutting, what actually got cut on record technically is about four times the
+resolution of CD. So if it was a camera, the vinyl was four megapixels and the CD was one. Everyone had different types of record players, but with vinyl what you could do, if you started off with a cheap player, you knew with a bit more money and a better cartridge and record player you could retrieve some of that quality back. 
+That’s what hi-fi was all about – there was a whole industry designed to retrieve as much of that resolution off the vinyl. And a lot of records cut pre-digital era have a fantastic store of sound on them and a lot of people use them for sampling because it is high-resolution sound. It’s a format that should be retained as an optional high-resolution format.
+Benji B 
+Have you got something that you can show us?
+John Dent 
+Yes, Zero 7 is an interesting one. They came to us a couple of years ago because they liked the concept of putting their music onto vinyl before making the CD. We did some tests, they took the stuff away and compared and decided that was what they wanted to do. So we did the whole album, the Garden album via vinyl
+acetate.
+Benji B 
+And it was recorded to tape, right?
+John Dent 
+The original source was half-inch tape, mixed by Phill Brown, a very good engineer. Phill Brown actually mixed the Bob Marley Live at the Lyceum album that I cut back in the ’70s. And he mixed the Zero 7 album. Now, the album has been on vinyl so what we’re going to listen to is the CD version of it. What we’re listening to is a listening experience.
+(music: Zero 7 – “Futures” (CD and vinyl versions))
+Could anyone hear the difference? What you’re listening to is resolution, the pixels and simplicity of process. I would liken analog and digital to a potato – this is the potato and that’s the chips. You have to chop it up to make chips. Once
+you’ve chopped it, it’s never the same. The vinyl record is the unchopped sound.
+Benji B 
+So if vinyl is four megapixels and CD is one megapixel, what is an MP3?
+John Dent 
+No comment. It doesn’t really feature. An MP3 is just an outline, it’s a ringtone, an outline of what’s going on. Some MP3s are just one-hundredth of a good-cut vinyl record. It’s the subtleties, the way the reverbs are, the general feeling and listening experience that gets lost. An MP3 just tends to rattle at you. You can’t tell what drum-kit things were recorded on, what the guitar was, they’re just noises. 
+This is a good example of where I come from in terms of my training, but also you guys should not lose sight of the fact there’s this other world out there. A lot of the sounds you try to create on your computers, especially if they come from the analog era, there’s a limitation. You just won’t get that full sound. It has to be by another method. I’ll give you another example.
+Benji B 
+I know there are a lot of DJs in the room, a lot of vinyl lovers, but in terms of the ability to go straight to tape and then to vinyl, it’s a rare luxury...
+John Dent 
+I’m going to have a slight diversion here, because otherwise I’ll forget. I’m going to show you a trick. I hadn’t even realized I cut this, I’ve got this sieve brain where I just keep working and working and working. I found this in my record cllection. I’m actually quite proud of cutting this. I’ll show you a little trick with this.
+(music: George Clinton – “Atomic Dog”)
+When we cut records, the aluminium discs we cut on are actually quite heavy. You do hear
+a sound difference between a finished pressing and the disc we cut on. The disc we cut on sound better, it actually has a better bottom end. A 7" record is sitting on the turntable and it’s got no mass, it’s microscopically vibrating while you listen to it. You can buy
+record clamps to clamp your records to the turntable and what it does is it gives you a much cleaner, bigger bottom end. There’s a glass on the turntable, that’s adding extra weight to stop it vibrating. You’ll get used to the sound of it, and then I’ll remove the glass and see whether you can hear the difference.
+(music: George Clinton – “Atomic Dog” continued)
+So another tip – if you can find a record clamp, clamp your records to the turntable, they sound better. Back to this resolution thing. I had a customer who brought in a Hendrix track and he wanted to use it as a reference to something he was doing. He played it to me off CD. I said, “That’s weird, half
+the sound is missing.” “What do you mean half the sound is missing?” I pulled out this 7" EP, which I’ve had for years, and sure enough when you compare...
+Benji B 
+You can tell something’s wrong just from hearing the CD and knowing the record? This was a mastered CD, not an MP3?
+John Dent 
+Yes, it was a remastered CD from the same tapes. I’ll see what you think. The thing was, these records are very energetic, there’s a lot of stereo and you can almost hear Hendrix’s personality in the vinyl. But a lot that vanished on the CD.
+(music: The Jimi Hendrix Experience — “All Along The Watchtower” (vinyl and CD
+versions))
+[cuts between vinyl and CD versions]
+That was a slightly better demonstration. There are certain qualities about this that aren’t available on the CD. These qualities that are important to the soul of the music, and some of that just tends to go when you make CDs.
+Benji B 
+On the subject of vinyl, for all the vinyl junkies in the room, can you tell me the proper way to set up a Technics turntable? I mean, cartridge and everything?
+John Dent 
+OK. There’s a few issues. One is, you’ve got the weight of the stylus. With most arms, the starting point is a point of balance where you adjust the arm so it’s parallel to the record, parallel to the turntable. That’s only one part of it. You get
+recommended weights for different cartridges – some need to be a lot heavier and records sound a bit thin and scratchy if they’re not the right weight. I do actually have a stylus balance, a device for weighing the weight of the stylus. But my primary way of doing it is to use my ears. If you’re too light you don’t get the bass, if you’re too heavy the top end suffers, so there’s this in-between area that’s OK.
+These decks are set with the arm in the right place. On some hi-fi decks you have the ability to move the arm backwards and forwards and a gauge that allows you to set the sides parallel. One of the important things is the anti-skate, this is the dial here. [points to side of turntable] I can do this in my studio very easily, I can pick up an uncut acetate and place it on my turntable. When you put the stylus down it shouldn’t skate towards the center or the other side, it should have a point of perfect balance. It’s difficult, I’m thinking of
+pressing some up so people can set their turntables up. 
+The other thing to look at is whether the headshell is orientated correctly, whether the
+cartridge is vertical to the record. There are other issues, like whether the arm is too high, or whether it’s tilting forwards or backwards. To do it technically you need oscilloscopes and tones, but no one has that. So generally a bit of trial and error, spend time with it, just be patient and see where you find the best sound.
+Benji B 
+Most of us are more familiar with going into nightclubs and seeing Stanton 500s or Ortofons or maybe like a Shure M-44/7, which are styli designed really to hold a groove or be very loud. But if you’re looking for a stylus to listen to records at
+home, of high quality, what would you recommend?
+John Dent 
+The stylus on here is a Stanton 890. I use it because it has a very linear frequency response. All the frequencies that are on the record are coming out at the right level. A lot of them don’t do that. Quite a lot of DJ cartridges have a bass rise or a midrange cut or they have a strange topping. There’s nothing wrong with that, they work, they have sounds, but for reference purposes I use the 890. There is actually a wiring arrangement I don’t agree with, so I’ve rewired this cartridge. There is actually one back at the studio direct from Stanton with the rewire which they
+have done especially for me so I’m looking into selling that product. An 890
+has both spherical and elliptical styli on it. 
+This is where the whiteboard comes in. [goes to the whiteboard] It’s a bit of a lesson in groove sound here. When a cutting system puts music on, the stylus has a very fine edge and
+it’s a very fine frequency response, going very high indeed. When your stylus plays it back, the idea is that you get everything back off the groove, but something strange happens with records, as I’ll explain. If you were to take an enlargement of a groove, I’ll give you some high frequencies. 
+This is viewing a record groove from
+above. Here’s viewing your high frequency movement. That’s one wall of the groove, there’s your center line, which is the point at the bottom and there’s the other wall of the groove like this. [draws three curved parallel lines] That’s the sort of wall you’d see under a microscope. I’m going to draw two
+of these and show you the differences. There are some people who say they can tell what the recording is by studying the groove. When you have a spherical stylus, which most DJ styli are, it basically means the tip is round, so that round tip, when placed in the groove [draws circle in the bend of the three lines], it
+clearly cannot go where the groove is. It’s too big and rides over the top. If you have an elliptical stylus it’s shaped like that, and what you see is the smaller diameter edges go into the groove. 
+If you were to monitor the top end output of your record, if this was a graph [draws upside down T], so the record is actually
+brighter and cleaner by playing with an elliptical stylus. Another few things about a record that people don’t realize is that the outside is moving quite a lot faster than the inside of a record. [spins record on deck] That movement is very fast whereas if you go on the inside it’s actually very slow. The groove is slowing down as you go towards the
+label. One of the best forms of music to hear this effect on is a house tune with a big hi-hat that’s about ten or 11 minutes long, spread across the record at 33. For the first three-quarters of the record it all sounds fine, then on the last bit the hi-hats drop in level and the general grunginess of the sound starts to increase.
+Benji B 
+Why is that?
+John Dent 
+Back to the board [returns to whiteboard]. Imagine a slice of cake: There’s the center hole, and there’s your 12" record. The outside edge is moving fast and if you have a waveform on the outside edge, it’s spread over quite a large distance. If you cut the waveform on the center, it has the same shape but is more
+squashed up. You have to imagine a squeeze-box, a concertina squeeze-box. On the outside edge it’s [spreads arms wide] and on the inside edge it’s pushed back together. Your record player finds it more difficult to play this [points to narrow waves] than this [points to wide waves] and the same thing happens in the difference between 33 and 45. 45, technically, is a better speed, and so is 78.
+Benji B 
+I know the scratch DJs love to have the 33 always, but what’s better in your opinion?
+John Dent 
+I think keeping the customer happy is better, but 45 is technically better. But I do recognize that for scratching and certain forms of music you can’t avoid 33, especially if it’s a long side. Forty-five only really works up to eight-and-a-half minutes. Once you get beyond that the amount of space
+shrinks, so a lot of longer sides tend to be 33 and often you need to compensate for that – look at the top end, do test cuts and make sure it’s as close as you can get.
+Benji B 
+Some of those 12”s cut at 45, you need a penny on top of the headshell to make it sit on the groove. Where do you draw the line between the quest for loudness and clarity and not overdoing it?
+John Dent 
+There’s a common sense level you can work to, which I tend to use. A lot of people rely on release dates, they expect one cut or pressing to work for them, they expect it to tie in with a tour or whatever. If you have a lot of time, then
+you can experiment with levels and I push the levels on a lot of things. The louder you cut, the less record players can play it back and the more problems you have with returns. There are a lot of jungle tunes you have to find ways
+of playing them by weighting the stylus down. It’s to do with bass and energy, just the general power you can get into the grooves. It’s nice to have as loud as you can, but sometimes in practical you can go too far.
+Benji B 
+Obviously, you’re very passionate about vinyl and I’m sure many of us are as well. Apart from a few major releases, it was actually dance culture and DJ culture and hip-hop that were keeping vinyl culture alive. But in hip-hop and dance now, when you go out and see your favorite DJ they’re not actually playing
+vinyl, they’re playing Serato or CDs. In a lot of those genres vinyl is simply not bought or sold anymore. So when you’re putting your tunes together, unless you’re a Radiohead, someone who knows they can afford the luxury of making a loss, what’s the incentive for releasing vinyl these days?
+John Dent 
+I certainly understand the financial implications. I think it’s more to do with creative satisfaction. If you’re spending a lot of time and energy working on tunes, to get even a small run of vinyl is a great way of getting your music out there. Interestingly enough, vinyl still trades on eBay at good prices. A good tune is a good tune, and people buy and sell records for £100 on eBay, so they don’t really lose their value. Good tunes should always be on vinyl and I think there is a resurgence of interest. I’m doing a lot of vinyl 7"s for bands now, and they just like the sound of three minutes of energy coming off the record.
+Benji B 
+But I think some of those bands view a coloured vinyl 7" or whatever as a promotional novelty, as opposed to the actual format that it used to be.
+John Dent 
+I don’t necessarily see that there’s anything wrong with it being viewed as a novelty. The fact you can produce a good-sounding record, once that novelty has worn off, at least it’s still available. Record labels won’t spend £500 pressing up 500 records but they’ll spend two grand on an advert that lasts one week in a
+magazine. There has to be a kind of understanding of priorities in this type of situation. I work with a lot of artists whose record label won’t release the vinyl but they’ll come up with the money and do it themselves just because they want it out
+there. There’s a certain prestige to having your own vinyl as well.
+Benji B 
+Moving into the digital realm, can you tell me the importance of sample rates?
+John Dent 
+Sampling, the nearest equivalent is in films – you have the frame of a film, snapshots. If you look at the way the snapshots are happening, the more samples per second you can sample at, the more accurate the sample of what you’re sampling, basically. We’ve come through a period where for years and years, a lot of people have been working at 44.1.
+Benji B 
+44.1 is for CD? That’s what you hear when you put in a CD?
+John Dent 
+Yes, it is. And yes, the sound, it’s not horrible, but it has limitations. The real sound... maybe I’ll do another picture. [returns to the whiteboard] If you take real life as a five – the sound you hear in a room, or when you stand
+in front of a drum kit or saxophone player – that’s a five. If you look at the analog era, good microphones, good mixing desk, decent cut, what you get is
+something like a four. If you go to high resolution digital, 24/96 is somewhere around three to four.
+Benji B 
+What does 24/96 mean?
+John Dent 
+24 is the dynamic range of the recording system. 96 is the sample rate – 96,000 samples per second. With digital you have good analog at one end [points to five], and CD is somewhere down here [draws a one and two], it’s not that clever, the amount of information coming through is not that great. So
+historically we’ve gone from somewhere much better. The tunes people rave about, those old tunes from the ‘70s, or ‘60s soul, those were all fours in terms of recording. 
+There’s a limit on a 44.1 sample system, you won’t be able to get a four, just an approximation of it. I encourage our clients to work at high sampling rates wherever possible. We master our CDs and retain the higher sample rates. It’s only at the end of the session that we’ll down-sample it for CD
+and we have a way of doing that.
+Benji B 
+So your master CD stays...?
+John Dent 
+The master in our studio stays at least 24/96. Our equipment does sample at 192, and for practical purposes – file storage, using a lot of the digital outboard gear – it gets down-sampled to 96 and that’s how it stays. It’s a
+practical issue – there’s not much gear around in the outboard world that works at 192.
+Benji B 
+What’s the highest sampling rate around at the moment?
+John Dent 
+The one-bit SACD. It’s 2.8mHz, a huge, huge sampling rate. It’s a completely different technical system to PCM, Pulse Code Modulation. The SACD is an interesting one. I was invited to Abbey Road Studios to listen to the pioneering development of it. Sony have a huge back catalog of material, much of which is deteriorating, and they decided to invent a system that is so fast at sampling that they could sample all their analog stuff without worrying that they lost anything. They did lots of tests, I was invited to Abbey Road, they had a live band playing, a super audio recorder, a half-inch tape machine and we were all invited to compare and listen to what these two systems sounded like. 
+Sony kind of refined it, and they’ve been using that system to archive all their material going right back to 78s and metalwork and stuff. Engineers around the globe were just archiving vast amounts of material so it was stored in this form and
+a by-product of that was the Super Audio CD that was then put out, which hasn’t really taken off as much as Sony perhaps thought it would. But nevertheless, there is an alternative option. Pyramix do an audio workstation that records SACD.
+Benji B 
+If you’re working with audio that’s already 16 bit, is there any point at the end of the session when it asks you to bounce it to 24 bit?
+John Dent 
+That’s a good question. I actually do this. I find in my room, with the equipment set at 24 bit, I like what it sounds like. If systems are at 16 bit, you have to be careful with some, they throw in dither, a noise in the digital recording, which can change the tonality of the sound. If you have too much of this dither added, it can change the sound. By keeping the systems 24 bit the dither is automatically not there.
+Benji B 
+But as a general rule we should always work at a higher sample rate and use 24 bit if we can?
+John Dent 
+Yes, I’ve been working at 96k for my mastering in the last couple of years and it’s a much more pleasurable experience. You’re hearing more detail and more energy and I’m a better engineer because of that. I had a session recently with someone from Italy where I had to revert back to working at 44.1 and I was surprised
+by how much I didn’t like it. 24/96 starts to remind me of where I came from.
+Benji B 
+So is the point of mastering to be as loud as possible?
+John Dent 
+[laughs] No, I know my studio is called Loud but it ought to be called Loud Enough.
+Benji B 
+This is a leading question, because there’s a lot of talk about the so-called
+loudness wars. Is it the new Metallica album that’s...?
+John Dent 
+I think the Arctic Monkeys, there have been a few. To me, loudness has always been there. I worked on the Motörhead stuff and, you know, Motörhead have got be loud. You looked at the way the engineer produced that material, he’d put the tape on and the needle on the VU would go up to plus one and actually stay there, it wouldn’t move. Such was the level of limiting and compression, you could almost line the tape machine up using a Motörhead tape. It’s not so much the loudness. I think loudness is kind of a subjective thing. Loudness isn’t the same as hammering something with a limiter. A well-recorded piece of information can sound loud without necessarily being loud. 
+What I try to do is I offer my clients a scale. Someone brings in a recording and it sounds quiet. So I look at
+it on the meters, I listen to it, I do some comparison and say, “Oi, Carl, your CD is eight dB quieter than it need be. What do you want to do about it?” And he has a think and asks for it be bumped up. You then get into the realm of how far to bump it up and you have to look at the music. If the aim of the track is full pelt and needs to be maximum volume, there’s no point making the entire track the same level. So you have to look at how far you can push it before it takes it away from the actual design of the track in the first place. That’s what I do, and I will always use my
+analogue gear first in preference to the digital gear. You get much, much better sounding compression and it sounds more natural. 
+Some of the comparisons there, the Dr Mika stuff, I don’t think there’s any compression there at all, it’s all done in analog. That tends to give  you a bigger, wider, fatter version of what you started with, but not clipped and unlistenable. But some people don’t have that approach. They will literally hit the digital limiter so hard that everything is mashed up.
+Benji B 
+I’ve heard people say that 50% of the tune is in the mix. If that’s the case, how much of percent of it is the mastering?
+John Dent 
+That’s a tricky one. For some recordings, very little; for other things, I think the mastering can make quite a big difference. It’s all about vibe, you have a vibe when you’re recording a track and sometimes it can get a bit lost. Sometimes the vinyl or CD master can nudge the vibe back into the sound. How you do that is sometimes a bit strange. I sometimes choose the signal path – I’ve got an analog limiter that sounds a certain way and I know if I put
+some hip-hop through it, it automatically sounds the way it should do. It sounds more authentic, bigger, wider, a bit rougher. Correctly mastered stuff will enhance. And at the end of the day, that is what a lot of people hear. 
+If you go out and buy stuff, you don’t really know if it’s the mastering or the recording. I think the mastering should not take anything away. For some people, it contributes an enormous amount. Some years ago I did Goldfrapp’s first album. Will and Alison came in with a pile of DATs, had no idea what they really wanted. I said, “If you do that, you can get this.” I started a bit of compression. They said, “No, we don’t want any compression.” I said, “Just let me do something.” So I prepared everything, mastered everything, gave it to them, they took it away
+and they just said, “Wow, this is fantastic.” And that’s how we left it. Hardly changed anything. So my influence and approach did a lot for that project, because they hadn’t seen it at the beginning. The mastering helped get that record off the ground just because of what I put in.
+Benji B 
+What do you actually do? What is the mystery magic? We know what’s involved in mixing a record, but what do you do to give it the magic?
+John Dent 
+I think the thing is what you don’t do to it.
+Benji B 
+You say that, but we just listened to something you made sound a hundred times
+stronger and fatter and bigger and all of those words.
+John Dent 
+I put a lot of emphasis on what individual bits of equipment sound like. I choose my workstation, I run with a Sonic Solutions system, I’ve always used that system and I’ve made endless comparisons but I still find it sounds bigger, wider, stronger and clearer. Sonic Solutions were the first people on the planet to put digital files and audio files onto a computer. There was
+another system used in the video industry, but they actually pioneered sound tools and a lot of other systems came after them. There’s something about the way they do it I can relate to. 
+So I start off with a good workstation and basically use that to play material off whatever sample rate it is. I then have a number of signal paths, either digitally or analog, that give me a certain sound texture. I do use a lot of valve equipment. The most recent stuff I’ve got is device called a Manley Slam, an analog limiter but it’s got an interesting digital I/O on it, and it’s probably the warmest digital transfer
+device. They’ve got a really thick manual with lots of abstract blurb about how they went about this design. The actual chips are used by Nagra on their equipment. 
+I do just listen to all this stuff. I’ve got a tape machine sitting there, and quite often as part of the session we’ll just place the stuff on the tape to see what it sounds like. We do have those kind of “wow” moments. People will sit there, not really knowing what to expect, and you put it onto tape and listen to it and you see lke a whole row of faces light up, like “Wow!” And you know you’ve hit on something. Sometimes putting something on tape will give you a couple of perceivable extra dBs without doing anything. 
+I’ve had people say, “Is that all you’re going to do?,” because they’ve seen other engineers go mad. But yeah, it doesn’t need anything more. That’s all we’re gonna do. It’s just picking and choosing and using your ears. Same process with recording: You have a choice of microphones and things you do.
+Benji B 
+Let’s listen to some more examples.
+John Dent 
+Yeah, we’ve got the Bauhaus actually. I haven’t hit you with Bauhaus yet, have I? Record companies from time to time reissue early material and the technology around now is much, much better at retrieving information off of tape. I’m involved in remastering a lot of 4AD and Beggars Banquet recordings, people like Gary Numan and Cocteau Twins and Bauhaus, they were
+all big in the ‘80s. I’ve brought in a Bauhaus remaster to show you what the vinyl and the remastering does. [to engineer] Have you got the original CD version? This is a recent transfer.
+(music: Bauhaus — “Double Dare” (original CD version and remastered vinyl version))
+When you play the tapes there’s an enormous amount of weight in the recording, you play the tapes with monitors and it sounds heavy. When we listen to the CD that was done in the ’80s, all that weight is completely
+missing. It’s a much thinner electronic sound. What we’re trying to do is get a better snapshot of what came off the tapes.
+Benji B 
+Have you got any contemporary electronic music, because I know you cut a lot of stuff for the Bristol jungle guys and you do house and hip-hop and everything don’t you?
+John Dent 
+In the rush to come here I didn’t really have any time for the “before-and-afters,” to be honest. The stuff I’ve brought I was kind of interested in... This is recent, PJ
+Harvey, not exactly Bristol jungle. But it does kind of demonstrate certain things. 
+(music: PJ Harvey - “Dear Darkness” / cuts between CD and vinyl version)
+Benji B 
+So I thought what was quite interesting was you’ve got one of your clients sitting in the room right now, Mr. Pritchard. Mark, you’ve been working with John for a while, right?
+Mark Pritchard
+Yeah, I reckon since maybe eight years. Maybe longer. 
+Benji B 
+It would be interesting to know what stage you deliver the track in. Obviously, you live in Sydney now, John’s in the west of England. How do you make that work? What’s the process you go through, the back and forth?
+Mark Pritchard 
+One of my biggest worries about moving to Sydney was I wouldn’t be able to access John so easily, because I learned so much just from going into the studio and hearing him do his thing. But now luckily with FTP sites I can mix a track in 24/96 normally, then upload it to the server, then John will take it off the server. Maybe I’ll call him and if there’s
+something in the mix that wasn’t quite right, speak to him about what I think may be the problem. But generally, I’m really happy with it. John will do his thing, upload it to the server, I’ll take it off and check it. 
+On the album I’ve just done we nailed maybe 60% first time, then there’s two or three tracks he had another go at, then maybe another couple another go again, two or three attempts at. John will do his thing, I’ll listen, live with it for a bit, play it against other tracks. Certain tracks are standing out because it’s quite a varied album, it takes a lot of time to get the balance right between tracks. It’s, like, a long process. John was moaning at me a lot.
+John Dent 
+In the middle of all this Mark discovered stems, which instead of sending the mixed track, sends sub-mixes, maybe three or four pairs, and it opened up a lot more possibilities because you could deal with, say, the bass separately to the main track. But actually in the end, I think working from stems made it a much better-sounding record.
+Mark Pritchard 
+I used to do lots of takes, where I’d do drums up, bass up, bass down, vocals up, lots of passes, which engineers would traditionally do. Having to upload it to the FTP – and with 24/96 files you’re talking maybe 150MB a song and you’re uploading maybe eight or ten versions and John’s got to take them off to do his thing – I just thought well, instead of doing that I’ll just do stems of the basic simple elements.
+So if it’s a track that’s reliant on bass, I’ll put it down with just the bass, then with no bass. At least then if there’s a problem between, say, the kick drum and the bass relationship, because I wanted more bass, but John’s limited at the point where he’s going to add bass but maybe the kick
+was heavy. There are always limitations with that, but when you’ve got them separately, it allows you to push the bass up without affecting the kick. If the kick is a bit weak you can put bass under the kick without affecting the bassline. The stems sounded better than just the master as soon as we listened to them. Having a track with no bass, then listening to the two together, it sounded better than with everything together, just the way Sonic Solutions would play it back.
+Benji B 
+So in a sense, at that stage, when you’re doing it like that there’s an element of mixing to the mastering thing too.
+John Dent 
+There has been. I’ve always been the type of engineer that’s embraced these kinds of add-ons. Back when I was
+at the Exchange, I had Rory Gallagher, the guitarist, wanting to add more guitar parts while we were cutting the record. So he came in with his roadie and set up his DI box, we rigged up a bit of a mixer for him and he put some more power chords in live while we were cutting the record. 
+Historically, vinyl, its roots were live recordings on film sets and studios would literally cut live to wax. That was how vinyl was actually being used. Later on, tape came along and people would think more about what they were doing. But that’s the origin of vinyl – this instantaneous recording medium. Look at an old ‘30s cop movie in the States and you’ll se a couple of detectives with big hats on, standing around a disc cutting machine while they’re taping a phone conversation. Disc cutting had a bigger place in the world than it has now.
+Benji B 
+Time to see if there are any questions about mastering. Mark, have you got any of your tunes?
+Mark Pritchard 
+I’m going to see if I’ve got a “before-and-after,” which would be depressing
+for me but would give a good indication.
+Benji B 
+Even if you’ve just got the “after” it would be good to play something.
+Mark Pritchard 
+One question people ask me is, “What’s the point of working at 24/96 if the track will end up as 16/44 at best, more often than not 320 MP3 or lower?” Why do you think it’s better to work at higher sample rates?
+John Dent 
+I don’t think lower sample rates are going to be around forever. I think with faster and higher data transfer rates, people will get fed up with files that barely sound alright, in the same way that recording on tape is clearer.
+Benji B 
+But this is the issue. People who come from a vinyl, DAT, tape or before era might get fed up, but people who’ve just started to listen to music now, their ears have been trained to listen to these horrible files. How
+do you persuade them to get bored of hearing that?
+John Dent 
+I think it’s a personal realization thing. If people don’t want to embrace high-quality sound, that’s fine, that’s their choice. I do think that the listening experience is something that is quite important. If you go back to the ‘60s, when there were very few radio stations and everything was done through the medium of vinyl, there was quite a powerful energy in that. People were listening to music in a way that was very different. There’s a lot of diversity now, people can all talk about their favorite music but it won’t be the same, whereas back then people tended to follow the same kind of music. There was a lot of poetry in the songs, a lot of messages, obviously political stuff and it was all getting across. 
+Part of what was happening was the sound. I’ve been here where you’re all working, sitting in
+the studio listening to the Temptations records and everyone’s going, “Wow, listen to the sound!” Well, if they’d recorded them all as MP3 to start with, they wouldn’t be sitting there going “Wow!” There’s something about having your original masters as good as you can, because you don’t know where it’s going to go. A film company might want to use your tracks and to have them in fantastic recordings would work really well because high sampling rates are used in the world of DVD. So it is a personal choice.
+Benji B 
+So back to Mark’s question, what was it Mark?
+Mark Pritchard 
+Why use 24/96 when it’s going to end up being lower at the end of the day?
+John Dent 
+When you’re working the degree of separation between the sounds is much better. Resolution means you can hear everything in the mix where you want it to. It’s also power and energy. The vinyl has a power and energy, the high sample
+rates have a power and energy. So it’s not just the recording, it’s what you feel, it’s whether that moves you in a way that perhaps an MP3 wouldn’t. If all the world was left with was MP3s, I think something very vital would be lost. 
+I would run a sort of parallel with the world of art. If you look at paintings, artists quite happily paint on canvas, they’ve been doing it for hundreds of years. If you were to say, “No more canvas, we won’t make them from now on. No more paint; you can just do it all on computers from now on.” What would happen to the world of art? It’s the same with audio. Audio is a bit strange, you wouldn’t dream of buying a
+camera with fewer pictures than were available when you were young. The cinema experience with widescreen is fantastic compared to watching it on some kind of five-inch digital thing sitting in your hand. That experience in audio is people working with this higher fidelity sound. We may not be able to deliver it now but in the future I think that will happen, and I think it’s a lost opportunity not to have people’s work in that form.
+Audience Member 
+From what I heard it sounds like, the output of your work is really worth it, comparing input and output. So worth it that I probably couldn’t afford it. What I was wondering if you have any suggestions for people like us who need to do this work by ourselves, probably with the computer?
+John Dent 
+If you’re doing it yourself, I would certainly advise comparing, like I do, to whatever else is out there. I’d even advise that even before you start tracking. Put information on your system, finished recordings and try to work out what it is about them that you like, what makes it work for you. Apply descriptions to every sound – is it bright? Is it harsh? Does it sound okay flat? Say you do a recording and it only sounds a couple of dB quieter than you want it, then in that instance a bit of L2 just to amplify it is absolutely fine. The type of mastering where I get involved is when people want to radically move their recordings away from where they are. 
+Some people actually know what can be done so they can expand on that and use it more. I think just be aware that there is this other world out there, but if you haven’t got the money, at least make sure you get the sound right throughout the recording mix and if you need to nudge it up, just nudge it up. We have a budget mastering
+service. My other engineer, he just sticks stuff into Sequoia and he does a simple levelling task. And some clients are perfectly happy with that: Andy McKay from Roxy Music, he comes in from time to time and has that done.
+The reality is he could do it himself, but we’ve got good monitors and good meters, so we can with confidence nudge things up. Sometimes that’s all you
+need to do.
+Audience Member 
+So how much is this budget service?
+John Dent 
+It’s unattended, so about £300 for an album.
+Audience Member 
+For a whole album?
+John Dent 
+Yeah, it’s time-limited. But Jason is very good at what he does. When you’re working within a workstation that the palette of choices is quite limited, when I’m in my room with all the gear I can be really extreme. But you can’t really do that within the workstation. But if you’re basically happy with what you’ve got and want it tidied up...
+Audience Member 
+I have two questions. First one, after this wonderful lecture, all of the aspects of dealing with sound and mastering, to me the mastering process
+is still a bit of a mystery to me. It still seems like this magic. I don’t know what it is, but it just sounds better. Can you define mastering in a sentence, or is that just impossible?
+John Dent 
+In a sentence...
+Audience Member 
+Two sentences.
+John Dent 
+OK. It’s a presentation. It’s choices and presentation. You can go through a whole process on a computer and it’ll be all digital on a computer and it will lack something. Some people call it warmth and personality. I can get hold of it and simply do something and through my experience it has that something. Part of it is my own personality, my way of
+hearing. I’ve listened to so much cable and so many different bits of equipment, I’ve just made choices. I can say, “I won’t have this one, I’ll use this cable.” People come to me out of respect for my choices and they know what they’re going to get is roughly in the
+ballpark of what they want. Other mastering engineers take a different approach. It is a presentation, it’s presenting the product for the general consumption. And how you do it can be either as functional or as creative as you make
+it.
+Audience Member 
+So it can be a creative decision. People can say, “OK, I’ve finished mixing my tune, this is how I want it to be presented to the world, I don’t want to master it”?
+John Dent 
+That’s. That is true, and quite a lot of people do that. Some people do it for a couple of albums, then they get the feedback from people and everyone says actually, “Why’s your album quiet?” And they decide to do the mastering next time. But it is a creative decision.
+Audience Member 
+Would you define it as getting your songs to be presented on the same level as everything else in the world?
+John Dent 
+I’ll explain a simple way of viewing this. Say you’ve got an album of ten tracks and you string them all together. They may not relate to each other, but you can play it and enjoy it. If you give that to someone to listen to in the kitchen, in the car or whatever, if they have to keep jumping up, adjusting the volume from track to track, you may think it’s OK, but they
+may not decide it’s OK. You take it for granted when you buy a CD that you can put in the player and listen to it. It’s a performance that starts at the beginning and finishes at the end. 
+I’m one of the guys who make sure that that journey is the right kind of journey. I’ve had stuff in from people who’ve done it themselves
+that’s been virtually unlistenable because you cannot experience the music as fully as you would if it had been mastered properly. If a track sounds good, there’s no need to master it – five to ten percent fits into that bracket but the rest needs some kind of help. One other thing: The studio has a very flat response reference monitoring
+system. 
+If you’re working on your own set up – say, for instance, you’re working with
+NS-10s, which have a reputation for being slightly bright, you may be hearing the right top end response in the mix in your room, but when you come to the mastering
+recording it’s dull and bass-y. That was a problem when people started using NS10s – you would have a standard 5k EQ boost and a bit of a trim at the bottom end, just to tidy it up. 
+The other way of viewing it is that sometimes the mastering engineer is the only
+professional in the chain, especially if you’re doing the work yourself. A lot of record labels like the idea that at least someone is listening to it before it’s released. And we pick up on stuff. We pick up on bad edits and bad sample edits, clicks and glitches within tracks that perhaps people haven’t heard before. I’ll phone someone up and say, “Why’s that loop clicking?” They say, “What do you mean?” When they look it up in their system, sure enough there’s a step in the waveform. We put the spotlight and the magnifying glass on and I listen to every split second of what I do, and that can be quite weird.
+Audience Member 
+That leads me to my second question – you talk so much about clarity and precision of sound, but don’t you think a lot of great music is created because of unprofessionalism?
+John Dent 
+Yeah. It’s not really about... You take it for granted that you can hear things. Lots of great tracks are great because you can hear them – at the end of the day it has to be a good performance. I prefer people to literally make music very quickly. I have a problem watching you spend hours and hours, fiddling with beats on a 15-second section of a track. I haven’t got that patience. I would go for a more spontaneous approach. If I was you guys I’d spend the time preparing the tracks
+then give them to other musicians and say, “There you are, now give us a performance out of it.” 
+You do hear that in tracks – a lot of the American house tunes have real piano players playing really decent stuff. A lot of people over here just do repeat loops and stuff like that. There’s no rule in terms of creativity, you can do what you want, but it’s whether you’re satisfied three years down the line. If no one listened to it and it could’ve been better, that’s a missed opportunity. It’s very competitive out there. Radio stations will tend to play the stuff that pops out and gets noticed.
+Benji B 
+Talking of listening to every split second of the record, when talking about the LP experience, are you the guy who decides how much space there is between tracks? The magic two seconds – is there an art to that?
+John Dent 
+There can be an art to it, yes.
+Benji B 
+Do you ever get an artist saying there’s too much space?
+John Dent 
+Yes. I actually think the gaps on some albums are quite important. It gets into your psyche somehow, you know the gaps and when the beat should come in. When Trevor and I put the Legend album together, we got obsessed with the gaps, we held the entire project up because of it.
+Benji B 
+That’s one of the biggest selling CDs of all time, maybe the gaps helped.
+John Dent 
+I think they probably did. It’s subtle though.
+Audience Member 
+You talked about your monitors. What are they?
+John Dent 
+They’re made by ATC, a company in the west of England. They’re powered monitors, called SCM 100A’s. They suit the room I work in, they fill the room and it’s very easy to hear miniscule changes, one-tenth of a dB changes. I tried other monitors and found that I heard less. They’re plus or minus two dB across the whole range, they’re kind of like giant nearfield monitors. If you scour their website, there’s like a who’s who of ATC monitors.
+Audience Member 
+You said you prefer to use analog gear, but sometimes you get to digital. What would drive you to digital?
+John Dent 
+Couple of things: Controlling “s”’s and top end. If I receive a recording that sounds a bit dull and needs a general top-end lift, amongst that you might have vocals that suddenly become a bit too “s”-y. Somewhere in the panel you become aware of something weird happening that’s not very pleasant, so I can nip in
+there with a vice unit and gently de-”s” but still retain the top end you want to add. That’s a useful tool.
+Sometimes when I need to use limiters, maybe on the output I will have maybe one dB of limiting. And I’ve
+got a choice of limiters. I’ve got an STC and a finalizer, all sorts of different devices. They all actually sound slightly different. I’ll just choose something to up the level. Sometimes D-to-As sound better if the levels are louder going out of them, whether that’s something to do with the details of what I’m using I don’t know. It may be like a pick-up thing where you need a good energy to start with. I may use a limiter there, but it’s selective and it’s not all the time.
+Audience Member 
+You reminded me of another question, about this thing where you used to put the clamp on the record. In a live performance I often get feedback with turntables. Does the clamp cause that?
+John Dent 
+I’ve not tried that, you’d have to try it. I don’t know.
+Audience Member 
+Let’s say the recession hits hard and people decide not to master their recordings and to survive you have to sell all your studio gear. What three pieces of your gear from your studio would you keep and why?
+John Dent 
+The lathe.
+Audience Member 
+Because you don’t want to move it?
+John Dent 
+Yeah, yeah. It’s just a wonderful piece of equipment. I’d keep the half-inch tape machine because, again, it’s a wonderful piece of equipment. What else? I’d probably keep my monitors so I could listen at home to all the stuff I enjoy.
+Audience Member 
+Thanks for the lecture, I’ve learned a lot already. You mentioned when you press vinyl you also change the sound and can lose a bit of quality. Is that right?
+John Dent 
+It can happen, yes.
+Audience Member 
+Do you anticipate that when you master the music?
+John Dent 
+I try not to. I have had some projects where the pressing did quite strange things. I did a Steve Winwood album when I was at Island and there was a lot of synths on that album, and some of the high synths had very delicate overtones and when the pressing came back from the factory they had gone, they’d removed them. The high frequencies are the finest, smallest frequencies on the records and the factory can polish the metalwork – they’ll take a cloth and actually polish off some of the high frequencies. 
+So we recut it and added a little bit of high top, second test press came back it was still lost. So, on the third cut we just went berserk and added loads and it came back alright. Sometimes midrange peaks and feedback sounds sound okay on acetate when it’s soft, because the acetate you cut on is soft and bends slightly under the weight of the stylus. But the pressing isn’t soft, it’s rigid, so when it’s on that rigid groove it throws up some other problem which you’re not really aware of. I have heard of engineers in the cutting room spraying the lacquer with coolant to try and harden it to try and mimic the pressing. But I haven’t done that.
+Audience Member 
+You mentioned you also mastered music that was destined to play in clubs, house and jungle and so on. When I’m in a club and there are 300 people around me screaming and yelling, I am not able to tell if the DJ is playing an mp3 or vinyl. Does that make you think your work has been for nothing?
+John Dent 
+It’s nice if you’ve got a good record to play, but I can accept the fact that people will choose how to play things. I think the important thing is whoever’s releasing the record, how they feel about it.
+Audience Member 
+I play vinyl too and my releases only come on vinyl. But still, when I’m on the dancefloor I can’t tell the difference between MP3 and vinyl, so people could ask what the point of having great mastering is.
+John Dent 
+This goes back to the source files.
+Benji B 
+And which club you’re going to.
+Audience Member 
+Most of the people in the club don’t think about it or care about it.
+Benji B 
+That’s why it’s our job to think about it.
+John Dent 
+There will be places where you can hear the difference. I can accept that isolated places, you won’t hear the difference. Some of Mark’s stuff, where it comes from 24/96 files, I can guarantee you’ll hear the difference.
+Benji B 
+We’ve got one of Mark’s tracks that you’ve mastered actually, if you like a little musical interlude. We’ve got before and after? Wicked. What’s this track called? “The Returners.” Forthcoming from Harmonic 313? Warp Recordings, November 2008. [laughs]
+(music: Harmonic 313 — “The Returners” before and after mastering /
+applause)
+Now I understand why you didn’t want to move to Sydney. So, any more questions?
+Audience Member 
+Hi. When you get a track and you start mastering it, is there a certain routine that you go through? Do you go to certain bits of equipment first?
+John Dent 
+No, I just listen to it as it is. I get a feel for what things ought to be. There’s a kind of telepathy that goes on in mastering. People send me stuff and I do something, they might be recording in Colombia or Australia and they’ll say, “How did you know to do that? That’s exactly what I want.” I’ll just pick an
+approach, or maybe a couple of approaches, and sometimes I’ll give people choices. 
+I’m doing that on this Franz Ferdinand album at the moment. I’m doing a lot of it unattended. I don’t really know exactly what they want, so I’m giving them maybe a couple of dBs
+difference in the levels. The brief on that job was to not hammer the level out of everything, they didn’t want it to be part of this “loudness war,” so we took everything very steady and very dynamic. And then when they turned up to the session, it all got louder. I’m aware they don’t want me to push it, but sometimes I’m not totally sure how they want it, so I do a couple of things. That happens with me – I’ll give a choice back to the customer and they may use one for download and one for CD or vinyl. I don’t have any set way of doing, other than that there is a finite amount of equipment in my room.
+Audience Member 
+Going back to the loudness question – mainly in pop music, everyone is trying to make their songs as loud as possible and music is getting more compressed. How do you see things in, like, five years?
+John Dent 
+That’s a difficult one. I think there’s two things going on with this high level stuff, especially if you want to be the hottest band on the block. It’s like a liter of water – you can only put one liter of water in a liter bottle, and CD has a digital ceiling. One of the ways people have got their music noticed is to find clever ways of compressing and limiting and just cranking the whole sound up. If you’re a thrash or a grunge band, heavy metal or whatever and that’s part of your sound, I don’t have a problem with that. But be aware that with any recording there’s a natural maximum level. 
+Sometimes that takes a little while to work out. Sometimes I’ll do something, and perhaps I’ll just leave it for a day and back and decide it’s too loud. That’s common. My first instinct, and I think it comes from my work with vinyl, is to go for a slightly louder thing. But then I’ll rein it back a little bit. It’s like a window. If you rein it back too far, it becomes less interesting. The sound and reverbs go into the background and you don’t have this kind of impact. So there’s a window that does work and I try to work within that window.
+Audience Member 
+You said only five to ten percent of the material you receive would not need mastering. Has that always been the case or has it changed since the ‘70s?
+John Dent 
+It’s changed quite a lot. When I first started in studios, I remember receiving a lot of ’60s recordings. They were one-to-one copies of all the masters that had come in – it was like a 15-track album. It was my job to splice all of these copies together, and to my complete and utter surprise it all sounded fine. There were
+no level changes required and everything was working to the same level. I think that came from everybody’s training – recording engineers all had fairly formal training – and the equipment was designed to be worked a certain way. 
+You had a VU meter on a tape machine and people worked roughly to zero. You had Dolby A units, which were noise reduction units that took away some of the tape hiss. You had to work those at a certain level. All the
+production staff, whatever they did, the music was actually more or less finished and mastered at the mix. The other thing that happened was custom mastering didn’t exist. What you did, you made your recording and you actually sent it to a factory, who would put it on and cut it. 
+Mastering came about – I believe it started more or less in the States – when people realized you could do a little bit more. The first studio I worked at, Trident, they had a cutting room in the main building, so it was a department of the larger studio. Abbey
+Road had a cutting room, and Decca. So it has changed a lot through the introduction of digital studio workstations and the lack of use of big recording studios.
+Benji B 
+Before we wrap up, it would be really valuable to get
+Russ [Elevado] involved because yesterday you were talking about the musicians doing their
+performance, and when you’re doing the mix, that’s your performance, and if anyone alters it afterwards, then it’s no longer yours. When it’s your baby and you don’t want anyone to touch it, what do you as a mix engineer expect
+from the mastering process?
+Russ Elevado 
+Good question. I get my mix to a point where I’ve worked hours and hours on it and I expect the mastering engineer to really listen to it first and see what the sound of the album is before they start their normal chain. Especially with some of the stuff I do, it isn’t the standard style of mixing anymore, where everything is loud and compressed and really linear. 
+I don’t really want mine louder than everybody else’s. I want my dynamics to stay, and if there’s going to be any sort of tweaking, it should be just a touch low or a touch highs or pulling out the middle a little bit. That’s what I would normally expect from a mastering engineer to do on my albums. Plus, I don’t like putting in L2 or anything. I don’t believe in the end putting this $500 digital compressor once I’ve run the mix through $300,000 of vintage equipment.
+Benji B 
+How involved are you and therefore the artist in the mastering stage? 
+Russ Elevado 
+If I’ve done the full album – or even half – and if I’m in the same city, then I definitely go to the session and pretty much master it with the mastering engineer. I only use two other people, but I will start using John now that we’ve met. [laughs] I’m there the whole time. The artist will come in and out but I like to stay involved with the mastering, just to make sure he doesn’t mess up the mix. You can mess up the mix just by pulling out a whole dB of a certain frequency. A mastering engineer that’s not as experienced could really ruin the whole vision of the album concept. 
+I’ve got a question though. What’s the process of bringing the level up to CD standard, not making it louder, just a standard way of bringing it up to CD standard? Is it computer processing to get it to that level?
+John Dent 
+No. I personally can’t stand changing levels in the digital domain. This comes through trying things out time and time again. I remember a long time ago having an acoustic album that needed about five dB of gain, and there were about seven or eight places in my system where I could change the gain by exactly six dB, so thought I’ll see what happens. I set each one and I would have thought theoretically, mathematically, I would end up with six files that all sound exactly the same and to my horror they didn’t. Some files sounded totally incoherent as if it had all fallen apart; others sounded harsh; one wasn’t too bad. 
+At this point I realized this string of numbers, it’s dodgy. I have all my sources in the studio, whether it’s half-inch or digital, and within reason I play it flat. I come out of digital quite often. I have the 24/96 converters that I just like the sound, they don’t sound digitized, they’re very musical. And I tend to do my level changes in analog and I present the A-to-D converter with the correct level for the CD. It goes onto the workstation – all the workstation is there for is editing, fades and presenting the material to whatever media is going to
+store the CD in the end. 
+The only thing I will possibly do on the workstation, occasionally I will put in a little bass filter as a plug-in if something pops up in the mix; occasionally you get a thumping on a drum kit. Maybe a few fancy level adjustments if there’s a rather awkward crossfade or something. But I would say as an engineer, 95 percent of my level adjustment has already been done by the time it gets to the destination workstation. Once it’s in there, if it’s already at zero you can’t go any higher, that’s it. The level I set it at is generally by discussion with the client about where they see their project in amongst everyone else’s. Some people go
+for very dynamic, some want a kick. 
+I do quite a lot of UK hip-hop, and when you compare it to some serious Dr. Dre levels and stuff, they want to go home and rethink what they’re doing. There are times when you do push the levels, because otherwise they just won’t sound like they mean anything if the levels aren’t right. It depends on the genre and the dynamics. 
+As an aside, I’ve had classical engineers come in and say, “I don’t want my stuff touched, it’s already peaking at zero.” And we’ve put it in the system, transferred it all digitally, no changes. And then I’ve sat down and listened to it and said, “It might peak at zero, but it sounds 15 dB quieter than anything else. Is that what you want?” There’s a big kind of brain strain where they think, “Oh my God, I’ve got to change my sound.” But if you can up it by five dB and it still sounds like more or less where you were originally, then you’re there. The end result is quite big but I approach it in a very minimalist way, so that’s my skill.
+Russ Elevado 
+In the pro world there’s zero VU. What is it for CD that’s relative to zero VU in the pro world?
+John Dent 
+Zero VU is normally about minus 14 on the CD scale. Different institutions and different people have a slight variation on that. The reason is you can see a drum beat peaking at zero on a VU meter, but the electronic level could be up to 14 or 15 dB higher than that. There’s a huge difference between the way peak meters read sound. Most digital workstations use standard VU meters, but on some you can switch them to give you a different setting.
+Benji B 
+One last one?
+Cristian Vogel 
+What if some of the people here feel the calling to become a mastering engineer? Because there’s inevitably an aspect of engineering – you have to learn how to EQ for yourself – but if you become more interested what you’ve been talking about, the delicate approach and the science or art of mastering, what do you recommend for budding mastering engineers? How can they train, how can they learn? I’ve been mastering for years and I hardly ever get to meet others to talk about different approaches. It’s been really intriguing to hear yours. Is there a school or a standard way of learning?
+John Dent 
+I’ve not come across a school. I think one of these days I’ll end up writing a
+book.
+Audience Member 
+There are a couple of books, isn’t there?
+John Dent 
+Bob Katz does some bits and pieces. I think it’s a learning experience in the same way as recording is a learning experience. I had the privilege of coming into the industry at a time when that learning experience was huge. And I’ve been able to look forward and look backwards and just apply sensible engineering techniques and bring the best of what I learned in the past to the current. 
+The best experience is to get into a place that actually does mastering. But it is very, very different. There are engineers that I definitely respect in terms of their work, and they sit there using an audio workstation that I wouldn’t pass a single sound through. Yet they’re there and I respect their work. So it’s definitely a slightly style thing and I suppose you really do have to introduce yourself to places, even ask whether you can be there for a couple of days just making the tea and helping out. I get people coming in quite a lot just to sit around for a day. It gets a bit boring after that, but they come in for a day.
+Audience Member 
+Isn’t that the clients? [laughs]
+John Dent 
+They’re generally involved, they like the idea of their stuff going onto tape and the lathe, getting all excited. They’re generally OK.
+Benji B 
+Are you around for the rest of the day, right? People have got questions, I’m sure, which they can ask over lunch or high tea, whatever the relevant time is now. But for now, thanks to the master, Mr. John Dent.

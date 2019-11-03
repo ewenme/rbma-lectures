@@ -1,0 +1,1046 @@
+There are audiophiles, and then there’s Tony Andrews. He has been building PAs since the heyday of Hawkwind and the Pink Fairies. Today his Funktion-One soundsystems are the in-house sound at many of the world’s best clubs. 
+During his in-depth lecture at the 2011 Red Bull Music Academy, he talks about the curse of line arrays, how to prevent the chainsaw effect and why the iPod has ruined our ears. 
+Gerd Janson 
+This gentleman to the left of me, who goes by the name of Tony Andrews, is the
+man behind Funktion-One, a brand that came to prominence in the last few
+years. It’s the main soundsystem at Berlin’s Berghain, Cielo in New York, a few churches somewhere, an opera house or two…
+Tony Andrews 
+Space Ibiza.
+Gerd Janson 
+Space Ibiza, for those people who like to spend their summer on that
+island. He has quite a long history when it comes to soundsystems. He’s opinionated about the quality of sound and we’re going to hear from him about it. So please
+welcome Mr. Tony Andrews.
+[applause]
+So before, we end up at Funktion-One, sound quality, signal chains and
+distortion and all these things, how does one get into the business of building loudspeakers?
+Tony Andrews 
+If you’re asking when it started, it started with an interest in hi-fi. I didn’t have much money when I was 16, 17, so I bought some speakers and built
+my own boxes and just began to investigate stereo. The first thing I remember
+strongly was that Jimi Hendrix’s [Electric Ladyland] album, had
+some amazing stereo panning. I don’t quite understand why we don’t do more of it today. But anyway, it was very exciting. After I’d learned about hi-fi, bands touring was
+relatively new then, and the idea occurred to me, “What we need is for a band to be hi-fi quality,” so that’s the kind of mission I decided I was going to get into – to try to get hi-fi quality at really loud levels. This was back in 1970/71 and the first band I toured with when I made my own system was Pink Fairies, and they were supported by a band called Hawkwind, who you
+probably will have heard of. It was one of those occasions where the really
+good band broke up and the support band became a stronger thing.
+Gerd Janson 
+Hawkwind, for those who do not know, was the band a certain Lemmy started in and he went on to form a group called Motörhead, who were the loudest band on earth.
+Tony Andrews 
+That’s what they’d like to think, but as we all know, it’s not about levels, it’s about quality.
+Gerd Janson 
+We’re going to hear about that… Were you making music itself or just interested in the scientific aspects of it?
+Tony Andrews 
+When I was about 16, I had a bass guitar but to be perfectly honest, I didn’t have the front to get up on stage. I was too nervous, believe it or not. But I always find myself fixing the things that got broken so it kind of developed that way.
+Gerd Janson 
+And you’re also self-taught, right?
+Tony Andrews 
+Yeah, I had a background in physics, and I did reasonably well academically. I got a place at university, which lasted about three weeks, because I just couldn’t stand the idea of sitting there taking notes and having to remember them four months later. I’d been doing that for years and I couldn’t take it anymore. Anyway, there was a psychedelic explosion, and where it was at was the music. So that was another thing that attracted me to it.
+Gerd Janson 
+Can you remember the first loudspeaker you built? Did you model it after a certain loudspeaker you couldn’t afford, or did you play it by ear?
+Tony Andrews 
+No, completely played it by ear. I didn’t understand all sorts of things at
+the time, but you try things out, just like you do in music, you try things
+out and listen to them and see how they make you feel. I guess that’s how we
+learnt about bass. We had one of the original hi-fi speakers. We were playing around
+in the room and my brother put it in the corner, and of course all the mids
+and highs disappeared, but there was this sudden big improvement in the bass.
+So, we went out to the garage and we built the corner of the room and I thought,
+“The corner of the room isn’t a good shape, let’s turn it around… Let’s reverse
+it.” That’s how the first bin evolved. So, you could say it’s an accident,
+but when accidents happen, it’s good to observe what’s occurred. And if it
+doesn’t make sense, find out why. Or if it’s something interesting see if you
+can’t pursue it further.
+Gerd Janson 
+And you pursued it further.
+Tony Andrews 
+Very much so.
+Gerd Janson 
+Before Funktion-One there was another brand you did. When did it occur to you to make this your living, not only to go on tour with bands,
+but manufacture your own sound equipment for them?
+Tony Andrews 
+Well, in the ’70s we were a rental company, and in those days most rental
+companies built their own equipment. We were a touring company, so we were
+working with bands like Santana, Jackson Browne, Iron Maiden, later Kool & The Gang, people like that. In the ’70s, everybody was building their own equipment, so we just evolved our
+ideas. One of the things we were concerned about was the compression drivers
+that get used for midrange and high frequencies to this day. They’re only
+small metallic diaphragms, when you
+give them a lot of pressure it goes to rag, it just rags out. Technically,
+you’d say they go non-linear, it’s not faithfully reproducing. It’s adding up
+to maybe 40-50% of its own sound, which is distortion. So, we started looking at cone
+drivers, which is for midrange, probably about ’74. By ’76 we had the first
+Turbo, which is a way of organizing the waves from a cone driver, which is in
+the same principle as a phase plug in a compression driver. Do you guys know
+anything about the basics of loudspeakers and the various types that get used?
+Oh, OK, let’s try another angle. When you go into a club and it feels like
+there’s a chainsaw taking your ears off, that’s a compression driver – it’s clipping. Not clipping like the meter’s going into the red, it’s
+clipping mechanically, it can’t hold its integrity. So, this was an obvious weak
+point in getting loud sound.
+Gerd Janson 
+Why do you have them in the first place when they have the effect of a chainsaw?
+Tony Andrews 
+Because they’re very good converters of electrical energy into acoustic
+output. Their efficiency is high, like a direct radiator. Say a 12"
+speaker, a really high-efficiency one would have 100 or 101 dB for one watt for one meter. This is a sensitivity figure, so sensitivity is about how much of
+your amplifier energy is being turned into acoustic output. I guess these
+speakers would be 92 or 93. They won’t be very efficient. The typical home speaker is maybe about 3 or 4%
+efficient, which is really low. The truth is 100 acoustic watts in the air is
+enough to kill you, just to give you an idea of how inefficient the majority
+of loudspeakers are. So, the compression driver has an efficiency approaching
+maybe 30%, so you get a lot of sound out of it. The problem is, you get the
+high efficiency but you get masses of distortion. And distortion is something
+that bothers me greatly, right from the beginning it seemed to be the wrong
+thing. So, the question is, can you replace the compression driver with
+something that’s as efficient but doesn’t suffer from all the horrible sound
+that can make? So, cone drivers; paper is an organic material – it’s much more
+natural, it’s closer to the speed in air than, say, metal. You’ve only got to
+think of a dustbin and the clangy sound it makes and then you think of
+something like a guitar body, which is made out of wood, or a violin. These
+are more natural human sounds, and the speed of sound in organic materials is
+closer to what it is in air. So, a metal diaphragm is not a very nice thing. All
+compression drivers have this. It used to be aluminum, these days they’re
+titanium, because it’s longer-lasting, stronger. So, we started evolving cone
+driver midrange probably in the mid-’70s, and we’ve been continuing that
+evolution to the present day. We’ve understood more and more how to load a
+cone driver to get the maximum amount of energy with the minimum amount of
+distortion. We’ve reached a point now where the speakers, even at high level,
+are clean enough that we start looking and have done for a long time further up the chain, up
+to the beginning of the music-making process. Maybe I’ll let you ask another question.
+Gerd Janson 
+So, when you talk about back in the day, the problem was getting the right
+loudspeakers, to manufacture them. Now you have them, more or less, so where’s
+the problem now?
+Tony Andrews 
+The problem these days is that it seems to have reversed. A lot of the problem
+has come with the arrival of digital. Let me say right from the beginning that, actually, digital can be as good as, or even better than, analog. But there are more
+things that have to be considered and got correct with digital than with
+analog. Analog in some ways is simpler and easier. Then we have the
+worldwide web, and in the beginning the bandwidth was very narrow, quite small. The bitrate was low. Storage space was incredibly expensive, so the MP3 got
+invented, more or less as a holding situation, a stopgap until things could
+grow up. The problem is they become bad habits, reinforced by iTunes. Everyone
+says Steve Jobs is great, but he didn’t do anything for audio.
+Gerd Janson 
+Before we speak about the audio quality, maybe you can explain. They’re not
+familiar with the whole soundsystem thing. What’s the main difference between
+an analog and digital soundsystem?
+Tony Andrews 
+The main difference… The main difference in today’s world and
+experience is that digital can sound quite harsh. A lot of the texture and the
+depth is missing because they don’t take all the information. You can do some
+simple sums, like what is the dynamic range of human hearing? Well, it’s going
+to be zero to the threshold of pain. Pain kicks in about 135-140 dB. That is
+really, really loud. A nice listening level is probably about 100-105, so if
+you like, there’s 135 dB of dynamic range available to the human hearing. So,
+bit depth is how we measure digital dynamic range. So, eight-bit depth is going to
+have a quite narrow dynamic range. The loud bits are only going to be so loud, and
+the difference between the quiet bits is not going to be so much. 
+So, if you do the maths, it comes out as about 24-bit depth, about the same range as human hearing in terms of dynamics. So, the bit depth is the dynamic range and – you probably know
+this but I’ll repeat it anyway – the sample rate is the amount of slices taken
+through time. Considering the fact that the human auditory system can discern time
+differences down to 15 microseconds, not milliseconds, so 15 millionths of a second has a meaning for the human auditory system… The ear’s not this
+funny shape for no reason. There’s a purpose to all the funny little curves and the shape of
+it. It’s to do with vector location. I guess when we were on the plains of
+Africa or in the jungles, and certainly at night, the eyes were not going to help
+us if we were going to become prey to some predator. But if you hear a sound, you
+don’t have to see to know where it is. In the jungle, I guess, you’re relying
+more on your auditory sense. The auditory system for humans is incredibly
+well developed. You instantly know where something’s going – even when you walk
+into a room blindfolded, you know it. You walk out of the room you know it,
+because the processing is always on; it never stops. That’s why, if you’re in a
+bad acoustic environment, like a pizza place with tiled floor, hard walls and
+ceiling, glass, somebody puts a fork down, everybody hears it. Everybody’s
+shouting because they’re trying to get their voice heard by their friends above
+the general noise. If you’re in a room like this one, which is acoustically
+reasonably dead, it’s a pleasant environment, it’s not hard work to exist in
+it. 
+This is something that’s always there, always with us. The outcome of
+being in a bad acoustic environment for a couple of hours is that you begin to
+feel irritable and tired, because the processor is on all the time. We’re just
+not aware of it in a conscious way, but we feel the result, which is tiredness.
+Architects don’t ever think about the acoustic properties of the spaces
+they’re designing. They should, because the acoustic properties make for the
+mood and the feeling and the ambience of the place, and it’s good to pay
+attention. For example, the nice little huts you’ve got around here for making
+music, they’re great because the walls are all different angles, so you don’t
+get any standing waves. But it would be quite an improvement if there were
+some cloth in the ceiling to absorb the high frequencies. High frequencies’
+perception spoils the reflection of your stereo image. When you’re mixing, you
+want to be hearing just the speakers – assuming that they’re reasonably
+truthful and not glamorizing or underplaying – as a good reference, so when you
+go out there it’s not miles away from whatever the average is. But if you go
+out there and play, there’s going to be all sorts of things you’ll encounter.
+So, there has to be kind of a ground zero, and that’s what a studio’s for.
+Gerd Janson 
+And would you also recommend the bedroom studios at home to have just a bit of
+cloth?
+Tony Andrews 
+I certainly would. It’s not rocket science, acoustics. You just want things
+that absorb, so the sound doesn’t come back. With the speed of hearing and everything, you pick up that reflection. It spoils your perception, just from the loudspeakers. In
+fact you don’t even want to hear the loudspeakers, you want to hear the
+result. So, when I’m listening to a system, I’ve got my test tracks. I put them
+on, I get in the middle of the speakers. How well does the sound stage? This
+is the key thing, as to why audio quality is so important. It can be a
+transcendent, spiritual experience. When you become part of something, as you
+can with audio and good music, your mind can open. I’m not saying it’s going
+to follow exactly, but many people have this experience, which is why there
+are hi-fi nutcases in the world, I guess.
+Gerd Janson 
+And why do you think your loudspeakers are so popular with clubs or electronic
+music in general?
+Tony Andrews 
+They’re popular in clubs because people aren’t suffering from the politics of
+the live music world. It used to be a pioneering thing. When we were in it in
+the ’70s it was a very different category of people. We don’t do a line array.
+Gerd Janson 
+What is a line array?
+Tony Andrews 
+It’s the strip of speakers you see each side of the stage when you go into a
+concert. They’re actually quite easy to fly, but as a way of doing audio
+they’re extremely flawed. You’re never going to get the precision that we’re
+talking about. You should be able to do better than these [points to
+speakers] in a big concert. It’s easy with one speaker to get a reasonably
+good result, especially if your room is okay. But if you’ve got lots of speakers
+they really take some organizing to, if you like, sing off the same page. They’ve all got to
+be in time, in sync. It’s a bit like rowing a boat – everybody has to row
+together at the same time.
+Gerd Janson 
+But why’s the line array method so popular with live music?
+Tony Andrews 
+Because we live in a world that is dominated by convenience, rather than production
+values. When you’re in clubs, you don’t have these ideas. I mean, the live world is
+incredibly political. When you’ve got glamor and celebrity, it’s not so much
+the celebrities but all the people around start going a bit crazy. This kind of madness develops. I can honestly say the sound in concerts today is not as good as it was 25 years ago, when it was more analog and line arrays didn’t exist. That’s my opinion. Clubs like our stuff because they’re just listening to audio. Obviously, they want strong bass that’s musical when you
+play a bassline that’s got various notes in it. It’s got all of them, it doesn’t just do one note. The mids are clean and strong. It’s the distortion levels. We can get loud sound
+really, really clean. The high frequencies are very pure, because the crossover
+point is high. 
+What’s the crossover point? The crossover point, there will be
+two crossovers in this [gestures to the speaker next to him], not to mention a load of processing, but between the bass speaker and the midrange, there will be one crossover, and between the midrange and the high there’ll be another. So… I thought of something as I
+said that. See, another thing about audio, we talked about how fast it is,
+how important timing is and how deep we can perceive the difference is in time arrivals.
+But, also, it’s the breadth of the audio spectrum. It’s ten octaves wide. All the
+colors we see are of the rainbow, and the rainbow is one octave. So, although
+light’s electromagnetic waves and sound is waves of compression and rare
+reflection, everything in the universe seems to be built on an octave. So
+there’s one octave of light. With one lightbulb, you can get all the light you
+need, the full spectrum, which, when you add it together becomes white. It’s
+incredibly difficult to do that with ten octaves, which is why four-way
+soundsystems are split into bass speakers, mid and high and sometimes low-mid
+and high-mid and high. If you go much beyond that it’s probably not necessary,
+and you’re complicating it to the point where you could probably get more
+problems than good results. 
+The four-way system is about the maximum. But the
+reason you have to do this is that bass wave is easily as long as this room
+and a high-frequency wave is about this long [holds fingers about one inch
+apart], so we’re talking huge orders of magnitude difference. The difference
+between red light and violet light is not much, we just see this narrow
+spectrum. If we saw the whole of the electromagnetic spectrum ,we probably
+wouldn’t be able to walk anywhere without bumping into something. It would be
+too much. So, the windows of perception that we have as humans, they’re what
+they are, and they’ve evolved the way they have. We have ten octaves in sound so
+it’s very, very broad. It’s also 360 degrees, and your reading vision is a very narrow
+cone in front of your eyes. Peripheral vision goes out to here [spreads arms], but with audio it is 360 the whole time. So maybe I’ve given a reason
+as to why speaker systems are often divided up into bass, mid and treble. The
+crossover is the thing that takes the full-range spectrum and divides it into
+bass, mid and treble, that’s what a crossover point does.
+These days, because
+of digital – which is a positive thing about digital – is it allows us to
+delay the time by milliseconds. I don’t know if they do that with these, but
+where these are starting from, it’s not all on a flat plane. So, the time
+adjustment will delay the one at the front to be at the same point with the one at the back. Our
+hearing is so discerning that we will hear that that isn’t right. We won’t go, “Oh,
+the timing’s wrong,” we’ll just go, “OK, it’s alright, but it’s not great
+sound.” To get great sound, all the frequencies need to arrive almost at the
+split microsecond together, because of the timing sensitivity that we have.
+Gerd Janson 
+Everyone who ever played in a club without monitors can maybe feel you on that.
+Tony Andrews 
+When it comes to trying to time the beat for the next record?
+Gerd Janson 
+Yeah. As soon as you’re in, you wonder, “What did I do wrong? It sounded right
+just a second ago.” You have that delay.
+Tony Andrews 
+Yeah, you do, and quite often we have to take any time delay off the monitors,
+because some DJs are really sensitive to it. They’re hearing a meter. Sound
+travels at, well I know it’s 1,100 feet per second, but I think that’s about
+376 meters per second. It’s quite slow, so you really do have to pay attention to it if
+you’re making a soundsystem. But that’s not what you guys are doing – you’re making music, I guess.
+Gerd Janson 
+Yeah, but some of them are playing that music in clubs.
+Tony Andrews 
+If you know about soundsystems and you put your music on and it doesn’t sound
+right, then maybe you can do something about fixing it. There’s a great lack of
+good sound engineers in the world in general. There aren’t so many. That’s all
+I want to say. I don’t want to be rude.
+Gerd Janson 
+You don’t name names. OK.
+Tony Andrews 
+What else could you say here? Tons really.
+Gerd Janson 
+Keep out of the reds.
+Tony Andrews 
+So, assuming the sound’s okay and there’s an engineer who’s got it nicely dialed
+in for the room, any room’s got a nice working level. Too little and you don’t
+get enough excitement; too much and you start to crush people, especially if it’s
+distorted. So, the idea here is to try to keep the sound as clean as possible.
+I know that some kinds of distortion are part of the musical thing.
+Gerd Janson 
+You’re not talking about the Jimi Hendrix kind of distortion, are you?
+Tony Andrews 
+No, that was his sound. Even harmonic distortion is actually quite pleasant.
+The distortion you get from even a bad soundcard – most of them are not that
+good – it’s also overloading it. That kind of distortion has a lot of square
+waves in it – they’re not natural. The ear doesn’t like them. I know we’re
+living in a world where quite a lot of ugly things are considered good, but I
+can’t come to terms with distortion being a beneficial thing to the average
+human. It’s in everything from MP3 to bad soundcards to bad original samples.
+To me the most important thing is to have a good beginning. So, it’s a nicely
+recorded vocal, or it’s a good sample, it’s a good quality. When you’re mixing
+it, the levels want to be just right, not too quiet. They don’t want to be too
+loud, because when it’s clipping and in the red you get that horrible crunchy
+sound. If you do this half a dozen times, you’ve not got much left. It’s not
+just that you’ve got distortion, which is non-linearities, artifacts, things
+that didn’t belong in the original signal in the first place; it’s the fact
+that the clean side of it is missing, the depth, all the information that can make
+sound such a beautiful experience. 
+When the sound is good, you want to open yourself to it. When it’s bad it drives you away, it’s something to avoid. So, good samples, good beginnings, sensible gain structure all the way through, keeping the life in it. An eight-bit sample will not have all the information that
+a piano’s got in it, all the harmonics. For instance, an MP3, even at
+320kbps, has only got 20% of the information of a CD. So, if you translate
+CD quality, which is 16-bit 44.1khz into kilobytes per second, it comes out, I think, at
+about 1410. So, a so-called high-quality MP3 is 320 kilobytes per second – that makes a CD
+five times more information. So, obviously lots of stuff is going to be
+missing. I’m not an expert on digital, but I know it’s looking for significant
+bits. There’s a level at which an MP3 will reject any information that is below a certain level in the mix, which means all your subtle harmonics are gone; they’re not there anymore. And the
+effect on your sound is like looking at a two-dimensional picture or really
+being in the place. That, to me, is another reason why audio quality is so
+important. It’s a multi-dimensional experience when it’s good. When it’s bad,
+you might as well put paint on a wall. It’s not the full thing. 
+I am concerned that generally in the world the appreciation of this is going downhill, and
+it’s a combination of bad use of digital, such as MP3s, and line arrays at
+concerts. iPods have got people to the point where they almost prefer the
+sound of an iPod to real audio. Quite often when engineers get on a Funktion-One system when they’re doing a live band, it frightens them because when you
+move an EQ you get a response. It’s like taking a guy who’s been driving a
+Ford Focus, a pretty standard car, and putting him in a Formula One car. They’re
+actually quite hard to drive, because they’re so sensitive – you have to be
+careful and know what you’re doing, but if you do, you can get the most
+amazing results live. In fact, good live can be better than the recording,
+because the number of stages between the original and the end result is at a
+minimum. So, to expand on that point, every time you take your audio and put it
+through a processor or copy it from one format to another, unless the
+mathematics is perfect and the algorithms are wonderful, it’s going to be
+degraded. It’s always been there that the minimum number of stages between the
+beginning and the end will always give you the best audio. It’s very hard to
+hold onto all these subtle things that make a Steinway piano a Steinway and a
+cheap copy a cheap copy. Most people can tell the difference, but they’re both
+pianos. So, a line array will give you sound, but it won’t give you any more
+than a two-dimensional result.
+Gerd Janson 
+What do I do if I have a bad back and I don’t want to carry records around? Or
+I’m all about efficiency and I just want to travel with two USB sticks in my
+pocket?
+Tony Andrews 
+If you’ve got a collection of vinyl, the first thing to do would be to
+translate it into digital. So you get yourself a good record deck and you put,
+say, an Ortofon moving coil cartridge on it, because they’re one of the nicest-sounding cartridges you can get. Don’t
+use a DJ cartridge, because they’re built for strength, not finesse. The only
+things I know that are going to work nicely are an
+Apogee, a Prism, or
+this little box which, I think, is about €150 – It’s from Echo and it’s
+very nearly, if not as good as a Prism or an Apogee. Somehow, they’ve got the
+right chips with the right mathematics and the audio that comes out of these
+is amazing. We use it to judge all other soundcards. So, if you use a really
+good analog-digital converter and you get it down at 24/96, you’ve got it in
+digital format. Then when you play, Traktor or any of these will play a WAV file…
+Gerd Janson 
+Is someone here using Traktor? And the rest are Serato, right?
+Tony Andrews 
+Something to tell you about Traktor – we were quite amazed at this, and we only
+learned it a couple of years ago – we were asked to evaluate the Traktor
+soundcard, and we came back with a report that wasn’t happy at all.
+Gerd Janson 
+So, other companies come to you…
+Tony Andrews 
+They do, yeah. Because our thing is audio and Funktion-One is our personal
+expression of our quest for good audio – people tend to see us as a yardstick,
+a measurement. So, people send us amplifiers: What do you think of this? They
+send us soundcards and Native Instruments did. And when we told them what we found they were quite concerned. They came over and visited, and through the course of it they heard what we heard, which was a fairly degraded sound playing a well-recorded WAV file, and they began to suspect the software. At that point I got introduced to Foobar – which, sadly there isn’t a Mac version of – but it’s a shareware file-player.
+Audience member 
+[Inaudible]
+Tony Andrews 
+There’s a Mac version. Hooray! The thing about Foobar is, it’s just a straightforward player. There’s no tricks, bells or whistles, it’s not phoning
+up somebody saying who you can share it with, it’s just playing the music, and it does it
+really, really well. When we played the same tracks with the Foobar through
+the Native Instruments soundcard, it was actually pretty good. Not quite as
+good as the Echo, but pretty damn good. So, it was in the software – and this
+is the thing to remember about all software – two weeks later, they came back
+and said, “This is what you do: you go into preferences, then the mixer
+section, you take the EQ from Exone to classic, then further down on the mix list
+there is auto-leveling and auto-limiting,” neither of which you really need
+unless you’re completely crazy. But if you’re doing this professionally, you
+should be at that point. Anyway, you get rid of those, because it turns out
+they’re adding extra layers of processing, which is actually degrading the sound quite
+substantially. I think Native Instruments has it as standard like this now in
+their late releases, with the classic EQing in place of the Exone, and then you
+uncheck these things and it becomes a simpler file-player. So, we haven’t even
+got out of the laptop and already there are things to think about. With Serato
+I think the soundcard is the dongle for the program, if I’m not wrong.
+Audience member 
+[Inaudible]
+Tony Andrews 
+So, you’re kinda stuck with their soundcard, which up until the last release was pretty bad. They’re not on their own with this bad soundcard thing. Some of the Pro Tools soundcards were pretty bad as well. Believe it or not, Pro Tools cards were crap, some of them. I think that’s what gave Prism a market. It’s quite sad that you can do all this clever stuff mixing and recording, and then, in the final analysis, when you turn it back into analog, you can take so much of the life away from it, because a soundcard will usually have digital-to-analog converters and they need to be good. It’s not easy to get digital to analog converted to an acceptable quality. It’s only recently that it’s become something you can do without costing a
+lot of money, as proven by this device.
+Audience member 
+[Inaudible]
+Tony Andrews 
+Yeah, CDs are okay. They’re certainly better than MP3s. Because, if we talk about
+CDs, then we have to talk about Pioneer CDJs. The 2000 is a far better
+machine than the DJ1000, the Mark 3. They can be okay. But you have CD format and it’s got to decode that, and if you’ve got a digital input, you can come digitally out of
+the CD player, straight into the ubiquitous 800, which actually, although it’s not offensive as long as it’s not in the red, it isn’t proper audio at all. So, if you come out of the CDJ analog then you’re already using the converters in the machine. So, there is a size of window that the
+audio can get through. It’s like cleaning windows – you clean one window and
+you see another one behind it that also needs cleaning and you keep going on
+like that until the light gets in. Pursuing clean sound, you can be really loud and really strong but it doesn’t hurt, it’s got no square wave content. Sometimes you
+want to put jagged-edge sounds in for sensationalism or whatever, but there’s
+not many people who find that a great diet. I certainly don’t mind a bit. But there is a reason why there’s a diatonic scale – harmony is everything. So, what you asked about CD players, did I answer you?
+Audience member 
+[Inaudible]
+Tony Andrews 
+At trade shows we always have a demonstration room because demonstrating the
+equipment is much better than talking about it. So, we feel if people get an
+experience they’re going to remember it. We’d been using an analog preamp
+that was actually made for us in 1982 right up until about two years ago.
+After discovering Foobar and this nice piece and turning some vinyl into
+digital form, then we were burning some CDs and using the analog preamp. But
+after getting Foobar and finding the soundcard, we now go directly from the
+laptop to the soundcard straight into the crossovers or the soundsystem. We
+don’t even go into the mixer. It’s not so easy, because you haven’t got a fader
+there, but you can use it with a mouse, or if you’ve got a controller it’s
+great. That is less stages than having a CD going from that to an analog thing and then the crossover’s digital, so there’s another set of converters.
+So, if you’re thinking about what the audio has to do and minimizing the number
+of changes it has to go through on its way to the end result, it’s going to
+retain more of its integrity. It’s what I call signal path integrity. Pretty
+much every piece of equipment I get, we set everything at unity gain, plug the
+input into the output really quickly, because your sonic memory is about three
+seconds long. That’s all you’ve got to make a decent evaluation, but that’s how
+we test things in the first place. If the audio quality is not up to it, then it’s not worth going
+any further. So, that’s the first thing we do with anything anybody sends us – we put it in the circuit, we take it out of the circuit. It’s not easy to do that, but we try to do it.
+Gerd Janson 
+What would be your ideal set-up, if you can?
+Tony Andrews 
+A completely dead room. Something at least as dead as this room is here.
+You’re never going to be able to have anything but a hard floor. Case in
+point, this February, Space said to us, “We’ve been using this system for seven
+or eight years, we want to raise the game, do something new and different.” So, I came up with a plan, went out there and said, “Look, I’m only going to do
+this if you treat the ceiling of this place, because we’re standing here
+talking and I can hear the low-mids coming back down to me. That’s just me
+talking, so what’s it going to be like with 10,000 watts on? That’s going to be the
+flavor of the room. So, I will do another step forward on the soundsystem, if you treat the ceiling.” 
+Turns out they thought this was okay, they would do it, they got a
+nice chap in from Barcelona and he did a really nice job. But there was an
+observation that I was curious about, which was why was I only getting the
+low-mid back from the ceiling? Because this looks like a concrete ceiling, and I should get
+some high frequencies back as well, but I’m not. So, when we were hanging the
+stuff in the place and I was up in the roof, I could see they’d sprayed some
+of this – I don’t know what you call it, flock or something – they’ve sprayed
+some of this material on the roof, but it was only sufficiently absorbent to
+take away the high frequencies, so the mids were still there. So, when I got up in the roof, which was some time in May, that’s why I realized why I was getting that reflection. 
+So, in your writing room, the place where you’re doing stuff, when you walk in and you’re talking, listen to what’s coming back. If it’s a good room and it’s nice, the sound of
+your own voice is going to stay inside your head. If it’s not so good, it will
+sound like it’s all around you, coming from every direction. You’ve already
+got all the equipment you need about your person to evaluate an acoustic
+space. You don’t need a laptop or a load of equipment and microphones and
+graphs. Most real-time analyzers average over a very long time, as far as the
+ear is concerned. The ear works in microseconds. The front edges of everything
+are really important. This is known as the transient, the beginning of the
+sound. If you were to remove the transients from a violin and a guitar and
+just played the envelope rather than the beginning, it’s not easy to tell the
+difference between those two instruments. So, you need the beginning to tell
+you what it is. Then when you think about intelligibility with speech, it’s in
+the consonants, the “t”s and the “k.” They’re the things that give it edges.
+If I start mumbling [mumbles] and not talking very clear, it’s the
+consonants that go first. So, transience is really important and speakers need
+to be fast. 
+See these are very nice, pleasant, but I find these a bit slow. I’m used to them being snappy. Over 40 years, this is where me and my partners have finished up thinking what the most excitement and best part of audio is. In the beginning you follow your instincts and what you feel to be right. If you’re lucky later on, you’re able to work out what it is that attracts you and maybe wrap some science around it. I can do that if I sit down and write something, but it
+doesn’t make for a very interesting conversation. So, I don’t go too technical,
+because in the end it’s about music, which is about feelings. It’s a way to
+find out more about yourself. 
+Personally, I like old-school house from the ’80s to the ’90s when there was a positive feeling, it was happy, there were vocals, key changes, some melody. The thing that gets me most is the
+disjointed rhythms. I have said to people that if my heart were to behave like this I’d be in hospital. There are certain things that don’t change, thank God, for eons, breathing and thinking and your heart beating is one of them. That’s old, but it doesn’t mean it’s wrong. What I see with digital is that all the good stuff learned during the analog period of audio has been replaced to quite a large extent by the way digital behaves. 
+Back in the ’60s a guy called Marshall McLuhan said the medium is the
+message. And now we’re in the digital age, audio has shifted to the message of
+that medium, which is actually very fussy. It can be very wrong and a lot of
+people have got very used to it. The point I’m making is the digital thing
+could’ve taken what was begun with analog further. I’m here talking to you
+guys because it’s of great concern to me that rather than going forward and
+building on what we understood, we’ve swapped one kind of imperfection for
+another. It has not gone further at this point.
+Gerd Janson 
+Why did it go wrong, in your opinion, if the possibilities were all there?
+Tony Andrews 
+How deep do you want to go? [Laughs] How much time have we got?
+Gerd Janson 
+We still have a bit.
+Tony Andrews 
+Just take the Russian Revolution, for instance, which began with some apparently good ideals for the people. And it didn’t take long…
+Gerd Janson 
+So, the MP3 player is like Stalin?
+Tony Andrews 
+I’m just saying that the default mode of human endeavor is for it to go around in
+Circles, and when you’re on the other side of the circle, you’re actually going in
+the opposite direction from where you started. Going from the Revolution to
+Stalin, from communism to fascism, is a glaring example. It’s human behavior,
+because we all assume someone knows better, or someone else is taking care of
+it. It’s not necessarily true. As far as I’m concerned, audio is wide open. It needs to get better. It’s a very uplifting and deep subject, and I guess that’s why you’re involved in it. But the musical side… Well, music itself is an amazing thing we have. I can explain why we have such good audio perception and how it helps our survival, but why we’ve come up with music and we’ve got a scale that sounds in or out of tune is a fascinating question and I’m not saying I know the answer.
+Gerd Janson 
+And you still haven’t lost hope for the turning point in the digital age? You
+think it can still be an advantage for audio?
+Tony Andrews 
+The fact Funktion One exists with such a strength, despite not doing line
+arrays, so we’re not in with the fashion, but there’s enough people who get
+our audio quality to make us successful… This is the way the world works. If
+we’re quite popular and good in clubs, people put the idea around that we’re no
+good for live, because they’ll only use a line array in live, and we don’t have
+one – that makes it quite hard. But people market against us by saying we’re no
+good for live. I can honestly tell you that a good loudspeaker, and this is a
+good loudspeaker, you can put any kind of music through it and you can
+appreciate it. Any good soundsystem is the same. So, to say that one system is
+good for one kind of music and another is good for another kind of music is
+displaying great ignorance, frankly, about the subject.
+Gerd Janson 
+So, the pigeonholing that goes on with musical styles doesn’t apply to loudspeakers?
+Tony Andrews 
+No. Only in as much as certain things, like with dance music, if a system’s
+got good bass then you can maybe consider it alright for dance music, even if the midrange is shoddy and the highs are nasty. But if you want to do speech, the human voice – and
+here’s another thing that’s come into my head – the thing to evaluate a system on is a good vocal track. I do listen to dance music, electronic music, on a system, but that’s the last thing I do. The first thing I do is listen to a male or a female voice. I’ve got tracks I put on that I know well, because the human voice is what we actually listen to most of the time. There are nearly seven billion human voices on the planet and every one is different. Everyone can
+recognize their friend’s voice, even if you’ve only met someone a couple of
+times. We’re really tuned into voices. So, if you get to know a good well-recorded vocal track and put it on your speakers, it’s going to tell you an awful lot straight away. A typical thing would be the compression drivers are very forward and they give you 3-5k much too strongly. This is where all the cut in the sound is, the edges of the transient are most noticeable. But
+if you haven’t got the stuff below 2k, if you haven’t got the wooden frequencies, you’re missing something. A lot of production is done like this now. It’d always been present and I
+think it’s to do with… are you guys aware of the Fletcher-Munson curve? Human frequency sensitivity?
+Gerd Janson 
+I’m not.
+Tony Andrews 
+It’s actually not a linear curve, so our sensitivity to various frequencies is
+quite different. The peak of it is at 4kHz, interestingly enough, and bass is
+actually quite low. So, if you look it up, it’s certainly not straight, it’s kind of all over the place. But the most sensitive region is 4k, which is probably where most of the
+intelligibility when you’re listening to somebody is coming from. Around 4k is
+where the “t”s and the “s”s are going to be. If you’ve got a vocal and a
+guitar, which have a similar frequency range, and you try to put them both in
+the 2-5k area, then they’re going to be in conflict. Actually, a guitar can
+have some really lovely frequencies low down, around 400-500. So, to get a nice
+mix, you don’t cram it all into the place where we naturally pay the most
+attention. You layer it. You put different things in different parts of the
+spectrum. That way, you maintain separation and therefore more information. I’ve run out again… 
+Gerd Janson 
+Should we maybe open it up for some questions? Here’s a microphone, I hope it works.
+Audience member 
+I’ve got a couple of questions if people don’t mind. I think these are out of
+my price range so I’m going to use nearfield [monitors]. Do you have a decent tip for near-fields?
+Tony Andrews 
+I’m sure the Genelecs are okay. We do make some small loudspeakers. I took a
+different approach in that I wanted them to be really good converters, the
+efficiency thing, and I thought a speaker that is this big, it’s very silly to
+ask it to have serious bass. What it can do is the definition area in bass,
+around about 100-200. So, they don’t go really deep, but they’re really fast, and they’re
+pretty even and they’ll tell you the truth. DJ Magazine in the UK last year
+gave us a studio monitor of the year award for one of our loudspeakers. The
+thing is there’s no EQ thing you need with it, you can use it with any
+amplifier. It’s naturally flat, naturally time-aligned, because you don’t have
+to have a delay to get your speakers in line. Maybe they’ve done this with
+these horns, maybe they’ve lined up the voice coils, so they have a natural
+timing. As far as recommending studio monitors, well, we’ve made some speakers
+that are pretty nice, but I’ve also told you the design compromise that came
+into it. If you’ve got a subwoofer on the floor, job done.
+Audience member 
+I’m a singer and I always have a hard time singing with a Shure SM-58. It makes my voice really harsh. I just hate that microphone and it’s everywhere.
+Tony Andrews 
+Yeah it is, and you know why? It’s the same thing I was talking about with
+the 4kHz and the cut, it has what they call a presence boost, so it makes the
+cut in the voice stronger. But if you already have…
+Audience member 
+I have it, but I want to put it away.
+Tony Andrews 
+So, you don’t need a mic that artificially boosts that part of your voice. You
+should try a load of microphones and maybe sit in front of your monitors, not
+too close, in case it starts feeding back, but just talk into it. Actually, it’s hard to
+know what your own voice sounds like but your friends will know. Ask which one
+makes me sound most like me. I would think here, where there’s an opportunity to try
+different mics, you should do that. The SM-58 has been around since the ’70s,
+and it has always had that presence boost, and I think it’s great that you noticed it. But
+with a female voice, you really don’t need that improvement, because it’s a
+retrograde improvement at that point, because you’re making a spike.
+Audience member 
+It’s terrible, I hate it.
+Tony Andrews 
+Do you think you’ll get a chance to do that? Maybe try a Beyer microphone?
+Audience member 
+[Inaudible]
+Tony Andrews 
+Yeah, Neumann’s are
+really good. There will be a mic that doesn’t have that presence boost. Did
+you know that sounds are cultural as well? They used to be, less so now. It’s
+very reminiscent of an American sound, the SM-58. Not so much these days, but
+it’s very strong in the high-mid. There’s a certain well-known company that
+are still very strong with their high-mid and that’s the thing that does the
+chainsaws in your head. Sorry, am I not talking into the mic? You’d think I’d know about that by now.
+Audience member 
+I own a Pioneer 800. Don’t shoot me, but I do have a reason. I know the sound
+quality, it does my head in, especially the fact that Allen & Heath and Funktion-One mixers are fantastic.
+Tony Andrews 
+Thank you.
+Audience member 
+I genuinely love playing your mixers, especially when they’re configured to
+the system as well. But the Allen & Heath, the knobs and all the faders are crap,
+they’re a real pain. But the Pioneer, the effects are something I really like to
+use. But is there a signal path or a way I can internally modulate the
+Pioneer’s circuitry in order to rectify its sound? Because from what I’ve
+heard there’s an internal limiter on Pioneers, there’s a stamp when it comes
+straight out of the speakers. So, I was wondering if you might have suggestion.
+Obviously, I’ve thought of channeling a Pioneer into a good mixer then out of
+a great system, but that’s just a prolonged effect I assume, the same problem
+just with adding an extra chain to the path.
+Tony Andrews 
+Yeah, once it’s been degraded you can’t bring it back. You just make it worse the more you do. So, what can you do with a Pioneer 800? I suppose you could go into it digitally and that way you could leave out…
+Audience member 
+From a 1210? It wouldn’t be CDJ. Technics.
+Tony Andrews 
+Oh, so you’re going into a phono preamp?
+Audience member 
+Yeah, and generally from Serato as well. Sometimes through vinyl too, but most
+of the time Serato.
+Tony Andrews 
+Yeah, but he wants to use his 800.
+Audience member 
+I really just want to use the effects on the 800, that’s what it’s all about.
+If you could maybe put in a few effects on your mixer I’d appreciate it [laughs].
+Tony Andrews 
+There’s a story about that mixer and frankly it was like pulling teeth. It was
+really, really hard work with these guys, but they had a fantastic analog circuit
+and an old broadcast-style mixer. That’s how DJ mixers used to be in the ’80s. We
+said, “Look, if we could get at least a crossfader in this, it could be good.”
+I’m suffering because the 600 – forget the 800 – was actually an audio masher,
+it was a disgusting piece of equipment and I’ve actually told the Japanese engineers
+that to their faces, more or less. They were very apologetic, that was
+nice. But the fact is it’s been destroying audio for a long time. The 800 at
+least became inoffensive, but it’s got no bass and the sound comes out very flat
+indeed, there’s no dimension left in it. One of the world’s standard mixers
+out there in analog is the Midas XL4 and XL3. They’re big, but you get a nice juicy sound out of them. This guy went on to do the XTA, which are the crossovers we use, and we gave him an 800 to see if he could do something with it. He said, “Tone, this mixer has not been built with a view to audio quality.” There’s intrinsic stuff there, like the level of chip quality, the
+level of converters, very hard to get around. The mixer we make, you can put
+effects on it, but it’s old-school style where you send signals out on a
+sidechain and then bring it back. To be frank, I don’t understand half of it,
+but certainly it’s not been taken up.
+Gerd Janson 
+He could connect the Pioneer to your mixer then and just use the effects.
+Tony Andrews 
+Yeah, you’re right.
+Audience member 
+Oh yeah, Jesus, through an auxiliary bus? Sorry, sorry.
+Tony Andrews 
+That was a stroke of genius. Blindingly obvious, but.
+Audience member 
+[Inaudible]
+Tony Andrews 
+Or maybe just get the effects box.
+Audience member 
+I know, but the thing with the 800, it was the first Pioneer with the post-echo. Everything before that was a pre-echo. So when you used an echo effect
+and you stopped it, it didn’t have an echo. The effect stopped. But with the
+800 it’s [makes echoing noise] and that’s the only reason, because from an electronic mix building up, the post-echo is brilliant, because it adds another
+nuance to when the drop comes in.
+Tony Andrews 
+I’m sure there’s a way to do that with the 
+Formula Sound.
+Audience member 
+I’m going to look into it. I won’t take up your time.
+Tony Andrews 
+No, it’s cool, man. I’m happy.
+Audience member 
+Obviously, we all of us spend a huge amount of time in clubs and I’m just
+wondering how important is it to protect our ears, wear plugs?
+Tony Andrews 
+Incredibly, really important. Once they’ve been damaged you can’t go back, it doesn’t
+repair. I guess you know that in the ear there’s all these tiny little bone hairs and if they get overstressed they actually break. When they break, that’s when
+you get the ringing in your ears for a day or so afterwards. That’s already
+too late in some regards, although the brilliance of the human brain and body means you will compensate to some extent for the damage that’s done. But it’s
+better not to have it done at all. The warning that I remember from when I was younger is that my ears used to tickle or start to itch a bit. I think that’s the
+moment you’ve either got to get the earplugs in or get out of that environment altogether. Because once it’s happened you can’t repair it. The first things to go are
+going to be the delicate ones, which of course, are going to be the high
+frequencies, with a wavelength that long [holds fingers close] and bass the
+size of the room. So, I agree, 100% it’s really important. You can get some
+nice plugs that mold to your ear, and they’ve got a nine or 15 dB cut. A lot of
+DJs are mixing with earplugs these days, which seems crazy but I think they’re
+doing it to get more bass, because that’s what’s left; you don’t hear the bass,
+you feel the bass.
+Audience member 
+Let’s say you forgot your molded ones or you don’t have them. Is it still a good idea to use any plugs?
+Tony Andrews 
+Absolutely. I’ve used rolled-up bits of tissue paper to put in my ear.
+Audience member 
+I’ve lost 20% of the bass in my left ear.
+Tony Andrews 
+Of the bass?
+Audience member 
+Yeah.
+Tony Andrews 
+That’s interesting.
+Audience member 
+Of the bass frequencies on my left ear. I can always hear a buzzing.
+Gerd Janson 
+What did you do?
+Audience member 
+Just DJed a lot, maybe. Was always using my headphones on a loud volume on my
+left ear, so maybe because of that. I have a question – all live musicians are
+really scared with the feedback. Can you talk a bit about feedback, what causes it, how to prevent it? And one of the reasons I get feedback is when the
+acoustic guitar body vibrates. It vibrates and resonates, because of the waves, not the frequencies.
+Tony Andrews 
+You understand it already.
+Gerd Janson 
+Please tell us about it, I’m sure everybody wants to.
+Tony Andrews 
+I assume you’re talking about feedback from a loudspeaker, so the sound it’s
+putting out is being picked up by something that’s resonating, maybe a guitar body or even a microphone. I’m sure I can make this feed back if I put it too near the speaker [moves mic]. That’s all it is, it makes a loop. So, it picks up the sound from the speaker and sends it back to the speaker again, so it just keeps getting louder and louder.
+Audience member 
+[Inaudible]
+Tony Andrews 
+Well, the level, but typically it will be at a specific frequency. That’s why
+an onstage monitor engineer, every single channel he’s got, he’s got graphic
+equalizers on it. The thing is to take out the part that’s feeding back
+without taking out the whole sound. I mean, yes, you can get rid of the feedback by turning
+the whole thing down. But then you’ve lost the point of why you’ve got a
+monitor on stage. So, you have to try to take out the little slices that are
+causing the trouble. The idea for a stage monitor is to try and make it as
+even and flat as possible. In fact, you should do that with any speaker, because
+that’s what the human likes. In fact, not necessarily absolutely flat – the old vinyl
+cutting curve was three dB per octave from the bass to the high frequencies. That was
+like a very gentle slope to the highs; that’s the thing that seems to be the most
+pleasant to the ears to most humans. So nearly flat but with the bass a bit stronger, sounds perfect to me.
+Audience member 
+I was going to ask something else, but I want to follow that up. Is it likely
+that systems that are boosting high-mid frequencies, SM-58 style, and cheap
+stage wedges that are boosting high-mid frequencies, that’s a feedback-generating combination? Because that seems to be the main delay in my
+soundchecks throughout my career, waiting for the singer to get away from the
+wedges because this is the signal chain, this is creating feedback.
+Tony Andrews 
+I think you just belt it out, really.
+Audience member 
+I just needed to say that out loud, get it off my chest. But I was going to ask
+something else. Are you serious that people who spend time in loud
+environments should always protect their ears, every time?
+Tony Andrews 
+Yeah, they should. But nothing’s straightforward. Distortion creates far more
+damage than level. In a club, yeah, of course it’s loud. Me and all the other
+people who engineer have spent years trying to get DJs to keep it out of the
+red. Most mixers won’t stand being in the red. That’s why it’s red. It’s red is
+saying, “I can’t take any more, I’m full up, and I’m going to throw all my
+toys out the fucking pram, because this is stupid.” That’s what’s coming out of the
+mixer, completely distorted. How can anybody do anything with it at that
+point? It doesn’t matter how good the soundsystem is, because the soundsystem is
+only there to faithfully reproduce what you give it. So, a reasonable sound guy
+is not going to let the system get blown to pieces. He’s going to have a
+limiter or a compressor on the system, because this is what happens. All sorts
+of famous and professional people drive their mixers into the red, so we’re not
+even struggling with whether a Pioneer is as good compared with a Formula
+Sound, we’re actually struggling with the way people drive things most of the time. Red does
+not mean “I’m on,” it means “I’m suffering.” All these people subjected to
+this audio are also suffering and it’s quite staggering, but this is the
+truth. I’ve tried to say it nicely – this is an interview, more relaxed, and I
+much prefer this – but I have done things where I’ve written it all out and
+told people, put slides up, showed bitrate and sample rate, tried to get an
+awareness of gain structure and what clean sound is and why it’s important
+anyway. I hope maybe I’ve got across to you that’s it’s staggeringly important
+because it’s the doorway to another part of our consciousness, or can be. It
+won’t be if it’s horrible and dirty and messed up, which most of the time it
+is. 
+You don’t get it in live concerts and you don’t get it in many clubs. A
+place like Cielo in New York, where you’ve got an owner who’s completely clued
+in to this, he’s sound-treated the whole of the room. He’s got us in, he’s got
+a Formula Sound most of the time, though sometimes people will come along and
+say they need an 800, but most of the time he’s controlling it and keeping it
+good. And he knows about the WAV and the MP3 thing. Look at the reputation the
+club’s got. This is not something really special – it’s just where a bit of
+intelligence and understanding has been applied. An audio chain is only as
+good as the weakest part of the story. If you’ve got a sequence of gates and
+only one is open, that’s the speed that people can walk through it. You only
+need one bad part in the whole story to bring it all down, like the wrong
+microphone or a crappy soundcard or a mixer that’s in the red. 
+I think I’m beginning to get across to you just how delicate this thing is. It is
+delicate. It’s not just, whack it up and get it out. When you’re dealing with a
+sensory system that can sort things out from time differences from 15 to 20
+millionths of a second, I think that deserves respect. It’s taken billions of
+years to evolve to this point. Did you know, for instance, that all the oxygen that we
+breathe was put here by three billion years of cyanobacteria? All the oxygen on
+earth is the waste product of cyanobacteria. It wasn’t until they learned to
+process oxygen, which is a much faster metabolism than anything else. In fact,
+the human brain uses up more energy than anything else in the world. It’s a phenomenally
+powerful piece of processing equipment. If you’re up a mountain, the first
+thing you should do is get something on your head because you lose so much
+heat out the top of your head. That’s probably why we’ve all got hair, because
+there’s so much energy required just for this thing to exist and work, and
+we’re only using a fraction of it.
+Gerd Janson 
+And there was one more question in the back.
+Tony Andrews 
+It was nothing to do with audio, but it is.
+Gerd Janson 
+It’s all intertwined.
+Audience member 
+I heard Funktion Ones can’t be brought upstairs. Because it’s so heavy. Is
+there a way to make it less heavy?
+Audience member 
+Who told you that?
+Audience member 
+This guy in LA installs it in clubs, but he can’t bring it upstairs or something. That’s what his criteria is – the club has to be floor-level. Because he said it’s too heavy or something. 
+Tony Andrews 
+Maybe he’s taking something half the size of this.
+Audience member 
+[Inaudible]
+Tony Andrews 
+Marketing has a lot to answer for, there’s no question. It’s a blight on the earth to peoples’ intelligence. To be frank, we’ve
+been designing equipment to go in trucks since the ’70s; before some of these
+people saying this were even born, we were already thinking about a truck
+pack. One of the biggest problems hitting speaker people at the moment is the
+price of neodymium. It’s gone up by
+a factor of five. Why is this relevant? It’s relevant to your question because
+neodymium is a material with some of the highest magnetic coercivity; in other
+words, how much magnetism can it hold. It’s way out in front of everything
+else, so you can make quite good horsepower speakers with very lightweight
+magnets. Suddenly, they’re all in wind generators and hybrid cars and over the
+years Chinese pricing has driven everybody else out of the business. Suddenly they’ve
+captured the market. The price of neodymium in one of our 25” speakers is
+about $375, before we’ve even begun to put metal around it and turn it into a
+magnet. It was costing $65 – that’s happened in the last couple of years and
+they’re probably not going to allow export soon. So, there’s people out there
+beavering away, opening up neodymium mines in other parts of the world. But it’s going to take a while.
+Audience Member 
+Sorry to take up time, but I have to ask this question. I could sit and design
+the most beautiful system, put gold leads on it, gold wires, but in the real
+world I have to sell this product. How much does the real world come into this
+when you’re designing? Because I can design a system, but it’s going to be $80m,
+and the client’s not going to buy it. How much does that come into your
+thought when you design? Or do you design and then scale back? I’m talking
+real-world application, trying to sell something in real-world commerce.
+Tony Andrews 
+Further up the story than the commerce is the natural instinct to get the most
+out of the minimum amount of materials. So, from an engineering point of view,
+do not over-complicate it, try to come up with elegant solutions that use the
+least amount of wood in loudspeakers. That’s why efficiency is important,
+because if you can get a good conversion of electrical to audio output you
+don’t need so many speakers. All these considerations come into it. The
+cosmetics we have are a case of form following function. We’ve never done
+anything to one of our speakers to go, “Let’s put some bling in to make it
+more attractive.” Right now, Ann is experimenting with black lacquer and
+various finishes because a lot of people now want to put our small speakers in
+their homes and they’d like them to look pretty. Fair enough. But the look of
+Funktion One is actually engineering, that’s made it look like that.
+Audience Member
+I wasn’t saying gold leaf for the look, I was saying for the transmission of
+sound. Or to say I could design the best-sounding speaker, but it may cost too
+much for the average person. You have to take into account, can the average
+person purchase this?
+Tony Andrews 
+No, there’s no limits on what we put out there purely on cost. If we have to
+spend money on a part and we can see a performance result, we definitely will
+use it, for sure. That’s what makes us happy, to get it as good as we possibly
+can. It’s my way of contributing to the world, to enjoy music.
+Audience Member
+Are you publicly traded?
+Tony Andrews 
+No.
+Audience Member
+OK, that’s why.
+Tony Andrews 
+No, not at all. There’s seven partners and altogether there’s 15 people involved [in the company].
+Audience member 
+[Inaudible]
+Tony Andrews 
+Yeah, I am. There’s still some more. I keep finding those dirty windows and
+want to get them cleaner. The thing we started in the mid-’70s, there was a
+TMS series when we were a dominant force all over the live world. In the ’80s we
+did Pink Floyd, for instance. It was very, very successful as a live system. That was the first generation. The second was what we called
+Flashlight – I think that was actually what Pink Floyd used – and now we have something
+called Resolution. But
+I can go back to 1975, and there’s a line of development that’s come all the
+way through. I think there’s something on
+Slices where they’ve taken out a
+bit of what I said, but not put the questions in that I got. They put this up
+on the web where I say I’ve got no respect for the other manufacturers. The
+reason I say this is because a) It was a question, but b) Christian Heil, V-DOSC, he did this line
+array thing and, up to a point it has some evenness of dispersion, which people
+enjoy, but it was a line, so it would fit into stage sets much better than a
+point-source cluster. So, we went from a three-dimensional approach to sound to
+a two-dimensional approach. To me, that’s not going forward, which is why I
+won’t do it. There’s lots of other problems, which I won’t bore you with. But
+he’s got a lot of success with that and then every other manufacturer in the
+world suddenly was doing line arrays. They didn’t have their own thing, they’re not
+thinking, “Where can I take this to?” They’re just thinking, “This is selling,
+we better make one just the same.” And, of course, it’s an arrangement of the
+same components, there’s no great componentry development, it’s just an
+arrangement of multiple speakers. And everyone else has done it, so of course,
+I haven’t got any respect. I think if you’re really into this then you follow
+because it’s not a done deal. Who said the development in this area was over?
+It’s not. When I started it, it was the land of pioneers and the people who were involved
+in it then were very different from the people involved in it now. It’s a
+different mentality. It’s not being driven by the artistic element and
+production values, it’s being driven by politics and the vested interests that
+get into everything humans get up to. In other words, it’s corrupt.
+Audience member 
+[Inaudible]
+Tony Andrews 
+How to get lots of high frequency from multiple units without it going to pieces
+and cone filtering? Because the wavelengths are so short, as soon as you
+separate two things by a wavelength, they see themselves as separate sources,
+so, therefore, they start arguing. When things are one, they can’t argue. It’s
+funny, it’s a bit like people. When they get close in a family, they can have real
+arguments. When they’re far enough away it’s somebody else’s problem. If
+they’re really, really close then they can’t because they’ll never get far
+enough apart. I don’t know, I think about this madness. High frequencies are
+so delicate that the things that reproduce them also have to be delicate. So
+the idea of a 1000-watt tweeter is anathema, it’s not going to work. For a voice
+coil to take 1000 watts it’s got to weigh a lot, and as soon as it weighs a lot,
+how’s it going to go backwards and forwards at 18,000 times a second? That’s a
+problem that nobody’s really cracked. A line array puts them all in a line,
+but they’re still interfering like mad, which is why you don’t get any audio
+out of a line array above 8k. Most of it is canceled. All what I’d call air,
+the stuff in a soundsystem above 12k, it’s not there. It’s all gone. It’s alright though, a telephone only goes to about 500 to 5k and you can understand what’s going on. But this is not an audio experience, this is just about
+hearing what somebody is saying.
+Gerd Janson 
+Can you pass the mic?
+Audience member 
+With audio perception connected to certain listening modes, what would you
+consider proper listening mode for your soundsystems? And do you think people
+in a club are aware of it?
+Tony Andrews 
+In a club situation, you could have a four-point system or a two-point. If you
+criss-cross the stereo, which we’ve always done on a four-point, it’s more
+interesting spatially than just two. Outside is good because you don’t have a
+room painting all over your audio. It’s better to be outside if you can, a
+much purer experience.
+Audience member 
+Let’s say you have a dancefloor full of 500 drunk people: Do you think they
+notice how much effort has gone into the loudspeakers?
+Tony Andrews 
+You mean, do they notice a difference in loudspeakers? Yes, I do, very much so.
+Considering that we fight against fashion that we don’t agree with, we
+wouldn’t be successful unless there were enough people appreciating the
+differences.
+Gerd Janson 
+I think you meant right in the immediate situation than in there, right? Not
+about the club owner, who wants a good system.
+Tony Andrews 
+Have I got the question wrong?
+Gerd Janson 
+I think he means the bottom line of it is if someone at the end of the night with his 500 drunken friends notices the difference.
+Audience member 
+[Inaudible]
+Tony Andrews 
+Yeah, I think they will. Depending on the kind of drugs involved, one should be
+more sensitive to it, frankly. It’s really important when your perception is heightened
+to have it pure and clean. It’s a vexation. Bad sound is a vexation to the
+spirit. No doubt.
+Audience member 
+[Inaudible]
+Tony Andrews 
+Firstly, I’m not so sure that they don’t and even if they don’t consciously
+care about it, it’s still going to affect them.
+Audience member 
+Some people don’t know any better either, that’s part of it. Sometimes you
+hear a good system and it’s hard to go back to a bad one, like eating
+McDonald’s every day. Then you eat real food and you’re like, “How did I eat
+that before?”
+Tony Andrews 
+True, true, the bar keeps going up. What we’re talking about here, you could
+say: Is there any point striving for excellence in life?
+Audience member 
+That’s the real question.
+Audience member 
+[Inaudible]
+Tony Andrews 
+[Laughs] All power to you, man.
+Audience member 
+You mentioned Cielo earlier, and I’m sure there’s a great many clubs around the
+world that have Funktion One soundsystems. But you probably have your
+particular favorites.
+Tony Andrews 
+Cielo is definitely one of them. Space in Ibiza is another, I was really
+pleased with the way it worked out there this year with the new proofing in
+the roof and the new system. It all came together really good.
+Audience member 
+[Inaudible]
+Tony Andrews 
+We do the Glade electronic music festival. We try to do some ambisonic surround-sound experiments there, but we’re still waiting for sufficient separate channels to do something really good. We did Glastonbury one year, but that’s another… No, don’t go there. We did do Glastonbury from about 1979 up to about ’93 and I personally had a lot to do with the founding of that festival. I knew all the characters involved, and I could tell you some horrible stories.
+Audience member 
+I want to ask you about how music is being mixed and mastered nowadays and
+especially concerning overcompressing, squeezing the life out of music.
+Tony Andrews 
+Well done. Brilliant. That’s exactly what’s happening. There seems to be this
+idea that you’ve got to be half a dB louder than the track that came on the
+radio before you’re gonna get played. Of course, that’s a one-way ticket to hell. There’s a
+track I liked, a recent dance track, in my terms, anyway, which is Bob Sinclar “Children Of The Sky.” I like the idea, the groove
+everything about it. I’ve tried three times to get a decent copy of that. I
+thought the first was a bootleg, because you can’t release a track that sounds
+so bad, got another one, same thing, another one, same thing. When I put it
+into Sound Forge and look at it in waveform it tells me it’s 0.1db off clip. When you look at the
+waveform, it’s all flattened off at the top. It sounds disgusting, it’s
+unplayable. As much as I love it, I can’t play it, because they were suffering
+from this delusion that it has to be louder than something else. If the person
+listening wants it louder there’s a thing called the volume control on most
+audio equipment.
+Audience member 
+A bit of consolation apparently in the last year or two, there’s been a bit of
+a backlash against that. They’re trying to ease it back a little bit, just to
+keep it true to the original mixing engineer idea.
+Tony Andrews 
+Good. Wasn’t there a day back in March? The idea is gathering momentum.
+Audience member 
+[Inaudible]
+Tony Andrews 
+You’ve got guys who are skilled in the art and understand it [who are] leaving the
+business because they can’t stand it. They get no creative satisfaction from
+their part of the story.
+Audience member 
+They’re getting bullied by the record companies.
+Tony Andrews 
+Forced to cram everything into a dynamic range of 2db. It’s absurd. One thing
+you can all get out of this is that humans are fully capable of behaving
+absurdly, and nowhere do they do it more than in audio. The things they say about
+speakers, audio, the way to do things, most of it is nonsense. Find out for
+yourselves. Knowledge is power. You don’t want to be beholden to somebody who
+got it from some marketing guy who’s twisting the story in the first
+place, or his mate who just said something, because that’s how most of it
+works, I’m afraid. You’ve got to get your own mind, very important.
+Audience member 
+Since you said the human ear is designed primarily for the human voice, do you
+have any theory why we all get sold on a nice fat bass?
+Tony Andrews 
+Why we like a nice fat bass? It’s a good question. I think it’s within us, in
+our genes. In history, big bass would be coming from thunderstorms, which
+when you’re a kid are certainly scary. Volcanic activity or earthquakes and more
+recently explosions. Bombs. All these things are something you need to pay
+attention to. I would suggest that human beings come with an adrenalin reaction to big bass. There’s a lot of octaves in bass, too. If you start at 20, you’ve only
+got to go to 40 to have a whole octave. Then you go to 80 and
+that’s another octave. And then 160, that’s another octave again. As you’re
+getting into mid-bass you’ve already had three octaves to play with, which
+goes under the heading of bass. It’s more ornate than it feels, than it sounds like. Most material
+you get, you’re lucky if anything goes down to 40. Quite rare. Most people
+think 40Hz is 25 or 30Hz. I did, until I really experienced it. So, there’s a whole level below what we typically have as bass called infrabass, which goes down to 7Hz. The vibration of the visceral cavity is around 7Hz and if you can vibrate a person at around 7Hz they will disintegrate internally. People have done it – there was a French guy at the turn of the last century who made a huge whistle
+that vibrated at 7Hz, and he killed himself when he switched it on. It’s really true; it happened. So, we’ve only had big bass since the ’70s that isn’t an explosion
+or something dangerous, and I think we still have that reaction. I think we
+also like our molecules being vibrated. It’s a kind of massaging effect. With earplugs, I’ve been close to 14 double 21s at the Prague O2 Arena and I’ve
+actually felt the air being sucked in and out of my lungs. The eyeballs were
+going all over the place, but I’ve never had it where it’s taking the air out
+of you. I quite enjoyed it, but you shouldn’t do it for too long.
+Gerd Janson 
+Do we have any more questions?
+Audience member 
+[Inaudible]
+Tony Andrews 
+[Laughs] No, we don’t, is the short answer. We’d quite like to. There’s only so many of us and so much time. Remember The KLF, Jimmy Cauty? We did an armored personnel carrier for him once with a big soundsystem on it.
+Audience member 
+[Inaudible]
+Gerd Janson 
+People you invite to listen to your new speakers and then you trust their judgment?
+Tony Andrews 
+Yeah, we solicit opinion from everybody when we have demo rooms at the trade
+fairs.
+Audience member 
+[Inaudible]
+Gerd Janson 
+But your hearing is gone from one ear.
+Tony Andrews 
+Be perfect, wouldn’t it? Then you’d have no QC problems there [laughs].
+Gerd Janson 
+So, please give it up for Tony Andrews.
+[applause]

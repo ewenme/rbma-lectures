@@ -1,0 +1,542 @@
+Lorenzo Senni is as likely to be found exhibiting at the Centre Pompidou in Paris  as he is to be performing in renowned clubs like Berlin’s Berghain. Investigating sonic structures via diverse recording techniques, his works range from radical computer music to field recordings and sound art. He coined the term “Pointillistic Trance” to describe the stripped-down build ups and arpeggiations on his 2012 LP Quantum Jelly for Editions Mego while 2014’s Superimposition was another visceral subversion of the genre. He is one third of techno crew One Circle and the founder of experimental label Presto!? records, which has released Detroit’s DJ Stingray and Florian Hecker among others. In his lecture at the 2016 Red Bull Music Academy, the Italian native recalled discovering electronic music and hardcore, being saved by studying the drums and the finer points of his artistic practice.
+Vivian Host    
+You’ve been listening to selections from a new EP that is coming out November 11th on Warp by Lorenzo Senni, who is sitting next to me.
+Lorenzo Senni    
+Hi, hi.
+(applause)
+Vivian Host        
+Composer, DJ, label owner of Presto?! Records.
+Lorenzo Senni    
+DJ...
+Vivian Host    
+DJ sort of.
+Lorenzo Senni    
+Kind of.
+Vivian Host    
+If you were at the pool on Sunday night, then you had the pleasure of seeing him perform from the water, or from the stands. Can you tell me a little bit about what you were doing up there, like what you had on stage with you, what you were playing with?
+Lorenzo Senni
+I had my usual set-up, with just my computer and a mixer. Not a DJ mixer, it’s more a mixer that I use since 15 years. I always try to get the same one because I’m very fast at making changes, even if it’s not the best one. Sometimes a technician asks, “Do you really want that one?” because maybe they have a big Midas. I’m faster with that and it’s okay for me. So my laptop, the mixer in the middle, and the synthesizer in my case.
+Vivian Host    
+Which synthesizer?
+Lorenzo Senni    
+It’s a JP-8080, it’s a Roland synthesizer, and the one I used for my last three records. Six years that I’m almost using only that one to make all the sounds that you find in my records.
+The computer is sending MIDI notes to the synthesizer, sometimes the computer is also playing some synth line that I’m not able to do it live, but most of the time it’s only the synthesizer playing. It’s very basic what the computer is sending to the synthesizer, and I’m using the filter, I’m using delay.
+It’s a synthesizer that I think was made to be fast, when you’re using it it’s faster. Delay is probably not the best delay but it fits really well in the architecture of the synthesizer. The filter is good, because when they put together the synth they had problems with the... It’s a digital synthesizer so they had problems with a lot of digital noise in the high frequency ranges, so they had to think about a good filter to smooth these kind of problems. It’s just very... from my point of view, my taste, it is very well made and I’m faster in working with it. I’m using it in my studio, and then I bring it live.
+Vivian Host    
+OK, we’re going to get back to your favorite synth in just a little while.
+Lorenzo Senni    
+Later. When I start speaking about this synth I can go... you have to stop me because I’m obsessed with it.
+Vivian Host    
+A lot of people who’ve heard your music are hearing elements of the synths and the arpeggios of trance, but without the kick drums and the other things that make trance what it is. What’s interesting is that trance is not something that you grew up with really.
+Lorenzo Senni    
+No, not at all. They think I am a master of trance, and I’m...
+Vivian Host    
+Well, you’re on your way.
+Lorenzo Senni    
+Yeah, I’m building up this career in trance music but I don’t know much about that.
+Vivian Host    
+What was it that got you into music in the first place? What were the first records that you were buying when you were old enough to buy your own records?
+Lorenzo Senni    
+I remember going to buy Spice Girls but this was with my mom, so it’s not with my money, so it doesn’t count, right?
+Vivian Host        
+It somewhat counts.
+Lorenzo Senni
+OK. I was just listening to Green Day. I remember Green Day and Offspring and Spice Girls. It’s a terrible combination. (laughs) Just normal, very young kid. I was not buying Fugazi records when I was 12, no, no, no.
+Vivian Host    
+Part of this is where you’re from, right? Can you tell me a little bit? What’s the name of your hometown, how many people live there, where is it?
+Lorenzo Senni
+My hometown is very small, like 1,000 people living there. The biggest city is Cesena, and Rimini is on the Adriatic coast like five minutes from the beach. It’s a very touristic place, and I grew up in this area where it’s not New York City. It’s not that you have many inputs, if not the TV or the radio, or just your friends, old friends that maybe they have some more interesting things to show you. It was a slow growing process through music, discovering many things. But it was low, I can see, compared to kids that grew up in just Milan where I live now, it’s just different. Now with the Internet, it’s totally different, but I was not really using the computer at that time, so I slowly got into music. Like I started play guitar, classic guitar, taking lessons. My father was buying a lot of records, too. Family was supportive.
+Vivian Host
+Let’s play something that you were also listening to when you were young. If anybody’s read an interview with you, they probably know that you were sort of in between this hardcore punk scene or rock scene and also something else. Let’s play this first and then we can talk about it.
+(music: The Stunned Guys – “Bim Bum Bam” / applause)
+Wow. I hope everybody likes Italian gabba as much we do. That’s some guys called The Stunned Guys, who are actually from around where you’re from.
+Lorenzo Senni
+Yeah, yeah, yeah. You can say from their accent. The thing is that “Bim Bum Bam” is a TV show for kids and all this extreme music coming from Italy has a big side of irony. Big part of it, especially text, the lyrics: it’s funny. When you are young, you are a bit attracted by it because it’s not like music in English that when you’re very young, you don’t understand the lyrics. Then sometimes you are bored about listening to Italian pop music, so this is kind of a good compromise of, oh, nice. I know “Bim Bum Bam.” It’s like, you’re watching TV when you are 12 and they put in this. It’s very easy that very young people are listening to this stuff because there are all such small stories at the beginning.
+Vivian Host    
+Yeah, what were they saying at the beginning?
+Lorenzo Senni    
+It’s like, “Give me a beer.” “No, no. I don’t want you to give me.” Like, “Please give me a beer.”
+Vivian Host    
+That’s deep.
+Lorenzo Senni    
+It’s not poems.
+Vivian Host
+In what instance did you encounter this music? Take me back to what was going on in your life when you were hearing this.
+Lorenzo Senni
+This was when I was 14, 15, 16 because my very best friends from my small hometown, they were listening to this stuff. Friends that I've known since I’m born, or someone that is coming from the very small town two kilometers away that is one thousand people, too. During the weekends, I was not going to school. I spent time with my friends in our small bars. I was listening to this stuff or just hanging out with them. When I was at school during the week, I was hanging out with a very different group of people. They were into punk, hardcore and I was playing with them. Two extremes that make sense at the end. It’s like two extremes. I was in between because my really best friends were the one that I was going out with and the other was just playing music together and, of course, go to the rehearsals, spend time during the lessons, between the lessons. This, I grew up in this exact situation that make me discover this music, but I don’t know much about it. I know many tracks. I’ve listened to so many tracks, I experienced so many club nights in these huge, 7,000 people clubs that you have in Italy, but I don’t know much. I didn’t know much. I was not that curious. I was just experiencing that in a passive way.
+Vivian Host    
+When you say you didn’t know much, you mean weren’t collecting the tracks?
+Lorenzo Senni
+No, no. I was not even buying records. I was not even asking to my friend, “What is this and what is that?” When you are in the car with them, when you are going out... and I liked the big clubs. When you grow up in this kind of context, it’s not that unusual, it’s very common to go there.
+Vivian Host    
+You said something interesting to me yesterday. I was asking about you hanging out with the gabba warriors on one side and the hardcore kids on the other side, which now makes sense, but when you’re young, it’s like, unthinkable to be into both of those things, maybe. You said that you learned that the only way that you could get by was just being really yourself, like by not... Can you explain that a little bit more?
+Lorenzo Senni
+I realize now that I was not having problems that maybe many young kids have, when you have to be something, and if you are the in between, it’s kind of difficult just hanging out with people and being accepted. I was myself with both group of people and this was the key to being accepted and hanging out and being respected for what I was. It was a big part I learned from the hardcore and punk hardcore ideas, but this was a clear example in real life. You know when you say, “Be yourself.” Like, “OK, OK. What it means?” It means just being accepted for what you are, from very different people, because when everyone is, we will speak maybe later, but when everyone is very high on drugs, someone is selling drugs...you know, they have something in their underwear that they have to go to sell. And you are not taking drugs. Being accepted, it can be a difficult process, but I was just like, “OK guys, this is what this is.”
+Vivian Host    
+Yeah, I think a lot of your stuff that comes later... I mean, your concept of being a rave voyeur maybe comes from being a straight edge kid and kicking back and being clear-headed while you’re watching everybody else party and get fucked up.
+Lorenzo Senni
+It’s just now that I realize that, but it’s very interesting. That kind of experiencing this but from a very different point of view, enjoying it but not being interested, really, in maybe all the things that were happening, but not really judging, was very important to develop this idea of rave voyeurism that I transposed in my music, or I tried. I don’t know. Because it’s been just what I was doing, just being a voyeur of these kind of club raves, just being seated. Not in a negative way. Maybe I was not dancing like all of my friends, they were looking at me, and I was like... Actually, I had great fun, I had great fun, but I was way more conscious of what was happening around me. So it was like, “She is cute.” My friends were like...(mimes dancing) [And I was thinking] "This I like, maybe something more melodic." That's why I went back to trance. "This more melodic [music]. This I like." Then I was not getting back to my friends, asking, “What's the name of this track?” This is what I was doing when I was a kid. And then on Monday, just speaking about punk hardcore and... how do you do with this finger?
+Vivian Host    
+All right, let’s hear a little bit of maybe the hardcore that you were listening to.
+(music: Youth of Today – “Youth of Today” / applause)
+Just thought I’d play some straight edge hardcore in case nobody in this building has ever heard any. I was kind of curious, because I was looking at old covers and stuff from this time and thinking about your music, which often, your EPs and your releases have a concept to them and an aesthetic and a look. Actually, I was reading that your Warp release was inspired by the record label that Ray, who is the singer of Youth of Today, used to run.
+Lorenzo Senni    
+Yes.
+Vivian Host    
+I was wondering how much of your aesthetic inspiration comes from the stuff that you listened to when you were younger.
+Lorenzo Senni
+When I was into this stuff and I was looking at the records and the simplicity of this big title: Youth of Today, Better Than a Thousand, Warzone, but the simplicity of the name of the band and the title and just one beautiful picture of someone jumping in the crowd, this was very beautiful to me. I think I still love it. I still speak with my friends. We still go through images of rare t-shirts that you can find on eBay because it’s very simple, very effective, and and I don’t know. It’s beautiful to me. When I am thinking to put together something that is not only the music but the visual side, I always go back there. This time for this EP, we wanted to be... I worked with my friend that has a background in it, too, so we wanted to give it even more, this idea. We were checking all the record cover and we found a beautiful banner of Revelation Records: it's one of the most famous, not only straight edge hardcore labels, but is one that put together the most famous record, so we went and we found this beautiful banner of Japanese versions.
+We went, “OK, now we going to do like the design. We going to do very similar.” Because it was important to us to have this very clear connection. We went to tell Warp, “We want the logo in this color.” “Are you sure, because we don’t really do it?” We really want it. It’s important for us. No one is going to discover that. Every single thing will always be important to me to put together the concept and visually speaking, this time I went back there. Also, the Ed Atkins cover that he meant is this guy looking. We don’t have it? OK. It’s this guy looking through a hole. It’s this guy looking through a hole and this guy is bald because if you look back to the straight edge crew, youth crew pictures, they are all bald.
+It’s fun for me in my process of putting together everything. It’s fun to me and it’s important to have every single element that makes sense. I think this is a fun part of my job and that is 95% not fun, maybe. Like fun to make music. It’s terrible because if you try to make something interesting, it’s not fun. I had some discussion with some artist that I can’t tell the name. This article about... Yeah, it was so much fun to put together this record. I never had fun. I mean, I understand the idea of fun, but it’s not related with then putting together a record or putting together something that is interesting.
+As I was reading a lot of interviews when I was younger, you cannot use the word fun when a 20-year-old guy is reading your interview, because it’s not fair. He’s not that thing, and I understand what you mean, but from your position you cannot use the word fun. It’s terrible. (laughs) To make something that satisfies you and you think... I think should be a bit terrible.
+Vivian Host        
+That’s a good segue into something else I wanted to ask you about that sounds like it might have been kind of terrible at times. You were working in a factory in your hometown. Tell me a little bit about that, because you worked there in the summer. What were you doing?
+Lorenzo Senni
+Since I was 16, I worked in a factory for three months, but in my hometown, if you need some money and you’re going to school, you work in the summer and you can decide, or you’re working at the beach, because there is a lot of tourists, so there is a lot of work. Or you’re doing all the other jobs.
+Vivian Host
+You’re not really a beach kind of guy?
+Lorenzo Senni    
+No. I was going there to hang out, but I was not in the pool last night, and I was not in... All makes sense. I’m not really a beach guy, but yeah I was working for 11 summers in a row, so from 16 to 27.
+Vivian Host    
+Doing what exactly?
+Lorenzo Senni
+Just like very repetitive jobs. It was this big, huge machine. I don’t know how to call it. It was a seed factory. Seeds. So this big machine was... every 30 seconds, there was a 25 kilogram bag to put in a pallet; like layers of 12, five for 12, all day.
+I had my headphones on all the time, because the owner of the factory allowed only me to do that. This is a good story. Now he thinks... he’s very proud, because he doesn’t have a family, and he’s a music lover, so he is really proud and thinks he helped me to develop my career in music, so he’s following me on Facebook and sharing everything. He was a metal head, so after a couple years I was there, he discovered that I was buying online records for all my friends, because I got a credit card when I went in the States, when I was 18, and then I could buy online... Worst decision, buying records for your friends online, but OK.
+I was buying records for him, and we had a great relationship. Every summer I was coming back, and this helped me, because I bought a Gibson Les Paul, a piano, then cymbals for my drum set, drum kit. I started Presto!? The first three CDs was out because of that money.
+Every year I had already spent in my mind, so I had just to collect the money, and then put... It is a common thing. All my friends involved in punk or hardcore music was doing that. It was, “OK, we’re going to make the money, and then release our stuff, print our t-shirts, make our stickers.” I like this idea of making things.
+Vivian Host    
+You learned pretty early on that music was correlated with work in some way.
+Lorenzo Senni
+Yeah, it’s about work. This morning, I was up... I put my alarm at five in the morning, because my EP was announced today with a track, and in London, they start to work at 10, and I put the alarm, and everyone was like, “What are you doing?” Because I was sending emails. What you are doing up? I’m not going to sleep while my record is being announced. I’m here to follow this. I have to learn to follow a bit less, but I was doing that since many years, so I’m like, OK. Is this sticker on the record cover fitting well? This kind of thing.
+Vivian Host    
+You were playing drums for a lot of years, and I read that you said that it saved you. What did you mean by that? Saved you from getting into trouble?
+Lorenzo Senni    
+Yes, but strange troubles, weird troubles. Yeah.
+Vivian Host    
+Weird troubles.
+Lorenzo Senni
+Yeah, it was very important to learn discipline through playing drums, like discipline with myself. So yeah, was a very particular moment in my life, and I got obsessed, and I met this very good teacher, a jazz teacher, quite famous in Italy, and I started to play drums, because I wanted to put together a band. And as is almost always like that, there are no drummers. So I said, “OK, I will start to play drums.” I was studying five, six hours a day, and I learned a lot from this period, because this teacher said to me like, one of the first lessons... He asked me something like, “Do have a pillow? Do you sleep?” I was like, of course, I sleep.
+“OK, great, You’re fine for the next three months.” Like, what do you mean? I need to rent my drum kit? I wanted to have... No, no, you need just your pillow and practice on it. I was like, “Oh fuck. No. OK.” But it was so good that he convinced me, so I was studying, and this was very important. Discipline on your passion. When that meets discipline, I think it's a very powerful combo.
+Vivian Host    
+How did you get from ditching the drums and starting to get obsessed with keyboards and software?
+Lorenzo Senni
+Because I started to get drum lessons around 16, 17, and then after a couple of years, I started at university in Bologna. I was there every day, and I started to discover the electronic music world, and there was a very good... I studied the musicology, and there was a very good library. I could go through very expensive books and records, and Bologna is quite famous for musicology, so I think it really helped me to discover more than learn... Discover. Then I learned by myself. I discovered ’50s, ’60s electronic music, listened to it, and get always more interested about how it is working, how to put together these sounds, and started to work with MaxMSP, SuperCollider. In the same times, I started to play with people that were using synthesizers. A very smooth journey through the genres. Yeah, that was around 19, 20 that I discovered Alva Noto, Fennesz, more of the experimental side, because my background was in rock. I don’t really know how to use CDJ for real and all this stuff. That’s why I DJ.
+Vivian Host    
+Sometimes.
+Lorenzo Senni
+Music, softer. I started by myself in sound synthesis and stuff you need to know when you are facing a new world. What’s the thing I have to read, that’s...
+Vivian Host    
+There you go, studying again.
+Lorenzo Senni
+Yeah. What I was doing was putting together MaxMSP and SuperCollider patches and record almost everything. What I was doing was just recording, hours and hours. While programming you can make sounds and then just change stuff. It’s developing continuously. I was recording everything. To put together tracks, I was going through all the recordings just taking out the small parts that I liked and put them aside. Then I was going back to this and put together a track, let’s say. This was how I did my first two records, like Early Works. The first reviews of Early Works, that was the title of my first record, everyone would say, “Oh this guy is starting already with Early Works. It’s so pretentious.” This is going to be my early works forever anyway, no? I haven’t recorded something earlier than this, so why not put this out now instead of in 20 years, no? It’s my early works.
+Vivian Host
+But you also liked that it was kind of funny or kind of ironic to say that.
+Lorenzo Senni
+Yes. I have to say that the music that I was following, especially like Mego that became Editions Mego, and all the artists I was following at that period, always had this approach to electronic music that was some irony in it. It was not in your face. It was just very subtle. If you look through all the pioneers of electronic music there is always this idea of enjoying what you’re doing while experimenting. Maybe, again, I believe that to put together a record with an idea is a different thing, but the moment when you are experimenting with your stuff, you can enjoy it. If you look through the notes of what they are doing, there is always this kind of: we are enjoying, we are having fun, using certain language that probably no one is going to understand, just a few guys that are obsessed with just the way to make it more pleasant, maybe. When you put some data in a computer, you have to wait 30 minutes. You’re not waiting depressed. Maybe you eat something. It’s not a depressing way of making music even if you are waiting for results. I believe there was this behind everything.
+Vivian Host    
+Is there a track off Early Works that you particularly like or you want to play?
+Lorenzo Senni    
+I don’t even remember. Maybe we can... the third one, oh the first one. Let’s do the first one. It doesn’t matter.
+Vivian Host    
+OK. This one is called “Spckrft.”
+(music: Lorenzo Senni – ”Spckrft” / applause)
+This is very much less euphoric than what you are making now.
+Lorenzo Senni
+Yeah. Yeah. I was euphoric more inside than outside. This was really like Editions Mego and Raster-Noton times, I was really following. I think you can hear. It’s not good like them, but you can tell. Yeah, it was just experimenting. For me, it was also a new world. It’s easy to get excited very easily. You get excited then you find after a couple of years, “Oh fuck.” I think I learned to keep the level of enthusiasm, you know, “I’m going to listen to it tomorrow, too.” My issue was days where I was really experimenting with the software. These records were the result of what I was learning. It was very important, because I got my first shows, and you learn to take care of your sound outside your bedroom. It is a slow process, but you learn what it means to present your sounds outside your bedroom. This is very important, too.
+I’m happy that I put out this record. Maybe I’m not changing the history of the music, but it gave me the chance to travel a bit and not waiting for, “My first record is going to be a masterpiece. I’m going to wait until I have all the gear, all the studio.” Thank God I was not waiting for that, because you need to learn, and you need to go back in your bedroom, then you need to go outside again, and go back with feedback. Out and in.
+Vivian Host        
+What kinds of things were you learning on your first tour about live shows? I mean, you had played live already with bands.
+Lorenzo Senni
+I was playing a lot with bands, but it is different because with bands in Italy we say [speaks Italian]. It means that if you’re doing something wrong, but you split with three, it’s less painful. You have less responsibility. It’s like, it sounds like shit, but who doesn’t care. When you are on your own, you care a bit much. Then maybe you like the people that you are playing with, so you don’t really care. I know that they are doing good, so maybe if I sound shit, it’s okay. When you are on your own, you care much more, I think. In a band, the dynamics are different. There is always one that cares more than everyone. There is always that one. I was playing with two twins at that time, so very strange dynamics.
+I always toured with bands, but in 2008 to 2009, I did my very first big tour all put together by myself. All just speaking by email. MySpace? No, maybe it was already gone. All through friends, all through friends of friends. 18 gigs in Europe. All by train. That was incredible. I think I lost 200 Euros doing that tour. Better than many bands. (laughs) I think they are very important, these experiences. We tend to not do it anymore, these kind of adventures related to your music. You have ten people listening to it. It is not the end of the world if you’re sounding shit, but after ten gigs, you’re sounding better. This is vital for sounding good after ten years, maybe. You always learn.
+These adventures are not costing much because you have a lot of energy and it is a great experience. You met people that after ten years, they’re running bigger clubs after ten years. Again, I realize now that what I’m doing and my ideas are linked a lot to the DIY punk hardcore shows. If you’re happy with one promoter in Berlin, you’re going to play always with them because they like your music. If the show went well, it’s also very important to make this kind of relationship with people, but the starting point is the passion. Because, if you start when there are five people, it’s just about that. It’s not about money. Again, it works for me. I like it this way.
+Vivian Host        
+Let’s play a little bit of Le Harmacy. It’s video number two. This was your band with the two twins.
+Lorenzo Senni    
+Yeah.
+Vivian Host    
+You did a bunch of different stuff. There’s some other videos, which are the roots of things that you did later, like your AAT performance, and stuff like that.
+Lorenzo Senni    
+Yes.
+Vivian Host        
+Let’s watch this. Number two.
+(video: Le Harmacy live performance / applause)
+Lorenzo Senni
+This was a theater of a church. In a very small town in Italy, probably 90-year-old people watching, too. These things, you learn that there are no rules. What is right? Good or not music? What you can do on a stage or not? Now you have to mix right. No, you cannot use a laptop here. Obviously, this is not changing the history of the music, but you learn. When I played in Japan, again the tour I made all by myself... I played during one night, there was this project named Naked Mozart. You say like Naked Mozart? No, it was this guy singing naked over a girl playing Mozart with violin. Literally Naked Mozart.
+Then there was a guy that did a sound check 30 minutes. Put all his pedals. That was the sound check. Then he jumped on the PA, and he just asked the technician to turn on the sound. It was huge harsh noise. Then he jumped on the pedals and it just stopped. Then there was, again, a band of six people, amps and everything. They played two minutes. I was like, “OK, there are three projects before me. I’m going to relax.” After 20 minutes, I had to play already. I played probably 30 minutes and it was like it seemed everyone probably was bored. Because, like how long is he playing? But it’s great.
+You don’t learn only about the music. You learn, when you go in a club, and you get your itinerary, and you have your manager, your tour manager, and everyone says, “We don’t have that mixer.” I saw 18-year-old kids go crazy. If you experienced all this, it’s like, “OK, what mixer do you have?” Just because it happened to me hundreds of times. You learn that, “Oh, we are running three hours late.” OK. Then, when you’re in a big festival, they run 30 minutes late, no problem. “We don’t have this, but we have this.” OK. It’s better when everything is ready, but you learn. Also, these are all things that are part of your job.
+Vivian Host    
+What was the first thing that made you get interested in trance?
+Lorenzo Senni
+'Cause when I was looking at electronic music software I discovered some sounds and I discovered that all these sounds were coming from... maybe I like because I was listening with my friends ten years ago.
+Then I started asking them, “But can you give me like your 300 CDs that I want to rip in my computer?” My friends are like, “Now you listening to this stuff?” “Kind of. I want to check what’s going on.” I went through hundreds, thousands of YouTube videos. Bought many, many trance compilations because of this sound. Because I discovered this sound was interesting, then I started looking at the tracks and there was this build up that, “Fuck. What is this?” Every trance record have a build up around the 40 seconds, one minute. It depends, but it’s always around there.
+The build-up is just a breakdown, everything fall apart a bit. Then they have to take you back to the kick. I realized that it was the most interesting part in this genre with these sounds because the other parts with the kick and the drum, it’s what defines the genre. But it’s closed, the genre is defined by that so it needs to be locked in a very closed formula. But the build-up was the only part where the musician could express himself, let’s say.
+Compose whatever it is. It’s more, it’s interesting because it’s a functional part, too. The function is like, taking you back to the kick from the falling bass. But it’s more open, you can be more, technical, you can [create] more atmosphere, you can be more aggressive. This with musical elements, so it’s like music, counterpoint like. This really, really was the thing that got me into trance.
+The first thing I did was going through hundred of tracks and take out the build-up because I just put together a big archive of build-ups and I was curious to see how it was working and yeah, I started to put together mixes made out of build-ups, and I got very bad reviews from The Wire. It was great because I was expecting that. I was going in the right direction I think because the first time I did, the very first time I did in Italy and Roc Evol...
+Vivian Host    
+Roc is the guy behind the project Evol.
+Lorenzo Senni    
+Evol, yeah.
+Vivian Host    
+Who are on your label Presto!?.
+Lorenzo Senni
+That I release. He showed me doing that in Milan for the very first time. He said... After a few months he invited me to do it in Barcelona in a very different context because it was a seated auditorium with quite a lot of people and Florian Hecker, Phil Niblock, kind of like institutional, academic... not academic, but just like good musicians.
+Vivian Host    
+Pretty serious experimental, electronic setting.
+Lorenzo Senni
+Yeah, exactly. I did that and it was just one of the first experiments of how the people could react to that, to this like 45, 50 minutes of build-ups taken from trance tracks just looped very precisely that sounds like it’s coming, but it’s always the same loop. After a while you realize that the filter is not opening, the delay is not coming. It’s not growing.
+It was forced in a way people could realize that and it was very interesting to see all the reactions and all, this first experiment. In Rome, people were very angry with me because it was like the opening of a big gallery and they ask me to play. Everyone could come in and drink for free. There were drunk people, and they start like, “DJ boom, boom!” Like asking for the kick... it’s not coming. It was even like they need to wait 30 minutes. It’s like, “DJ boom, boom!” After awhile I saw as well, I saw them like a bit aggressive and they started fighting each other and they were kicked out. I was so happy, I was like, “Oh wow. There is an expectation, not given.” It’s very powerful. Especially because we are, our brain is educated to work: "and now it's going to be the drop." This expectation's not fully satisfied, it's really something that could touch you in some way, if you are in the mood.
+Vivian Host    
+How does it make you feel to listen to 40 minutes of build-ups with no resolution?
+Lorenzo Senni
+Honestly, I could listen. If I chose that one, I could listen forever. That’s what I was doing with tracks. When you put the track. I don’t know if you ever experienced that. With pop tracks, or tracks you like a lot, I put it and I put it back on at the beginning before it’s finished. I cannot wait to listen to it again. This is just like, when you put repeat, it’s just that. But I want only that part. I don’t want to even wait for the bridge or wait for the verse that takes me to the chorus. Let’s just go there forever. (laughs)
+Vivian Host    
+Euphoria forever.
+Lorenzo Senni    
+That changes the perception. Because if it’s there forever, it’s not that euphoric anymore. It changes a bit, shape-shifting, became something other. I think.
+Vivian Host    
+You came up with a few rad rave slogans. One of which is pointillistic trance. What does that mean?
+Lorenzo Senni
+Yeah. Nothing more than: when I started to make my music, and put together the ideas, of what I was thinking through listening to build ups, and try to make music out of this. I just started with the shortest sounds ever. Like on my synth, ADSR (attack/decay), so it was just like all down, like tich-tich-tich. Not even, you can not even recognize notes. The process was just opening the envelope just a bit that I could hear like the timbre and I could hear the note. This was my starting point. Because, I realized if I had a very short sound, I had more room to open it up. If I started with the shortest sound that satisfies me, then from there I have more room. That’s why I started to call it pointillistic, because I was just doing that all the time.
+Vivian Host        
+Just little...
+Lorenzo Senni
+Just like starting with the shortest sounds I could get, that I was happy with. Then, I could just open up to all the envelopes, just go very epic. This process was very important to me.
+Vivian Host    
+Let’s hear the song called “PointillisticT.” This is off 2014’s Superimpositions.
+(music: Lorenzo Senni – “PointillisticT” / applause)
+If you’re making these tracks that don’t need to have a resolution, or a build up, or a drop, or whatever, how do you know when they are done?
+Lorenzo Senni
+That is a good question. My idea is not to have something really finish, but not because I like the idea of having an open art base. It’s just like, it all started listening to stuff build up for two hours. Because maybe I was just working, and leave it on, and work on my emails. The idea is just to get a timeline and just have a cut on that. That’s the reason why some of my tracks just started... that looks like, “Oh what, I put the needle in the middle of the record.” No, it just started because it means that it is already full on. It’s just a cut in a timeline. You don’t need to wait for that. It’s growing. It’s just there. It’s on purpose. I have an idea that, “OK, this track, it works in this way,” but it could be whatever.
+Maybe this is because we need to relate with the idea of putting together a record with some tracks. I’m not out of this dynamic, that the record has a length, with dealing with formats. It’s fine, but in my new record, the last track is five minutes and the start looks like it’s a mistake and the end, it seems that there’s another mistake. I need to give this idea, and my only element is the music, because I’m not giving a lecture before my concerts. My record is not an instruction manual. It’s just what is it. I don’t want that. I really like to give strong inputs to realize what is happening.
+Vivian Host    
+Have all your records had concepts in mind for them? How do you design putting together an album? Since you are a record label owner yourself, you must think about that.
+Lorenzo Senni
+Yeah. I use this to convince myself that everything is working, but the tracks themselves, I want that to work for people, that they don’t know about what is behind it. That’s why I really care about the melody. I hope it’s working also for [those] who [don’t] know what’s happening. So I really care about the melodies and I spend a lot of time to take care of it. Then I send the notes to my synth and I... But the process is put together by notes on my computer on a piano roll, so. This is the process, and yeah, I mean the fact that I have a label, it brings me back to the fact that I have to deal with formats. What we are doing: a CD or doing vinyl, a cassette? That needs to be current with what you want to do, so.
+Vivian Host        
+So hang on, you draw the MIDI notes in the piano roll and then you send it to the synth first?
+Lorenzo Senni    
+Yeah.
+Vivian Host        
+Rather than playing it on the keyboard?
+Lorenzo Senni
+Yeah, yeah, yeah. I can do it, but it’s so... I say 'computer generation,' you know? Like snack on the left and, you know, mouse or trackpad on the right. This is the computer generation. You eat and you... so yeah, yeah. And then I send notes and then I take care of the sound. But that help me because I really care about using my synthesizer and my preset. So when I’m traveling, it means that I can make music now. I can make the melodies and work on this side. Then when I come back or I find a synthesizer, then I go there.
+Vivian Host    
+Do you think that listening to all of these euphoric trance melodies all the time has changed you as a person?
+Lorenzo Senni
+I’m a romantic person anyway. (laughs) No, no I’m joking. But, you know, it’s like sugar. More you have, more you want, but then you reach a point that you are really full. It’s like, maybe I stop doing sugary stuff for a while. I’m interested in different things that are making the trance or this genre so emotional. But it’s not that... I don’t like trance. If I like trance, I make trance. You know? That’s why I’m getting angry with people that say like, “Oh, trance... trance-master,” you know, like... No, I don’t like... It’s recorded that I don’t like trance. Because if I was liking trance, I was doing that. I’m not doing that. I have fun with keyboards and I want to challenge people and myself, for first, so.
+Vivian Host    
+I want to listen to something from another project of yours which is called Stargate, which... you mentioned that you’re a romantic. And I guess Stargate is a little bit more of the romantic, the more romantic side.
+Lorenzo Senni    
+Too much. Too much. No, I’m joking.
+Vivian Host    
+Never too much. This song is called “Driving Hyperreality.” Let’s hear it and then we’ll talk about Stargate a little bit.
+(music: Stargate – “Driving Hyperreality” / applause)
+So how does it make you feel to hear that Stargate song?
+Lorenzo Senni
+I was thinking about it and there is, again, always the synthesizer that is making always the same loop because... Stargate was born because I wanted to explore things I couldn’t allow me to explore with my personal project because maybe it was too rigid: the system I was working with, that I built around it. So Stargate was born just because I wanted to make something that was more free. And yeah, I released three tracks on a friend's label; everything came out very smoothly. A friend's label, but I played so many concerts as  Stargate because that is the kind of thing that becomes crossover electronic music and I played a lot of indie festivals, in rock venues because, not in this track, but in other tracks there are guitar solos on the top of trance synths. I know it’s something very epic.
+And, yeah, it was just like a side project that became very important to me because I have always to keep him away. I learned a lot on making music as Lorenzo Senni because of Stargate. Because Stargate is... I always say that it’s the romantic, it’s the one who wants to always take over. So it was a very good thing to have this project just because it was constantly a reminder of what I didn’t want to have in my music.
+Vivian Host    
+Which is?
+Lorenzo Senni    
+Since now...
+Vivian Host    
+Which is what?
+Lorenzo Senni
+I wanted... well, my music sounds very dry. Very like... I don’t know how to say. Yeah, dry maybe is... just like a template. Template, you know? That’s why I say like template trance or a flat trance or whatever it is. I want it to be like just a track that is working, but is showing just the structure, just the skeleton. If you put too many things, it’s just going to make it more difficult to see. That’s why Stargate is full on emotion and is more riffs, noises. I was just exploring this side of music that I couldn’t allow to be part of the Lorenzo Senni project. 
+Vivian Host    
+Are you allowing it more now?
+Lorenzo Senni    
+Yeah, that’s why I’m interested now in developing my music. I could make many records that sound like Quantum Jelly or 
+Superimpositions, it’s just a matter of putting together a melody that I like, just send everything to my presets and that’s almost everything.
+No, I want to develop this, and I have to have a confrontation with that guy that is always there, and the new EP is a bit in the middle. It was a chance to put together the things I was working on. And like “OK, let’s try to make a very consistent project out of what I’m doing since six, seven years.” The new EP is less rigid and that’s why I call it rave voyeur. I bring back this idea of voyeurism. It’s no more about what I’m doing in my synths, but it’s more about observing something, more the environment than me doing pointillistic trance with the envelope down. It’s more from a higher point of view that...
+Vivian Host        
+It’s kind of building upon the things that you did before.
+Lorenzo Senni
+Yeah, yeah. I tried to put together a more mature sound out of what I’m doing, through trying to develop things, and keep respectful to what I did before. That’s why it’s not fun... I mean, for me it’s my job and before that it’s my passion, but to be satisfied, to make choices requires a lot of discipline and it requires a lot of struggle. This is why I don’t want to use the word “fun” to put together a record. Then when I’m here I can play in the pool with DJ Stingray, that’s the fun part... Going to dinner... that’s the fun part.
+Vivian Host    
+If we can go back to the live stuff for just a second, I wanted to show some footage of you performing a concert called AAT...
+Lorenzo Senni    
+Ah, OK.
+Vivian Host        
+At CTM festival in Berlin. And speaking of studying, maybe you can explain how you made this show, because you went to Stockholm to EMS, right? To work on it.
+Lorenzo Senni
+AAT stands for Advanced Abstract Trance and is a piece that I put together, always changing a bit, but is around 40 minutes, with let’s say a bit more aggressive buildups again, and breakdown, and falling bass. It's taken from hard style, hardcore, hard trance instead of that trance emotional buildup. It's a bit more aggressive and it’s just a piece that works together with the CO2 cannons. 
+Do you know what it is, the CO2 cannons? Like, you know when you are in Ibiza or a big festival you have this... Seems like smoke, it’s not smoke, it’s CO2 like [makes noise] When there is the drop, you have this [makes noise] it’s like 200 Euros every [makes noise] for real. Even more, depends on how much you have.
+It’s not smoke, it’s CO2 and this cold air, fresh air, that’s why everyone is like, “Ah, yeah.” And this music piece, it works in the way that I’m seated... I’m not playing standing, I’m sitting in front of my computer and the piece is running; I just do a few EQ and reverb, but the piece is already there and three, four times there is this interlude made of CO2 cannon patterns. So, I play in an auditorium and people are listening to these very aggressive buildups and everything falls apart and there’s these patterns played by the CO2 cannons, because I want to use them in a more musical way.
+But the idea behind using them is, again, the signal of a drop, signal of euphoria. You could watch festival from 10 kilometers in the mountain, you see the festival, you don’t listen to music, but you see the CO2 cannons like euphoria, build-up, the drop. Everyone is used to that; every time you do it it’s like [makes noise] Pavlov’s dog and it’s a very strong input. 
+I know it’s refreshing and it works, but I wanted to use it in a musical way and not in a way we are used to experience it. So, the cannons are usually four in the corners, and you don’t know that is going to happen, because the lights are all on and I’m standing there. Actually in the tech rider I’m asking for Red Bulls, because this is again one thing that is very important to me. This is like famous to be energy, and Red Bull is also like part of being in a club now. It’s part of being, raving or whatever is it.
+So, I have four Red Bull on my table and I’m drinking all four Red Bulls, but I’m standing like this, and people as well ask me, “How can you stay that still while you play and you drink three Red Bulls?” That’s again like, “Why's this guy drinking Red Bull and he stays still?” It’s again, like you expect someone drinking Red Bull and they get like, ah... 
+Every little thing is made to make people understand what we are experiencing or what not, and what we are waiting for. So, I had angry people too at this show... But it's interesting to me to have the chance to play with these other elements that are part of the context that they care. CO2 cannons are part of it.
+Vivian Host    
+Let’s see if this footage, if you’re epileptic or just faint of heart, sorry. I don’t think it’ll be that bad on the screen. 
+(video: AAT concert footage)
+Lorenzo Senni    
+Just let the cannons get empty because it’s a beautiful analog noise. It’s very loud and it’s beautiful, change the pressure inside of the, how do you call it, bigger can?
+Vivian Host        
+Cylinder, somebody said.
+Lorenzo Senni
+Yeah. Big cylinder. When it change the pressure it is filtering it. You have this beautiful one minute of filter that is again built up. It’s beautiful. We never heard noise like this. It’s CO2. We did it in small places and it was almost, because if you have too much CO2 in the air you start to get... They don’t allow you to do it everywhere in the USA.
+Vivian Host    
+Yeah, I could see that some people being blasted with cold CO2 sitting down might not be very happy about that.
+Lorenzo Senni
+It’s fresh. Then they become cold. It’s just like it works when you are in Ibiza. In that situation maybe you don’t really want to.
+Vivian Host    
+We’re going to open it up to participant questions in just a little bit, but before we stop I wanted to talk about your label called Presto!?, which you’ve been running since 2008 and really runs alongside your work. You’ve learned a lot about the music biz but also your own work from running this label. What was the idea of starting it in the first place?
+Lorenzo Senni
+It was because I like so much some people’s work that I wanted to have something to do with them. I really like... At first you want to be them, you know? I wish I could have done this record. Then you give up. You realize, what’s the closest thing I can do with them: to like collaborate on something, put out a record, and then it’s all cultural cannibalism. I just want to have something with them. 
+The label started in my bedroom all by myself, just like put out, sent the record to print with mistakes, because I’m just the cover, or this part, this logo looks pixelated. It’s printed. OK, but then you learn. You learn how to speak with other artists, you learn how to take yourself more seriously because you have to speak with someone that maybe it's already his job, making music. You have to be very respectful of every aspect. It was taking one afternoon to send, to put together one e-mail, write, Google Translate, check “OK, how do I spell that record?”, then send and build up credibility. Just like, “OK, probably if I release this artist, probably now I can ask him, because they are you know...” Then it’s like “Oh, now that I’m here, I can ask him.” 
+It’s very important to be aware of what you... We were speaking ... I get some messages from 18-year-old kids, very enthusiastic, asking me to put together, six months ago, to put out a cassette of 15 copies. You can do that. It’s better if you don’t. You really need to be aware of what you can ask to you know...
+Vivian Host        
+You mean like what level you’re at and who you can ask to do what?
+Lorenzo Senni    
+Yeah, yeah, just like be aware of everything, because you’re gonna meet this guy again. It’s very important to be respectful in this... With their work, what they are...
+Vivian Host        
+Yeah, like don’t ask Aphex Twin to put out ten cassette copies on your label that nobody ever heard of.
+Lorenzo Senni    
+No.
+Vivian Host        
+So who was the first person that you put out?
+Lorenzo Senni    
+John Hudak.
+Vivian Host        
+And how did you come across him, or his work? Is it somebody you knew already?
+Lorenzo Senni
+No, I mean, the records by him. He is a field recordist. He probably released 300 records in his life, so I could see that maybe was interested to put out something without too much... without complaining that it’s not distributed everywhere. Then Greg Davis was a guy who collaborated with him but was already on Kranky, this label. Just small steps. I released my heroes, like Florian Hecker, that made me spend a fortune to produce his record.
+Vivian Host    
+So you kind of got to Florian Hecker because of one of your releases before, right?
+Lorenzo Senni    
+Yeah, yeah. Exactly.
+Vivian Host        
+From Marcus Schmickler, who was a friend of Florian Hecker’s. So you had a little plan...
+Lorenzo Senni
+He probably e-mailed, I’m sure, e-mailed Marcus Schmickler, asking, “How is Lorenzo working?” It works like that, especially in a small underground context. You need to be good, respectful and be clear of what you can give or what you can’t give. It’s all about that.
+Vivian Host    
+The Florian Hecker release, you used... You made it with the money you made working in a factory.
+Lorenzo Senni
+Oh, this was extreme, because it is this one (picks up a record), and I was already thinking whatever he’s gonna propose me, I’m going to say yes. So he proposed me this double 10" with pink fluo Pantone and green fluo Pantone with a double 10" with Pantone, even on the label. 10" costs more than 12", because it’s less common to print... It was like 4000 or 4500 Euros. OK, let’s do it. At the end I got the money back, but in a few years. It was just like “I’m gonna do that, whatever he’s gonna propose me.”
+Then I worked also with people that I just met randomly on the Internet and would build up a good relationship. Presto!? was the reason why music is their job now, so I’m really happy.
+Vivian Host        
+Is there a mission statement for the label?
+Lorenzo Senni
+No, no, no. I’ve never been like a talent scout. Was more my personal taste. Just release what I like, what I really like. The label is very small but respected, so when I met through the Internet this guy Palmistry, that now... He released on Mixpak... I just said like, “Benji, I love your stuff. I think that it's a bit... It's difficult to understand what’s happening here. Why don’t we put out a record made of these tracks that you have here on SoundCloud?” Because even in 2016, if a record is out, it gives you this kind of like... Your project is more consistent, people maybe take it more seriously, or just like people that follow the label will check it out. We made it, and then he signed on Mixpak and got Warp publishing, all out of this record. That was very... I really liked to work on this project.
+Vivian Host        
+And you also released something from DJ Stingray, who you played with at the pool.
+Lorenzo Senni    
+Yeah, yeah. I just got the...
+Vivian Host        
+Can we hear a clip of that?
+Lorenzo Senni
+Actually, this is (picks up a record). I contacted DJ Stingray. Again, because it was making sense to me, asking him to do something for the label, because Russell Haswell gave me his contact. When Russell Haswell curated at All Tomorrow’s Parties with Aphex Twin, they invited us and DJ Stingray. DJ Stingray was aware of this scene, even if he was coming from a different continent. It was... aware of the more computer music scene. So I asked him, and he said, “Of course! I know these guys! Let’s do it!” This was before a credit card-shaped USB, limited to 200 copies because we thought, “Let’s do a credit card shape,” because his idea is all about... It’s difficult in English... all about espionage. “Let’s do a credit card shape,” because also he’s always posting in socials, all these kind of science things. “Let’s go credit card shaped.” Obviously all the people coming from the dance world were like, “Oh, we hated this. It’s already gone. We needed to play it on our turntable.” This is a vinyl version with two tracks more. We can listen maybe.
+Vivian Host        
+Sure. Let’s listen to something.
+(music: DJ Stingray untitled)
+Lorenzo Senni
+That was the end. DJ Stingray and... I really like that beat. He was listening to my stuff putting this together, he admitted later. He was listening to my stuff, so he went through some tracks he was making with these [makes noise] sounds because he said, yeah, maybe I thought you could like it with more, so it’s genius.
+Vivian Host        
+That’s fun.
+Lorenzo Senni
+Yeah, this is the best. I always try to go to dinner with him and he asked me to open at one of his DJ sets in Berlin, just to build the relationship out of a passion. It’s not really about business, but there is also room for that. The label is very wide range. Could be DJ Stingray, Florian Hecker, that is very abstract computer music, could be Palmistry, that is an R&B dancehall singer. It’s about what I like.
+Vivian Host        
+Yeah, it’s kind of telling the story of what you like in music, not in words. Where are you going now? You have Persona, which is coming out on Warp in a few weeks. What are you thinking about as the next thing?
+Lorenzo Senni
+Album? No. I did Quantum Jelly in 2012, Superimpositions was 2014. This is 2016. I have two years, every two years. I think I will be putting out something sooner than waiting again for two years. Now, the EP is there, I want to go out a bit from the studio and think about how to play this, because it’s a bit different, and opening Ableton Live for the first time in my life, or maybe not.
+When I’ll be back from New York, because I'm going to New York, I will really focus on how to play the record because this is different and has always been very easy to me. I played the record because it was the same thing I was doing in the studio. This is different. I have to focus on that, learn other things.
+Vivian Host        
+How is it different?
+Lorenzo Senni
+Because there are more layers and different sounds, a bit more structure... changes. So, yeah, I have to take care of this. I’m not scared, but I’m stressed a bit because I don’t know where I’m going to take this.
+Also, I’m speaking about which controller I’m going to use, how I’m going to put it together. As we all know, there are thousands of things and the way you could do one thing, you can take from so many different side. This is very interesting: which controller, which software.
+Vivian Host        
+Are you going to take the Roland JXP with you?
+Lorenzo Senni    
+JP.
+Vivian Host        
+JP? Sorry, sorry. No, you can’t do that.
+Lorenzo Senni    
+Hopefully, yes. I will take it, but it’s going to be a different way of playing it because there is a VST that can control it from the computer, so I’m going to work with a lot of automation.
+I was working a bit with it before, too. Automation to make it play by himself because there is a lot of like old synths or older synths, you can find the VST and you can just give the automation. This is perfect because it's like an automatic pilot of your synth. Maybe you can leave open just a few parameters and, then, it’s playing by himself. This is my idea.
+Vivian Host    
+Sounds like it involves some more studying.
+Lorenzo Senni    
+I don’t want to make many things live. No. I want to be good, not show how good I am. I want to sound good, stop when I need to stop, start when I need to start. I’m about that. If it is playing everything by himself and I have to adjust few things, I’m happy with that. I need to work on it.
+Vivian Host        
+Sounds good.
+Lorenzo Senni    
+I don’t know. We’ll see.
+Vivian Host    
+You can be adjusting the CO2 cannons, while it's just playing itself.
+Lorenzo Senni    
+Yeah, I would just play with CO2 cannons.
+Vivian Host    
+Alright. Well, thank you so much, Lorenzo Senni. 
+(applause)
+We’re going to open it up to questions from the participants now, so if you have a question, raise your hand and somebody will have a mic.
+The Sine Painter    
+Hello.
+Lorenzo Senni    
+Hi.
+The Sine Painter
+It was interesting hearing how one of the purposes of you making your music was a lack of resolution in all of your tracks. I want to know what you thought about people... There have been a lot of DJ edits that have arisen from your tracks, people putting pop a capellas and people putting beats and forcing resolution onto it. I want to know what you thought about them, if it made you think about your music in a different way, or showed you something?
+Lorenzo Senni
+Yes. It was very inspiring to me because I think I will never have the courage of doing myself in that explicit way that makes me think, “Ah, this could work,” and, yeah, it was very inspiring and refreshing. This is what is beautiful about the Internet or the days that we are living in now, that this goes there and, then, everyone is doing what they want, but it comes back. It just doesn’t stay, that it comes back and that you have ideas because it’s important, this kind of discussion and confrontation. No, it’s amazing and I want to try to make something in that direction, too.
+I have a story. When I did two tracks, not this album of How to Dress Well, the one before. One of the tracks, it’s one of the most... almost like one million views. I can, like... impossible views from my small contest. The story behind this track is that at the end of my set in a festival, he was there because he played in this auditorium before and he came. He was listening and he started singing over, to these chords. It was kind of a smooth, slow progression. He started to sing and it was a small stage and I was looking like, “Fuck, it’s him.” I was looking at his concert before. OK, OK. He’s singing over this.
+Then he came to me. He said, “Do you want to send me the chords and I’m trying to do something?” The track is almost eight minutes and is all my chords, just like this progression. He's singing over it. There was a producer put together a few things and there is a final guitar solo, but it’s a long track, and it’s amazing how it went.
+These things made me think, “Ah, maybe I can work in this direction,” but it was difficult. That was me at first doing that.
+The Sine Painter    
+Thank you.
+Lorenzo Senni    
+Thank you.
+Kamron Saniee    
+Hi. Thank you. What was the first track you played at the Olympic Pool on Saturday?
+Lorenzo Senni    
+“Evolver.”
+Kamron Saniee    
+It’s a new one, or a previous one?
+Lorenzo Senni    
+No, that one was actually released in a small edition of tape, but this is the final version because I am... This was eight or nine minutes, but I went to back to it. I added some notes. Actually, I was speaking with Joel, the guy who put the [underwater sound system in the pool]. I would say, “I have this stuff. How should it sound?” He was like, “Oh, no. You should go down with these arpeggios, and up with these, because it’s going to be more interesting to cover all the range.”
+I bring back... also... The other track was one I played a few times, but I added the last bar and they are just like ... I have a lot of stuff that is there, waiting, for the right moment.
+Kamron Saniee    
+Thanks.
+OK Lou
+Hi. Thank you for the lecture. It sounds very refreshing to me. I feel very close to your work because I use a lot of trance synthesizer in my own music, and I love it. I’m also a big fan of Palmistry, actually. I didn’t know you were in contact. So now actually I understand, maybe, the... for example “Comeragh Mountains” on this album.
+Lorenzo Senni    
+Yeah, of course. They said he ripped me off. This was then, “No, no.” Do you know the track “Lil’ Gem?” We made it together. I mean, it’s a constant...
+OK Lou    
+Lil’ what?
+Lorenzo Senni    
+“Lil’ Gem” is just a track from his record on Presto!?. “Lil’ Gem.”
+OK Lou    
+Yeah, it was a few times ago.
+Lorenzo Senni    
+Sorry?
+OK Lou
+When was the release.
+Lorenzo Senni    
+A few years ago.
+OK Lou    
+Yeah, I remember this.
+Lorenzo Senni    
+Yeah. We made it together. It is a constant.
+OK Lou
+Yeah. Actually, it is what I love in both of your work, is that minimal way to make sounds and instrumentals, actually. I am very fascinated by how Palmistry is building his songs, because there is pretty much nothing. I’m very fascinated about that, because... You were saying earlier that you tried to make your sound dry. This is something I can do. I hope one day I will come to that point when you can express a lot of emotion. You say you were romantic. I understand totally.
+Lorenzo Senni    
+I don’t know. I think...
+OK Lou
+Yeah, but I think when you listen to trance you’re, kind of, a dramatic person, in a way. I mean, you...
+Lorenzo Senni
+You know why these kind of sounds or melodies become popular or mainstream, you know, because there are a lot of reasons in the sound itself. The super-soul sound, is a sound that that is conceived to ... There is a lot of harmonics, because it is seven soul waves that you can attune. This produced a lot of harmonics, but harmonics are very precise intervals. This is how it works, music, since hundreds of years. Why we love this melody.
+OK Lou
+Actually, it’s pretty simple, and it’s pretty...
+Lorenzo Senni    
+It’s just like, full on, and...
+OK Lou    
+Spontaneous. That’s why I love this music. I’m sure.
+Lorenzo Senni    
+It touch everyone in some way. I don’t know. It’s a big talk about why, and things like that.
+OK Lou
+Yeah, sure. Actually, I didn’t have any precise question. It’s just very interesting to me, to speak to somebody like you. Yes, actually I do have a question. I remember that time when I was like thirteen. I had the rights to this one hour on Internet each night. This is the first time that I came back to trance music, hearing Gigi D’Agostino and Daddy DJ. Actually, “L’Amour Toujours” I think it’s my favorite song of all times. I wanted to know if.... I mean, I guess he’s from from Italy, right?
+Lorenzo Senni    
+Yeah, he is from Italy, and is very famous in Italy, too. Yeah, yeah, very famous.
+OK Lou
+He is not in France, actually. When I say his name, he is not that famous. Only the trance people know who he is.
+Lorenzo Senni
+He crosses over a bit, also, in this pop world because his tracks are not that... They engage also, kind of, those who would listen to pop, it's not that heavy. So, yeah, he’s very famous in Italy too, and he still plays concerts and he dresses like a crazy guy. It all makes sense to me.
+OK Lou
+Yeah, I wanted to know, actually, if you feel like you are related to this guy at some point, or... ?
+Lorenzo Senni    
+If he went there...
+OK Lou    
+No, no. If you have been influenced by him.
+Lorenzo Senni
+No, not really. I know his work, I like his sound. The melodies are good, actually. You know, he’s making this kind of genre named “lento violento” that is not properly trance, but is this thing that he conceived. This is why I respect him, because he came out with this stuff that didn’t really exist before. He named it “lento violento”. That means “slow and violent.” It is very, just, [makes sounds] these kinds of beats, with very minimal melodies on top of it, but very well developed melodies. He came out with this genre that is only him. I’m not influenced by him, but of course I know that even if I was not making music... Everyone knows him in Italy.
+OK Lou    
+OK, I didn’t know that.
+Lorenzo Senni    
+I respect his work.
+OK Lou    
+Yeah, me too.
+Lorenzo Senni    
+You, a bit more.
+OK Lou    
+Maybe, a bit more. Thank you.
+Lorenzo Senni    
+Thanks. She said that she had a question for me before.
+Vivian Host    
+Prepared. 
+Pan Daijing
+How are you?
+Lorenzo Senni    
+Good.
+Pan Daijing    
+That was my question.
+Lorenzo Senni    
+Ah, really?
+Pan Daijing    
+No, I’m joking. Because the talk was focusing on your work and everything, I just wanted to ask you, how do you feel about... The scene in Italy, especially in Bologna and Milan... I personally feel like there is a very... And maybe there’s not as many things going on as compared to New York or Berlin... I found the community there is very tight and very supportive. Does living in both cities shape your work and helped develop your creativity?
+Lorenzo Senni
+This is very important, because when I moved to Milan seven years ago I found a way to start... Let’s say, music became, a bit more my job, because the city is a bit like London. Milan is a bit like the London of Italy. It’s very expensive, but there are possibilities: there are other people making music. In order to stay there, I had to start making music for videos. But in parallel, there were other people making music. We could start to put on concerts together, like Simone has a label named Hundebiss that released Stargate. Other people are from different contexts, but we all know that we are a small community. So we try to help out each other even if we are all also very stuck in our positions. Because this is part of what it’s like being in a city and sharing things with other people, but not sharing everything because you need still to do... When I moved to Milan, I went there because an art collector invited me and another seven people to occupy one of these huge buildings that was abandoned. He was waiting to sell it. It was a factory inside the city and we had a chance to stay together and put on a concert in the basement. A way to give a chance to others' scenes in the city, to participate a bit in what they are doing.
+It’s important, the connection with the city and we want to come back to put on shows, because we met so many. We had everyone play there like Wolf Eyes, Emeralds, Stellar OM Source. So many people played there. Someone stopped to play. Kode9 played there. All illegal, 100 people. Gabba DJ set at the end. Always like that. It’s important to keep this alive and we had a period that we wanted to do only our things, but then we are getting older. We realized that we had to come back, sharing with the younger.
+I don’t want to make the mistake that the older generation made with me. I want to be, “OK now, I’m going to do something with these guys, put something on.” I don’t want to make the mistake of just closing myself in my studio and I go to play and then come back. It’s important to share stuff. I was in the same position. I was, and I’m sure older musicians were looking at myself in the same way, so I need to go away from that.
+Kamron Saniee
+Hello again. I have a second question. Normally, I would not ask this question because I don’t feel very strongly about genre distinctions as a musician. Music is music and indexing of music should be outside of the concerns of the producer, at least when active. I happen to make techno music without a kick, amongst other things, and so it was interesting to hear you talk about your not-trance in a sense. Actually, the question is not as much what do you call it. It’s how do you present your project? How do you present yourself as something I think is probably more important to producers? How do you present?
+Lorenzo Senni
+We have these things that are social. That is, it's also working when you are five people, you are socializing. It’s like, what are you doing? People are like, what kind of music are you doing? At that point, you have to be able to explain what you’re doing in an interesting way or at least in a way that is easy to understand, hopefully: that goes very fast to the point, and that it's not boring. This is not something that you think beforehand, to leave your bedroom, “OK, if someone's asking me, I’m saying this.” It’s just a matter of time and I collect the keywords, like pointillistic trance, circumscribed euphoria, just to give these small inputs that believe it or not is going to work. While you’re doing that, you convince yourself and you are on the bus and you’re thinking “Oh, beautiful perpetual trance. Next time I’m tweeting something, I’m using [that].” It’s something that you have to think [about later on] , not thinking to it. Just like remember to put [together] notes that are going to help you to present your project. It’s important. It’s right.
+Kamron Saniee    
+Thanks.
+The Sine Painter
+Hello. Since we were on the topic of keywords, I just wanted to know what you thought about deconstructed club music as an umbrella term.
+Lorenzo Senni
+Again, it was an easy way to call what some people... included me or doing a certain point, like me, Lee Gamble, Gábor Lázár that I released on my label and other people. You needed this to engage a discussion. Then I’m not a big fan of the word, but I understand why, when it’s been used, and I have to accept it. What I don’t like, if you speak about deconstructed trance in your article and you don’t come to talk to me when I’m playing, then it’s strange. But I understand why. I’m not a nazi in this way. I quite like also interpretations. Everyone is whatever.
+The Sine Painter    
+Do you feel like the evolution of that though was very quick or something? Because it felt like since we’re in the Internet age, by the time that thing started and now it’s already like “Oh, there’s too much of it,” but it didn’t even start that long ago.
+Lorenzo Senni    
+Yeah yeah, it’s already gone.
+The Sine Painter    
+It’s already like everyone’s like, “Oh, it’s not that cool. Keep me away from that.”
+Lorenzo Senni
+That’s what I’m doing too. Saying I don’t really like it. Because this is, again, a way to generalize. It’s necessary. I understand. When there are articles out or reviews, you cannot always go to meet the guys, speak with them an entire afternoon, and understand why deconstructed club music is not the right term. I understand that. I never used that. I will never use that. I’m not supporting that. I accept it.
+The Sine Painter    
+Thank you so much.
+Vivian Host    
+One more question, and then I’m sure...
+Sign Libra
+Thanks for the lecture. It was fun. As I understood, you are very into conceptuality. Even if you are in your music, in your live shows. Conceptuality. Even in your cover artwork. You use also artistic approaches in your live shows. My question is, are you interested in contemporary art in this post-Internet age?
+Lorenzo Senni    
+Yeah.
+Sign Libra    
+Your favorite artists, maybe.
+Lorenzo Senni
+I’m always looking for it because... not to get inspired. It’s normal to me to check an art magazine and see, because everything helps me to have a clear idea of what I’m doing. For real. "This, I find this a bit connected to my work. Let’s put this in my notes or aside," because I’m probably going back there. I always check contemporary art, but not in a pretentious... I always had artists make my album covers like Anne De Vries.
+Sign Libra    
+Yeah, that’s what I thought. I just saw something on the Internet. I thought “Oh, maybe it’s not” or “Maybe not.” It was...
+Lorenzo Senni
+The melting shoes. It’s zoomed in, an art piece of an image, just stairs made out of melting shoes. I was like, “This makes sense to me a bit.” I wrote him, like what is going on here, and we started speaking. He was working in a record shop, so he knew Editions Mego and when I asked, “Can I use this for the cover because to me it makes so much sense?” It’s like, of course. I know the label. I love it. Let’s do it. Ed Atkins, too. He did the cover of the EP. The idea behind was this rave of voyeurism, and one part of his video is this old guy looking through a hole. He’s looking but his nose is on the wall. When you look and your nose is touching the wall, you are interested. His face is not that interested. He’s very particular still.
+I asked him, “Look, I need this. I would love to use this image for this, this, this, this.” He said, “Yeah, Lorenzo, I know your work. Of course.”
+Sign Libra        
+That’s really sweet.
+Lorenzo Senni    
+If it makes sense to me, maybe it makes sense to the others.
+Vivian Host    
+You must write a really great email. We’ll have to see those.
+Lorenzo Senni    
+It still takes one afternoon.
+Vivian Host    
+Well, Lorenzo...
+Tay Salem    
+Really, really, really quickly.
+Vivian Host    
+I’m sorry, go ahead.
+Tay Salem    
+Two seconds. Is that song you were talking about with How to Dress Well, is it “Words I Don’t Remember?”
+Lorenzo Senni    
+Yeah.
+Tay Salem    
+That’s one of my top five songs of all time, so thank you very much.
+Lorenzo Senni    
+Thank you.
+Tay Salem    
+That’s all I wanted to say and check. Cheers.
+Vivian Host    
+I’m sure you’ll be around if anybody has any more questions, off the mike. Thank you so much.
+(applause)

@@ -1,0 +1,1085 @@
+Around Berlin, Rashad Becker’s name is synonymous with sonic brilliance — a mastering engineer at Basic Channel’s Dubplates & Mastering studio, he put the finishing touches on over 1,200 of your favorite techno, dub, and house records. Following Basic Channel, Becker set up his own Clunk studio in Kreuzberg, where he created his compelling debut for the PAN label, 2013’s Traditional Music of Notional Species Vol. 1. The record is a disorienting three-dimensional thrill ride inside Becker’s mind, full of overlapping layers, links, and elastic audibles. 
+In his 2014 Red Bull Music Academy, Becker explained how (and why) he creates music this chewy and complex, and how you can mix, master, and manipulate your sounds to do the same.
+TODD L. BURNS 
+Thank you for coming. I assume you were all in the bedroom studios quite late
+last night finishing up things. And I think finishing up things is actually a
+great way to introduce our lecturer today. Rashad Becker is a mastering
+engineer and he also makes music, but will be primarily talking about the
+mastering process and recording process as well. I guess the best way and the
+simplest way to begin is to ask the immortal question, “What is mastering?”
+Rashad Becker 
+Right. Basically, the term is, of course, derived from the process of
+producing a master, which is the input to mass production. So whatever medium
+is going to be the final product, it needs to be something that production can
+be copying into many copies. Yeah. For that, you need a master and producing
+that master is mastering. The other thing is basically the equivalent to post-production in movies, that is like retouching the sound in the final stage.
+That can be basically just compiling the pieces ‘top and tail’ editing,
+adjusting the playback volume over the length of an album and it can be quite
+invasive. There’s quite a range of what actually can or needs to be done. It
+depends on the wishes of the artist, the context of the release, the technical
+necessities that a medium might impose that applies mainly to vinyl because
+digital media is not so delicate, and it can have purely artistic purpose. If
+things that have not been achieved in the mixing or recording stage need to be
+addressed before mass production starts.
+TODD L. BURNS 
+You said there can be quite an artistic sense that a master can bring to
+something. Can you talk a little bit about what that entails? I think a lot of
+people think that it’s just retouching and tiny things, but it can often
+completely transform a track in a way.
+Rashad Becker 
+Potentially. There’s still a surprisingly lot of things that you can do to a
+stereo sound. Mastering has this stigma to it. I don’t know if it’s a stigma,
+it’s actually quite a natural perspective, but it should be like a real
+engineer’s kind of process. While in production, mixing and recording,
+everything is allowed, obviously, and people do hilarious things to sound. In
+mastering, you should always be very technical. That makes sense, of course,
+but as the music culture changes, though, I think actually there has always
+been situations where things go into mass production that have not ever seen a
+real studio. The only stage where anyone else gives input to the sonic image
+of the music is in the mastering stage. Personally, I don’t see any reason why
+mastering should not be very invasive. If the music benefits and, of course,
+if the artist asks for it.
+TODD L. BURNS 
+What do artists ask for when they come to you usually? Is there questions that
+you constantly are answering of them?
+Rashad Becker 
+It depends on what field the music is situated in.
+TODD L. BURNS 
+Let’s say for a club, specifically, for instance.
+Rashad Becker 
+Well, any kind of functional music, dance music, brings a different attitude
+and different expectance. It carries that along. There’s a more predefined,
+maybe, idea of what achievement in sound and achievement in a mix, and then
+finally, an achievement in a record or a CD is, than in non-functional music.
+That is something that over the years can get a bit frustrating, that idea of
+a professional sound that people ask for, because personally, I do not think
+that’s really called for in music culture.
+TODD L. BURNS 
+Sorry. How has it changed exactly over the years that you’ve seen? You’re
+saying it’s getting progressively…
+Rashad Becker 
+I think that’s just inherent in dance music and other forms of functional
+music. There’s more people having access to means of production, not
+necessarily having more access to education and dealing with means of
+production, so people copy idioms and ideas of what is an achievement in sound
+is off each other.
+TODD L. BURNS 
+So I hear a bass on a track, I want my bass to be that loud or louder is an
+example of that?
+Rashad Becker 
+That would be an example, yeah. Yeah, sure. There’s a few paradigms and a few
+leading characters that stand for achievement. Not necessarily if you’re
+inspired as a musician, not necessarily that you are also competent to judge
+what’s going to work just sonically speaking, not musically speaking, on a
+club PA, so that would be, of course, a demand. “Please make it work on a club
+PA.” Yeah. It’s also not always beneficial to the diversity of music culture.
+TODD L. BURNS 
+How did you get into mastering in the first place?
+Rashad Becker 
+More or less on a social path, I guess, because of just my involvement in
+Berlin and then the proximity from the things that we did to that whole social
+field that incorporates Hard Wax and Dubplates &
+Mastering and Basic Channel.
+TODD L. BURNS 
+So you got involved in working there? How did that happen? Did you apply for a
+job or you were just friends with them?
+Rashad Becker 
+I was basically just friends and they asked me. The first time they asked me,
+I said no because at that time I was working in movies and I was quite
+intrigued and I liked the idea that work just stops. Before that, I worked in
+the theater and in both realms you sink into a project and everything else
+disappears. It’s quite close to a feeling [of being] happy because it’s just
+complete. Then, after six weeks or something, it just stops and then you do
+nothing and then something else pops up. With the mastering, I could see that
+that would not be the case, so I didn’t want to do it in the first place. But
+then a year later, I had no job, so I started doing it. I thought I was going
+to do it for a year and now I’m doing it since 17 years.
+TODD L. BURNS 
+How did you gain knowledge as you were going along? You were just watching the
+people that were already mastering at the company?
+Rashad Becker 
+Not so much actually, only in terms of the actual vinyl. We do mainly vinyl
+mastering at our studio and so I got an introduction to handling the equipment
+and then I think I cut my first master after a month or two, pretty right
+away.
+TODD L. BURNS 
+How has it changed over the years? Has it been basically in the same building,
+same place, or has it grown Dubplates & Mastering?
+Rashad Becker 
+It has moved once, but since I am there, we are in the same building. Yeah. It
+did grow a little bit. It doubled its capacity from one studio to two.
+TODD L. BURNS 
+It seems like a rarity in the music business these days, Dubplates &
+Mastering is a place that’s growing a little bit and seems to be doing quite
+well in terms of its business.
+Rashad Becker 
+Actually, I don’t think it’s a rarity, specifically in the vinyl field. Right
+now, vinyl is heavily growing. That’s a funny perspective. Last year in the
+UK, I read on the BBC World News that in the UK, the share of vinyl sales in
+the music market has increased by 48%, which in total numbers means that it
+has increased from 0.1 to 1.5%. But nevertheless, I can speak for only the
+things, like the pressing plants that we work together, they are totally
+running on highest capacity. Within the last maybe year, a lot of the major
+labels got back into releasing stuff on vinyl because I think probably they
+realized it has pretty good copy protection. I shouldn’t name names, but some
+majors tried to book some pressing plants for two years exclusively, for
+example, and they’re all pretty much at the highest margin of what they can
+produce over time, so vinyl is definitely growing. For us, I think it’s been
+quite stable since I know it because we are in a bit of a specialist market, I
+guess. We don’t deal so much with major labels, only very, very occasionally.
+It has been quite steady from my perspective over the last 15 years.
+TODD L. BURNS 
+With Dubplates & Mastering, can you talk about if you were to walk in the
+door what you would see? What are the elements of a mastering studio or that
+mastering studio or your mastering studio, which I guess is in a different
+place, correct? You own another place to work.
+Rashad Becker 
+I have my own, yes, but that’s not in the first place a mastering studio. I do
+a little bit of mastering there, but it’s more aimed towards recording and
+mixing. Well, there is this ’70s machinery that’s proper industrial machinery
+that is the actual cutting and I’m never quite sure how to pronounce that
+word, I think it’s lathe.
+TODD L. BURNS 
+Lathe, I think.
+Rashad Becker 
+That has a strong ’70s feel to it and looks quite industrial. There’s an
+acoustical setup in the room that is in our studio, borderline good looking,
+and there’s two pairs of speakers and a little kind of cockpit setup of
+processors. Not too many, not excessive, quite decisively selected tools.
+TODD L. BURNS 
+I asked you earlier what questions artists are asking you on a regular basis.
+What do you ask artists when you get a piece of music in?
+Rashad Becker 
+Well, if the artists are there, a reasonable question, of course, is when we
+listen to the stuff together if it deviates strongly from what they know it,
+like when they listened to it at their own place. Just that I know how much of
+what I hear is a representation of what they were hearing when they were
+mixing it. If they come in and they are shocked, “Where’s the bass?” or “What
+is all that bass?,” then I need to know that. Then, if it’s not speaking for
+itself, like most of the time actually, I guess it is, if it’s not speaking
+for itself, a question would be how content or satisfied they are with what
+they could achieve within the recording or mixing process. Just to evaluate
+how much help it needs. Most of the time, I do think that the music speaks for
+itself. If you have quite an excessive high midrange, it could be because the
+music is angry or the producer was angry, or it could be because of a bad
+listening environment, or it could be because he was completely coked out when
+he made the final mix.
+[laughter]
+So I need to know that. If it’s not self-revealing, I would never ask them if
+they were coked out.
+[laughter]
+TODD L. BURNS 
+So you’re asking a lot of questions, in a way, when you get something and
+tweak it.
+Rashad Becker 
+Not really, no.
+TODD L. BURNS 
+No?
+Rashad Becker 
+No. The most important thing is for me to evaluate how much of what I hear is
+something that someone wanted me to hear. Normally, there’s not a need for
+many questions to find out about that. Basically, most of the time, I think
+the only question is actually, “Are you surprised of what it sounds like
+here?” When they say, “Yeah,” then there’s followup questions, of course, but
+if they say, “No,” then I listen to it and I start making suggestions, either
+verbally or just practically, which I actually prefer.
+TODD L. BURNS 
+Why do you prefer practically?
+Rashad Becker 
+Because of the semantics around sound and I’ve found my own system to speak
+about things over the years, which is not always compatible, of course, with
+the artists’ terminology. Then, people also tend to juggle the same idioms
+that I do not always really comprehend. For example, for me, it’s a bit of a
+mystery what “warm” actually implies.
+TODD L. BURNS 
+How do you speak about music? What are the words that you keep coming back to?
+What are the idioms, your idioms?
+Rashad Becker 
+It really depends. I think it’s always very personalized because people have
+different methods of scrutiny and different associations, like some people
+have color associations. Others apparently have temperature associations that
+I don’t. I have mainly haptical and textural [associations]. To me sometimes,
+things sound a bit porose. Then, if I say that to an artist, they are… [looks unsure] So it’s difficult to speak. Of course, you have a technical
+terminology, but that also doesn’t always inform the artist, but that is how I
+would address issues and say, “This seems to be a bit overwhelming in the
+fundamental range. It covers up early harmonics. It covers up late harmonics.
+I’d like to clear it a bit in the fundamental range.” Then, the artist might
+go, “I was thinking the same thing,” or they might be like, “Mmmmm.”
+[negative]
+TODD L. BURNS 
+You brought some examples of things that you wanted to go through. Could you
+maybe set up what you wanted to play and why?
+Rashad Becker 
+Yeah. That’s quite specific because of the mystery surrounding vinyl
+distortion. The hopes that people have attached to it and the trouble that is
+derived from it. There was the initial idea that you had to compare digital
+files with vinyl versions, which is a very difficult endeavor in a scenario
+like this. Let me go back one step back to mastering in one regard. I think
+what qualifies you as a mastering engineer, apart from making a judgment call
+on how much of what you hear is actually desired to sound that way, how much
+of it is achieved in terms of artistical expression or the specific usage of
+the music. Yeah. That is one realm of qualification. The other is to have a
+real method of comparing sound and that is something that is basically crucial
+in all steps of production, of course. And I think that is something where a
+lot of mistakes in the mixing stage are made because people do not have a
+developed method of comparing sonic processes, comparing sound, post- and pre-
+sonic processes, specifically when it comes to compression, but also when it
+comes to equalization. Let me go back once more. Comparing sound, to me,
+there’s three valid ways of comparing sound pre- and post-sonic processes. One
+would be to compare at a similar loudness level, RMS level. I don’t know how
+technical all the RBMA got, but RMS level is the loudness level. It’s not
+necessarily the same as peak level. It’s actually not just necessarily, it’s
+not the same as peak level. One very crucial way to compare sound pre- and
+post-compression would be at the same RMS level because otherwise, you will
+very probably make a misjudgment. If you compress something level at same peak
+level, go back and forth, the loudest signal is always going to win. That
+starts at 0.1 or 0.2 dB more, it already sounds better. That is one step.
+Another one is compare at same peak level to see how much the compression
+actually changes the musical narrative. Also, to see how much you have
+achieved in terms of loudness by compression. The third and most valid way, I
+reckon, is to single out one element which could be the most annoying element
+in the mix or the most precious one and level it just by ears, don’t look at
+any meter. Level it so that it speaks to you with the same delicacy or the
+same intrusion, that it approaches you in the same way in both conditions, pre
+and post-process, and then see how the music wraps around that element to make
+a judgment on what you have achieved with that process.
+TODD L. BURNS 
+What you just mentioned, I think, is something I’ve read and you’ve talked
+about and I find it quite interesting is not looking at the lights or dials or
+anything while you’re A/B-ing things. You’ve said in the past that you don’t
+like to look at anything that’s moving because it may give you a false
+impression of actually what’s going on.
+Rashad Becker 
+Yes. Basically, I really don’t like to look at anything while listening. I
+don’t like to look at the computer because you start anticipating the
+development of the narrative. If you see a big peak coming up, you’re going to
+be like, “Oh, oh,” and it’s going to change your judgment on how that peak
+actually sits. If you start looking at values, me personally, I get really
+anal about them, when I see like it’s all 0.5 or 0.7, so I want to ignore
+that. I do feel informed by blinking lights. They do something to me. They do
+something for me maybe even. I don’t want them to influence the way I hear the
+music. I think the biggest issue is actually nowadays everyone dealing with
+graphical representations of the musical narrative. I think that changes a lot
+of music culture in comparison to when it was just something that came out of
+a box or you just saw a tape spinning and then you could maybe see how it’s
+going to be over soon, but you couldn’t anticipate anything of where the music
+is going to go from looking at something. People still do work with HD
+recorders and some standalone devices that do not give them a timeline
+representation of the sound, and I’ve seen people getting really nervous about
+their own compositions. Once they did have the opportunity to look at the
+timeline and suddenly they were like, “Is this going on for too long?” It
+really changes your perspective, I guess.
+TODD L. BURNS 
+Yeah, I think even someone who doesn’t make music, as a listener, watching
+things on SoundCloud, you’re exactly right, that you are, “Oh, I’ll skip to
+the bit, yeah, OK, I’ll hear the drop and whatever.” It’s
+completely transformed the listening experience even from that side. Back to
+the comparison, I think one of the things we wanted to do was create a
+situation in this room where we could compare some things properly and easily.
+Rashad Becker 
+Exactly. Yeah. I thought, “It can’t be on two different media because we can’t
+provide the environment for that here,” because you have to be really precise
+about the levels. If I play you twice the exact same signal and one is half a
+dB louder, you’re going to opt for the louder one and say, “That does sound
+more compelling to me.” That’s why I, on short notice, put together a few
+signals that are fit for making vinyl playback difficult and tackle different
+aspects of playback distortion. I don’t know how interesting that actually on
+the specifics, in terms of vinyl are, but I’m just going to talk about them
+anyway. It’s important to know that the distortion that is derived from vinyl
+is not actually on the vinyl. It’s not something that is a part of the cutting
+process, but it’s always something that is derived from playback. There’s a
+multitude of different factors that make distortion and there’s different
+forms. There’s space distortion. There’s tracking errors. That leads to a
+situation where every playback device provides a little bit of different
+distortion. Most crucially, the difference between a DJ system and a hi-fi
+system that have a different cut in terms of the pickup stylus and a different
+flexibility. I don’t know how to say that in English. These are stiffer than
+the hi-fi systems. Hi-fi systems can follow the pinching that is derived from
+the groove getting more shallow and deeper. They can respond to the pinching
+better and they can also follow accelerations they receive from the sides of
+the groove more precisely than DJ systems. DJ systems have one big advantage,
+you can scratch. If you don’t scratch, there’s no reason to use a DJ system.
+It’s a pity that most people use DJ systems, I don’t actually know why,
+because that has destroyed a bit of vinyl cutting culture over the last two
+decades. We always have to refer every bit of music that we put on record to
+these systems that are just not really capable of playing back delicate
+aspects of the high end delicate phase relations and tend to give you more
+distortion or distortion at an earlier threshold or a lower threshold than hi-
+fi systems. We were talking about GRM, if I put delicate signals like that,
+like electro-acoustic ’70s bit of extreme signals on vinyl, I could work much
+more again delicately, if I’d knew that people would listen to it on hi-fi
+systems. But as I’m aware of the fact that people have these systems at home,
+I have to tame the signal in a certain way that they will not just sound like
+grey noise on these.
+TODD L. BURNS 
+Should we listen?
+Rashad Becker 
+This is a bit of a lengthy program. I really put it together on very short
+notice and I think the running time is over 20 minutes. I don’t know if we
+should listen to all of it.
+TODD L. BURNS 
+Yeah, maybe just some samples.
+Rashad Becker 
+It’s a little bit organized going a) through different bands of the spectrum,
+b) from signals with less harmonics to signals that are richer in harmonics
+because they do present vinyl distortion in different ways and also in
+different amounts of being beneficial to the actual signal. It’s not all that
+obvious. Some signals are very obviously getting quite dirty. Others have a way
+more subtle touch, just get a little bit hairy, but I think it’s better to
+illustrate what is problematic and to be considered when you want to release
+anything on vinyl and where music can actually really benefit from living on
+this format. One thing that is helpful to consider when releasing things on a
+record is that the representation of the spectrum is not equally derived from
+the length of the record. What I want to say is that high end signals, or
+treble signals, are way better read off the outer realm of the record than the
+inner realm because the way-per-time ratio shrinks dramatically to what’s the
+center of the record. CDs are actually read the other way around. They start
+in the middle and go to the margin and they speed up to keep a constant data
+flow. A record turns at a constant speed, so the way-per-time time ratio goes
+down quite dramatically. It’s way less than half of the way you have in the
+middle, in the center, to modulate the same information. The impact that has
+on the signal, I want to demonstrate by playing a snare drum on the outer
+realm of the record. [plays record] That’s the wrong side.
+[music]
+Now playing back the same signal from the inner realm of the record.
+[music]
+You can hear it’s about three octaves missing from the upper part of the
+spectrum. It’s not as dramatic and that’s what I was talking about earlier.
+It’s not as dramatic as on a hi-fi system because it’s elliptically cut.
+[music]
+That’s a bit more tricky.
+[music]
+[comments] See, it’s still way less, but it’s about one octave more of
+harmonics when played back with the hi-fi system. This is a phenomenon that
+all records have in common. It’s system-eminent and it can’t be avoided,
+really, except for you trick the program by shelving off the high end in the
+beginning and then bringing it up towards the end, so you get like a seemingly
+constant spectrum. One of the few reasons to cut records from the inside out is
+when you have a 15-minute epic techno track that drops the first hi-hat at 12
+minutes like some Basic Channel records did. Then you can cut them from the
+inner to the outer side to have the hi-hat represented. Nevertheless, that was
+a very crude sentence. This is how back in the days before tape was actually
+invented, this is the way they handled the recording of long classical pieces
+when they recorded for radio. They did that on 14-inch lacquers and they would
+record the first side from the outer side to the inner, and then start on the
+inside and record to the outer side to have the treble die away slowly, then
+come back slowly and die away slowly again. It’s something that you usually do
+not actually hear when you listen to the record. The signal starts getting
+compromised about that [gestures] far into the record with the DJ system and about that [gestures]
+far into the record with a hi-fi system, but you usually don’t hear it. Every
+record, once you are sensibilized for it, your pickup and drop in the inner
+realm, you’re going to be shocked, I guess. Something that is still nice for
+DJs though because every new record that you bring in suddenly has a lot of
+treble and brilliance and brings excitement. Another thing, I was just shocked
+actually how much damage was done to the record by playing it back only once
+with that. You might’ve realized the noise that we heard, and I really just
+played it once with that record player. I try to find signals that evoke
+different styles and different forms of vinyl distortion. In the beginning, I
+threw in a few snares and claps and hi-hats because that’s what the young
+people like. There’s a lot of records but then it gets more abstract and
+things that I on short notice did on a synth to tackle the vinyl. It’s not
+always nice to listen to maybe, but it’s still scientifically interesting.
+Every signal starts at a level where it’s not distorted or only very little
+distorted because it’s unavoidable playing it back from vinyl. Then, it gets
+successively increased in level to a point where there’s maximum vinyl
+distortion. As I said, sometimes it’s very, very obvious. Sometimes, it’s
+quite subtle. I’m just going to start it and see for how long it carries,
+actually.
+[music]
+Here, I don’t know, I’m sitting behind the speakers, but you should’ve been
+able to hear a little bit of subharmonic distortion to the fundamental, which
+is quite high up and then there’s a little “Tuck, tuck,” slowly coming in and
+a little bit of phase distortion. It was a little like, I don’t know that
+word, but like a little sheen that started surrounding the closed hi-hat in
+the last few hits. Also, here is subharmonic distortion that bent a little bit
+the fundamental, and then there was actually a suboctave slowly coming up.
+[stops music]
+I think there’s quite a
+limit of what I can actually demonstrate here. I should maybe put that on the
+Internet or something. The thing is, it’s impossible to combat because it is
+so dependent on the playback situation. What I wanted to point out now is if I
+change the weight a little bit, or the anti-skating a little bit on the record
+player, the distortion is going to be a different one. It’s already so noisy
+after playing it once that that covers up the subtleties of the distortion.
+Yes, the idea of doing this is actually to show that there’s hardly any way of
+combating playback distortion. Of course, I can anticipate it though,
+specifically in the high and midrange, for example, and take things that are
+going to be filled up by distortion on the vinyl out of the original signal
+that I cut to vinyl. That would be one way. Then, taming back envelopes
+because I know there’s going to be extra envelope derived from the playback as
+we heard, extra attacks, and so I can take that back a little bit and let that
+be filled up from distortion again. But also, as we demonstrated a little bit,
+it’s very, very owing to the level that I actually put on the record, so I
+have to anticipate what the cutting level is going to be already when treating
+the material. That is something that happens after mastering that is done for
+musical reasons as a second generation that is specifically preparing the
+material for being cut to vinyl.
+TODD L. BURNS 
+You obviously are only cutting to vinyl, maybe not obviously. You said
+Dubplates & Mastering is a vinyl-only operation?
+Rashad Becker 
+No, it’s not. We do CD mastering, but it’s mainly, of course, a vinyl
+operation.
+TODD L. BURNS 
+It’s quite different when you’re mastering something for the two formats. Can
+you talk a little bit about that?
+Rashad Becker 
+Well, the difference is there is no implications when you ask for something
+for a digital format, you don’t have to deviate from what the artist asks for.
+If you are aiming for any kind of digital format, there is no compromise, no
+call to compromise, but there is when you cut something to vinyl. Over the
+years, I have the feeling that anything that sounds musically balanced will
+sound nice on vinyl, but, of course, you don’t want everything to sound
+musically balanced always. That’s where it gets really difficult with vinyl
+and you don’t have any issues with CD. That’s the main difference, that you do
+have to do things that you wouldn’t do for artistic or musical reasons, but
+that you have to do as a technical necessity.
+TODD L. BURNS 
+In addition to mastering, you also wanted to talk a little bit about recording
+and producing.
+Rashad Becker 
+Yes. What I said earlier about decision-making, I think that is the benefit of
+being educated through mastering is that you look at all the decisions that
+have been made within the recording and the mixing process, everything that
+has been done within the state of production. You can look at all that
+retrospectively. I actually think it is quite a good starting point to learn
+dealing with sonic processes and dealing with the technical side of music. I
+think mastering is the best point to start learning. It’s a bit of a weird
+curve that is established in the music industry that you start at a point
+where you have no ability or no entitlement to judge on what you’re doing. I
+think it’s mostly that if you want to do mastering, you work through all the
+stages to the mastering stage and it should actually be the other way around.
+I think and I’ve been told, I’m not sure if it’s true, that in the Motown
+studios, it was done the other way around, that you started with mastering and
+then went into mixing and then after mixing you went into recording. That
+makes perfect sense to me, because you can see all the mistakes or
+questionable decisions that were made in the context of a finished piece of
+music and can actually understand them way better than when you look at single
+signals that are not even music yet. I think if you start dealing with the
+technical side of music, you are easily overwhelmed by making these decisions.
+I think that everyone who starts putting up microphones to an instrument gets
+into a certain dilemma where he or she finds him or herself overwhelmed with
+memorizing what the microphone actually picks up. Then, for example, you have
+a cello and then you place a mic somewhere as a starting point, you listen to
+it maybe via headphones and you think, “That sounds nice, but how about over
+here?” Then you go over here and you think, “That sounds nice, too. What is it
+like there or was it here?” Then you already lose your feeling for your own
+process because it’s really difficult to memorize sound if you’re not putting
+40 hours of work into this every week. You have to find some method to make
+decisions, starting with putting up a microphone, but every step of the
+production chain. For example, microphone, cello, I advise to get an idea of
+the narrative in the first place.
+TODD L. BURNS 
+What do you mean, “the narrative”?
+Rashad Becker 
+Yeah. The narrative that the finished piece might have. That should be what
+you have in your head to start with. I’m going to try to elaborate on that.
+Basically, whatever a microphone picks up is always in a certain way fiction
+because it never represents anything that anyone can actually hear. A
+microphone always hears completely different and picks up on different aspects
+of an instrument, as a human in a room. Putting a microphone somewhere is
+already in a certain way telling a story. It’s already a decision on what kind
+of story you want to tell before you can make an informed judgment on where
+you put the microphone. It starts with if you scan a voice. The thing is, if
+you put a microphone in front of someone’s mouth and you listen through
+headphones or speakers, you’re going to hear a lot of aspects that you have
+been hearing before, when you were just using your ears, but you didn’t have
+that kind of scrutiny, so you didn’t follow these aspects. You suddenly hear
+things, the saliva, and you hear weird formants. You’ll think, “This sounds
+unnatural.” Then, you go back into the room. You want to correct the
+microphone and the singer talks to you and you’re like, “Oh. That’s actually
+been there all the time. It is actually natural,” but you can change that by
+repositioning the microphone. The narrative in that case would be like, “What
+do I want to tell about this voice that I record? Do I want to make a natural
+representation or do I want the voice to sound very fragile? Or do I want it
+to sound very, very decisive and big.” That is something that you can
+influence already in making a decision on where the microphone will be. That
+should be the starting point, actually: What do you want to capture? What kind
+of story do you want to tell? Before you know what you want to capture from a
+certain instrument, you have to listen to the instrument excessively, I think,
+before you even bother to open the drawer for a microphone you should go close
+to the instrument. You should move around in the room and just make up your
+mind of what you actually like about the instrument, what about the way that
+the instrument is played fits the song that you want to record? Make up your
+mind about what attributes you like about the sound before you even touch a
+microphone. Then, once you have an idea about what you like or what you want
+to achieve, and also, importantly, what you do not like about the sound. Then,
+start putting up the microphone, just let it there, go into the next room
+where your monitors are and see what aspects of what you would like to capture
+is already present in the signal, and then go back and forth, correct it,
+until you find the sweet spot. But you have to have that kind of vision before
+you start placing the microphone; otherwise, you will get lost, or you will
+live with something. Then, this is going to sum up in the mixing process until
+you have a mix that you can live with. I think to avoid having a mix that you
+can live with and having a mix that you’re really insanely happy with, you’ve
+got to make up your mind what kind of story you want to tell with that mix. It
+doesn’t matter what genre of music it is. Yeah, the way you want to inform
+people with the sonic image the music has, that should be your first
+consideration, I reckon.
+TODD L. BURNS 
+Maybe we should play one of your tracks from the album and use that as a
+jumping off point to talk about what you were thinking and what narrative you
+wanted to tell on that.
+Rashad Becker 
+OK. I want to say one more thing before we do that.
+TODD L. BURNS 
+OK, sorry.
+Rashad Becker 
+Just to give another example, because not everyone deals with recorded music
+in that term that you put up a microphone, but the same kind of process of
+what I want to say when I say “narrative” or when I say “fiction” is, for
+example, if you apply reverb in your mix, then every reverb does inform every
+listener in a specific way that you cannot actually necessarily predict. For
+example, some people that have to publically speak in a very big, reverberated
+room and hear a big reverb, get a bit megalomaniac by that and it will change
+their habitus and the information that they want to provide and others get
+really, really humble. This is inherent in the reverb itself, this kind of
+response. This is a part also, like if you blend in some small room that
+resembles the room where you spent the best years of your life, this will make
+you feel very comfortable with a mix, maybe without even being aware of it. If
+there’s a reverb that is more like the kitchen where your parents always were
+fighting, you’re going to feel a little bit uncomfortable, but another person
+who listens to that reverb is going to smell the apple pie of their
+grandmother or something like this. This is all information that is an actual
+narrative and is actually a part of what you offer with music. Of course, like
+with every other semantic or semiotic system, you can’t pin people down in how
+they’re going to receive it, but I think the outcome is going to be way more
+compelling and you’re probably not going to get lost as easily if you make up
+your mind before you start designing the reverb, again, what kind of a story
+you want to tell. Yeah.
+TODD L. BURNS 
+Cool. Maybe “Dances II?” Yeah. I hope this works.
+(music: Rashad Becker – “Dances II” / applause)
+That was off of an album that you put out last year or the year before,
+Traditional Music Of Notional Species Vol.1. This is your first album under
+your own name.
+Rashad Becker 
+Yes.
+TODD L. BURNS 
+I’m curious why did it take so long? You’ve been involved in music in a very
+social way for many years. What was the push that you were given or you gave
+yourself to put something out?
+Rashad Becker 
+I think the obstacle was dealing with just a legion of recorded music, not
+like feeling for myself the necessity to add something to the multitude of
+recorded music. I’ve been playing live all those years, a lot in Japan,
+actually. I think in the last 10 years, most of my concerts were in Japan. A
+lot of them were also in China, basically in Asia more than in Europe. I’ve
+always enjoyed that a lot, but I never could overcome that threshold to see
+the necessity to actually put out recorded music, because it’s such a
+different format and it’s something that goes into people’s lives in a
+different way and so on. The push came from outside. It came from the label
+basically, Bill Kouligas from PAN is an old friend and he was on my case about
+putting out recorded music. That’s why I did that.
+TODD L. BURNS 
+Can you talk a little bit about the process of the recording and the narrative
+that you had in mind when you were starting out putting this together?
+Rashad Becker 
+Yes, this is all synthetic, there is one recorded element, that’s the feedback
+at some point. Everything else is synthetic on this record and that’s quite
+precious to me, just because I’m always a bit disappointed or frustrated or
+sad if synthetic processes emulate real world processes, because there’s so
+much more potential in the fiction that you want to offer in synthetic
+artifacts than like dealing with a cello. There’s so much preconception and so
+much patina and that is just like inherent to that sound of a cello. I didn’t
+want to deal with all that. It’s written as creatures in the first place in
+word and then they are sonified, sitting down with the names and thinking of a
+certain social diaspora that they all participate in and a certain mood or
+sentiment that they share, and giving them all a little room to express
+themselves, and potentially has endless compositions, but of course, they are
+only four minutes long. My interest is in a conditional… I’m not so good in
+arranging things and telling a story over time, so it’s more about a certain
+condition that these sonic elements are in and that they could potentially
+endlessly behave towards each other within. Yeah.
+TODD L. BURNS 
+Obviously, the mastering process, one the ideas behind it is it’s the second
+pair of ears on the recorded piece of music that someone else has been
+laboring over. I’m curious who mastered your record?
+Rashad Becker 
+Yeah. It’s really redundant if you master your own music. It’s actually not
+really right, but I did cut the record myself, just because I was curious
+about it. Also, with my colleagues, I didn’t want to throw it in their laps
+because I thought it was an indecent move, so that’s why I did it myself, but
+I know it’s not right. It makes myself a bit redundant. Yeah. 
+TODD L. BURNS 
+Why is it important, in a way, to get a different pair of ears? Why should
+people not be mastering their own records?
+Rashad Becker 
+I never want to listen to music beforehand the mastering process, because I
+think that’s the experience of the first encounter that really, really counts.
+What I hear when I listen to a piece of music for the very first time is what
+tells me how much is achieved in what the message or the story of this piece
+of music is supposed to be. If I go back and if I listen to it and then I
+start discussing with the author or with the artist, they’re like, “No, but
+yeah, but no.” I go like, “Oh, OK.” It’s going to change my perspective in a
+very privileged kind of way. That’s never going to be the privilege that
+anyone else outside is going to have. To emulate the way people are going to
+use that music, I need to rely on the first encounter that I have. Basically,
+that’s why. Sometimes you have to make tough decisions and when you record and
+mix and write your music, you’re in love with a lot of attributes that you’re
+not willing to let go, but for the bigger good… is that what they say?
+TODD L. BURNS 
+Greater good.
+Rashad Becker 
+…greater good, sometimes you have to sacrifice little aspects. I didn’t feel
+actually entitled or enabled to do that, so for me it was absolutely obvious
+why it’s not right that I mastered it myself.
+TODD L. BURNS 
+I think it might be good to open it up to questions so that we can figure out
+what the participants want to know about this process and what they’re
+interested in. Does anyone have anything they’d like to know?
+Rashad Becker 
+Yes?
+Audience Member 
+Hello. You mentioned the balance and the frequency balance in the track. Was
+that the word you used?
+Rashad Becker 
+Possibly, yeah.
+Audience Member 
+How would you describe this balance and how could I achieve it in my tracks to
+get that balance? More or less, I know that there’s always some difference in
+what you are looking for, like an artist, but still I have to say that if you
+know the balance, then you can compare what the balance would be for you. You
+know what I mean?
+Rashad Becker 
+I’m not sure.
+Audience Member 
+What I understand that you’re talking about, somehow the shape of the
+frequencies in the master or in the track, so what is that reference, the
+balance, what is the balance? Do you know what I mean?
+Rashad Becker 
+You mean when does it sound balanced? Ah, OK. I did say things that sound
+musically balanced tend to sound… Yes. That’s difficult to point out. Ex
+negativo, like sometimes you have a very untamed harmonic one that really
+peaks out or a resonance, or mode of the room you recorded in that overshadows
+the natural harmonic progression of a certain instrument you want to record.
+Imagine yourself speaking in a tiny bathroom that has no towels hanging,
+you’re going to hear how imbalanced your voice sounds. Is that a good example?
+Audience Member 
+Yeah.
+Rashad Becker 
+I guess it’s the same kind of thing that I said before. If you have an idea
+about what you want to capture, then it’s going to be obvious to you at some
+point what is a good balance between the fundamental and harmonics or between
+one instrument and the other one in the mix, but there’s no idea of right or
+wrong beyond your own vision, I want to say. When I said a “musically balanced
+sonic image,” that tried to say like with not insanely loud hi-hats that sit
+above everything or certain small peaks that really, really stick out.
+Sometimes, though, they can be musically desired and then the medium just has
+to deal with it.
+Audience Member 
+But there is a relation, for instance, between low frequencies and high
+frequencies that you can somehow know. Is there a relation which you consider
+more or less right to achieve?
+Rashad Becker 
+I think there’s ideas about this. I would personally absolutely not want to
+encourage you to follow up on these ideas. I have no idea.
+[laughter]
+TODD L. BURNS 
+Why do you say that?
+Rashad Becker 
+Because I think that’s really a bad input to music culture if people have an
+idea about what is a balanced mix. I think every mix, as I said before, it
+sounds very pretentious, I realize that, but I think every mix is in a certain
+way fiction. We were talking about tension before. There’s ways to deal with
+language that are very, very wrong and uncommon, but they’re still really
+interesting and good artifacts. You’ve got to develop your own idea of what
+kind of artifact you want to present. Within that, there’s a lot now, much
+more I think, stigmas and idioms about what’s wrong and what’s right in a mix
+than it used to be maybe 20 years ago. I think that is a sad thing. I want to
+encourage people to totally find something that works for them. Yeah.
+TODD L. BURNS 
+Are there any other questions?
+Audience Member 
+Hi. I just wanted to know, in Melbourne at least, it’s increasingly popular
+with mastering, as more people are working in home studios that are quite
+biased in the way they sound to have their mastering engineer do a final
+balance of the mix before going to mastering.
+Rashad Becker 
+Oh, yeah?
+Audience Member 
+I was just wondering if that’s something that you’ve been involved in or what
+your thoughts on that additional process might be?
+Rashad Becker 
+You mean, the mastering engineer did the final stage of the mix?
+Audience Member 
+Yeah. It’s a really popular thing now in Melbourne to do.
+TODD L. BURNS 
+In where?
+Audience member 
+In Melbourne, Australia.
+TODD L. BURNS 
+OK, yeah.
+Audience member 
+Instead of handing in a stereo master, you hand in the multitrack session. As
+much as the artist or the engineer has got it to sound how they want the final
+piece to sound, and then the mastering engineer will clean a few things up
+from the individual tracks before [mastering].
+Rashad Becker 
+It should still be two different processes. It could be the same person.
+There’s this element that I was pointing to earlier with the precious moment
+of the first encounter. That is missing from the process, but it should still
+be two completely different processes. Then, there’s no problem if it’s the
+same person. I did that on a bunch of productions that I did the recording,
+the mixing and the mastering, but I had my mind still set to… The mix is where
+you put together the music and the mastering is where you put together all the
+pieces as one. The side that you have or the view that you have or the
+attitude that you have when putting together the mix should be specific to
+that piece of music that you’re dealing with.
+Audience Member 
+Oh, yeah. I see. Yeah.
+Rashad Becker 
+It can be beneficial. Personally, when the offer comes, like I could also send
+you the multitrack and I tend to say no, because I want to presume that what I
+get is something where like all decisions have been made, and then if there’s
+real trouble and I get into trouble with the processing. It’s like, “Look, I
+see where you’re pointing at, but it’s difficult to derive it from what you
+delivered,” then it might make sense to go back to the multitracks, but from a
+mastering perspective, not from a mixing perspective.
+Audience Member 
+Yeah. Thank you.
+Audience Member 
+Hello, Rashad. Thanks for being here. It was really informative. I have two
+questions, you could say three. First of all, how many hours do you spend
+every day on mastering and do you have like ear fatigue after a certain point?
+Even from the demonstration record that you played us, after some seconds,
+things started sounding a little bit weird.
+Rashad Becker 
+So loud. Wasn’t that so loud?
+Audience Member 
+Does it inform the way that you work in general? The second question is why
+are 180 gram records considered audiophile, in comparison to the 140? Can you
+explain the mechanics behind it? The third question is, if somebody can buy
+the demonstration record that you brought here, because it sounded really
+nice?
+Rashad Becker 
+Well, already it’s not going to sound that nice anymore, as we heard. No, I
+guess no.
+Audience Member 
+OK.
+Rashad Becker 
+Then, the first question, it depends. If you ask for a day sometimes you work
+with an artist, it’s one project. It’s a lot to go through, but the artist
+came on a flight from Tokyo, for example, to Berlin to master. Then you might
+end up sitting down 16 hours or something like this to get through it.
+Audience Member  
+Your perception doesn’t change after 12 hours, like how you perceive it,
+because you get used to the sound and all that?
+Rashad Becker 
+There’s a couple of factors at play; a) you have to be careful about making
+pauses and changing the volume a lot, b) I get used to certain masks that my
+ears put on. For example, after flying or after listening to music for 10
+hours and I know the fatigue and I can, without analyzing it too much
+meanwhile subtract or add because I always have one reference, that’s my
+voice. If I speak, I always hear what my voice sounds like for me. I realize,
+“Oh, OK. It’s wearing down here or… “ Also, my voice changes, of course, but
+then I know one day I have a concept of what my voice sounds like. If this
+deviance from what my voice should sound like and what it actually sounds like
+to me right now, that I can bring into the music process also. Sometimes, like
+when you fly a lot and you have to perform, mix something the same day, your
+ears are in really poor condition. So I rely on that a lot, actually. Another
+thing is I use my face a lot in response to the frequencies. Of course, it’s
+bullshit, but sometimes I feel like I don’t even need my ears so much because
+I have quite a defined map of frequencies in my face that I use to memorize.
+When I listen to a piece prior to mastering, there’s certain peaks coming up
+and I have to memorize them all, so I address them to certain spots in my face
+and with my tongue and in my mouth, and…
+Audience Member  
+Whoa, whoa.
+Rashad Becker 
+Actually, you know what? That’s not so special. It’s what every brass player
+does all the time. It’s like body memory that everyone who deals with a non-tempered instrument. Specifically what you do with your tongue and your mouth
+and your lips, it’s quite a finely tuned system of body memory. It’s not so
+hilariously difficult to set up. You can learn it. I realized that actually
+not too long ago that because I also play trombone, badly, but I realized that
+what I do when I listen to music and analytically listen to music, it’s the
+reverse process of what a trombone player does when he plays music. There’s a
+totally defined position of my tongue in my mouth for a certain frequency that
+I can memorize when I listen to someone’s music. I don’t think it’s sorcery.
+It’s quite easy at the end, just training.
+TODD L. BURNS 
+Second question? What was the second question?
+Audience Member  
+The 180 grams pressings.
+TODD L. BURNS 
+Yep, the 140, 180.
+Rashad Becker 
+Yeah, yeah, yeah. Well, the 180 has the potential of being flatter. Then,
+there’s also a lot of other stuff that I think might be total and utter
+bullshit, but I don’t have the time to even consider it. But people speak
+about the resonance of the material. People say you can cut louder if you use
+180 grams. That is, of course, absolutely not true because the cutting depth
+is an average of 70 micrometers and even 120 or 90 as is common in the US, 90
+grams vinyl is already like 1.5 millimeters or plenty of space. It’s
+definitely less warped and the warp has a certain pinching distortion. It
+introduces a pinching distortion to the signal. That’s the benefit of 180
+grams.
+Audience Member  
+Thank you. Thanks a lot.
+TODD L. BURNS 
+Before we go to the next question, I just wanted to ask, the trombone, what
+drew you to that instrument in particular? Why did you pick that one up?
+Rashad Becker 
+Because it has some kind of a certain tragic, comical… It always sounds
+sincere to me, but it can sound really, really tragic in a comical way that I
+realize is something that I… Actually, I just realized a lot of things that I
+look for in synthetic colors I can actually just play them on a trombone. It’s
+the microtonal quality of it.
+TODD L. BURNS 
+Maybe Volume 2 will be your trombone record?
+Rashad Becker 
+No. No, but I play. I’m writing for a small ensemble. I’m writing pieces for
+trombone and theremin. And the idea is that both instruments get played at the
+same time, so whenever the glissando, like when the pitch falls on the
+trombone, you move towards the theremin and the pitch rises in the theremin
+and then there is a battery of vocoders where half of them, the trombone
+vocodes the theremin and the other half the other way around. It’s a harmonic
+fiasco. It’s really intriguing, but hard to play.
+TODD L. BURNS 
+Any more questions?
+Audience Member  
+What are the relationships between the material that has been used for cutting
+the record and the sound and the expression of the sound of the record itself?
+Rashad Becker 
+Basically, a rule of thumb, the clearer the vinyl, the smaller the longevity,
+the faster it wears off. Black vinyl is definitely the most endurable. As far
+as I know, there’s no relation between the initial sound quality and the color
+of the vinyl, but clear vinyl wears off way faster than black vinyl. Picture
+discs sound rather inferior from the beginning because we actually have the
+picture imprinted on the record on the outside of the record, so you playback
+like a foil that is on the record. If you think of the dimensions that we are
+dealing with, that’s always going to change the sound. But if you do a picture
+disc, you have a good reason for that and it’s probably not so precious about
+the sound. Yeah, dark vinyl is the most endurable.
+Audience Member  
+Thanks.
+Audience Member  
+I was wondering if you could maybe give us a tip on maybe somethings, that
+maybe we shouldn’t put things on the master bus before we send it to
+mastering, things that make your job much harder? If you can tell us or maybe
+give us a tip on what not to do? Just broad. I know all music is different.
+Rashad Becker 
+Yeah.
+Audience Member  
+Maybe there’s some broad things you can tell us to make a mastering engineer’s
+job a little easier.
+Rashad Becker 
+Generally, whatever you do for a musical reason, do it, whatever it is.
+Whatever you do because you think you should do it, maybe don’t do it. I think
+that’s probably enough as a rule of thumb. One thing in particular that I want
+to point to is the Waves Maximizer L1, L2, L3 and whatever generation is
+there, please don’t use it. It’s beneficial. It’s a good tool if you do
+multimedia applications for advertisements or something, but it should be kept
+away from music with a restriction order.
+[laughter]
+Audience Member  
+I’m so glad to hear you say that. Thank you.
+TODD L. BURNS 
+Assuming you set an interview with
+Monolake,
+which goes to your question, is the closer the sound node is to what it’s
+supposed to be, the harder it is to master?
+Rashad Becker 
+Sometimes yes, yeah, because it’s more fragile. It’s easier if you can really
+carve into something. If you feel like, “Yeah, I know where this is pointing
+to, but it’s really, really messed up by a lot of redundance,” then carving
+into that is always going to be a little improvement. If something is really
+delicate and balanced but just like this one harmonic is a bit too strong, you
+tame that back and then, “Oh, shit. Now it’s this harmonic.” I think it’s
+quite generalizable the more achieved the mix, the longer at least it takes to
+master, at least for me. Already the listening process, the delay before I
+touch the piece, is longer when I think, “Oh, this mix sounds really good.”
+Yeah.
+Audience Member  
+Hi. I just wanted to touch on the bass and I read in another interview with
+you about bass that it doesn’t necessarily need to be in mono, which I think
+is a rule that I’ve been following for a while. But then you have some
+people’s work like, DJ Sprinkles’ Midtown 120 Blues springs to mind where she said that she
+couldn’t actually press it onto vinyl and it needs to be on CD because of the
+phasing in the chorus that she had used on the bass. I was just wondering
+where the line is and any tips you have on what to do when applying it to
+vinyl?
+Rashad Becker 
+Yeah, it’s difficult to verbally draw a line. I don’t know how many records
+I’ve cut, but definitely more than 5,000, maybe way more, I really don’t know
+precisely, there was one where I said, “OK, this is going to influence the
+music too strongly. It’s going to take away too much. Maybe consider a CD
+release.” That was something where it was a 50 hertz bass that just went
+“Boom, boom, boom, boom, boom,” exclusively. It was from a song on Raster-Noton a long time ago. Usually, I would want to encourage you to really not
+bother about it because this is one of the many uniforming myths that make
+people, all musicians, producers, aim towards the same sound because, “I heard
+that works better. I heard this does not work.” People copy these ideas off
+each other and it turns into more and more preconceived and expectable sound.
+If there is, indeed, problems, there’s very elegant ways to deal with them
+that will not compromise the music. There’s elliptical EQs and you can supply
+a band selective compressor in the side signal. You can easily deal with low
+bass phase without destroying the music. I think spatial dimension or spatial
+expansion in the bass is really, really precious as an element in putting
+together a mix. So I don’t want to discourage you from dealing with it or
+using it in your compositional process. I don’t know. Maybe this is derived
+from really industry kind of cuts because a lot of cuts to vinyl are actually
+made without even monitoring the signal. I don’t want to say that…
+TODD L. BURNS 
+Derogatory.
+Rashad Becker 
+Derogatory, yeah, yeah, yeah. It’s just like cutting rooms. Then, you set your
+parameters and then sometimes maybe the elliptical EQ that you have on the
+cutting desk cannot handle that signal, so you go, “No, we can’t treat that.
+Sorry.” If you have the right tools and you put a little effort into it, it’s
+no problem. There’s a lot of phase and on this there is quite a lot. There
+would have been examples, also. But don’t think about it too much and let the
+cutting room deal with.
+Audience Member  
+Thank you. Just one more really quickly. I’ve been taking the top end off my
+hi-hats. Not all of it, but just the top two kilohertz just because I read
+that if you leave that on the vinyl, you get this high piercing ring. Are you
+saying that I shouldn’t really bother because that’s going to happen anyway
+because that’s just the distortion?
+Rashad Becker 
+It’s the same question or it’s the same answer that I might give. Don’t let
+post-production rule your creative process. I think the medium has to deal
+with the information and not the other way around, but of course, as a very
+broad rule of thumb, the broader and the longer the steady state in a hi-hat
+system, if it’s like a classic, [makes white noise sound] “Tshshsh,” this is
+a problem for vinyl. The finer and the shorter, the more interesting
+distortion you derive from it. You get that on a lot of old electro cuts or
+some computer dub cuts where you have these really tonal, very short, hi-hats.
+If you listen to these as opposed to mid-’90s techno hi-hats, they sing and
+they have a sheen to them. We have spatial expansion that goes beyond the
+speakers, which is really cool vinyl distortion, whereas the mid-’90s techno
+hi-hats just give you some rectangular gray mess that hits you here.If you
+want to take it into account, then make them more narrow and shorter, but of
+course you shouldn’t. If you want to tell a story with a hi-hat that goes,
+“Tshshsh,” then you should do that. There’s ways of coping with it in the
+cutting room.
+Audience Member 
+OK. Thank you.
+Audience Member 
+Can you tell us how remastering works? Were you involved in the Bullwackies
+series on Basic Channel?
+Rashad Becker 
+No.
+Audience Member 
+I don’t know how the story is, but I think they went to pick up some old tapes
+and old records and then remastered it. Almost all the work for those releases
+was in the mastering. How does it work?
+Rashad Becker 
+I think Moritz [von Oswald] did these. I’m not entirely sure, but they were done at
+our place and I think Moritz from Basic Channel did that remastering. But
+basically, mastering and remastering is the same thing. Technically speaking,
+it’s…
+Audience Member
+It’s on top of the master that [already existed]?
+Rashad Becker 
+Maybe the used the old premasters and did new masters? Actually, I can’t tell
+you about that specific process because I don’t know.
+TODD L. BURNS 
+You’ve worked on the GRM things, maybe that’s a good example of were you
+working from tapes or…
+Rashad Becker 
+No, I did not. I was not. I worked from digital files. I think they were
+considered remasters, but to me it was just mastering. In the approach,
+there’s nothing specific in remastering, only maybe if you have the old
+masters and they work great, but you can’t have any access to them anymore.
+You only have the old premasters, then you could take the old masters as a
+reference. That’s something that sometimes happens. You have a record. It is
+supposed to be re-released but the old lacquers, like the mothers from the
+pressing plant, they are destroyed, so you take the record as a reference
+because you still have the original tape. People are really fond of the sound
+of the original release, so you take that as a reference and try to bring the
+premaster to the same spot. That would be a specific application, but
+generally, there’s no remastering as a technique of its own. Yeah.
+Audience Member
+Only one short last question. When you do the mix, there are some sounds that
+are louder than others and the mastering brings sometimes the sounds that are
+not so loud and on top more in the front. Is there any compressor
+configuration that I can put in? For instance, in my master, when I’m doing
+the mix to have an idea of what would happen in the master just to understand
+what could change before I send the premaster? Do you know what I mean?
+Rashad Becker 
+Yeah. I mean, there’s likely going to be some limiting. It’s very difficult to
+anticipate the mastering stage, but you can always, of course, also influence
+the mastering stage by addressing the mastering engineer and expressing what
+you would ideally hope for to be achieved, but if you want to see how your mix
+changes when the dynamic range gets smaller, you could try to mix into a
+limiter for a little while or into a combined stage of compression limiting. I
+think that is a really advanced application. Mixing into a dynamic processor
+is something really difficult and I wouldn’t advise to do it. If you want to
+get a short idea of how the mix changes, that is something maybe that you
+could do. Of course, a good mastering process would involve to antagonize the
+spectrum changes that you derive from dynamic processes with EQ prior to the
+dynamic processes, like anticipate how the spectrum is going to change from
+the dynamic change and then take that out of the signal, so that the spectrum
+is pretty much the same after the dynamic processes. Yeah.
+Audience Member 
+I got one here. Just to come back to your premaster preparation, what are a
+few of the most obvious things that happen when people are giving you files
+that you have problems with where you just wish that people knew a bit more
+about it? Because I’ve been in a few mastering sessions and every time I
+learnt something new. I’m just wondering if you can fast forward for people
+that haven’t been in those sessions to things that were very obvious to you,
+but maybe if people are just running stuff for the first time, obviously
+they’re limiting things, but just more in terms of stereo phasing, are having
+a lot of problems with that?
+Rashad Becker 
+Actually, there’s not so many. As I said, any maximizing is useless. It makes
+touching the material extremely difficult, borderline impossible. Avoid
+maximizers. If you do limiting, be sure you know the reasons why you want to
+do it. There can be good reasons, but be sure you have them and do not
+rectify. That’s basically it. Everything in terms of phase and everything that
+constitutes the spectrum of the signal, that’s all artistic decisions and they
+shouldn’t be made in the light of mastering. Personally, I think they
+shouldn’t even be made in the light of vinyl mastering, because it’s just too
+difficult to anticipate that stuff if you’re not a vinyl mastering engineer.
+Yeah. Don’t do anything that you do not have a good reason for.
+Audience Member 
+It might’ve been answered already. I assume, a lot of people do two kinds of
+mastering. They do master for the digital release and they do a master for a
+vinyl release. Do you prefer people giving you the digital master for your
+vinyl mastering or the stage it’s at before?
+Rashad Becker 
+Actually, honestly, I prefer the premaster. I do one master that is musically
+valid and that’s going to be the digital master at the same time, but that’s
+going to be the master. Then, when cutting the vinyl, I might have to do a few
+corrections to the master for the transfer to vinyl. With all the things that
+I shortly outlined with anticipating vinyl distortion, that’s generally easier
+in the premaster, I guess, than in a limited mastered version. Ideally, if
+there is a digital master that is done in a different studio and that everyone
+involved is really, really fond of, I’d like to have that as a reference and
+the premaster at the same time. That would be ideal. If that’s not possible,
+then I will work with the master, not with the premaster.
+TODD L. BURNS 
+Are there any other questions?
+Audience Member 
+Hi. I’d like to first find out, anyone else still buying the vinyl, put your
+hands [in the air], please. Oh, pretty nice. How do you think about the future
+of the vinyl? And one more question is, have you heard about half-speed
+cutting?
+Rashad Becker 
+Yeah. That makes a lot of sense. I did try it a few times, but it’s not a
+usual production standard anymore. It can be beneficial, just quickly, because
+one of the biggest limitations with the transfer to vinyl is the insane
+accelerations that the cutting head is informed with or has to produce to
+represent the music that it’s informed with. It gets really hot while going
+like this 25,000 times a second. You have to cool it with gas and then
+sometimes the fuse blows and that sets the limit to what you can actually put
+on vinyl. If you do half-speed mastering, the frequency’s only going to be
+half as high, so that is obviously beneficial. The outcome is going to be the
+same, but you can put more adventurous signals on the vinyl. Then, of course,
+you’re not really in control of the playback distortion. You can, of course,
+test cut but I don’t think it is a standard application in any mastering
+studio anymore. The reason why I wouldn’t do it more regularly is because I do
+not want to transfer everything to tape, because I’m not so fond of tape. I do
+not want a sample rate conversion of the material or playback, just like tune
+it down because I don’t trust that so much, but I tried it a few times, just
+for scientific interest, not for an actual master that I sent out, but it used
+to be standard.
+TODD L. BURNS 
+Why are you not so fond of tape?
+Rashad Becker 
+That’s a lengthy…
+TODD L. BURNS 
+We can maybe talk about that afterwards then. Are there any more questions?
+OK. I think Rashad will be here for a little bit. If you do have any
+questions, please feel free to come up and ask him formally, but for now,
+thank you so much for being here, Rashad.

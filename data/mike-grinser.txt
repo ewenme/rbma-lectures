@@ -1,0 +1,329 @@
+Mike Grinser has made a name for himself in Berlin’s electronic world and beyond as one of half of mastering studio Manmade Mastering, alongside his partner Tim Xavier. In addition, Grinser also works at another renowned Berlin studio, Dubplates & Mastering. Born and raised in Bavaria, Grinser was a rock fan at first before being turned onto electronic music in clubs via early Chicago records from the likes of Phuture. Intrigued, he sought to understand how this new music was created eventually learning to DJ before moving to production. Sitting in mastering sessions for his own records he acquired a deep interest in the technical side of electronic music, launching him on a new path. Since then his ears have helped put the finishing touch to music on labels like Ostgut Ton, Plus 8, Bpitch Control and many more. 
+In this conversation as part of the Lisboa Electronica festival, Grinser retraced his steps to the mastering studio and shared details on what exactly goes on behind the doors to get the best sound out.  
+Aaron Gonsher
+If you’ve listened to electronic music at all over the last decade or so, you’ve probably heard the work of the person who’s sitting next to me on this couch, even if you might never have heard his name before. He is a mastering engineer who works at two renowned mastering studios in Berlin, Dubplates & Mastering and Manmade Mastering with his partner Tim Xavier. Please join me in welcoming Mike Grinser. [applause]
+Mike Grinser
+Welcome. Thank you for coming out.
+Aaron Gonsher
+We’re going to get into mastering a lot today and for a lot of the people in the audience or for people who are just interested in audio in general it’s sort of a black box. We have a lot of visual aids that we’re going to project up here in a bit and go through the process as granulary as possible.
+Before we do that, I think it’s important to know how you first got into music in general before you decided to become a mastering engineer, especially. What was your introduction to electronic music?
+Mike Grinser
+My introduction to electronic music was about the end of the ’80s. I was pretty much a rock guy before, was into grunge music, Nirvana and bands the like. At some point I first heard electronic music from Chicago, I guess, from bands like Phuture, for example. And I was quite impressed by the sounds and the music and I wanted to know how this very new sounding music to me was done and that was like my starting point in electronic music at the end of the ’80s beginning to the ’90s.
+Aaron Gonsher
+And where had you been during that time that you were exposed to Phuture in the first place?
+Mike Grinser
+I was still living on the countryside. I grew up in a very small village in the very south of Germany in Bavaria and I was still living on the countryside and yeah, I was going clubbing. And a friend of mine was running a club and I was hanging out there and DJing there and it happened all there, basically.
+Aaron Gonsher
+How quickly did you go from hearing Phuture to DJing?
+Mike Grinser
+I was Djing before. It was like... Yeah, towards the end of the ’80s. It was more like a... Kind of a crossover sound where you would go from some hip-hop stuff to rock stuff to electronic stuff. It was quite a huge variety, a mixture of different styles of music.
+Aaron Gonsher
+Was there a certain point at which you started to get into music on much more of a technical level as opposed to a purely musical one?
+Mike Grinser
+Yeah. I was always quite technically interested but when I started to produce music or get interested in how to produce electronic music and when I was releasing my first records or did tests cut on a dubplate to play it out as a DJ I always tried to go to the studios, to go to the mastering studios and sit in for the session and that’s the point where I got interested mainly how music came to wax.
+Aaron Gonsher
+At the time that you were producing this music, were you still living in your hometown or had you… 
+Mike Grinser
+I was still living in my hometown but then left quite shortly after, so like at the beginning of the ’90s I landed in Munich and did some studies there at the university and got access to a quite famous club in the ’90s, which was called Ultraschall. And one of the owners of the club was also doing a record label and more by accident we got to know each other and I had the idea to produce and release music and then we found a home on that record label, which was called Disko B.
+Aaron Gonsher
+And for people who might not be familiar, can you talk a little bit about what the sound of Ultraschall was associated with at the time?
+Mike Grinser
+The sound of Ultraschall was associated mainly to techno. There were a lot of international DJs booked to the club like DJs from Detroit. A lot of American guys and also people from Austria, so the club had a relationship to the US, to like Underground Resistance and the Detroit people to the Chicago people and also in continental Europe to Vienna, for example. To Patrick Pulsinger and those guys.
+Aaron Gonsher
+And you mentioned a lot of names just now and labels. How did you feel about the sound of the records that were coming out at that time? Again, not just from a musical level but from a technical level. Were you already thinking about what are ways that this can be improved?
+Mike Grinser
+I guess, yeah. I guess the sound, especially in electronic dance music over time or with the decades from the ’90s to the ’00s and to nowadays, pretty much changed. In the ’90s it was like pretty rough. The studios didn’t have that much processing gear. Maybe also that much of a know how when it comes to vinyl and cutting.
+Aaron Gonsher
+Why do you think that was? Was it simply because the knowledge wasn’t available or accessible in the same way? Or were people not interested in the way they are now?
+Mike Grinser
+It was accessible but a lot of people working in the mastering industry now... A lot of the knowledge is self-taught and it’s not so easy, especially when it comes to vinyl, to have access to knowledge because you can’t go study these things so you need to find people or mentors to show you things. I think back in the ’90s a lot of people transferring music to discs... A lot of the knowledge they had was self-taught or adapted from some mentors they had.
+Aaron Gonsher
+Who were those mentors for you?
+Mike Grinser
+For me, those mentors were in the ’90s when I was producing music. The first one was also by accident, Tobias Neumann. It happened that we had a studio with him or he had a studio and gave us his vocal booth as a small production studio. When I got doing my first mixdowns he showed me a couple of tricks and skills and then later on when I started my mastering career, my nowadays partner Tim Xavier showed me how a cutting system works, showed me how to transfer music. And at that time he brought over... Tim is an American guy and at some point he moved his studio from Brooklyn to Berlin and he owned an American cutting system, a Scully Westrex cutting system and I first learned on that system and then later on I met Christoph Grote-Beverborg from Dubplates & Mastering, the owner of Dubplates & Mastering, and he later showed me how to cut on a Neumann VMS-70 system.
+Aaron Gonsher
+And I know that looking at those photos that you brought, we’re going to get in a bit later into some of the differences between the Neumann and the Scully that you’re describing. But I think as we’ve been talking about mastering so far, we haven’t answered the very basic question of what is mastering and why should I, or why should someone who is just a regular consumer of music, care about mastering?
+Mike Grinser
+Very basic speaking, mastering is the bridge between production and duplication and the bridge between a production, recording, mixing studio and the world out there. Before music gets released it gets mastered. It may get transferred from one medium to another medium and the master media we do at the mastering studio, speed, electro disc for vinyl manufacturing or a data set for, let’s say, CD production gets sent to a pressing plant and the pressing plant replicates the master and duplicates it.
+The second part of your question, why should someone worry about mastering? Mastering is also the last technical and also the last creative step in music production. In mastering, we make sure that music translates well to different listening environments and different playback media. The better a master will translate or that will also help sales, I guess, if you have a good sounding product in the end.
+Aaron Gonsher
+I’m curious, would that answer that you just gave me have been the same as when you’d first started out as a mastering engineer? Or were you approaching it very differently during the years when you first started working with Tim Xavier or when you were first sort of getting your feet wet and sort of acquiring that knowledge?
+Mike Grinser
+Yeah. In the beginning when I got into this I just basically started with digital mastering and everything else came later. I think you first have to gain some knowledge. You have to get a feel... what’s possible, what’s not possible? In, like, 70 to 80% in mastering you work with left right stereo sounds, so you don’t have access to individual instruments of recording but you work with stereo sound and when you apply processing to a full mixdown then little things can go a long away. So, if you adjust something in the frequency domain at one part it has an influence to a totally different part. Every engineer has to find its own paths, its own ways and gain its own knowledge on how to approach music and how to apply processing.
+Aaron Gonsher
+Can you talk about what some of those lessons were for you, though, when you were first starting out? Because I think mastering, as you’re describing it, is the sort of thing where there’s this balance of the formal education of maybe learning from someone directly and informal of actually sitting behind this lathe or the processing chain for when you’re mastering something and learning on the job.
+Mike Grinser
+Yeah. I think, well... I think it’s very important to educate your ear in a technical manner but also in an artistic way. You need to learn a few lessons, I think, to gain some intuition on how you start working on projects because if you get a collection of recordings sometimes it can be that recordings were all made in one studio by one band or one producer and then it lands with you at the mastering studio but it can also be a collection of very different things like a compilation, for example. And you need to get a feel where to start and where to land, in the end.
+Aaron Gonsher
+Just now you mentioned this balance between the technical and the artistic. What is artistic about mastering for you?
+Mike Grinser
+I think it’s very important if you work on music, you treat music of other people to do it in respect of the musicality of the music and also of the emotion of the music. And you have to get a feel for it. What would the band or the producer mean with the recording? Where does he want to go with it? Is the recording, the mixdown, is it done well or does it lack different aspects? Was the producer able to fulfill his idea with his production, with his arrangement, and with his mixdown? Or does it need some help from an objective ear as a mastering engineer?
+Because as a mastering engineer, you get the music and you hear it the very first time and this allows you to lend the producer and the musician an objective ear and apply processing accordingly. You have to find a balance between benefit and sacrifice, I would say, because every processing step is not necessarily a benefit. It’s, first of all, a sacrifice because you add processing, you add a little bit of noise. Every processing step has to be done right in order to achieve a good result.
+Aaron Gonsher
+How much have what the people who are sending you these records to be mastered... how much of what they want out of the mastering process has changed in the last decade since you first started out? And what are some of the factors contributing to someone asking for something completely different out of a record in 2008 for what’s possibly the exact same genre of music versus the same record in 2018 or something very similar.
+Mike Grinser
+Yes. So, I think nowadays when it comes to records, for example, a lot of people expect their record to sound like a CD.
+Aaron Gonsher
+What do you mean by that? Record sounding like a CD?
+Mike Grinser
+Yeah. With as less artifacts as possible. When it comes to vinyl, the thing is that the quality of the playback from outside to inside changes pretty much because the distance shrinks towards the inside, which makes it more and more difficult for playback system and the cartridge to read the information.
+Regarding electronic music, for example, how the energy is distributed throughout the frequency range and the range of hearing from like 20 Hertz to 20 KiloHertz change pretty much so records from the ’90s didn’t have much information below like 70, 80, 90 Hz. Nowadays, bass drums are rather around 50 Hz.
+Aaron Gonsher
+Is there a reason for that? Like a shift like that, specifically?
+Mike Grinser
+I think it has a lot do... Because back in the days when you wanted to record a record, you needed to book a studio probably on a daily basis, which could get easily quite expensive. With all the new technical possibilities, recording with computers, different DAWs, it had a pretty much democratic influence on how music is produced and how music is mixed because nowadays it’s easily accessible for everyone to get a computer, to get a DAW, to get a couple of plug-ins and produce music. And back in the days that was much more difficult and you... A lot of the bands and musicians needed bigger record labels who could afford to book those studios.
+Aaron Gonsher
+How has consumer expectation also impacted your work, then? Because I just asked about…
+Mike Grinser
+Yeah.
+Aaron Gonsher
+… what the producer wanted, but what about…
+Mike Grinser
+Yeah, it’s…
+Aaron Gonsher
+… someone who’s just listening?
+Mike Grinser
+It’s hard to say because some musicians and some producers expect you to just apply a little bit, to enhance the music with transfer and processing, while others expect you to change their sound, to transform the sound with deep processing. And as a mastering engineer, you have to get a feel what is necessary with a project or a recording you have at hand.
+Aaron Gonsher
+But for the actual consumer... Say if someone in the last 10 years, their listening has changed from CD to streaming and then to vinyl and then back to streaming, how does the different avenues, particularly when it comes to something that’s relatively new for a lot of people like streaming, affect what artists want of your mastering, to compete in that sort of field?
+Mike Grinser
+I don’t know whether artists think that much about it. I think it’s our profession also to train people and what I do nowadays is very often delivering different sets of masters for different platforms. When music gets released nowadays, it’s very often released on different media, let’s say vinyl, CD and digital media. Also, in digital media there is a quite big difference between online distributing music, so files... be it, mp3 or wave, AIFF for people to download, or streaming services. Nowadays it’s quite difficult to spread the information because when people release music they have distributors and distributors have different aggregates to place the music at different stream platforms or download shops. And spreading the information, what master is for what platform can get lost and can get quite difficult.  I think it’s up to us engineers to train people and to spread the knowledge about what is best for what medium.
+Aaron Gonsher
+In terms of what’s best, are there particular things that you see people constantly misinterpreting? I’m thinking in this case of something like loudness?
+Mike Grinser
+Yes. Yes, the problem is that still a lot of people ask for very loud files because they think if someone searches for music online or at the record shop that it’s an argument to buy a file or to buy a record if it sounds louder than other stuff.  To a certain degree, that is true and that was always existing. It already existed back in the ’50s when music was played on the radio and suddenly there was a song played on the radio which sounded louder than the other songs. And that’s always an argument for listeners and consumers to buy this.
+But a few years ago, it reached a quite crazy amount of loudness and people still ask for quite high loudness. But then it’s also up to us to train people and tell them that it’s not always a good idea because excessive loudness implies problems on playback. Club sound systems, for example, amplifiers, speaker cabinets start to distort, start to overdrive. Also, when music is played on the radio. And when music is streamed online, almost all streaming platforms have loudness correction algorithms built in. And…
+Aaron Gonsher
+What do you mean by that, exactly?
+Mike Grinser
+It’s an algorithm which measures the loudness of all the songs which are accessible and matches it to a certain loudness, which can have an influence to the sound and also the frequency patterns of a recording. If you master very loud, then if the music is streamed then the algorithm will measure that, change the loudness and also the frequency content.
+Aaron Gonsher
+So, you’d be sacrificing dynamic range in the mastering step to reach a point that is going to be enforced against you by a streaming service anyway.
+Mike Grinser
+Yes. Yes. And the thing is that for streaming platforms, the loudness is minus 14 loudness units. It’s a different measurement compared to peak or RMS. Music distributed online for people to buy files, the loudness is much, much higher. I find it a good idea to either see whether your client is willing to step back on loudness and if not, you may consider to do two different sets of masters.
+Aaron Gonsher
+How frequently do you find that clients are actually amenable to these objective recommendations that you’re making?
+Mike Grinser
+I would say most of my clients have an open ear for that and…
+Aaron Gonsher
+I’m not asking you to name names.
+Mike Grinser
+Good. And I think most mastering engineers also have their style, kind of, yeah. It doesn’t mean that I always have to print my Mike Grinser print on masters. I do. But some just like it a little bit louder. Others like it a little bit lower. Some want it a little bit more low end or more high end. Masters can be different and if you do this for some time, producers and artists, musicians pick their mastering studio and their mastering engineer and just by, for example, going online on Discogs you can have a look what engineer mastered and cut what record, what release. This is a quite good resource for people to find out about preferences of the engineers they work with. Or you could also come for an attended session, which I would always recommend because you get an inside what happens in the studio, what happens in mastering. You can also get a feel for who you work with and, like, personal connection is always a good idea when it comes to releasing music and mastering music.
+Aaron Gonsher
+Just to go back a little bit, talking about individual mastering engineers having this sort of signature, were there people who when you first started mastering or when you first started getting interested in it that you studied through their records without actually having access to them?
+Mike Grinser
+Back in the ’90s when I was releasing my music, I pretty much knew where I wanted to go because I was always a music collector and listening to a lot of different kinds, different styles of music. And I had an idea of where I wanted to go and who I wanted to work with. And maybe you also have to try different things and at one place or with one release you’ll find the perfect match.
+Aaron Gonsher
+Although mastering can also be quite expensive, depending on what studio you have. And it’s more difficult for people to actually reach that level of... First of all, getting someone to sign your release, to believe that it’s something that they want to sign and put money into mastering, and then get multiple more that people are willing to give you a shot at different studios, right?
+Mike Grinser
+Yeah. Yeah. Yeah, I mean, mastering takes up some time and takes up some studio time and if... our studio is built off... the philosophy of our studio is we work on other people’s music and we want to do the best or to want to have the end result to sound as good as possible. This means you need to build up a processing chain. You need to think about acoustics monitoring and just running such a studio costs some money and so we ask our artists and clients to pay for the mastering. Sure, we’re going to get paid. And yeah, but on the other hand we also take parts of that money and just reinvest it in the studio to make things better and improve things.
+Aaron Gonsher
+What are some of the biggest mistakes that you see in people who are sending you files for mastering?
+Mike Grinser
+You know...
+Aaron Gonsher
+What would I send you that would really frustrate you?
+Mike Grinser
+It can be different things. First of all, I find it important that you leave a little bit of head room when you record music so, for us as mastering engineers, when we work we can tell you with a DAW, we measure in DBFS, meaning DB Full Scale, digital full scale. I would recommend to leave a little bit of head room which would be around three to like 60 dBFS [decibels relative to full scale], peak head room.
+You should also work on a sample rate which is at least the sample rate of the final medium. So, in case of a CD that would be 44.1 kHz. You could also work higher. And it’s a good idea if you, for example, use double the sampling rate of the final product. So, in case of a CD, 44.1, you could use 88.2 for example. Or for film, music, music videos it’s 48 k[Hz]. You could use 96. This way you don’t have rounding issues so if you want to go from a sample rate from like 96 K down to 44 K you would have a lot of uneven numbers in the conversion. There is good converters but rounding or rounded numbers will always... Or can have rounding artifacts as a problem. Then if your music is centered to a rhythm, it’s important that that the rhythm instruments are not phase reversed, so all the rhythmical instruments, be it percussion, bass drums, snare drums, are correct regarding their polarity.
+Aaron Gonsher    
+Why does that become an issue for you?
+Mike Grinser
+A signal with right polarity, you will have a positive waveform followed by a negative waveform. A positive waveform, if things are connected in the right way and in the proper way, a positive waveform would cause a speaker cone to move to the outside, and the negative part of the waveform will let the cone move to the inside. And that can have an influence on punch and impact, for example. Then, regarding the frequency range, it’s also a good idea if the individual instruments in a recording are dynamically controlled in a good way, because when several instruments play at the same time, they have an influence to each other, so one instrument can modulate or mask the other instrument. When you control different parts in the frequency domain in the right way dynamically, you will have less masking and modulation artifacts.
+Sometimes, especially when it comes to vinyl, it’s a good idea if you have your high end as controlled as possible, because in cutting, most problems come from excessive high end or from sibilance, be it high hits, crashes, s phonemes in vocals. The thing is that if you have sibilance or s phonemes in vocals which are too strong, it’s a sawtooth waveform, and sawtooth waveforms are very complex or can get very complex, and it can be a problem on playback, so a cutting system is always superior compared to a playback system. What we call vinyl distortion is not distortion coming from the cutting process but from the playback.
+Then, another thing to watch out for is controlled low end, so it doesn’t get muddy and the instruments in the low end, like bassline, bass drum, low toms, congas, stuff like that are separated well and the low end is not getting muddy. Yeah. I think that’s...
+Aaron Gonsher
+That’s a lot to keep track of.
+Mike Grinser
+Yes.
+Aaron Gonsher
+Well, let’s say that you do get something that hits all of the right points, that doesn’t have any of the problems that you just described. I think this would be a good opportunity to segue into what you’re actually doing in the processing chain once you’re starting to master this particular track. I know that you brought some examples, so maybe we could bring those up now and talk about the processing chain in your Manmade Mastering studio. So again, let’s assume that nothing has a problem with whatever track is coming in.
+Mike Grinser
+It’s not showing up on the screen. All right. And it shows up. [Grinser brings up photographs on overhead screen] 
+Aaron Gonsher
+There we go. So maybe talk a bit about what people are seeing here.
+Mike Grinser
+So what you see here is a part of our processing chain at Manmade Mastering. When we designed the processing chain, we tried to keep it versatile and have a collection of instruments, or of processors, which allow me to have access to different parts in the frequency domain. Basically, it’s a mixture, or it’s a hybrid mixture, of digital pieces of gear, can be plugins, or those white pieces here on the bottom is two digital processors. One is a seven-band digital minimum phase EQ, and the other one is a compressor/limiter de-esser digitally.
+Aaron Gonsher
+For that first piece, can you expand on that seven band? You’ll have to repeat so I…
+Mike Grinser
+Yeah. Seven-band minimum phase equalizer, which I’m mainly using to clean the spectrum. So as I tried to describe before, when instruments modulate each other or mask each other, or signals get recorded in recording rooms and room resonances, for example, get recorded, then I can use EQ bands to find those modulation artifacts and resonances and dip them with a narrow-band parametric filter. The processing chain, as I said, has a digital part and an analog part, and with a digital router and an analog router the things are connected together and I can quite freely decide about the processing chain. So what piece of gear do I use? Which piece of gear do I leave out of the processing chain?
+Aaron Gonsher
+How important is the listening environment in all of this?
+Mike Grinser
+The listening environment when it comes to mastering, I find it very important, because as I said before, it’s the first time you listen to a recording, so you didn’t spend time before. It’s very new to you, and mastering doesn’t take so much time compared to recording or mixdown, for example. So we at Manmade, or most studios I know of, plan about half an hour for working on one track. Sometimes, can be only 15 minutes, 20 minutes sometimes. It can also be 45 minutes, but it’s around about half an hour. And to give you the opportunity to take the right decisions, a good listening environment with good acoustics and a good monitoring system will help you to take the right decisions.
+And when it comes to a tonal balance, it’s very important that the master is balanced. So let’s say you have a listening environment where you lack low end, so some frequencies in the low end may cancel out. Others add up due to room resonances, and it makes it hard for you to take a decision. “Do I need more low end? Do I need less low end?” And if you have too much low end, then your master will always sound quieter compared to a better balanced master. So this would imply problems, and therefore a good listening environment, a well-treated room, and a well-set up speaker system would help you. The master would benefit from it.
+Aaron Gonsher
+Can you take us through some more elements of this processing chain?
+Mike Grinser
+Yeah. Here in the middle, you see the screen. Here on the right, you see one monitor. Here, this thing is a metering system where I have the opportunity to meter the frequency spectrum and also the left-right relationship with a correlation meter or coulometer. Yeah. So I can monitor the frequency balance and also the stereo image. On the bottom of the picture here on the right, you see a monitor controller. A monitor controller is... I find it important at a mastering studio, because basically what it is, it’s the monitoring part of a mixing desk, so all sources, be it a turntable, be it the feedback information of the cutting system, outputs from the DAW, analog outputs, digital outputs are connected there, and just by switching those knobs, I can compare things. I can A/B compare a record against my digital master, for example.
+Each source of the monitor controller, I can choose a level offset, because doing proper A/B comparisons is kind of its own art form, and if you compare a master against the pre-master, for example, it’s very important that the loudness is matched exactly. So our ear is pretty sensitive regarding a level, and even for untrained ears, if you have a half a dB of a level difference, you would think the louder one is the better. Even if I would play you two times the same mixdown and one is half a dB louder, you would clearly point to the one which is half a dB louder and say, “This is better,” although there’s no difference at all, only the level difference. Yeah, and monitor controllers, mix and combined with a DAW make it easy for me to do A/B comparison wherever in the processing chain, or I can compare different media.
+Aaron Gonsher
+And what else happens here before you actually start to cut this record?
+Mike Grinser
+So most of the times nowadays, as we have pretty good bandwidth of the Internet, for example, we call it mastering for approval. So if someone comes in for a session or sends in a project through the Internet, we master the project and would have master files at the end. And if the artist attends the session, I would prefer to send him home with the masters, because when you’re not familiar with a listening environment and it’s the first time maybe you spent at the studio, then you will probably be impressed by the studio, the listening environment, the monitoring system, all the gear which you find there. And I find it a good idea if the artist has the possibility to take the masters home, check them out in his listening environment, on a car stereo, at his own studio. DJs can play it out, and then give me a notice whether it’s all good with the master and the artist enjoys the master. And then in a second step, I would prepare a transfer session where I transfer the master from one medium, which is mostly DAW nowadays, to a lacquer disc, for example, to acetate for vinyl manufacturing.
+Aaron Gonsher
+Can you bring up the image of the lathe that you’re using to cut that? You mentioned a little bit earlier that you learned on a Scully lathe.
+Mike Grinser
+Yes.
+Aaron Gonsher
+But I guess now you have a Neumann?
+Mike Grinser
+Yes.
+Aaron Gonsher
+It might be good if you can talk about some of the differences between them, or what that learning curve might have been for these different ones, and maybe you can even make this full-screen so that people can... if you’re going to be flipping through.
+So this is still in Manmade Mastering, and this is what’s actually going to be cutting the digital file to…
+Mike Grinser
+Yeah. This is a so-called cutting system, or a cutting lathe, or that’s the cutting desk. Cutting systems have a lot of electronic components, and fine mechanic components. What you see here is the platter. Here, this small thing is the actual heart of the machine, it’s the cutter. I can flip to a different picture where you can see it better. So here you see the platter with a 14-inch master, which is being cut. Here on the left, that black thing, is a microscope, in order for the operator or the engineer to be able to check the grooves under the microscope for different things. For example, I can decide about the cutting depth, so the depth of the grooves. I can check whether the cutting stylus is still of good quality.
+Aaron Gonsher
+How long does the stylus last?
+Mike Grinser
+The stylus, it depends. So nowadays, very often the problem is that supplies for vinyl, so acetates, lacquers and styluses, the quality varies. But Neumann specs is 20 cutting hours, which is not much. The cutting stylus is either a ruby or a sapphire and the shape can be rounded over time and the stylus can also break. It’s, let’s say, roughly around 30, 40 cutting hours. We also decide about the quality of the stylus, not only visually by looking through the microscope, but also by listening to blank grooves. So we cut blank grooves, grooves without modulation, grooves without music, and listen to them and decide about the noise floor.
+Lacquers we cut don’t have the artifacts from vinyl, cracking artifacts, pops and ticks, if the stylus is good. The only thing you hear is a little bit of white noise, which is due to a playback stylus traveling inside a groove. That causes white noise. All the other artifacts from vinyl are added with different processing at the pressing plant.
+Here on the right, you see an instrument to measure pressure. The most delicate part of the cutting system is the cutter head. That’s the piece over here. A cutter head translates an incoming electrical signal to modulational vibration. So let’s say you send a pure sine tone to the cutting system with a thousand cycles, which means a thousand Hz, one kHz. Then the cutting stylus would vibrate a thousand times from left to right for a mono signal. So what a cutter head is, it’s a quite strong electromagnet with coil forms. The coil forms start vibrating according to the electrical incoming signal in a magnetic field. The coil forms are connected to the cutting stylus. The cutting stylus, you see it here. That’s the cutter from the bottom, just flipped over, and here you see the cutting stylus mounted.
+You also see two wires here. In order for the least amount of noise introduced to record grooves, a cutting stylus is heated and it’s similar as if you would cut with a knife through butter if you use a hot knife, a warm knife, then the flanks of the cut are much more precise compared to a cold knife. Here it’s similar.
+The pressure meter I showed you before is to... because the cutter head is a closed system and depending on the amount of high frequency of a signal, it can get quite warm and hot inside the cutter, the heat... the system is closed, the heat cannot go somewhere so we use helium to cool down the coil forms and just give them a longer life.
+Here you see a close-up of the cutter with the cutting stylus down here. When the stylus cuts a groove into the surface, a lacquer is an aluminum plate and the aluminum plate is coated with nitrate cellulose lacquer. The grooves are cut into the lacquer surface. When the cutting stylus cuts the grooves, some material is cut out and in order for the modulation not to be sacrificed with the cutout material, the cutting systems have a vacuum system sucking up the chip. It’s called the chip. It’s basically just a string of lacquer, and the low pressure sucks up the chip and it travels through this small pipe down here.
+Aaron Gonsher
+What can go wrong at this stage? When this thing is actually cutting the grooves into the lacquer and the lacquer is going to be sent to the pressing plant, what are the sorts of... what do you want to see in these grooves? You mentioned that there is a microscope, that you’re actually looking down on the cut. What do you want to see in these grooves, and what are signs that they might be irregular or actually cause a problem at the pressing plant?
+Mike Grinser
+Yeah. I want to see clean grooves. I have a couple of pictures of grooves... That’s grooves you see here, I just took a picture with my mobile phone through the ocular of the microscope. What you see here is a couple of grooves, modulated grooves. One groove is three here, maybe four white lines, so two white lines on the outside, which is the groove flank, and the blurry line in the middle, which is the bottom of the groove. And the parts between the bottom of the groove and the groove flank needs to be... under the microscope... the microscope has a light, so the grooves are highlighted and you can see through the ocular. I want to see it clean with no white or blurry lines.
+What we also check through the microscope is... we make sure that no over-cut happens. If the grooves modulate, the cutting system will cut a spiral towards the inside. When grooves modulate, you need to have a part in the cutting system which drives the cutter head so it cuts the spiral without grooves ever touching or colliding, because if grooves touch or collide... if they collide, you can have skipping on playback. If they touch, this can cause problems in processing at the pressing plant and have high a amount of noise.
+Here you see four grooves. Here, those bigger excursions is low end information and these tiny detailed things inside this groove is mid-high frequency stereo information.
+If you cut stereo signals into one groove, how does this work, one groove for two signals? A groove has two groove flanks and each groove flank carries one signal. One flank, the left signal and the other flank, the right signal. For stereo information you will have timing differences between left and right, so phase differences between left and right. How the system is built, it’s called the so-called “45-45 system.” This means that the coil form is at an angle of 45 degrees to the surface of the record. When you have timing differences and phase offsets between left and right, you not only have horizontal, or lateral information how we call it, but also vertical information. When we... I show you grooves with a high... very... it’s under the electron microscope. You can see the details of the groove and you see that grooves can get quite complex depending on the frequency and phase content. What the cutting stylus does is some kind of a 3-D movement between left, right and up and down.
+Aaron Gonsher
+When I’m listening to a record, when you get this final version of something that’s... when you’re mastering a record, what do you get the most pleasure from out of this process, given that it’s so highly technical? What keeps you interested in mastering something that might seem very esoteric, talking about 3-D groove depth or these variations in grooves that we’re describing or even just the maintenance of the cutter head and things like that? What keeps you excited about it as something that you spend a really significant amount of your time on?
+Mike Grinser
+Personally, from the beginning on, when I saw it the first time in the ’90s, I always find it like a piece of art and a miracle that you can cut music to take the plate, put it on a turntable and listen to it without buying a record or something. To me it’s like a piece of art and always, again, like wow, crazy.
+Aaron Gonsher
+Did you bring something with you, too, that you actually cut, separate from something that you pressed? Like, you cut a dubplate you wanted to use as an example for listening…
+Mike Grinser
+Yeah. I brought a couple of records, pressed records, and I also cut a couple of snippets to a dubplate. A dubplate is a lacquer disc, there’s no difference, just the diameter size is different because for 12" cuts you use 14-inch lacquers. Now I brought 12" dubplates.
+Aaron Gonsher
+So what we’re going to demonstrate on this dubplate is what, exactly?
+Mike Grinser
+I’d like to demonstrate you playback issues from outside to inside. As I said before, the distance of one groove in one rotation from outside to inside changes. So what changes is... so, one rotation on 33 RPM is always 1.8 seconds, no matter whether my finger is on the outside or here on the inside. But the distance shrinks towards the inside, which makes it much harder for a playback cartridge to track the information, especially high-frequency information, which is the most detailed part of a groove.
+And I can show it to you.
+Aaron Gonsher
+And so this also means that there is really a maximum of what you can cut onto a record and still have the highest fidelity possible.
+Mike Grinser
+It depends pretty much because if you have records at home, you might have noticed that records have a different loudness. You may find a record which is quieter than another record, or a record which is much louder compared to the LP record, for example. I can play you those snippets. [plays example on vinyl]
+Now, I have the same snippet at the inside, which sounds like that. [plays example on vinyl]
+A different part of the song has a second snippet with more information in the high frequencies. [plays example on vinyl] That is outside, again. And now we can listen to it on the inside. [plays example on vinyl]
+And I think, even in this listening environment, which is not perfect for A/B listening tests, you can hear quite clear difference of high frequency content from outside to inside. When one wants to release music on records, there is a couple of things you should keep in mind. This is like if you have several tracks on one side of a record, it’s a good idea if you place the tracks with the higher amount of high frequency content towards the outside and the more dull tracks towards the inside. For example, in the high times of vinyl LPs in the ’60s, ’70s, and ’80s, it was like that, that the tracks placed so it makes sense regarding the medium, which means that the ballads, the songs with less high-frequency content with more sparse arrangements, were placed on the inside, and the more energetic tracks and the tracks with high amount of high-frequencies were placed to the outside.
+When it comes to records, it’s also a good idea to keep playing times in mind. As I said before, the loudness of a record is mainly, not only, but mainly related to time per side, so this means the shorter the playing time for one side, the louder a record can be cut. And if we take electronic music, we know we have two different rotation speeds, 45 RPM, 33 RPM. For 45 RPM, the playing time without losing level is like nine minutes, and on 33 RPM it’s a bit longer, because the record spins slower. It’s around 12 minutes, and everything exceeding these playing times needs to be reduced in level.
+So let’s say you want to make a record played by DJs. It doesn’t make much sense if you put 20 minutes on a side of your record, because the level, the loudness, would be quite low, which makes it hard for a DJ to mix it in his sets, because the other records the DJ would play would most definitely be much louder, and if you have a quiet record, it makes it hard for the DJs to play. If you release an LP album, which is more for like hi-fi listening, home listening, I find it practical if you have a playing time up to 20 minutes, 22 minutes maximum, and more than 25 minutes in my opinion doesn’t really make sense.
+Aaron Gonsher
+I know that you brought a couple of other records with you of things that you worked on, maybe we can just listen to one or two of them. I think it’d be interesting to talk about, like I don’t know what records they are that you brought, but if they were particular challenges that are going to be relative to people when they’re thinking about either mastering as something in general, or as it relates to individual elements.
+Mike Grinser
+It’s hard for me to speak and change records at the same time.
+Aaron Gonsher
+I can hold it.
+Mike Grinser
+And what I have here is quite an interesting project I did some time ago. And nowadays and the last few years, there is quite some re-release projects. There are labels and people who do beautiful re-issues. Not all of them for sure, but quite a lot of them, and sometimes there is no master media available of the record, and this is a record from the Love of Life Orchestra from Peter Gordon. Peter Gordon was part of the Arthur Russell band in the ’80s, and he didn’t have masters, master tapes, master files, of that record. So what we did is we found a good, new, old stock copy on the Discogs, a record, then I recorded the tracks to digital, then the label sent the recordings to another studio, which has very good processing gear to work on the spectrum of the recording, and to reduce vinyl artifacts, reduce crackling, reduce pops and ticks. And then the file got sent back to me, and then I mastered the music and cut it to play.
+Aaron Gonsher
+Let’s hear how is sounds.
+Mike Grinser
+So what I have here is I have record here, and I also have the digital master.
+Aaron Gonsher
+So this is the Love of Life Orchestra?
+Mike Grinser
+This is the Love of Life Orchestra. The song is called “Condo”, and that’s the record. 
+(music: The Love of Life Orchestra – “Condo”) 
+Aaron Gonsher
+And now this is the digital master in comparison.  
+Mike Grinser
+Yeah, that’s the digital source. And that’s the vinyl again.
+It pretty much depends on the music, so vinyl is a nice medium. Vinyl is, because of physical limitations of cutting and vinyl playback, the sound of vinyl is very close to the way we hear. But for certain music, for example experimental music, music with square wave forms, aggressive music, vinyl might not be the best medium, because it’s physically quite limited, yeah, regarding frequency content, regarding phase relationships of left and right channel, yeah.
+Aaron Gonsher
+So it’s good to keep in mind that, even if you don’t have a vinyl release to your name, it doesn’t necessarily mean that that’s the best possible format for your music to come out on.
+Mike Grinser
+Yes, yes.
+Aaron Gonsher
+Well I think we’re probably still just barely scratching the surface, but...
+Mike Grinser
+Still, yeah.
+Aaron Gonsher
+I wanna thank you for coming out today, and sharing all of your knowledge about mastering, and I think it was probably very illuminating to the people in the audience as much as it was to me, so thank you Mike. [applause]
+Mike Grinser
+Thank you, thank you. I hope I had the chance to show you different task in mastering and a little bit of insight, what happens in this kind of black box of a mastering studio. [applause]. And thank you for coming out.
+Aaron Gonsher
+Are there any questions in the audience? I see a few hands already. There should be some microphones coming by if you just keep them up and we’ll hit them one by one, and I’m gonna hit stop on that.
+Audience Member
+Hi, I would like to ask you two questions. Do you think that realistically is there a difference between analog and digital mastering nowadays? And also, for people who cannot buy hardware, is there any digital mastering software or plug-ins that you would 100% recommend to achieve a more professional sound?
+Mike Grinser
+So to me the difference, or let’s say parts in mastering nowadays are done purely digital. For example, limiting is nowadays a purely digital task. To me the difference is nowadays algorithms and computer processing power is so good, that you can achieve good results with only digital processing. The difference to me is the workflow. If I have analog output piece, or also digital output piece, it helps me more to concentrate on the music I’m working on, and less to the screen, to parameters, numbers, and stuff like that, yeah.
+And the second part of your question is there is good, very good, software for mastering. There’s limiters, also EQs. Just recently in one picture I showed you there was white digital pieces of gear, which is from a Swiss company called Weiss, and there is the compressor, it’s called Weiss DS1, and there was just recently a plug-in released, and it’s not an emulation. The code got ported to that plug-in, and sonically very transparent and very interesting.
+Audience Member
+Cool, thank you so much.
+Audience Member
+I wanted to ask, first of all, there’s like every month, every week, there’s new Isotope plug-ins, VSTs, whatever, coming out, trying to take over your job, so to say, and how do you embrace that both as an opportunity for bedroom producers who don’t have the budget for huge mastering, and as a challenge as well? And second part of the question, do you think artificial intelligence might get its way into mastering these next years?
+Mike Grinser
+So I think if you’re new to producing, or if you’re producing and you want to play the music out as a DJ, for example, you could use automated processing. There’s different options you could use, so you have an idea what happens. I think music is a quite personal... Yeah, it’s art, it’s very personal, and with emotions, and I think artificial intelligence wouldn’t really help the basic concept of music.
+Audience Member
+Thank you.
+Audience Member
+Hi, and thank you for the information that you gave us. It was really insightful. I just had a question regarding, it’s not so technical, but because you say you have to train your ear into the technical, then also your own preferences and your own tastes, is there a line where you draw according to your own tastes if, for instance, you receive some productions and you have to master it, and you just don’t feel it, you just don’t like the sound by itself and you don’t get inspired by it, where do you draw the line between your own taste and basically what you have to do technically? Is there a line between those two?
+Mike Grinser
+So basically when I go to the studio, I leave my taste at the door, and just work on the project, on the sound of it. Sometimes there might be issues where I would go back to the producer and ask him to improve things, and most of the times, I can’t really tell whether it’s my taste or not. Sometimes it happens that I work on something and I take it home, and I think, “Wow, I somehow like this,” and I listen to it at home and it sounds completely different, because it’s a different way of hearing and it’s a different approach, all the things you do in mastering. And you need a technically trained ear I think, which you can do with some listening training, golden ears, for example.
+And the other thing is to gain some intuition on how to work with recordings, and I think if you once do the job on the regular basis, it’s not so much about taste. Sure, if I work on a project and I know the person, that’s for me quite important. So if you do the job everyday, it can happen pretty fast that you come up with automatic things instead of listening to the music, and you have to find your own path, how to deal with things you don’t like. But I think over time you progress, and most of the times I don’t have taste when I do mastering. I just try to help, or I try to take what people give me and make things a little better, be it my taste or not.
+Audience Member
+Thank you. Just second part of the question then, in electronic music mostly, I mean any kind of music, there is certain trends sometimes that have been evolving through the years, and maybe is still going on now. Do you feel that sometimes it is going to impact your work, which kinds of trends are popular, like minimal techno in Berlin for this kind of stuff, or micro house in France. Does it impact your work when you’re behind your desk?
+Mike Grinser
+When I’m mastering, I try not to think in genres. Sure, sometimes the genre of a project you’re working on has an influence to the way you work with it, because the genre implies where the music is played at. Is it played at a club? Is it played more on a home stereo? Is it more intimate, or is it more aggressive? Yeah.
+Audience Member
+Thank you.
+Mike Grinser
+I hope this answered your question.
+Aaron Gonsher
+Were there any other questions? Couple more over here.
+Audience Member
+Hello. Do you usually follow a specific process when working? So, for example, start with equalization, then multi-band compression, then limiting, or you do it depending on what the track needs?
+Mike Grinser
+Yeah, it pretty much depends on the project, what the track needs. Some recordings need more processing, others need less processing. But I can’t say I first do this, and second this, and last this. The last step is pretty clear, because the last step will somehow be a limiter, or a brickwall limiter, but everything, what happens before depends on the recording, and there’s no rules how mastering works. It depends what recordings need.
+If the only concept is that technical things will be before the artistic part, so we have the technical aspect of correcting things, narrow-band filtering, for example, de-noising is also a part in mastering, which comes before everything else. Or if a recording has DC offset, then I would correct this first before I continue with the artistic part of it. You can call it audio sweetening and other corrections will be before.
+Audience Member
+OK, and what kind of audio sweeteners do you use, or do you like to use?
+Mike Grinser
+Mastering, the processing you use, is mainly two things, equalization and compression. That’s the two basic things, and it can be a combination of limiting or expansion, depending then on the project.
+Audience Member
+OK, and when an artist sends tracks to you, do you usually give feedback to them before starting the master? So you tell them, “This, this, and this need to be fixed on the mix now.” Is that usual?
+Mike Grinser
+Not by concept, usually only if I encounter problems, like more serious problems, which I find important to correct. So let’s say, as an example, there’s an instrument, an important instrument, let’s say a snare drum, for example. And the snare drum is completely out of phase, which would mean that when it’s played back in mono, the snare drum would miss. And as, for example, when you ask about electronic music, a lot of club soundsystems are in mono. Even like Berghain soundsystem, for example, on the weekend as far as I know, is in mono because it has more impact, and then it would be sad for the artist if he misses his snare drum, and then I would go back and tell him, “Hey, that’s out of phase. You may wanna correct this.”
+Aaron Gonsher
+It’s not gonna be, “This is 120 BPM. I really like it better at 128.”
+Mike Grinser
+No, not like that.
+Aaron Gonsher
+I think there was one more over there.
+Audience Member
+I would like to know on the weight of vinyl. There’s sometimes 180- gram vinyl, and does this have an effect on the music, that it’s pressed on vinyl, or does it make no difference how thick the vinyl is?
+Mike Grinser
+You mean on the sound quality?
+Audience Member
+Yeah.
+Mike Grinser
+No it doesn’t. It doesn’t. That’s a myth, so 180 gram or 140 gram doesn’t make a difference to the sound. It’s just difference in handling and how a record feels.
+Audience Member
+So it’s just marketing?
+Mike Grinser
+Yeah.
+Audience Member
+Yeah, OK.
+Mike Grinser
+What makes a difference is at some pressing plants you can ask for 100% virgin vinyl. So very often pressing plants, the vinyl is a mixture of recycled and virgin vinyl that makes a difference regarding noise, for example.
+Aaron Gonsher
+If there’s not anyone else, then... OK, one more.
+Audience Member
+Hello, hi. It’s very insightful. I just have a question, because when mastering, usually people they concentrate on the low end and the high end, and usually the mid-range gets a bit forgotten. How do you work on the mid-range? Do you usually go for the low end, high end, mid-range, or do you work mid-range and then apart?
+Mike Grinser
+It depends, yeah. In club music nowadays, if you look the frequency content on an analyzer, it looks a little bit like a bathtub, so you have a huge low end and not very much in the mids, and then some high end again. But there are sounds where the information in the mid-frequencies is important, so our ear by evolution is much more sensitive, so we don’t hear linear. Our ear is pretty sensitive to the frequency domain, and the ear is much less sensitive in low and high frequencies.
+So if you have track with a huge low end and a little bit of high end, and no information in the mids, it will always sound lower compared to tracks which have information in the mids. And if the frequency content or the frequency balance of a track is off by quite far, then I would either talk to the artist, or I would try to apply processing, which is not that obvious as EQing, for example. What you could do, sometimes I mix in a parallel path frequency, selective parallel path. So let’s say the information in the mids is not strong enough, and I want to have it stronger without obvious EQ steps with a quite high amount of gain. Then I prefer, for example, to mix in a parallel path where I try to raise the level in the mids.
+Audience Member
+Just one more question. There’s a type of EQ that’s been approached recently, dynamic EQ, and it’s being used a lot right now. Do you think it adds more to the dynamics than the usual processes that you work?
+Mike Grinser
+So dynamic EQ is basically very similar to multi-band compression, and if you want to use it, be prepared that these processors are quite complicated. So they have different bands, each band has a gain or second knob for the quality, or for the Q factor, and then dynamic functions for threshold, attack, release, so it can get quite complicated. And when you apply processing then, at least for me, I always try to keep things under control, and not out of control. And when you sit there and you do a master, and you don’t like something about the master, some detail in sound, then it makes it easier or better for the outcome if you know where to go and what to change in order to get rid of the artifact you don’t like. And complicated processing, like multi-band compression or dynamic EQing have a quite steep learning curve, and yeah.
+Audience Member
+Thank you.
+Aaron Gonsher
+If that’s all, then let’s give Mike another round of applause. Thank you for coming out. [applause]

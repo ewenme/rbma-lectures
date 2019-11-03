@@ -1,0 +1,667 @@
+Morton Subotnick grew up a brilliant but reluctant clarinet player. However, it was with a crowd of like-minded avant-garde composers and musicians in San Francisco that he hit his stride. With Don Buchla, he devised the first synthesizer, the Buchla, and was soon hitting the top of the classical music charts with Silver Apples Of The Moon. As artistic director of New York club Electric Circus he became a cult figure for the art-rock crowd. But Morton’s main concern was peering 100 years into the future, developing a new kind of music, based on freely available technology. 
+In this lecture at the 2011 Red Bull Music Academy, he reflects on the role of easy credit, his problem with military authority and why he had to leave San Francisco.
+Todd L. Burns 
+Thank you for coming out this morning. There’s really no introduction that’s going to do it justice: Synth pioneer Morton Subotnick. (applause) I wanted to begin with something people may not know so much about, which is
+synths certainly didn’t come first for you. It was a pretty normal instrument, the clarinet, which you started out with.
+Morton Subotnick 
+Yeah, I started with the clarinet, it must have been 1939. Before most people
+here were born here. (laughs)
+Todd L. Burns 
+Why did you choose the clarinet?
+Morton Subotnick 
+I was living in Los Angeles in an area that was mostly immigrants. Eastern European Jews, African-Americans, Mexican immigrants. We were on the east side of the Los Angeles River, which never had any water. It wasn’t like living in Los Angeles, it was like living in little countries. They determined that I had some kind of bronchial condition, a lung condition, as a kid and I should play some kind of wind instrument to help my lungs. My mother asked me what instrument I wanted and I said, “I want the instrument that goes like that...” (mimes playing the trombone) I had seen Tommy Dorsey.
+Todd L. Burns 
+But you didn’t know the name of it.
+Morton Subotnick 
+I didn’t know the name of the instrument, and she didn’t know one instrument
+from another. So she went to the library – and this is almost a metaphor for growing up in a Jewish family – and she brought me a book without any pictures in it, only words. So I had no way to know. I went through the descriptions of all the instruments in the orchestra, but none described what it looked
+like. So I picked the clarinet thinking the name somehow sounded like something you’d do this with. (mimes playing the trombone)
+When the instrument came it was not only not a trombone, but it was not even a clarinet. For anyone who knows, it’s a middle instrument. I looked at it and I guess I must
+have looked disappointed because my mother asked me and I said, “No, this is exactly what I wanted.” I was too proud to say I’d made a mistake. 
+I ended up playing the clarinet and within three years I was playing concertos. It was such an amazing experience because I didn’t know what everyone was talking about. Someone showed me how to play it and I played it. That was it. They gave me music and I read it. It was no issue. One of the reasons why I finally
+got involved later with electronics is because the clarinet just seemed like my thumb; it didn’t seem like it was a challenge.
+Todd L. Burns 
+I was reading an interview and it seemed like you didn’t really love the clarinet. It was just this thing that you could do really, really well.
+Morton Subotnick 
+I may have actually hated the clarinet. In fact, I was drafted into the Korean
+War with the army in the early ’50s. I didn’t go anywhere or shoot anyone or do anything, but I was drafted into the army. Just before I went – I’d never even touched a gun in my life – I had these dreams where I was standing up with a gun and a big bullet was spinning around and would hit me in my right arm. And as it hit I could feel the pain, it would knock my right arm off, it hit me in the
+shoulder and my arm would fly away. I’d wake up in this euphoric state and
+say, “Gee, I’ll never have to play the clarinet again.” (laughter)
+Todd L. Burns 
+And I think when you were in the army you couldn’t salute.
+Morton Subotnick 
+Oh, yeah. Where do you learn all this stuff?
+Todd L. Burns 
+It’s the internet.
+Morton Subotnick 
+I tried not to go into the army. One of the problems with the clarinet was it was very easy for me to do and I was very, very good, so I could make a living. I got out of high school and I wasn’t going to go to college. I was just going to do music, I was writing music. I got a job with the Denver Symphony Orchestra right out of high school. So I went and I met Stan Brakhage, the filmmaker, and Jim Tenney, various people who were just getting started, were just out of high school. What was the question?
+Todd L. Burns 
+Your being unable to salute?
+Morton Subotnick 
+I was gonna be drafted into the army and tried to get out of it. I went to school while I was in the Symphony to try to stay out, but I couldn’t stay out, the army finally got me. I went and thought, “Oh well, I’ll figure out a
+way to get through this thing for two years.” The Musicians Union fixed it so that Herbie Alpert, myself and a bunch of musicians who were all the same age and were being drafted and were gonna get into the Sixth Army Band so we wouldn’t have to get killed and the world would have music later in life. I don’t know what that was. I figured, I could do this. I could do it. 
+So I got in and the first thing I realized was that I can’t shoot a rifle. It’s not that I
+didn’t know how, just that I passed out every time I pulled the trigger. The impact was so foreign to me, the noise, the whole thing. I never managed to hit a target in the whole eight weeks of basic training. 
+The second eight weeks of basic training, I’m walking down to get there. It wasn’t Oklahoma,
+but it was some place I’d never been before, and I’m walking and this general, he had things all over him (brushes shoulders), and I walked up to him and I know you’re supposed to stop and salute, but I’d never been face-to-face with an officer before. I realized that just as in the dream where I had my right
+arm knocked off, I had no right arm, I can’t feel it. It wasn’t paralysed, it just disappeared. I’ve never had an experience like that since, I had no right arm. No part of my brain would make contact with my right arm. 
+So I just kept walking and he stopped me and said, “Soldier, how long have you been here?” I said I’d just arrived. He said, “I thought so. Well, when you see an officer what do you do?” “You salute. Yes, sir.” And he said, “OK, dismissed.” And he walked away and I know you’re supposed to salute when they walk off but I couldn’t, I had no right arm. I read somewhere that if you salute with your
+left arm that was very bad, it was like you’re making fun of the officer. So I didn’t try to salute with my left arm. 
+And he stopped me again and we went through this whole thing, back and forth. “Salute.” “I can’t.” “Salute.” “I can’t. I can’t.” To him “I can’t” meant that I won’t. I don’t know how long it went on, it seemed like a lifetime, perspiration pouring down on me. I had no right arm. Finally, he takes me into the commanding officer of my company. I was assigned to a band at that point, because I was going to play in an army band. So he comes in and whoever he was, this officer tells them
+to put me in jail and start court martial proceedings. Nine weeks in and I’m gonna spend the rest of my life in an army jail. 
+So the guy leaves and they look at my records and say, “Hey, you played in the Denver Symphony.” I said, “Yeah.” He said, “Go get this guy a clarinet and some music.” So they brought the music in and I played it for them. They said, “Great, we’ll get you out of
+this jail thing if you’ll volunteer to play all the solos for us for the next four weeks. We have all these television shows and the only guy who can play it is sick in the hospital.” I said, “Sure, but I really have this problem.” He said, “No problem, if you’re not in uniform you don’t have to salute. And
+if you’re in a formation you don’t have to salute. So you get yourself an apartment off base and some civilian clothes, come in, change into your uniform, sit down. It’ll just be a job. At the end of the day you get back into your civilian clothes and you go.” 
+What was interesting about it was that he actually believed me, he didn’t ask any questions. I don’t know if that ever happened to anyone else. So I got through that eight weeks and the rest of the time in the army, every time I saw an officer I’d hide behind a tree. Or if I was driving in a car and I saw the flag coming down, I’d hide under the dashboard because you had to get out and salute. I spent a year and a half hiding from officers. It was horrible. It’s a funny story, but it wasn’t funny at the time.
+Todd L. Burns 
+So the army didn’t go so well. It wasn’t your thing.
+Morton Subotnick 
+No, it wasn’t my thing. It was really not my thing, no.
+Todd L. Burns 
+After you got out you went back to Denver?
+Morton Subotnick 
+No. Well, for a little bit. Because I was in the Sixth Army Band, I was in Presidio in San Francisco. While I was in the army it was like a day job, basically. It was not hard. The only hard part was staying away from officers. The band was made up of fabulous musicians. Herb Alpert is the one that comes to mind, but many of them stayed on. They were all good musicians. I got involved in the avant-garde scene in San Francisco, so when I got out of the army I decided to stay. 
+But I’d never studied composition; I’d learned music on my own. I had a good education, but it was not a traditional education. I went back to Denver to finish a degree one summer. I had a few things I could do that would get me a degree. And I came back and studied with Darius Milhaud, a French composer at Mills College. I stayed on, they gave me a fellowship to go there. That’s where I met my friends, Terry Riley and the whole group.
+Todd L. Burns 
+Before we get to that, I remember one story of your first public performance in Aspen.
+Morton Subotnick 
+That was when I was with Darius Milhaud. I was writing avant-garde music at the time and at that time – 1956, maybe – avant-garde music was a thing. It wasn’t like 100 different things, it was a thing and I was doing that thing, that avant-garde music. Darius Milhaud had done that thing, but it was a different
+thing from 1920, so he didn’t like my thing but he liked me.
+Todd L. Burns 
+He was from France.
+Morton Subotnick 
+He was part of Les Six, the group that
+turned Paris upside down in the ’20s.
+Todd L. Burns 
+What was so different about what he was doing compared to what you were doing that he was turned off by it?
+Morton Subotnick 
+They were writing music in three different keys at the same time – G and C and F-sharp, all at the same time. They did various things. It was part of the surreal movement, the Dada movement, all of those things were happening in the ’20s in Paris. I was doing post-Webernian music, a lot of grammaticism, noise. I was already starting to experiment with
+technology and things like that. 
+The story, that will also reflect back on Milhaud, is he hated my music but he loved me and he loved the fact I was sort of like him when he was young. So when I finished my degree he offered me a fellowship to come to
+Aspen. At that time I had a wife who was very ill and a child and my expenses were huge. I had no money. He knew I was working night and day, I was playing with the San Francisco Symphony, everything I could do to make money. 
+He said, “Why don’t you take the summer off and just write music and we’ll pay money for you able to do that?” And so I did, and I was so thrilled and happy with him. I was conducting concerts of his music and other people at that time. So I was thrilled to have the equivalent of three months to do nothing but write music. That was just unbelievable. I don’t know how old I was, 25, 26. The first thing I did was write a piece in the style of Darius Milhaud, a quintet for clarinet and string quartet. He loved it; it took me 48 hours. 
+I had a great facility to write in any style, so I could do that. He loved it, put me on in concert in the tent at Aspen, Colorado. This is a huge festival. That and Tanglewood were the two main festivals in the United States and at that time, that was practically it
+for festivals. And here I am, I was going to have this piece played, my first major public performance. Then I started to write my music and I wrote this piece for four-hand piano, which I thought was without question one of the freshest [ideas]. If anyone heard this piece they’d hear something they’d
+never heard the like of before. 
+So I took my quintet off the concert and put
+my four-hand piano piece on. About two weeks before the performance I was rehearsing with the pianists and I thought, “Maybe I better tell Milhaud that I took the quintet off.” So I told him and he was really upset. I said, “No, Milhaud, wait until you hear it, you’ll love it, you’ll really love it.” He said, “My dear, I won’t love it, but you do it anyway.” 
+So I put the piece on and there was no question that this audience was going to say, “My God, I’ve never heard anything like this before. This is fantastic, a brand new way of hearing music.” And I thought they would stand up and cheer and I thought, “What a way
+to start my career!” There were four sections and by the end of the second section – there were pauses; there weren’t really movements but there was empty space, some silence – people started laughing and making noises. By the end of the third section they were making so much noise the pianist had to
+stare the audience down to be able to go on to the fourth section. 
+By the end of the fourth section, I was absolutely right, they were standing up – but
+they didn’t applaud, they were screaming, pounding on the pianos, the woman in front of me said, “Did some kind of monkey write that piece of music?” I went out ready to spill my lunch. Milhaud was there in a wheelchair – he’d been in a wheelchair for years – and was sitting next to the exit as I was going out.
+I was in a terrible state, I’d never been in so much pain in my life, except maybe the saluting. But it was something awful, so unexpected for me. I was going out and Milhaud pulled me down, with tears running down his face, and said, “Thank you, my dear, it reminds me of the old days.” That was my first
+performance. (applause)
+Todd L. Burns 
+So you get back to San Francisco and you say you were immediately already
+knowing some people there?
+Morton Subotnick 
+I was in the army there and while I was in the army I played, I had performances, but they were all small performances with the avant-garde. I met a lot of people at that point, while I was in the army. So I went to study
+with Milhaud, and at that time Pauline Oliveros was studying at the San Francisco Conservatory and Terry Riley was studying at the San Francisco Ramon Sender was
+studying at Mills – they don’t know Ramon, but he was part of the group. La Monte Young was at Berkeley and we were all part of a young group. We did concerts together and we were all close friends.
+Todd L. Burns 
+And you eventually decided to get a space together, to pool all the equipment
+that you’d accumulated.
+Morton Subotnick 
+Actually, I was the only one working with technology at the time.
+Todd L. Burns 
+What were you working with?
+Morton Subotnick 
+(laughs) What was I working with? Well, I was working with a Dujour tape recorder. You could set it at five different speeds. It wasn’t synched, so it wouldn’t run at the same speeds. From the beginning to the end of the tape it would get faster, or slower I guess, whatever happens as you get more tape at
+the other end, the machine would go slower. It would go the equivalent of a whole step slower. And a microphone. And I had taken a Wurlitzer electric piano apart. Basically it
+was musique concrète, though. 
+There was no equipment. I had a garage for a studio and I got parts from automobiles, trolleys. Pauline helped me push a broken piano down a whole flight of stairs so we could break it apart and I could get the parts I wanted out of it, so I could make sound, which I hung in there. So I had a hammer, a couple of mallets, and I turned the Dujour tape recorder and I choreographed as I moved through the room, hitting things as I went. I’d have about two minutes of performance – they were called action pieces.
+Todd L. Burns 
+Seems like a big step, though, for you guys to buy or rent a space together.
+Morton Subotnick 
+We were giving concerts, Ramon, Pauline and I, at the San Francisco Conservatory. Stockhausen had just done his first really big tape pieces. The Gesang had just come out
+and also other music. Some was technological tape music, but most of it was instrumental music of some sort. We did this for a period of two years. It was called Sonics, the series, and we gave this concert, which turned out to be our last concert, but it wasn’t intended to be. I found a tape in an alley and I sealed it. It was obviously something someone had thrown away. 
+I was working with the Ann Halprin Dance Company, I have some pictures here, I can show you those, so let’s leave time for that. The
+work I did with them was not traditional dance at all. Some perfume company had just invented a kit where you could make your own perfume by mixing different odors together. The dance company was going to go through the
+audience and interview people in the audience and decide what kind of smell they should have and make the perfume that would do that. We called the piece, which was the bulk
+of the evening, Smell Opera with Found Tape. I was gonna open the case of the
+tape and play it for the first time in public. We didn’t know what was on it,
+and the group was gonna come and give everyone the odor that their personality deserved. 
+Tony Martin was doing visual projections and Ramon found an old metal washing machine and used different kinds of pieces of metal and
+rocks and ran the old washing machine, which played percussion. We put all of this together and did the performance. We also did a tropical fish opera, which I actually have some movies of too, on that concert. When it was over, the next day the newspapers had a big headline in the arts section saying,
+“Concert Literally Stinks.” And the San Francisco Conservatory decided we should never enter the premises again. So that was our last concert. 
+Ramon and I were really the only two working with technology. He said, “We can’t work
+here any more, so why don’t we pool our stuff and get a place?” So we did and we found this old Victorian house that was gonna be torn down on Russian Hill near Chinatown in San Francisco and they gave us the entire house to take care of until they were gonna tear it down. They didn’t know when they would do that. So we had a free place and we brought our stuff together. We knew there were other pieces of equipment in the world than what we had.
+Todd L. Burns
+What did you have?
+Morton Subotnick 
+We had nothing. He had two Hewlett Packard oscillators and my tape recorder and the parts of automobiles; that’s all we had. Ampex had loaned us some equipment but that was after we got in there. They loaned us a professional tape recorder. We went to this woman who ran the Wells Fargo bank, a very, very wealthy woman who’d just bought a Stradivarius for a string quartet. We asked her if she could give us some money to help us develop what we were gonna do and she said, “Sure, but you’ll have to become non-profit.”
+That’s how we got started, we paid $125 and became a non-profit corporation. We didn’t know what to call it, but at the time the European world was divided between musique concrète and electronic music. Cologne had the electronic music and Paris had musique concrète and you couldn’t mix the two. It was like oil and water; they wouldn’t mix. 
+Stockhausen I’d met that year, I think. I don’t know if it’s a true story, but he’d said he had to put a microphone in his pocket in order to take it into the electronic studio
+because they didn’t want microphones in the electronic music studio in Cologne. I don’t know if that’s true but that’s what he told me. Anyway, we decided not to call it either electronic music or musique concrète, we called it the San Francisco Tape Music Center. Anything you ended up on tape with was music, so that’s why it was called that. 
+We called her on the phone and said, “Now we’re non-profit. Can you send us some money?” She did – she sent us a cheque for $25, which we then put on the wall and never used. But that’s how we pooled our equipment, that was the reason.
+Todd L. Burns 
+Tell me about meeting Stockhausen. What were the circumstances?
+Morton Subotnick 
+I’d met him a number of times, I can’t remember the first time. We were going
+to festivals. Stockhausen was just another guy. It wasn’t like I remember, “Oh my God, that’s Stockhausen!” This was just a guy.
+Todd L. Burns
+Was there someone who was that guy in the early electronic music world that
+you looked up to?
+Morton Subotnick 
+There were none; there was nobody to look up to. We were all struggling to get
+started. There were no synthesizers and even at that time I thought the studios were pretty stupid. The idea of having to cut tape... One thing Stockhausen said – not when I first met him, but he was touring the United
+States giving lectures – he gave a lecture saying, “Now that we have this electronic music, we won’t need musicians anymore.” 
+I remember saying, “Come on!” To go from C to D (sings scales) you’d take a tape and measure it and then (sings) and measure that. You’d lay them over, but it doesn’t go. (sings) It goes... (sings) You have
+to make a diagonal cut of four inches across the tape and I said, “You can’t tell me that’s gonna replace musicians.” But there was nobody to look up to at that point. There was nothing. It’s hard to imagine, but there was just nothing. It was great. We were making things out of nothing.
+Todd L. Burns 
+At what point did you conceive the idea that you wanted some sort of machine that became what the Buchla was? What was the idea that you wanted to be able to get out of it?
+Morton Subotnick 
+What’s up there (points to timetable on TV screen) is the timetable of the period we’re
+talking about and if you look you’ll see the transistor, the tape recorder and the credit card all came into being at the same time, right at the time I’m talking about, when we were beginning to pool equipment, up to the end of the ’50s. 
+I realized – this was before we pooled the equipment, and probably before I met Stockhausen or anybody else, because I think those all were ’61, ’62, ’63, so we’re talking about the late ’50s here, up to 1960. I was completely aware – as were many other people, not a large number of people,
+but enough – that the world was about to change radically because electronics
+were gonna be cheap. It was clear we were moving into a moment in time in
+history that was equivalent with music to the printing press with words. 
+That was startling to me. I thought, “My God, what a time to be alive and to be my age.” I could’ve stayed on being a musician; I had no problem with that. I was doing pretty well writing music for instruments. My music was beginning to being played, in spite of those people who booed me at Aspen. I knew nothing
+about electronics. I had this tape recorder, I was experimenting, but I knew nothing about electronics. But I knew enough to know to what was about to happen. 
+I thought, “I’m going to try to make a piece. If I feel I have the aptitude for the technology I’m going to throw the clarinet away finally and not write music for instruments anymore and dedicate myself to this point in history, because I’m at a pivotal point.” And I didn’t think it was because I could write great music, but I could be part of that change. And who
+wouldn’t like to have been there at the beginning of the printing press and to
+have been a part of it? And who would like to be the person who says, “Who
+needs this? We don’t wanna do that,” and so forth. I really felt this was an important thing that I had an opportunity to be a part of.
+Todd L. Burns 
+Where do credit cards come into it?
+Morton Subotnick
+Thank you! The reason it was going to become important was because up until that moment in time, to play music you had to learn to read music, to take music lessons, you had to have the money to do it. 
+This was an upper-class,
+very stratified thing, from the time of
+Aristotle at least, at this point we’re talking about recorded music was fine art music and it was only that for
+the elite. Not for any reason other than economics. You couldn’t afford it, you didn’t have the time, you didn’t have the money to train your kid in music. In Italy it was different because they trained orphans to do music from the time of the Renaissance. But for most of the world it was part of the aristocratic thing. 
+But what the printing press did – the same thing happened there – the word was part of the church, it was part of the authority. Once the printing press came, everybody
+could read. You started having many religions, many ideas. The demography of ideas wasn’t there before. This was going to happen in music, but for it to happen it had to be cheap. And transistors were very cheap and a credit card meant you didn’t even need money. 
+It was so cheap that it was clear in 1959 that
+everybody in the world would have an iPhone. (laughs) Something. That’s the reason the
+credit card became important. That was the tip-off for me that there was going to
+be a change, not just people who knew electronics. A Hewlett Packard oscillator cost $400 in 1959. That’s the equivalent probably to $10,000 for one oscillator that did nothing but go... (makes oscillating noise) We
+couldn’t even afford that. We happened to be given a Hewlett Packard oscillator; we didn’t have $400 to buy it. So suddenly that was all gonna change, that was the reason.
+Todd L. Burns 
+I can’t imagine what Ableton would have cost back then. At a certain point you called in engineers and interviewed them, because you had an idea you wanted to build something but didn’t know exactly how to build it.
+Morton Subotnick 
+That was ’61 or ’62. I’m talking about this period here. I made a piece that was performed in 1961 in San Francisco that had two Dejour tape recorders, so I could get sound all around the room, two two-track tape recorders, I had four musicians, I had lighting flats and a person who spoke. It was a big multimedia piece that was about 45 minutes long and when it was over, unlike my performance three or four years before in Aspen, the audience went crazy. The critics said a new artform had been born and we performed it three times in three weeks.
+People called me and wanted to tour the thing; it was amazing. I put it away,
+I didn’t tour with it but I decided, yes, I must have the aptitude to do this. So I’m gonna start. I’m giving up the clarinet as soon as I can afford to do it. I’m not going to write any more instrumental music. I’m going to dedicate myself to whatever this new thing is going to be. I said to myself, “The first thing we’ve got to do is to get rid of cutting tape. We need something.” 
+And I was thinking that 100 years in the future – which it almost is, well, 50 years – and what would be the kind of thing that would progress at that point? I was thinking of something I called an electronic music easel, something you’d have in your home and you could make any sound you wanted, you could paint sound. You’d be able to create new
+things. I didn’t know what that was going to be. 
+One thing I need to get across, I didn’t want to go to a new technology and make music that could’ve been made with a black and white keyboard on a piano. It wasn’t just sound; it was an entire new music that would come about. What was going to happen once the demography of economics that meant it was going to be cheap – everyone was going to have this – meant that over a period of time a new art would evolve from people who didn’t study at a conservatory but just liked to do things on their own. Maybe people who did would do different things and a new art would evolve and I wanted to be part of it. 
+But the only way I could be part of it was to get the object, one similar to what they’d be using in 100 years. I had an idea of how it would work, what it would do, not how it would be made, and put an ad in the paper once we had the Tape Center to invite an
+engineer to help me make it.
+Todd L. Burns 
+What did the ad say? “We want to make the future of music”?
+Morton Subotnick 
+You know, I don’t know, I have no idea. I wish I could get hold of it, but I have no idea what it said. I didn’t think I was doing something historic at the time so I never kept a copy of it. It was a want ad, probably cost $20 for one week. Looking for an engineer to make... well, I think I probably called it an
+electronic music easel. Easel is a nice metaphor for it; you can paint music.
+Three guys came by. This was 1961 or ’2. The
+LSD movement, the psychedelic movement started in 1964-’65, so this was about two years before that. I had no idea that one-third of San Francisco was on drugs. I really did not know that. None of us did. The first engineer came. I thought he had an eye problem because his eyes were looking in two directions at
+the same time. He was incoherent, he couldn’t talk. So he left. The second one came and he was pretty much in the same condition, so I began to figure out what was going on. Then the third, Buchla came, Donald Buchla, and he was someone you could talk to, he was good.
+Todd L. Burns 
+So the only one not on drugs was the one you picked?
+Morton Subotnick 
+He was probably on drugs, I don’t know, but he was coherent. I don’t know if he was on drugs. Not only that, but he had already had a similar idea, so he was completely prepared to move forward on the idea.
+Todd L. Burns 
+It seems like a large break to say, “We don’t want it to have keys, we don’t want it to look like what came before.”
+Morton Subotnick 
+Try to put yourself in the position... I need pictures to do this. (fiddles with
+computer) Can we have pictures over here?
+Todd L. Burns 
+Is there someone who can come up, please?
+Morton Subotnick 
+This is what the Buchla looked like when it first got done. (pictures) It seems like a big break. Remember at the time what I imagined we’d be involved with wouldn’t come into being for 100 years. I had no idea what it was going to be, but the notion was I didn’t want to continue the Columbia Princeton, the big RCA synthesizer that
+had existed, that came in the late ’50s. What they made there was the same old music, but it sounded worse because it was just (makes bleeps), no nuance or anything. 
+The idea prevalent at the time was, now that we’ve got the beginnings of computers and this technology, we’ll be able to make music better than it was before. You’ll be able to play
+low notes faster and you can write anything. That was sort of what Stockhausen
+was referring to. I thought that’s really dumb. I was a fine musician, I can
+already do that. I remember when it turned 2000, a German keyboard magazine interviewed me and asked me, “Now, in the future can we make a perfect piano?” I said, “The piano already is perfect; it does everything it was supposed to do.” 
+The whole notion seems odd
+– still does today – to think we’ve got all this technology, so now we can play music again that we can already play. When I did Silver Apples of the Moon on the Moog, they did Switched on Bach. People thought that was electronic music. No, it’s Bach, played on an electronic instrument. It’s not electronic music, it’s not a new artform. It’s not something the technology
+demands. I was a trained musician, so I thought the way to go about this is
+to start without anything that resembles the tradition. 
+So you get rid of the
+black and white keyboard immediately. I don’t know what the music is going to
+be, but it should come from the object itself, like the grand piano of
+Liszt and Chopin made music you could never play. It took a while, because most
+of the music on the keyboard was harpsichord music played louder and softer.
+Finally you find a genre of music that’s not a whole new music, but a genre
+that fits that piano and nothing else. You couldn’t get it any other way. 
+And now we’re looking at something much bigger than that, a new metaphor for music
+itself. Because now it’s going to be made by people who didn’t necessarily grow
+up learning music; it’s going to be a whole different thing. The first person
+who hit two sticks together, two stones together, the first person who hummed
+the same thing one time after another until it caught on and other people
+hummed it. 
+That’s what I was looking for. I didn’t know what it was gonna be. Even today it’s hard to imagine that one could imagine what that music would be. So I did not want the keyboard – that would be too easy to go back to traditional music.
+Todd L. Burns 
+That’s a great lead-up to listening to Silver Apples of the Moon, to
+describe what it is you did with this synthesizer.
+Morton Subotnick 
+Yeah, listen to the very beginning of that.
+(music: Morton Subotnick – “Silver Apples of the Moon”)
+The first thing you notice is that the (imitates) is not anything you could
+have done on the piano. The second thing you notice is there’s little plucks that
+you could’ve done. When I finally got this, four or five years later, I realized that I didn’t know what it was going to be. Even without a keyboard I was brought back into the musical world. It wasn’t exactly a piano but it was the “boops” and “beeps” from my avant-garde musical background. 
+I didn’t think that was a problem, because people in the future wouldn’t have had my background. But I wanted to get rid of it and it took me a while to get to that point. Can you play a bit of the second side? Second side! It’s a CD, I mean, the second part around the middle point.
+(music: Morton Subotnick – “Silver Apples of the Moon” (continued))
+Not there, further down. About halfway in. That’s it.
+(music: Morton Subotnick – “Silver Apples of the Moon” continued)
+That was totally forbidden at that time.
+Todd L. Burns 
+Why?
+Morton Subotnick 
+Because you tapped your foot to it, you liked it, it made you move. We didn’t have hip-hop yet. We had rock & roll, but this wasn’t really rock & roll. The fine art world was devastated by this. I have to tell you, in 1966 I was helping to create the Electric Circus, which was a big discothèque in New York, upstairs from the Andy Warhol, Velvet Underground, and I was really dedicated to the idea of the demographic equalization of things, that everybody could get their hands on it. 
+I was creating the beginnings of multimedia discothèques and the opening of Electric Circus was coming up so I was working on the music for it. This was originally before I started making Silver Apples of the Moon. I was already working on that as part of the
+opening for the discothèque. It started with a heartbeat. It was a fancy occasion, everybody was in tuxedos, they had Seiji Ozawa from the Boston Symphony. The Kennedy family were all there. It was a big thing because the people who had the money for the Electric Circus brought all these people down to make a big deal. 
+We started in the dark with a heartbeat that ran at the tempo of this. Buchla designed the electronics of the place. The subwoofer was attached to the floor of the dancehall so the whole floor shook, literally shook. You were
+inside the speakers, so to speak. All light bulbs were controlled by the Buchla synthesizer. This had not been done before. People had tried it but not in any kind of public situation, the beginnings of strobe lights and so on. 
+We had people who were hired from circuses on tightropes, dressed in white and black lights
+so they would shine blue as they walked across. One was eating a banana as he
+walked across. He would appear again and again in different spaces and it would keep building and building and building until you get to this music. You can play a little bit of it again right there.
+(music: Morton Subotnick – “Silver Apples of the Moon” continued)
+You kept moving with this until it reaches this frenzy. Lo and behold, when the lights got big enough you could see that actually everybody was dancing to it, which never occurred to me anyone would do. I was thinking of this frenzy sort of primitive experience with technology of growing to this thing. I had no idea anyone would groove to it. Now I’ve lost the question, you probably lost it too.
+Todd L. Burns 
+I guess I was going to ask you why you moved to New York from San Francisco. But I guess given the chance to have this...
+Morton Subotnick 
+San Francisco was great, I loved San Francisco and thought I could stay there my whole life. We were a major avant-garde entity in San Francisco. By the time I was 30 years old I was really well known in San Francisco. I still didn’t know what I was doing – I still don’t, but I think I’m getting there.
+But I was concerned with my aptitude to be able to deal with this. I knew I had some aptitude but I didn’t know how far I could go with this thing. 
+I began to feel, like the clarinet when I was a kid and I’d play the “Flight of the Bumblebee” all staccato, 11 years old and people would go, “Oh my God! This is incredible, put him on the radio.” I thought, “I don’t get it.” I was looking 100 years down the line, and I wasn’t sure where it was going. I wanted to stay with it if I could, but I didn’t know if it was meaningful enough. San Francisco became like my mother. My mother would go, “Oh, you’re so smart.” “Of course, I’m smart. You’re my mother.” San Francisco was like a small town and we were
+really great in San Francisco but I didn’t care about that. I wanted to really have an impact. I wanted to do something or not do it. 
+So I was offered an opportunity to go to New York and be artist in residence at the new school of arts at NYU. That was gonna give me enough money to live on; I could give up the clarinet. I didn’t go to  New York for any other reason, except I thought to myself, “This is the chance for me to really find out. This is the big time stuff.” New York, as we all know, is so tight, so public-oriented, everything generates from that place.
+If I feel I’m really doing something in New York that makes sense, then I’ll
+stay with it. 
+If not, then I’m gonna go to Lawrence, Kansas – a little town in the middle of the United States and be a schoolteacher, because I knew I could talk and lecture – and forget about trying to do something if I find I’m
+incapable of doing it. I was there a year when Silver Apples of the Moon came out and suddenly I’m on top of the charts and a public figure and I thought, “Damn, I’ll never get to Lawrence, Kansas.” (laughs)
+Todd L. Burns 
+Were you surprised that it made a dent in the charts?
+Morton Subotnick 
+Oh, yeah. In hindsight it makes sense, but at that moment...
+Todd L. Burns 
+I don’t think it makes a ton of sense.
+Morton Subotnick 
+Well, it does because I was right. The world was moving towards a new paradigm, the record player was taking place of the piano in the home as something to hear music with. These were all things I predicted back in 1961,
+this was this machine that wasn’t supposed to be bought by anyone, but was a model for what the world would be like in the future. This was a world in which people would walk around with buds in their ears – I didn’t see that in
+particular – but it would be personal and everybody could be doing it. 
+The fact that I made music that was electronic and visceral. It wasn’t heady music, it was music that I really felt got to me and got to these other people as well. It was the kind of music I could pick off a record shelf and think, “I’d like to listen to that.” Most of the music you were listening to then was
+so you could go to a concert and understand it. But this was visceral music.
+The reason Switched on Bach was so good, they bought more Switched on Bach
+than they bought Bach because it was switched on. That was the moment, and I happened to hit that moment. I had no idea I was going to hit that moment.
+Todd L. Burns 
+What doors opened up after this became this more mainstream thing?
+Morton Subotnick 
+The synth became mainstream, but the synth, not this synth. (points to
+laptop) The Moog. I knew Bob [Moog] quite well, but before he died we were doing lectures together and panels and things and we were both going through the history. I didn’t know what was
+going on in the rest of the world, but Bob probably built a synthesizer
+before we did. 
+And he said, “Oh no, you guys did the very first one as far as
+I know. I had a couple of modules and I was getting ready, but then someone
+said, ‘Why don’t you build a synthesizer like this one over here?’” It wasn’t
+called a synthesizer, but a whole system. And he said, “I looked at your system and I
+loved the idea of the touch-plate keyboards and everything.” He didn’t know
+anything about music. He said, “All my musical advisors tell me I have to use a black and white keyboard.” 
+Nobody would know the name Moog if you hadn’t, because what happened from that point on is exactly what I was trying to avoid. Everybody started making the same old music, but with electronics. Some of it was a little new music, but it wasn’t a different music. With a keyboard. That caught on. In terms of mass media that’s what really took off. Synthesizers took off, but not my
+concept of the synthesizer. 
+My world that I saw 100 years in the future, as far as I can tell, is just barely beginning right now in terms of the demography. I’ve been travelling a lot, going to concerts and festivals and being brought to perform, and I’m seeing it a lot. People are beginning to understand what I’m talking about – beginning to, anyway – and seeing that there is another world out there. That world isn’t out there, that world is in here, that we have to find for ourselves. But it’s not easy. It’s a hard one to discover what you would do if you didn’t have a black and white keyboard. It’s like traveling in a new city without an iPhone.
+Todd L. Burns
+It seems strange, though, that this has popular success if people hadn’t caught on to
+what you were doing.
+Morton Subotnick 
+You mean being on the top of the charts? Yes, that’s true and that I can’t figure out to this day. But the top of the charts, when it came out it hit the top almost immediately, the classical music charts, not the pop charts. So it was at the top of the classical music charts and at that point I was going a
+lot to Washington DC, about a 90-minute train ride, and I thought, “God, maybe
+later this year I’ll be able to buy an automobile, I’m on the top of the
+charts.” 
+I got my first royalty check and it was for $2,000, which even in those days wasn’t going to buy me a car. I could just about have bought a car, but not the gas to go. And I thought that can’t be right. I was on top of the charts the whole time. I found out with popular music – we’re talking 1967 at
+this point – it was how many records were sold per week or month. With classical music it was how many reorders in five record stores across the United States. 
+The original order was for three – they’d get three in and when the three went, then they’d reorder them. So I had the most reordered of any classical, including the Boston Pops. It amounted to 10,000 records, which was huge for classical music. Even years later, the most the Boston Pops sold was 4,000 or something like that in a year. This was huge for
+that, but nothing like the millions of records that were going out. So when you talk about popular success, it wasn’t really popular success. It was headlines, but it wasn’t popular success in the same sense. Switched on Bach sold 40,000 or 50,000.
+Todd L. Burns 
+Nonesuch seems like a strange label to have invested in this. At this time they were a budget label and had
+never done anything like this before.
+Morton Subotnick 
+Did you read the story?
+Todd L. Burns 
+No.
+Morton Subotnick 
+Good, then I can tell you something you don’t know. This is my studio on Bleecker Street. (shows picture) 
+Todd L. Burns
+And this is where you recorded Silver Apples?
+Morton Subotnick 
+I didn’t record Silver Apples, I created it with the computer and all this stuff. It wasn’t done and then recorded. This is the studio there. You see the Bleecker Street cinema and the doorway there. You’d go up a flight of stairs and right above the cinema is where my studio was. Down the street, if you
+look at the Bleecker Street cinema sign and you go straight down there’s the
+Village Gate where all the rock bands were playing. 
+I’d work all night and, 2 AM when the bands stopped,
+members of Grateful Dead or Mothers of Invention would pop into my studio. People from Andy Warhol’s group would pop in and
+they’d just sit around. I had a couple of sofas, they’d sit around talking and
+watching me. Word had got around that there was this mad scientist with wires making
+crazy sounds. We rarely had a real conversation, but they were
+watching me, they would come in. 
+Meantime, as I’ve said, from 1961 forward I’d
+been talking and doing public lectures about this new thing that was going to happen and that the record player would take the place of the piano as chamber music for the large percentage of people in the world. Record companies would
+see and people would eventually say that it was immoral and unethical to take Beethoven string quartet that was intended to be played by four people in front of an audience and replace them with a record and that the record, in fact, would become a new medium. 
+People would make
+music especially for the record. All other recordings would be left to the 78 category, which would be a black and white snapshot where every few minutes you’d have to turn it over to get the rest of the piece because you’re only studying the music or remembering it as it was meant to be. Of course, I never believed that would happen, and it didn’t happen. We may get to that at some
+point but we’re not there now. 
+So in the middle of all of this, I’m working
+and these guys are sitting around. Where those buttons are there’s a door and the door was never locked because it didn’t have a lock. You go up the stairs
+and there’s a big notice that says “Beware: You’re being watched!” There was a camera that had nothing inside of it. That was the only thing we had to keep people from coming and stealing everything in any of the studios there. 
+So in walks this guy around 2-3 o’clock in the morning dressed in a suit and he says, “I’m the president of Nonesuch Records.” And he gives me my speech, “We think this is blah, blah
+blah... unethical,” almost word for word. “And we met today and we have $500 set
+aside if you’ll make the first one.” 
+So I kicked him out. I thought he was making
+fun of me. First of all, I’d never heard of Nonesuch Records. It sounded like an unlikely name for a record company. And I just didn’t like being made fun of, so I kicked him out. 
+I get home and it turns out that I had Nonesuch Records
+and I didn’t think of it because they cost 80 cents. I’d get my kids off to school and before they got up I’d listen to a particular Brandenburg Concerto on Nonesuch
+Records. I thought, “Oh my God, this is a real record company.” So I tried calling all day long. They didn’t have a phone number, they were part of Elektra/Asylum. I didn’t know that. 
+The next morning, middle of the night, the guy comes in again and this time I’m going to go on my knees and say, “I’ll do it for nothing.” He says, “Don’t come near me.” He thought I was gonna hit him or something, I guess. “Just listen to me, just stay there and listen to me,” he said. “We met again today and we’ve upped the ante, we will offer you $1,000.” And I said, “I’ll take it.” And that became Silver Apples.
+(applause)
+Todd L. Burns 
+So he thought it was just a negotiating tactic.
+Morton Subotnick 
+It was for me. (laughs)
+Todd L. Burns 
+Silver Apples and Wild Bull both have an influence from poetry. There’s a Sumerian poem
+called Wild Bull. How did that influence the stuff you made?
+Morton Subotnick 
+It didn’t.
+Todd L. Burns 
+Not at all?
+Morton Subotnick 
+The Wild Bull did to some extent. You’ve got to have a name for a piece. Silver Apples, I was just looking for a name. I had become quite literate over the years because when I went to college in Denver to stay out of the Army I majored in English literature. Because I already knew music, I was playing
+professionally, I had not done any reading at all outside of music. 
+I became quite literate and I had poets for friends and so forth. I knew literature very well. I remembered the Yeats and the
+opening does sound like Silver Apples, so I gave it that name. The Wild Bull was a little different. It’s a beautiful poem. When you consider writing
+started in Sumeria – the earliest writing we know about is in Sumeria about
+7,000 years ago – so this was the seed of what I felt, the seed of what
+happens, the poetry that could happen as the result of language being written, the written
+language, let alone the printing press as this is before that. 
+And I thought I was doing something – not that my work was similar – but I was engaged in something similar in terms of historic change. We now have technology we can make music with; now they have words you can manipulate, we just didn’t speak them. The poem is about a woman whose husband goes off to war and doesn’t come
+back. 
+I had this thing about trying to make the record… the form of the record
+was side one and side two. The side one is the female side, and side two is the male
+side. It’s the music through his body and the other one is through her body. So in that sense it was influenced, but it doesn’t tell a story of any sort.
+Todd L. Burns 
+Let’s listen briefly to a little snippet.
+Morton Subotnick 
+Let’s listen to the very opening.
+(music: Morton Subotnick – “Wild Bull”)
+That’s the sound of my baby son at the time, slowed down 100 times and
+manipulated. We’ll go on and listen a bit more, but because I was at the
+Electric Circus we were doing multimedia avant-garde concerts on Monday nights.The rest of it was dancing and became very well known at the time. 
+Salvatore Martirano and I – I don’t
+know if you know him, but he did a synthesizer called the Sal-Mar later – but he and I were very good friends and we were invited to do a concert of our music at some place in Massachusetts. The woman who organized it said Sal
+Martirano and Morton Subotnick from the Electric Circus, so they all thought
+this was rock & roll. 
+We had four concerts sold out before we got there.
+When I found out there were bumper stickers and everything I said to the
+woman, “You’ve made a terrible mistake. They’re going to think we’re rock & roll.” “No, no, they all know what you do, it’s fine.” 
+The concert starts with these two sounds. We did the Wild Bull semi-live – some was live, some was
+recorded. There’s a guy on the stage who was smiling with black light on his teeth so he stands
+there, sort of a shadow. Then gradually, after the first one, you see this
+strange smile, these teeth and a silence. I think there’s a third one, and then people started yelling all kinds of insults and then ran out to get their
+money back. That’s all I can remember about this. Now we’re going to the third one, I think.
+(music: Morton Subotnick – “Wild Bull” continued)
+Imagine this much silence at a rock & roll concert. The high one – and I’m
+talking about black and white keyboards – is all made from a touch-plate
+keyboard controlling various things, including pitch. So you go (makes slow noise) and you certainly could not do that on a piano. I think you could it on a violin if you could get the pitches, but you couldn’t get that quality.
+Todd L. Burns 
+How long did it take you to get the hang of the instrument? When did you feel you could get exactly what you want out of this? Or have you?
+Morton Subotnick 
+First of all, Don Buchla and I worked for well over a year before there was any equipment. Because we needed $500, which we didn’t have, so we did it all on paper. By the end of that year when he started to work, I had conceptualized the logistics of most of what the modules were gonna do. I even imagined doing what I just did, but didn’t have the equipment to do. 
+So the first two or three years of the synthesizer was actually knowing I could do it and practicing until it
+happened. The sequencer was originally designed to be able to make long takes of something. You had three voltages coming out per stage, they were eight and 16 position sequencers. I would take them and gang them so there was one that
+would go 16, one that would go 15 and maybe one that would go seven. That
+would mean I had nine voltages from each, if you take all the voltages out, and the nine voltages would be mixed in different ways. Pairs would be mixed,
+so if you had a voltage of two and another one was 0.5, you have 2.5, but they don’t come back to the same exact configuration for 15 times, 16 times, seven
+times. 
+So you get this long, long sequence and you spend weeks tuning until
+you get all the parameters of space and everything you want on it. When you’re performing over periods of two to three weeks, listening and fine-tuning and sculpting. So it was working with that sequencer, which I had imagined ahead of time, but I didn’t realize how absolutely engrossing it was to be able to
+do that. 
+The reason I used a smaller one, a seven – because that would be part of the rhythmic structure. Whereas the other ones would be controlling timbre and all kinds of things, the rhythmic structure was always on a smaller base and the actual rhythm was altered because the space between one and two would be altered slightly by a voltage from another place. 
+So you’d get (makes jerky noises), this smaller group that you could recognize, but it was changing slightly. Or you could not change it. It didn’t always do the same thing. That’s what you’re hearing on Silver Apples and things.
+Todd L. Burns 
+You used the word sculpting just now and that seems to be the word you use to describe what you do quite a bit. Why is that the one that’s stuck with you as accurately describing it?
+Morton Subotnick 
+Because painting is two-dimensional and sculpting is three-dimensional and
+music is four-dimensional. What I say on my next-to-last record jacket – that’s where I write this whole thing down – I feel like I’m a painter sculpting sound in a canvas of time and space. I’ve considered even from the beginning that the spatial element was not an adjective but really a noun. 
+It tells you something directly like a pitch does. So if it’s a sound, you’ll hear it in some of the music I make – there are a couple of examples of that. (looks through laptop) This is the one that I’m talking about. I finally got to this point where I’d use a microphone where I’d record my voice and use the envelope of my voice rather than an envelope generator. But I was dealing with this sculptural space in which I could go (makes mad noise) and the energy
+would be the way in which the sound would move in space and change.
+Todd L. Burns 
+This is from 1975?
+Morton Subotnick 
+1975, yeah. (looks through laptop)
+(music: Morton Subotnick – “Until Spring”)
+Yeah, that’s the excerpt. What I did is I sang just now what I sang in my
+studio. And you’re not hearing my voice up there, but what you’re hearing is the Buchla synthesizer with the energy and shape of my voice. So I can make a
+coherent performance, a minute, two minutes long, and then cut it up into
+little pieces with leader in between and then sculpt, sitting here for a long time, just listening, instead of a sequencer, hearing the result of my voice and
+then mold it. 
+I cut the first one out and… (makes mad noise) That’s a
+week’s work. And then... (makes another noise) That’s two days’ work. Then you take the
+leader out and you get a coherent performance from beginning to end, because I’d already made it.
+It’s like sketching and filling it in; it has a very strong procedural, not end result, but a procedural result. I think of it as studio art. 
+The composer
+became a studio artist. It doesn’t mean anything anymore because everybody’s a
+studio artist. You needed to write the music down for someone to play it, then
+put it on audio for someone to hear it. Whereas a painter and sculptor were
+sitting there with it, experiencing the changes, being the first viewer.
+That’s what I was able to do in my studio.
+Todd L. Burns 
+Until Spring seems like a breakthrough for you; you were finally able to do something
+you hadn’t been able to do before.
+Morton Subotnick 
+Yeah, by the time I got to this I felt that this is clearly not music from the tradition. Whereas both the_ Wild Bull_ and Silver Apples were. They had many traditional elements to them, melodies and so forth. I’ll play you a bit
+of this. This is the dance from A Sky of Cloudless Sulphur, which is the final work of this group. This is with visuals by Sue Costabile. It’s on my new DVD
+coming out. 
+This uses pulsing and some of the energy shapes I do with my voice. This was 1976, I think. This is a new version. In fact, I’ll be performing parts of this tomorrow night. I end with this. Using the pulsing as
+I described, but now using one single chord that covers an entire range and placing different pitches of that chord, it’s as if you had a string instrument and you never change the pitch of any of the strings, but you can
+play lots of little tunes within that range. So it’s all constantly going. And
+this is what that sounds like.
+(music: Morton Subotnick – “A Sky of Cloudless Sulphur” / applause)
+That uses the little rhythms with the things I described. They sound like they’re the same, but they’re not exactly the same, but it’s close enough. It’s like variations coming from the single sequencer. The overall pulse is like a click track – it is a click track. By this time I’d been given a 16-track tape recorder from Columbia. I put a click track on top, but the
+click track was made from my tongue. My tongue was going (makes whirring
+noise) and a loop from that. So you hear some slight… I can do it now with the Buchla and tomorrow night I’ll be doing some of that, where I actually
+introduce that to a straight pulsing so I don’t have to use my tongue for 45
+minutes. 
+But what you get from a straight pulsing is this constant machine
+click. But you get a random change of velocity, which makes (makes whirring
+noise), not a machine, and when you hear it you hear slight dropouts. You
+feel like you can put your hand through the pulse at some point because there are actually little holes in it, and I now do that live. I can do it without my tongue by building voltages on the velocity for the pulse. They vary from 100% to 90% to 70%,
+back up, then putting a random voltage on one, then offsetting them with
+another one, so they add two different things that never quite come back. They sound the same, but they have a live, human feeling to it.
+Todd L. Burns 
+Has your voice been a source for your music for a long time now? You seem to keep talking about using your voice.
+Morton Subotnick 
+Remember 100 years ago, when I was talking about 1961 and I said the first time you ever hit two rocks together? By 1971-’72, here I was hitting the charts – Wild Bull hit the top of the charts too. 
+In fact, we’re in Spain, right? I was in Spain the summer after Silver Apples of the Moon, pondering this whole
+issue. Someone had given me a house in Mijas and I stayed there almost four
+months trying to deal with this thing. Here I was on top of the charts
+and I felt like I could write an orchestra piece like Silver Apples of the Moon and in fact, that summer I wrote an orchestra piece. And now we’re getting my
+family. (laughter) That’s okay. 
+It wasn’t until 1975, 1976 that it finally came to a head. But by 1975 I realized I wasn’t getting back to the first rock, the hitting of two rocks together. I realized it was inside me and it wasn’t rocks, it was my voice. I began to use
+my voice and I called Buchla, 1969 I think it was, and I said, “Don, I need something that will translate my vocal sound into straight voltage.” 
+And as far as I know that was the first envelope follower that came. There may have been some others around, but I don’t know about them if there were. For me, it was certainly the first. I began to play with that and gradually each piece got more and more with that together until I really had it down as an artform.
+Todd L. Burns 
+The last thing I want to touch on before opening it up for questions is video. Sue Costabile did this thing for your DVD and tomorrow night you’re going to be working with Lillevan. I saw you in Poland at Unsound just recently and I was struck by the fact you weren’t facing the audience. You were facing the screen, the visuals. I guess
+that’s partly to show off this amazing instrument.
+Morton Subotnick 
+I wasn’t facing the screen because I was looking at the screen. I was facing it because I wanted the Buchla to be seen, that actually something was playing. It
+wasn’t just turning something on and having it go, I was actually playing it.
+I think that’s important, at least at this stage in the game, given laptops
+and so on. I do use Ableton, but the Buchla goes to the Ableton so that an oscillator gets duplicated five or six times and I can do different things
+with that oscillator. Having five oscillators, I have three oscillators and each one multiplies. I’m using some samples, but more and more it’s all getting to be live.
+Todd L. Burns 
+To go back to the visuals very briefly, why Lillevan and what is that
+collaborative process like for you?
+Morton Subotnick 
+I started as I described way back in 1961, I used visuals for that first
+performance. I had two visions… no, that’s too large. I had two thoughts about the future. One was the recording as a medium. The recording to me was pure music, something you listen to, you take it in and you do it personally. Each
+individual is personal, even in an audience, but you do it now, of course,
+with pods in your ears and in your living room and so forth. 
+The other is what
+happens to the public performance. The recording should be like a studio, it should be perfect for you when it comes out so that when you give it to someone else, it’s guaranteed that the person who gave it to you really likes it. This is as good as it could be for them, before they give it to you to listen to forever in your
+living room. 
+So what is live performance? It’s the opposite. Live performance is “this is the moment” and it has to be… it could fail and it has to have some kind of drama to it, a theatrical. I also felt from the beginning that
+the dimensions of music on a record are four dimensions. You’ve got spatial dimensions, timbre, but they’re all in the world of sound. 
+But a live performance is not. It’s in the world of being with other people, of doing what I’m doing with my hand right now (waves hand), which wouldn’t be there
+if you were listening to the radio. And it means something. It means something that I lean my face forward as I said that. I didn’t intend to, but it has a different meaning than (leans back) “it means something” – (leans forward) “it means something” is different. 
+For me, the live performance has to have a visual component and if you’re performing on a musical instrument it does – you see
+the performer playing. But with electronics you don’t see the kinetic response, because I imagine that what I could get with a computer would be like having an entire orchestra trained that is at my beck and call, so you don’t play every note, but you mold it
+like a conductor does. 
+So I’m making decisions all the time, I’m being a
+composer, and I’m performing in the sense that it’s spontaneous and this is now gonna come this way. I have files that I could I play very, very soft and they would mean one kind of thing. I don’t need to go into the details of that.
+So I felt from the very beginning that if we could have a kinetic visual component, which is a parallel piece, somebody I improvise with when I’m doing this stuff, who knows the music and is willing to listen to the way I do it
+differently each time and go with it, if they have a visual kinetic vocabulary that is the counterpart to sticking my chin out or something. That’s been
+there since 1961. I worked with Tony Martin for a long time and still do occasionally. I found Lillevan because he was brought in when I was commissioned to do my opera and he did the visuals. 
+The idea of
+all of this was to produce the real work from 1961 and I finally did that with “Jacob’s Room,” which got played at Bregenzer, Austria, and then Dresden, Berlin and Vienna last year. It’ll be at the Warsaw Autumn in September and Lillevan did the live video with it. That’s how we met. Then we began working together.
+Todd L. Burns 
+What is it about his visuals that appeal to you so much?
+Morton Subotnick 
+It wasn’t so much the content of the visuals, though I like them very much, but it’s the way he works, making kinetic decisions on the same basis that I make musical decisions. We’re dealing with something that is increasing in energy, that is fast, slow. You’ll see with Sue Costabile, she’s using bars that fluctuate. I like her work very much, but this isn’t what I had quite in mind. I did it at the Electric Circus,  where you pulse something to the music. 
+He interprets the kinetic energy of the music into a kinetic visual energy, and it’s parallel, it’s not direct. That’s what I was really looking for. I like what Sue does, I’m happy to work with her, but I’ve always tried to get her do a little more complex... now she does, we did a performance in New York together
+and she’s expanded that vocabulary quite a bit now. It’s closer to what
+Lillevan does at this point. But hers looks different from his.
+Todd L. Burns 
+Well, let’s open it up to questions from the audience. If you could just wait for a microphone that’d be wonderful.
+Audience Member 
+I’m interested in what you said earlier. You talked about a primitive
+experience with  technology and I was wondering what does that mean to you and how do you join those two worlds, the primitive and the electronic, and what
+are the differences between the two of them?
+Morton Subotnick 
+Let me take just the first part of that. What I meant by primitive... say that first part again.
+Audience Member 
+You said primitive experience with technology.
+Morton Subotnick 
+Yeah, I don’t remember saying that but I’m sure I did. (laughter) It depends where I was when I was saying that, but there are two forms of the primitive experience, but I think the ur-experience, the primal experience, you’re
+starting from scratch, it’s very hard to do. 
+We just have too much; nobody can really do it. If you think about the way people sing “Happy Birthday” together, they all go up and down together but they don’t sing the same notes.
+But the shape of it is the same, the primitive (sings), it’s that gesture and shape. 
+It doesn’t matter particularly whether you do it on C, D or E. We
+understand that as human beings, as animals, but we give it up in music to be, “Oh, unless you sing the right notes you’re not musical.” That’s the keyboard thing. I’m trying to avoid that, when I go (sings) if it goes from C to G or
+C to A or C-sharp, it’s going up and it’s got a register. 
+This is the way I’d
+like it to sound without worrying about what the pitches are. Now, my ears are trained in such a way that they do end up in C to G, but not because I meant them to be. With a keyboard you’re stuck with whatever tuning you’ve got at that point, so getting to the gesture and to the inside and finding a way to express it. That’s what I think I meant by the primitive. Now what was the other part of your other question?
+Audience Member 
+I’m going to ask you another question. What does silence mean to you? Does it have an important role in the music you create?
+Morton Subotnick 
+“Silence” you said, right? Not in the way it means to John Cage. He meant it in a different way, I think. We actually never had that conversation, but I
+always assumed we meant it differently. Silence, for me, is part of the fabric of... if you ask how long does a note last, you’re actually asking when does it
+begin and when does it end? 
+But if you say what is the rhythm, the timing
+of that note, it’s “ta-ta-ta-ta,” it’s actually a quarter note long, but it starts with a silence in between. The silence in between is the designator of
+the anticipation of the next sound. And if there is no next sound, then it’s over. So if you go “dah-dah-dah”  (groans) So it’s part of a dimension of
+time, of sound in time. 
+Because if I go “daa-daa-daa” that’s different from “dah-dah-dah,” you’re working with silence. But that’s not what John, I think,
+was talking about that aspect. He was talking more about timbre and the world of sound. I’m talking more about the musical silence when I’m dealing with it.
+Todd L. Burns 
+You use silence quite dramatically in the Wild Bull, for example.
+Morton Subotnick 
+Yes, and there you have no pulse, so there it’s a matter of personal intention. The question I asked myself is how loud can I go before I give up
+listening? And that’s how long those silences are. I’m a little more restless than most people.
+Audience Member
+I have a question regarding your music and its visual presentation. I watch a lot of horror movies and when I’m listening to the soundtrack, I hear a lot of borrowed textures and moods from some of your music. Especially in that first piece in Silver Apples, a lot of that prickly stuff. 
+Did you ever think that
+you wanted to create a sense of unease in the listener? And how do you feel about it being used to create that sense of unease?
+Morton Subotnick 
+The answer is no, I did not think that. And I wasn’t aware that something in horror movies sounds like my music.
+Audience Member 
+They definitely borrow.
+Morton Subotnick 
+It could be. I know I used to get letters in the late ’60s, saying that they saw strange green creatures coming into their bedrooms when they listened to
+Silver Apples and did I have that in mind. I’d answer that question with, “No, I didn’t have that in mind.” I mean, I don’t mind. The rest of it is I have no problem with it being used however it’s going to be used. 
+If I remember correctly, there was a very wealthy
+man in New York who was very proud of the fact that he played Silver Apples of the Moon every Halloween out of his house so that he would scare people. And at
+one point Macy’s used it as a Halloween display, so it must have had that
+effect on people. But I never had that and I didn’t intend it. It doesn’t have a message. 
+Jean-Paul Sartre said once in an essay, “Music doesn’t mean anything – it’s meaningful.” So you
+draw meanings out of the meaningfulness and everybody does it differently. That’s one of the nice things about it.
+Audience Member 
+I’m interested in the more technological part of it. Like the controlling part was a big deal, to lose the black and white keyboard. How do you see technologies nowadays for controlling, for example, your Buchla? How do you see opportunities and are you using newer technology other than the touch response of it?
+Morton Subotnick 
+No, I’m using my voice through the envelope followers. I’m using his touch-plate keyboards. They’re better now, but they’re all designed from the 1962, ’63 period so I’m very used to them. The reason I use the touch, we have so much control, our fingertips are very much an extension of our emotion, we can do lots of things with them. And our voice too. 
+Can’t do so much with your nose, your toes. I experimented a lot, I used things in space, but even if you did something very gentle with your hand like that (flutters hands slightly)
+it’s really coming at your fingertip when you can touch something that you get the real extension. 
+I have a picture somewhere on my website where I have a sensor on my glasses and that’s a heat sensor looking at when I close my eyes.
+When anyone closes their eyes there’s less heat than the reflection of light off the white of your eyeball. So I could actually measure the relative movement and use that as a controller at one point. But none of it has the kind of control you can get, or I can get, with my voice and my fingertips. It’s not like it’s wide open. You can put sensors on your body and have your brain do it but I can’t control my brain. I could have my heart rate do it, but I don’t want my heart to move as fast as I can use my tongue. 
+It depends on what you wanna do with it, but what I want to do is it to be an extension –
+just like I was answering her – of an ur-quality. From inside, the energy
+behind the music and then turn it into sound from that. So far the only two
+things I’ve found that are meaningful are finger pressure and placement of the finger – which a black and white keyboard doesn’t do – and my voice.
+Audience Member 
+I was just curious about coming from San Francisco, where everyone’s high and
+lazy and kind of casual, and going to New York, where it’s a little more
+aggressive. How did your music change? Did it influence it?
+Morton Subotnick 
+Probably. I didn’t intend it to but it probably did. I don’t know the answer to that. I don’t know. I sometimes wonder what would have happened had I stayed in San Francisco and I wonder what would’ve happened had I been a flop
+and gone to Lawrence, Kansas. I probably wouldn’t be here right now.
+Audience Member
+Is there any new music you’re excited about?
+Morton Subotnick 
+My recent music?
+Audience Member 
+No, other people’s music, something modern.
+Morton Subotnick 
+To listen to? That’s asked a lot and I have to say I don’t think about it that way. I don’t
+categorize them. I categorize things after the fact. One thing I’ve learned is that I can’t judge what I’m hearing for the first time. If I don’t like it I’m destined to go back and listen to it some more to see if I don’t like it more or like it less. 
+But I can tell you that some of the more recent music that I’ve liked very much was Messiaen. I developed my aesthetic that I discovered
+I had – I didn’t know I had one, but I have an aesthetic – and in the late ’60s I began to give it a name and it’s the ecstatic moment. So music that has that tends to attract me more.
+Audience Member 
+Your live performance tomorrow, what are you going to use? Are you gonna prepare a set or are you gonna do freestyle things?
+Morton Subotnick 
+It’s a combination. I’m using the Buchla live and I’m moving it through
+Ableton. I have samples. Everything is spontaneous in the decision of when it happens and how it happens, but I have a set of resources in the patch, both with the analog synthesizer and in the computer. 
+It’s limited to what I’ve
+got in there that I’ve chosen for this performance. Some of it are samples, so although I can change both the pitch and time and bring them in whenever I want,
+even pulse them, I have some that I can send through, if I’m getting a pulsing thing going with oscillators, I can
+take one of the samples that I was going to play and pass it through the
+oscillator into the Buchla, so it gets pulsed instead of played in its normal form. 
+So there’s this array, this set of available materials that I’ve been
+playing a lot lately: 14-15 performances in the last four weeks in that many cities. So I have a bag of tricks, but I try very much to have new stuff each time as I go.
+Audience Member 
+I’m just wondering, do you practice and if so how do you practice? Do you practice technique the way a traditional instrumentalist does?
+Morton Subotnick 
+No. I do practice, but not the way an instrumentalist does. I
+develop a new technique to do a particular kind of thing and I get really good at it. I don’t know how I’m gonna use it and then it gradually moves itself into a performance. But I never play for 45 minutes from beginning to end. I
+never know how long a show is going to go, but I practice and try out little parts of it and go back and build a new technique if I don’t like what I’m
+doing. 
+You don’t get rid of everything you’ve learned but you’re gonna have
+to, for me, come up with a new procedure. If I’m going to practice as I used to on the clarinet, I’m gonna end up doing the same performance over and over again. It might well be a recording at that point.
+Audience Member 
+You have a very well-developed philosophy about your sound and music. You use
+the words “awe” and “ecstatic” and some of your peers, La Monte Young and Terry Riley, Pauline Oliveros, have developed a spiritual philosophy to go with their sound and music. Have you also?
+Morton Subotnick
+No.
+Audience Member 
+(laughs) Thank you.
+Morton Subotnick 
+I have an allergy to saluting officers and to religion. When I go to a
+restaurant, I cannot stop marvelling how we were in trees hanging by our tails and now we’re actually sitting at tables. Howling at the moon or screaming or
+cooing, and somehow made the Eroica Symphony down the line. 
+The awe I have for the human being is through the natural evolution, which is for me a
+much more... if there is a spirituality, that to me is the awe experience, is that we got where we are. And to tell you the truth, that we’re still here with all the crazy people running the world, that we manage to be sitting here talking like this is really amazing. Let’s hope it keeps going.
+Audience Member 
+You mentioned earlier you use samples and you talked about the visual element. If you assign a certain visual to a certain sound you can use samplers in conjunction with visual processors. 
+What do you think about the concept of one
+sound being associated to one image or one clip, or should audio and visual
+always be two separately developed ideas?
+Morton Subotnick 
+You’re thinking of something like the color organ with Scriabin and that kind of stuff. Personally, I’m opposed to that kind of locked-in – that’s for
+myself, I’m perfectly happy when someone else does it – but for myself I think gesturally and I think of timbre as the result of gesture, not as a pure thing. 
+So (makes mad sound) all this dimensional stuff, it’s not “aah” or
+“ooh,” it’s the combination of these things. Color has this, but it’s not the object of a particular sound. If the sound is producing what you want it to
+produce, you don’t need a color with it. 
+But if I say (grunts) and I do this (holds hand up), that’s not doing the same thing my voice is. It’s responding emotionally the same way. I could go (grunts and groans) and all that means something different but the voice was almost the same. That’s where
+I think the color can amplify or give more dimensions to the experience. That’s how I use color.
+Audience Member
+But at the root of it you want sound to be the color, you want sound to be the visual.
+Morton Subotnick 
+I want sound to be sound. And the expression underneath can also be done with the visual
+visual, that’s the parallel aspect. You can hear it and you should get something. 
+But what happens when you add something to a musical experience, whether it’s dance or whatever, you begin to develop a large context in which people can build more context than they can with the sound. It’s particular with theatrical situations. 
+If I only want the music to communicate, I don’t use anything in addition to the music. If you want to go beyond that in the more public arena, that’s where I use visuals, where you want a more composite experience that will bring more context to each individual, then you need to bring in more
+things. 
+I can tell you exactly what I’m saying and you can just listen to it. But when you watch me say it you get more context to it. You understand more about what it is. It is necessary to get the message to it. I don’t know if that makes
+sense.
+Todd L. Burns 
+Well, thank you very much, Morton.

@@ -1,0 +1,325 @@
+MS-1, Electribe, Triton, Wavestation, Kaoss Pad: Korg has put an indelible stamp on the synthesizer game since 1962, when the company was founded in Tokyo by a nightclub owner and an accordion player looking to build a better rhythm machine. 
+In this 2014 Red Bull Music Academy Tokyo lecture, we dug deeper into the physics behind the phenomenon with Hiroaki Nishijima, a longtime Korg engineer who developed the MS-20 three times (as an original, a plug-in, and a mini). Plus, Korg’s young hotshot Tatsuya Takahashi explained more about the Volcas, the Monotron, and why we’re all so damn crazy for analog.
+Torsten Schmidt
+So here we are having a life re-enactment of being lost in translation. That’s going to be fun. You’re going to be lost either way, whether it’s Japanese, German or English, because today we’re talking physics. And the physics behind sound as well. Give a big hand to our dear translators up in the booth, they’re hiding behind that wall. It is a great honor to be in Japan and talking about this wonderful machinery that makes wonderful sound with two accomplished gentlemen of very different generations, who have probably a lot in common. Please join me in welcoming Nishijima-san and Takahashi-san. So, you both work at the same place, and speaking of cultural differences, folks back home would call this Korg – how do you pronounce it?
+Hiroaki Nishijima
+Korgu.
+Torsten Schmidt
+So now you can go home to your friends and brag how to pronounce it properly. It is a bit of an interesting story the way the company came together, so how did you actually end up working there?
+Hiroaki Nishijima
+I studied electronic engineering in college. I was also in a music circle on campus. I was in a band, nothing serious. I chose to work for Korg because I could utilize my knowledge of music and engineering. That’s about it.
+Torsten Schmidt
+What is a music circle at university?
+Hiroaki Nishijima
+We played hard rock and progressive rock.
+Torsten Schmidt
+What are your favorite progressive rock bands?
+Hiroaki Nishijima
+Pink Floyd. King Crimson. Emerson, Lake & Palmer.
+Torsten Schmidt
+So you like big soundscapes. And how did you get involved?
+Tatsuya Takahashi
+For me, I joined Korg in late 2006 and like Mr. Nishijima I have a background in electrical engineering, not so much focused on sound. I did a general engineering course that included electrical stuff. I’d always been into... actually, even before getting into music, I was more into building circuits that made sound. I’d been doing that for, well, since I was a kid actually, but I started to build stuff with sequencers and oscillators, and stuff that was more like a synth than the experimental, noise-making stuff that I was doing before. When I finished uni I didn't know what to do, so I was just bumming around for a year in Europe, building stuff, and one day it dawned on me that I should get a proper job. I thought, well, why not Korg? Korg does cool stuff. And I looked it up and Korg happened to be in Japan. And because I’m Japanese I thought, well, what a great excuse to move to Japan and get paid for doing this kind of thing.
+Torsten Schmidt
+[To Mr. Nishijima] I guess that is a very different situation than when you were getting involved. A lot of the information when you started doing this was kind of available, but I guess back then – I mean, this machine that you’ve got in front of you, you made in 1978? At that time it was a lot more exploratory, right?
+Hiroaki Nishijima
+This MS-20 was released in 1978. This one over here is the emulated version that went on the market last year. The original size is this one, but we decided to build a smaller version. And so the MS-20 Mini was released last year. I’ve worked on both machines. This one was my first assignment when I first joined Korg. The fruit of my labor was this original model. The circuits in this machine are basically designed by [Fumio] Mieda, the pioneer of Japanese synthesizers. He’s actually still working with us at Korg today. I arranged the circuits. Mieda designed and created the first model tailored to be mass-produced in the factory. We’ve taken the same exact design, using parts that we didn’t have back in the ‘70s, and also modern engineering, to recreate this machine we have here. This is the MS-20 Mini released last year.
+Torsten Schmidt
+So that's still all analog in there.
+Hiroaki Nishijima
+Yes. It’s completely analog. 100%.
+Tatsuya Takahashi
+It’s pretty much the same circuit, re-engineered with components that we can get today. If I can just add that the original came out in 1978, this came out in 2013, and between that we had the software plugins which emulated the MS-20, which he worked on as well. So it’s quite intersting how, over the span of 35 years, he has engineered the original, engineered the plugins, and then engineered it again at a smaller size. I think it’s quite a unique experience to have as an engineer, I don’t think anyone else has done that.
+Torsten Schmidt
+And especially since...
+Hiroaki Nishijima
+I’ve also worked on the Legacy Collection software. What else... The software synthesizer that was released in 2004. Yes, I believe in 2004. Initially there were only three of us on the team. We didn’t think it was going to sell. It was just a fun experiment for us. And we began to build the software. But the thing is, by the time we got the sound, we became hungry for more. We wanted to make it better. The signal processing we learned in the university got in our way. So we decided to ignore the rules. It’s kind of a strange thing to say but we decided to set the rules aside. The main objective was to rebuild the hardware using this software. It was a great challenge. Using an analog circuit to simulate a software. Korg has a patent for that. It’s called CMT, short for component...
+Tatsuya Takahashi
+Component modelling technology.
+Hiroaki Nishijima
+Utilizing that, we’ve created the Legacy Collection software.
+Torsten Schmidt
+As someone who has worked in both fields, the software field and the very hands-on, analog stuff, it’s a fierce debate, sometimes almost religious. You've done both. What actually does sound better, and what are the pros and cons?
+Hiroaki Nishijima
+The software has a computer called the CPU. The CPU wasn’t efficient when we first built this software. Using the modern CPU will definitely upgrade the sound. But we had to work with what we had. But even today, I believe analog cannot be outdone. Analog gives you a better quality to work with. But if we develop the software further, raise the speed or computing capacity to its maximum, it’s possible to mimic the analog sound. That’s my theory. Unfortunately, present computer performance is not there yet. In a nutshell.
+Torsten Schmidt
+So even considering the rapid increases in computing possibilities, it’s still not good enough. Could you somehow explain, in layman’s terms, what the actual difference is between an analog signal and a digital signal?
+Tatsuya Takahashi
+Yeah, I was going to – if I could just show you, if you could switch the screen to my Mac? So, what is the difference between an analog and a digital synth. The insides look quite different. This is the circuit for the Monotron, which is this thing right here. It’s probably one of the simplest analog synths around, and basically it’s all made from capacitors, resistors, transistors, diodes, FETs. You have maybe four or five different components that you use to make a synth. And for any part of this circuit, for example this is the VCO. The VCO makes the original, the raw waveform. [Demonstrates sound] That’s the raw sound of the VCO that hasn’t been modulated. And so on this circuit there’s a component called C11. That is basically charging up and resetting and charging up, and you do that at a really fast rate, like 100 Hz or something, and it becomes a tone and you can play music with that. So an analog synth will actually create the signal from currents and voltages, whereas a digital synth will create it from calculations at regular intervals in time.
+Torsten Schmidt
+Why should I care, as musician?
+Tatsuya Takahashi
+It’s fundamentally different because in the digital realm there’s a finite number of calculations you can do. There’s a minimum span you have between the intervals that you calculate, which will ultimately determine the resolution of the sound. So rather than having a signal that is completely defined during the whole cycle of the waveform, you will have discrete points that are joined by a line instead, so you can see there’s a finite resolution that you can work with in the digital domain.
+Torsten Schmidt
+So it’s a little bit like, I don't know, a wave instead of a step, or stairs.
+Tatsuya Takahashi
+Well, the staircase, it’s often portrayed that way but it’s not – it’s a set of dots that’s joined by a line, that’s allowed within the bandwidth. It’s not as bad as having these square steps. But yeah, you can see that because you have a finite number of dots, you are losing resolution there. But I don't think that necessarily means that you get a really bad waveform, because the human ear can at best hear up to 20 kHz. So I think, for me, what makes analog synths special, although I’m not an analog purist, is the fact that when you’re working with software you can get rid of problems really easily. Like DC cutoffs. You can have other problems as well. I think in analog synths you have more problems that you have to find workarounds to, and you have these inadequacies and little quirks in the circuits that, in the end, give the product character. This is why if you go back 30 years and look at the analog synths, they all sound completely different, because they all had different quirks in the circuit that made them sound the way they do.
+Torsten Schmidt
+So in a way it’s like us as human beings having little quirks that ideally make us more charming. 
+Tatsuya Takahashi
+Yeah, absolutely. 
+Torsten Schmidt
+So I guess that’s a question that a lot of people are worried about these days. At what point will the calculation be fast enough so that artificial intelligence actually surpasses what we can do as humans?
+Tatsuya Takahashi
+I think this A.I. thing... are we going to go on that (path) [Laughs] Yeah, I think it’s really cool. But you know, I think it’s interesting because there is an analogy between how much processing power you need to actually make something that feels human. There’s a similar question in synthesis – how much power do you need to make a synthesizer that’s really quite organic, like an analog one? I think we’re still quite far off, to be honest.
+Torsten Schmidt
+And bizarrely enough, a lot of the machines are used for their robotic quality at the same time, so you’ve got a triple loop of headfuck, basically. You want the machinery, but you want the machinery to be human...
+Tatsuya Takahashi
+It’s really interesting. I’m not sure if I should be talking about this because it’s not to do with Korg, but we just released a product called a Miku Stomp. You play a guitar and a Vocaloid sings it for you. Do you guys know Vocaloid?
+Torsten Schmidt
+It might be nice to explain what Vocaloid is to everyone.
+Tatsuya Takahashi
+Vocaloid is a technology developed by Yamaha in a lab that synthesizes the voice, so you can play someone singing, a synthetic voice singing. I went to the lab where they were researching this, and it was really interesting because if you’ve ever heard [the Vocaloid character Hatsune] Miku, she does not sound real. But now the technology is there to make it really real, you can’t really tell the difference between a real voice and a synthesized voice, and it’s not good because it’s too real. So there’s always that paradox between, we’ve got a machine, we want to make it more real, we want to make it more from the heart, but then it still needs to be a machine to be cool. It’s a paradox that we always have to work with, I think. 
+Torsten Schmidt
+The other paradox is, as you mentioned before, the human ear’s capabilities, and also what we can hear after eight hours in the club. And after having been to clubs for 20 years or so, there’s only so little that’s left that we can hear, I guess. Are a lot of these discussions more a fetish than an actual scientific discussion?
+Hiroaki Nishijima
+If I may? All these in front of us are machines. And these machines are used by people. Machines do not have artistic abilities. Well, at least not yet. Music is made by us humans, using these electronics. And by using this equipment, we can make better music that everyone could enjoy. That is what people do, but still not for machines.
+Torsten Schmidt
+On that note, when you entered Korg, there were other machines already, like the other parts of the MS series, the 10 or the 30. Where do you say, “This is me, this is what I bring to the machine and what makes it different to any of the others”?
+Hiroaki Nishijima
+About how synthesizer engineers portray themselves in their design, and how we all take on our jobs, I think it’s different for each engineer. I personally put myself in the user’s shoes. Thinking how they would be to use my product. I use my synthesizer in my own band. I keep in mind what the user would want. What they would enjoy. I don’t want a simple electrician’s work. It needs to be a fine instrument. To be honest, I see myself as a craftsman and not an engineer. Was that hard to translate? Maestro. That’s what I aim to be.
+Tatsuya Takahashi
+I don’t know how that was translated but he’s saying he’s more of a craftsman than an engineer.
+Torsten Schmidt
+I guess this notion is very important and that’s what a lot of people admire about the culture in this country. You choose a path and then you try to be as good on this particular path as possible, and try to get really deep into it. There’s a lot of repetition and research and practice that goes into the same thing. How does that translate into your daily routine over the years, and how has that routine changed?
+Hiroaki Nishijima
+The truth is, the more you work with analog circuits, the more difficult issues come up. I’ve been working with electrical circuits since I was a student. But there’s still more for me to learn. What’s next for me to study after many decades in this field will be... I’m going to get technical. I need to get into electrons within transistors. Electrons and protons. I’m talking about studying elementary particle levels. I’m actually a fan of physics. And I study the world of elementary particles, which then leads to the physical properties of semiconductors. A bit complicated to translate? And finally, I could begin to understand what sound is made of. On the other hand, analog circuits on an elementary particle level... On that level, they’re no longer in sequences. They’re in treads. In other words, they can’t stay in the same place. Analog on a microscopic level is also scattered instead of sequences. Digital is scattered in the first place. To make digital closer to analog you need to align them into sequence. To make that possible, you must raise the sampling frequency up to megahertz. And the resolution to, maybe about 32-bit these days? Doing all that, analog is still finer. But to the human ear, maybe not to people with exceptional hearing, but to the people outside of the music industry, the day is near when digital meets analog quality.
+Torsten SchmidtS
+I mean there’s the music business on one side and then there’s the engineering business, and I guess a lot of people are just intimidated by the physicality of physics in the first place. But when you start reading up on physics you realise that it can get to a level where it’s almost like reading philosophy or even religion, almost. Is there recommended reading stuff and ways to lose the fear of all that’s in front of you?
+Tatsuya Takahashi
+Ways to lose the fear, I don’t know. Listen to noise. The perfect example of how physics makes sound is if you think about the way white noise is made within an analog synth. Basically you’ve got a semi-conductor junction that doesn't usually conduct in the direction that you're playing the voltage in, but if you raise the voltage enough, the energy level breaks through the barrier and you get a kind of storm of electrons bursting through the barrier, and it’s called the avalanche effect. And I think to appreciate the physics it’s quite a good thing to just sit down and listen to some white noise. [Demonstrates white noise] That’s electrons.
+Torsten Schmidt
+So you can actually imagine these little particles.
+Audience member
+It’s like rain.
+Tatsuya Takahashi
+It’s like rain, absolutely. Rain is a collection of discrete drops falling at random intervals and this is exactly the parallel of that with electrons.
+Torsten Schmidt
+When he’s saying rain and using that as an example, there are scientists who try to organise train stations. As a way to try and organise the people flow during rush hour, they look at how water behaves in a creek when it hits a stone. Do you have similar analogies for when you’re shaping sound?
+Tatsuya Takahashi
+Well, the water analogy is always there in electronics. You have a power supply and you have resistance in the wires, and the thicker the pipe the less the resistance, so you’ve got more current going through it. The water analogy is very much a thing that we start with when we start to learn electronics.
+Torsten Schmidt
+I wanted to go back to the picture for a second. When you say you’re going down to the nitty-gritty of it, and the detail of how things behave, would you be able, for example, to look at something like this and you’d go, “Oh, I know who designed that”?
+Tatsuya Takahashi
+That’s a Korg circuit, isn’t it? It’s part of the MS-20?
+Torsten Schmidt
+That was a good educated guess [laughs]. So you can, actually...?
+Tatsuya Takahashi
+Um, I guessed that more from the way the symbols are styled and the ways the lines are drawn. But Mr. Nishijima would be the first to tell you that the good circuits are drawn beautifully, because it’s part of the craftsmanship, it’s a representation of what you have engineered. There was one very happy point a few years ago when he said my schematics looked really good, and I was quite happy about that.
+Torsten Schmidt
+I guess that might deserve an extra round of applause. [Applause]
+Hiroaki Nishijima
+If I may add to that... Those schematics we just saw. For me, it’s a painting. It’s a work of art. So, how should I say this... A painting is supposed to be beautiful in order to be recognized. I think schematic diagrams should also be beautiful. 
+Torsten Schmidt
+What makes a circuit beautiful to you?
+Hiroaki Nishijima
+If a diagram could be appreciated by someone who makes electrical circuits, with straight lines, using the shortest distance. It’s beautiful because you could see how signals or sounds flow. And it has no useless parts. Simplicity is good. The less parts it has, the less chance it will break. That makes a good design. It also needs to be strong. A strong product is the difference between a professional and amateur’s design. Under any circumstances, a machine that won’t break is a work of a pro. 
+Torsten Schmidt
+I guess it would be really bad to point out that we had an incident early where something wasn’t working.
+Tatsuya Takahashi
+Oh, the MS-20. I’m not going to give into the possibility that it might be broken. Yeah, we’re having some difficulties with the MS-20. I think someone hacked it before we sent it out. So that’s my excuse, I don’t know where it came from. The full-size one comes in a kit so you have to assemble it, and whoever assembled it did something quite interesting. It sounded quite good though, ‘cause it was flipping the signal.
+Torsten Schmidt
+So sometimes the things that aren’t right can have a good effect, to you.
+Tatsuya Takahashi
+Yeah, absolutely. Like this circuit that I’m showing now is something that we disclosed and put in the public domain, I think, a few months after we released the Monotron. And it was there for that purpose, for people to get in there and hack it. Although we always have that, kind of, “at your own risk”, disclaimer thing. I think it's really good that people are getting into [hacking]. It's so normal for a guitarist to change their pickup or change their strings, and that's basically what hacking is and that's basically what making an instrument personal is. So I was really glad that when we put this up people were really into hacking our gear. I mean, even the other stuff that we didn’t release the schematics for, people are really getting into it and doing interesting stuff.
+Torsten Schmidt
+That’s a pretty modern approach, to get your intellectual property out there and have other people deal with it.
+Tatsuya Takahashi
+Sure, sure. I think it’s great because my career started at a time where we had the Internet, you probably googled “MS-20 schematic” and you found that [schematic]. It’s that easy to get all the information that was probably really treasured and looked up in a safe somewhere a few decades ago. It’s all out in the open now, so I thought it’d be good for us to just acknowledge that and do it officially.
+Torsten Schmidt
+Nishijima-san, where did you find your schematics and where did you learn out about what other people did? Were there other people’s work where you thought, “Oh, that was beautifully done, I want to do something like that”?
+Hiroaki Nishijima
+When I first saw other schematics on the Internet, the old MXR schematic looked very elegant. Not the current MXR, but the old one. And also, the schematic of [Sequential Circuits] Prophet-5 seemed extremely elegant to me. So when I see those beautiful schematics, I can feel the creators’ emotions and their desire to make good instruments. I think that such an excellent instrument will stand the test of time and go down in history.
+Torsten Schmidt 
+The late Dr. Bob Moog  also believed that there was some sort of a ghost in the machine. Do you subscribe to that as well?
+Hiroaki Nishijima
+What was the name of the doctor? Oh, Dr. Moog. I have great respect for Dr. Moog. He was the first person who introduced this electrical instrument, the synthesizer, into the world. I admire him. And I’m sorry for that he’s no longer with us. I had a chance to meet Dr. Moog at the NAMM Show. It took place years ago, maybe more than 10 years. I’ve met a number of well-known figures at the NAMM Show in the United States. I’m sure they won’t remember me but I had the privilege of meeting them. Oh, and Mr. Dave Smith. I think he is also an excellent engineer.
+Torsten Schmidt
+I’m pretty sure at least one [person] alive will appreciate you saying that. But what about that ghost thing, do you think there's something living inside that machine?
+Hiroaki Nishijima
+Yes, I agree with Dr. Moog’s belief. When I design the machine, I put my heart into the schematic. It’s really hard to explain it in words. I see the schematics in my dreams. And I think what I want to do with it in my dreams. It goes on and on until the product
+becomes ready to hit the market. It’s just a piece of machinery, but it’s also an instrument. There’s a difference in sound when you compare a guitar made by a craftsman with a mass-produced guitar. And I think it’s the same with the electronic circuits. I’ve been making these instruments for years, and I do believe that there are ghosts living inside them. It’s not something that can be explained by science. But actually, I believe they exist.
+Torsten Schmidt
+I mean, this notion of things being animated is very common in this culture. At the same time, would you say that the machine has its own ghost, or that it’s a part of you? Or both?
+Hiroaki Nishijima
+Animation of machines? I own the product that I designed myself, and I feel like calling it by a name, since I’m so attached to it.
+Torsten Schmidt
+I know a lot of people who name their cars as well, so it makes sense. So if we had the blackboard edition of the MS-20, which you can put on the wall like it’s a Chagall or something, would we have a bit of your spirit in our studio in the same way?
+Hiroaki Nishijima
+Hang it like a picture?
+Torsten Schmidt
+I’ll say it again. There's a blackboard edition of the MS-20, I guess they did it for educational purposes. So when you have that on the wall like it’s a Chagall, is there the same artistry? And you are in spirit there with whoever works in the studio?
+Hiroaki Nishijima
+Yes, I think that would happen.
+Tatsuya Takahashi
+So when you buy one of these you’re not buying a piece of machinery, you buying part of his soul.
+Torsten Schmidt
+But then again a soul is a priceless thing. But Korg is always about, from what I gather, making things affordable as well. The MS-20, when it came out, was nowhere near the price range of what its competitors were, and the same with these machines that you design now. I guess that is company philosophy, to a degree?
+Tatsuya Takahashi
+It is, I mean I didn’t know it at the time but... my reason for joining Korg was that it provided tons of accessibility for people who didn’t have money, and it was really driving people making music in their bedrooms. Most of the gear I was using was by Korg. Then after I joined the company, and if you look at the schematics of the MS-20 for example, you can see that philosophy in the actual circuit. This is the same filter as the MS-20, and I think this is the VCF that uses the fewest number of components ever. You would never do this kind of thing normally.
+Hiroaki Nishijima
+This is the filter used exclusively by Korg. So, it’s Korg’s completely original filter.
+Tatsuya Takahashi
+So when I saw this and I saw all the other circuits... the VCA is similar as well, it uses one transistor to alter the transconductance. It’s quite an aggressive way to use these components, and at the same time it’s giving this distinctive sound. It was also very affordable to manufacture as well. So there’s this fine balance between being cost-conscious as well as finding a sound with identity and delivering that together. That’s still around in all the new products we're making as well.
+Torsten Schmidt
+At the same time, some people are now saying that the filters on the newer version of the MS-20 Mini, compared to the other ones, sound different. Those discussions get really emotional very quickly, so where do you guys sit on that – are they that different?
+Tatsuya Takahashi
+I think they should sound different. Each one is different. If we go back to the actual physics of semiconductors, you’re never going to get the same doping in two different pieces of silicon, there’s always going to be differences, and I think, you know, embrace that, it’s analog. I think it’s the beauty of it all.
+Torsten Schmidt
+Which is the other thing – how much freedom do you actually have to steer what you’re doing there? It’s not like you’re a woodcutter or a stonecarver – you rely on what other engineers have done and fabricated, to a degree. You’re not building your own conductors and semiconductors, you rely on industrial pieces to create a new industrial piece.
+Tatsuya Takahashi
+That’s correct. To make your own custom chip is a very expensive business. The synth business, unfortunately, is not usually big enough to merit dishing up a custom chip where you can have complete control over everything. We usually end up using components that are readily available. And so the control we have is through choice, mainly. If a component is made to very small tolerances then we try to use that and try to make it work.
+Torsten Schmidt
+On the intimidation factor, when folks first approach a machine like that, they see a lot of knobs, they see the empty sockets, they see the cables lying around. I guess we have a very unique opportunity to get an introduction to what those different sections do, which also probably helps us to lose the inhibitions. But also, I guess there’s a lot of general mechanisms in there that you can apply to a lot of other tone-generating devices. So maybe it would be great if you could give us that physics lesson.
+Tatsuya Takahashi
+I don’t know how to gear this. Who has an analog synth? That’s a fair few, maybe half? So, ok, let’s go kind of half deep, half entry.
+Torsten Schmidt
+Let’s start entry level and we can always spice it up.
+Tatsuya Takahashi
+So there’s the noise. I think I mentioned VCO earlier. The VCO is the section of the synth that will create the raw waveforms that you will eventually work with and modulate to create the finer sound. So this is your starting point. I’m just going to pick...  that’s a saw wave. Which looks really noisy, I don't know, it’s picking up something there. It’s called a saw wave because it’s shaped like a saw tooth. I think 99% of analog synths start with a saw wave internally and then they process it to make the other square waves and triangle waves. So [demonstrating] this is the saw wave, this is the triangle, and this is the square wave. You can see it’s not really square, it’s got this lance to the tops, which is actually an artefact of having a VC card in, it’s cutting some of the lows and it’s making these slopes. But essentially these are the three sounds that you’ll usually come across in a VCO. I guess you can hear it. So this has got quite a nice buzzy, mellow, rounded sound, whereas the square wave is a lot more hollow. And the triangle wave is almost like a sine wave, it’s got very low amounts of harmonics.
+Torsten Schmidt
+What do we need to know about harmonics and overtones to understand this?
+Tatsuya Takahashi
+I’ll talk about the filter first. Basically, they’ve got different harmonic content, and harmonic content is... so, if you have the note A, which is 440 Hz, you have these harmonics which are 880 Hz, and three times that, and four times that, and five times that. And at regular intervals you get these peaks, depending on what waveform you start with. So the next bit I’m going to talk about is the VCF. The filter changes the harmonic content. I’m going to put it through a lowpass filter and change the cutoff so it brings down the high end of the spectrum. [Demonstrates] We can see immediately that the edges disappear when I turn the cutoff down. It rounds the signal, it takes away the sharpness. It's interesting how the waveform actually looks sharp when it sounds sharp, and it looks round when it sounds round, and has warmer tones. 
+I’m going to go back to the harmonic content of the sawtooth. In here you’ve got an array of harmonics, and you can pick each one out by using the filter’s resonance. The resonance actually emphasises certain frequencies. So I take the resonance out [demonstrates] so that’s emphasising certain parts, certain harmonics. If I bring it right down, this is a fundamental, you’re almost just hearing a sine wave, which has no harmonic content. If I bring it up, that’s an octave higher. Can you hear the higher octave? We’ve just added a note that's an octave higher. If I go slightly higher, that’s a fifth there. That’s a major third there. And you keep going up, and above here you get loads of dissonance. So the higher up you go, the harmonic content is going to be more dissonant, it’s not going to match musically with the fundamental. So it’s by turning, it’s by changing, it’s by starting with a waveform that has lots of harmonics, and then by shaving off the ones you don’t want and maybe adding some you do want, that's how you work with synthesizers. And that’s basically maybe 90% of the story. 
+If I go to a square wave it’s going to have completely different harmonic content. [Demonstrates] So this is the fundamental, and it hasn’t got a second harmonic. It goes straight to the third one. Actually, if I cut the low... the square wave hasn't got all the harmonics, so it sounds completely different. By changing what you start with and then working the filter you can create an array of different sounds, and that’s basically most of what you need to know about a synthesizer.
+Torsten Schmidt
+So if that’s 90% of the story, why all the other buttons?
+Tatsuya Takahashi
+Um. [Laughs] Mainly because you want to modulate.
+Torsten Schmidt
+What is a modulation, in layman’s terms?
+Tatsuya Takahashi
+A modulation is just a change, basically. So if I... [tweaks knob back and forth] then I’m actually modulating the cutoff frequency there with my finger, but instead of doing it with my finger I can actually do it with the LFO, which is the low frequency oscillator, which is the same as doing [it manually]. The LFO can do it quite fast if you want to do that kind of thing [demonstrates faster LFO speed]. The LFO can also work on the pitch. Yeah, so, modulation.
+Torsten Schmidt
+How much of that do you think you actually need to know when you want to be a musician in the first place?
+Tatsuya Takahashi
+What I just talked about I think it’s important to know, but at the end of the day it's about what you want. Your ears are just so much more important than having the knowledge of where the harmonics lie. You can figure that out just by listening to the sound. A lot of the times when you’re working with synths, especially analog synths, where they have quite a distinct and strong character, sometimes they don’t sit well in the mix when you have other parts playing at the same time. And in that case, just switch the waveform or turn the resonance down a bit. It’s just from working with the sound that you want and experimenting. Finding your way there is what it’s all about.
+Torsten Schmidt
+So that’s the hard-wired bit, where does the patching come in?
+Tatsuya Takahashi
+In this particular synth, in fact, you don’t have to do any patching at all, if you want to do most of the synthesis you usually get in a synth. If you want to do some weird stuff like sample and hold, and make really spacey sounds then you maybe have to do some stuff that’s a little bit more involved. 
+Torsten Schmidt
+Sample and hold, I guess, is something that to people who grew up after the sampler was invented is always a bit confusing.
+Tatsuya Takahashi
+Sample and hold is basically a way of, if you have a continuous signal, and you play something and hold to it, it just stops the signal at regular intervals. So if you have a sine wave and sample and hold to that, it will become like a staircase wave, which is quite cool for making spacey sounds. 
+Hiroaki Nishijima
+Try the most common one.
+Tatsuya Takahashi
+So the most common way of doing this... we’re plugging the pink noise into the sample and hold, and we’re clocking it with the LFO.
+Torsten Schmidt
+Clocking, meaning?
+Tatsuya Takahashi
+Meaning the LFO is determining at what points, how regularly the signal is held. Can we see this? Maybe we can plug it in. [Mr. Nishijima demonstrates] So instead of putting it into the pitch we’ve put it into the cutoff. That was the sound of the computer that the computer actually never made. I’m going to have to turn the sound off ‘cause I’m going to plug it into here. If we look at what we're starting with, this is pink noise, basically noise, and we’re plugging that into the sample and hold, and the cutout of the sample and hold looks like this. We can make that maybe a bit faster... So basically the pink noise, which was all over the screen, has been stopped at regular intervals and the voltage has been held still. And that has been plugged into the pitch and the cutoff. [Demonstrates] Sounds good.
+Torsten Schmidt
+So I guess we can get a little deeper with that afterwards as well, ‘cause some of that stuff is around and ideally you might be around for a little bit, so if folks want to get really deep into it this is a very good chance to do so. We also wanted to touch briefly on these little machines that are here and that were not really available in a  lot of the world because they were flying off the shelves.
+Tatsuya Takahashi
+The Volcas?
+Torsten Schmidt
+What was the reasoning there?
+Tatsuya Takahashi
+For coming up with this? Well, if we could go back to the Monotron, which we released in 2010, this was our humble re-entry into the analog market. It was an analog synth with five knobs but it was really hard to play any conventional music with. It was more of a sound-twiddling, noise-making... [demonstrates] that kind of synth noodle fun. It was quite a conceptual product that we threw out into the market to see how people responded to it. And the response was that people really liked messing about with synths, and they liked analog synths and they cared if the filter came from whatever, and they knew about the MS-20 filter. It was really eye-opening to get such a positive reaction from this product. So this kind of spawned the next product, the Monotribe, which was kind of similar in its synthesis but had a sequencer in it, so you could actually make loops with it. It also had a drum machine, which Mr. Nishijima made. I did the synth section. So you could make something that was a bit more like music, you could make loops. [Nishijima demonstrates] This was in 2011.
+Torsten Schmidt
+On that note, I guess it’s worth mentioning that Korg actually started as drum machine company.
+Tatsuya Takahashi
+Yeah, the first product that we made was the Doncamatic.
+Torsten Schmidt
+“Donca”, because?
+Tatsuya Takahashi
+It’s an onomatopoeia, it’s the way it sounded. [Tweaks machine to announce “Doncamatic”] That was the founder of Korg’s voice. I think it was the world’s first drum machine. 
+Torsten Schmidt
+It wasn’t an MPC or anything of the sort, so what sort of drum machine was it? Where was it used and what’s the story behind the company coming into fruition?
+Tatsuya Takahashi
+I think Mr. Nishijima should be more informed about that.
+Hiroaki Nishijima
+Korg was founded by Mr. Kato and an engineer, Mr. Osanai, who have passed away. Mr. Osanai was an expert of machine engineering and also
+he was an accordionist. He played an accordion at a nightclub. And when he played, he needed a drummer. But hiring one would cost a lot and be a headache. So he thought maybe a machine could replace the drummer. Mr. Osanai, Korg’s founder and an expert of machine engineering, tried to invent a machine that can play a drum and do what we want to do. When humans have bad moods, they don’t work well. But if it is a machine, we can control it easily. He just wanted to have
+a convenient player for him.
+Torsten Schmidt
+Is that the reason why you guys designed the machines to look a little bit like an accordion as well, if you turn it sideways?
+Hiroaki Nishijima
+Well... Our first rhythm machine
+was Doncamatic. After it was invented, Mr. Osanai had introduced electronic sounds to use for it. At the beginning of the ‘70s, we released our first synthesizer. It’s called the Korg 700, which existed in the old days. And our original polyphonic model was just dozens of connected Korg 700s. To play the connected monophonic synth, we used an accordion. That was an origin of our synthesizer. It was an experiment back then.
+Tatsuya Takahashi
+How many were they?
+Hiroaki Nishijima
+You mean, the accordion’s keys? About 40? Yeah, around 40. It was like this [gestures the size of the instrument]. Each synthesizer had 37 keys and we controlled them by an accordion. This is one of the side stories about the machine. The circuit of the Korg 700 was drawn by a man who still works for Korg. His name is Mr. Mieda. He is an electronic circuit engineer who got involved in the project of the MS-20. Its fundamental circuit was designed by him. Before the MS-20
+we released several PS series. We attached an oscillator and a filter to each key. It had 44 keys, I guess. A polyphonic synth had existed already, before the MS-20 was released. So we took out just one tone
+from the synth and made this monophonic one. A basis of our products are those old skills. 
+We used the same filter circuit as the Korg 700 without any changes for this Volca. Its structure is different from that of the MS-20. For Volca’s chords, the filter circuit of Korg 700 fit so well. Actually Takahashi took the filter which I had experimented on. I can say he stole it. [Laughs]
+In the old days, we checked by hand
+whether each semiconductor fit in a filter, because we needed to screen them to match their characteristics. Semiconductors were actually diodes. And these days, we cannot measure and screen them by hand anymore. Diodes used to be sold as individual parts, but nowadays they are taped all together. If we take them off one by one to measure and screen, then it will be impossible for them to be soldered to a substrate. So I experimented to get sounds we used to have without doing the screening procedure. At that point Takahashi noticed that the sounds were great. This is how he happened to use the filter for Volca.
+Tatsuya Takahashi
+So yeah, the filter on the Monotribe was derived from the MS-20, and it’s a fantastic sound that it has for monophonic synths. But when I was working on the Volcas, I had three VCOS, and if you have three VCOs you need a filter that will work with the harmonies more smoothly. So I was just wandering about the office and had this filter project in my mind, and Mr. Nishijima was working on this, what we call diode ladder filter. And it was inherently quite a difficult circuit to manufacture, and for it to be stable – he was doing some experiments to make it possible to do that. So it was perfect timing. I was looking for a filter, he had one that sounded great, and we could put it into production. So it came together and we had the Volcas.
+Torsten Schmidt
+We also do have a machine in the house called a Mono/Poly, and we've mentioned monophonic and polyphonic quite a bit. Could you briefly explain what that is and why people should care about that particular machine and what’s fun about it?
+Hiroaki Nishijima
+About Mono/Poly. Mono/Poly wasn’t designed by me, but my senior worker did. It has four VCOs, oscillators. And each VCO can change pitches individually. Mono/Poly has one filter and one VCA. So it can make four sounds at the same time. We call it Mono/Poly, it is a four-sound-poly though. We made this name by mixing “mono” and “poly.” But its designer intended to make a monophonic synthesizer with four VCOs. For Mono/Poly we use ICs which are used in Sequential Circuit’s Prophet. Those were products of SSM and Curtis. The sounds are so familiar for us. That’s why it is easily accessible for users. About Mono/Poly, well, the most recommended point is its cross-modulation. Mixing oscillators makes complicated sounds close to those of FM. And Mono/Poly can control them flexibly. So it’s actually a completely analog model, and that was all we could do for the model. Other models can’t have Mono/Poly’s sounds, that’s why people care about it.
+Tatsuya Takahashi
+So if you go back to the monophonic, polyphonic thing, I think the word is paraphonic. The Mono/Poly has four VCOs that you can play separate notes on, but it will go through the same filter, the same VCA, so you can only modulate them all at once, so it’s paraphonic rather than polyphonic. Which this is as well actually. [Demonstrates] It can play three different notes but it all goes in the same circuits after the mix.
+Hiroaki Nishijima
+Mono/Poly is also available as software. All its functions can be used perfectly on PCs.
+Torsten Schmidt
+Could you briefly explain those four little machines that you designed, before we open up for questions?
+Tatsuya Takahashi
+OK, well since we’ve been talking about synths I’ll start with the two synths. This one is a monophonic synth, so it will play one note. It sounds really good here on the speakers. Like I said, it’s got the diode bridge filter on it and it’s got a sequencer. So this is with one VCO [demonstrates], that’s with two VCOs, and a third one. This is a synth for bass, bascially.
+Torsten Schmidt
+How much did you take a hint from a certain other bass machine? 
+Tatsuya Takahashi
+Um... [Laughs]
+Torsten Schmidt
+Do we need to call a lawyer?
+Tatsuya Takahashi
+I’m under a spell, I can’t see it. [Laughs]
+Torsten Schmidt
+There’s a lot of, I guess, cross inspiration between all the different manufacturers. Everyone’s following what everyone else is doing.
+Tatsuya Takahashi
+Exactly. But if you look, because these three came out at the same time, it was really important that people got the message. So this had fewer knobs, and bigger, chunkier knobs, so it looked like it was going to make a bass sound. But this, this is a polyphonic synth but you can play... [demonstrates] It’s a synth where you can do quite complicated things. So it’s a synth where you have lots of knobs, lots of parameters you can work with, motion sequencer parameters to  create your loops. And that’s what we wanted to look like.
+Torsten Schmidt
+How different would Kraftwerk’s 'Die Roboter' sound if instead of a stylophone they had had that one?
+Tatsuya Takahashi
+How different would it be if they had this?
+Torsten Schmidt
+It’s a kind of similar interface, right?
+Tatsuya Takahashi
+The interface is similar but the sound is quite different I think. We didn’t have a particular image, we just thought we’d do something a little bit different.
+Torsten Schmidt
+And in a way, the cost factor determined the aesthetics of it. I guess it looks like it was a conscious decision to make it as affordable as possible.
+Tatsuya Takahashi
+Yes. When we start, when we plan a new product, we start with things like how much is it going to cost, what is the size, should it have a speaker, how many knobs? And we close in on how we can actually make it happen. And so from the start we were like, ok, we’re going to use these knobs, and they’re going to flash so we don't have to have a separate display to show what's going on, and also we will use the same case so we can use the same mold for all three products. Cost is always a very, very important part of development. And I actually think it’s quite liberating to be working under cost constraints because, like I said, with analog circuits you always have problems that you need to find solutions to, and in doing so, on the way, you find something else that’s quite exciting. It’s the same working with a low-cost product. You need to find workarounds to avoid using really expensive components, and when you do that you discover things that you wouldn’t have if you had all the money in the world. And at the end of it it becomes affordable. You get lots of people to enjoy it and everyone’s a winner.
+Torsten Schmidt
+What’s with the drum section?
+Tatsuya Takahashi
+With this? This isn’t a synth, it’s a drum machine. [Demonstrates] Something clipping there. So the kick drum is bascially a pulse going into a resonator, and it’s very raw. It’s the kick sound of the ‘80s analog drum era. This is basically based on a lot of the sounds at the time. 
+Torsten Schmidt
+What’s with the newest one over there?
+Tatsuya Takahashi
+The newest one is a funny one because it’s actually not analog, it’s more about manipulating samples, and actually you can really destroy a sample in this. If we start with this... [plays sample] I can maybe change the pitch, or I can slice it, make it glitchy. Whatever I do I can automate, so if I turn automation on... [demonstrates] This kind of thing, changing the start point or the end point of a sample, pitching it up or down, it’s stuff that's been around for a while. It’s the same with this [gestures to other Volca machine], this has been around for decades, but I think the whole point of the Volcas is that you revisit them in a different format. For example, this isn’t doing anything new, but there is a newness to it, which is that everything has a knob and you can automate it. That just completely changes the game. This is what we’ve tried to do – we borrow from the past and we put it in a different context, in a different cultural setting, and a different type of box and a different price setting, which makes it something completely new. 
+Torsten Schmidt
+And there is something to be said for it to fit in hand luggage, and if you lose your bag, which sometimes happens to people who play at night, you don’t need to worry about how to pay your rent for the rest of the year, or get insurance and all of that. I guess there’s no questions? Can we have a mic?
+Audience member
+I was wondering, to what extent are you interacting with musicians while making the designs? Because this question occurred to me when we were talking about the human-machine interaction, but what about the musician-machine interaction?
+Tatsuya Takahashi
+It depends on the product. Usually the musician thing comes in quite late, especially because when you’re just talking about ideas in words, you don't actually know what the product is going to feel like. So that's a dangerous point to involve a lot of different kinds of people. But when we get a prototype that’s working and we’re quite sure that it’s good, then that’s the point when we start going round musicians and asking for their opinions. It’s always a difficult balance between being quite flat about various people’s views on whether your product’s good or not, but yeah, we try to involve them as early as possible and that for us is when we get prototypes ready.
+Audience member
+I thought it was interesting when you said that working with cost constraints was something you liked, but I also wondered what you would do if money was no object?
+Tatsuya Takahashi
+That’s why having this constraint is really liberating, because it’s... if I had all the money in the world to make a new product, to be honest I would have no idea what I would do. Which is... I don't know why that is. [To Mr. Nishijima} What would you do?
+Hiroaki Nishijima
+If we are told to do whatever we want to do 
+and no matter how much it costs, we would go on working forever. Maybe you would never get any new products. If an engineer tried to do
+whatever he wanted to, no one would see the end. No product would be available. We try hard to make products better under manufacturers’ cost constraints. Working more, then weighing the cost. That makes customers unable to buy the products. Keeping that balance is most difficult thing when you develop products. If we spent a lot of money to make products, we could make good ones. But that is just for engineers’ self-satisfaction. If musicians do not like those qualities, these products would never be sellable in the market. So I think we need some kind of cost constraint.
+Torsten Schmidt
+At the same time, we are in a city where we probably have the highest density of Ferrari dealers on the planet, so there seems to be a market for different types of cost constraints and more artisan craftsmanship. There are artisan synth builders as well.
+Tatsuya Takahashi
+Yeah, I think so. I just think I’d get really bored if I had loads of money. I think it’s more fun to have more people interacting with your products. Which isn’t to say it’s good to only think about sales figures. I think it’s important that you have a feeling that you want to put into a product and you do that, and it’s worthless if it doesn't get delivered. So it’s all connected, I think. I probably wouldn’t build synths if I had all the money in the world, because I would be able to do everything, which is nothing.
+Audience member
+Hello. You mentioned briefly circuit bending, and how as a kid you could actually get into it and modify things. I was wondering if you had an anecdote of one discovery that you made by chance by just trying out things? Is that on a daily basis or is that a rare event?
+Tatsuya Takahashi
+I think it happens a lot, a lot of things happen by chance. I was... I’m going to quote
+Dave Smith who quoted Bob Moog in his talk here, where he said that Bob Moog didn’t know why his circuits sounded good, because it just happens. I can really feel that when I design a circuit and it’s meant to sound a certain way. You have an image of how it would sound when you’re working on your CAD and you draw a circuit, and you test the prototype and if you’re lucky it works, if you’re really lucky it sounds the way you intended it to, but most of the time it sounds different. And sometimes it sounds different in a good way and sometimes it sounds different in a bad way. So in terms of accidental discoveries, we get them all the time, but they’re very incremental, I think. I don't think I’ve ever had a short circuit by mistake and discovered a new way of synthesis, it’s never been that big. [To Mr. Nishijima] I don't know if you’ve experienced something by accident?
+Hiroaki Nishijima
+Well... When we make sounds, we need to build 
+a substrate called PCV. There was a case that that was designed wrong, with an unexpected sound coming out. So we tried to check what was going on there and discovered something by accident. Obviously that was not what we intended by designing it. Usually engineers never design like that. Something like this happens when they design one, especially since they would not tend to follow stereotypes. I’ve been an engineer for decades and experienced the unexpected. For example, this patching. We patched this wrong, like a person who doesn’t know about electricity. But we got astonishing sounds. We still have this kind of discovery today. People here feel this way too, I guess. A mystery of sounds are still unknown, even for us engineers. The world of sounds is quite interesting.
+Torsten Schmidt
+Nishijima-san and Takahashi-san, we thank you for joining us and exploring the wonders of sound, as you just put it. Thank you very much for being here.

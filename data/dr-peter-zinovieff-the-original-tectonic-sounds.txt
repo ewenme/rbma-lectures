@@ -1,0 +1,1214 @@
+Geologist, librettist and adventurer in sound and music, Dr Peter Zinovieff was the first person to own a home computer – or rather a computer at home, as his huge device is unrecognizable from the modern PC or Mac. At EMS he helped design and build the acclaimed VCS and Synthi series, which have now become the stuff of legend and the dreams of collectors. 
+In his 2010 Red Bull Music Academy lecture, Zinovieff talks about the connections between his science and his art, discusses how to harness randomness and talks about the time he tried to get an implant in his arm connecting his muscles to the music.
+Torsten Schmidt 
+It’s going to be a rather mind-boggling day because you’re going to have very
+different approaches within very few hours. It is with very great pleasure
+that we welcome Dr Peter Zinovieff.
+[applause]
+That wasn’t even close to the right pronunciation, was it? What would it be,
+Zee-nov-e-eff?
+Dr Peter Zinovieff 
+Zin-ov-e-eff.
+Torsten Schmidt
+And how did you come to have a name like that in the heart of the British
+Empire?
+Dr Peter Zinovieff 
+Empire? I didn’t realize there was one, but my blood is all Russian, my
+parents are Russian.
+Torsten Schmidt 
+But you were born out here?
+Dr Peter Zinovieff 
+I was, in London.
+Torsten Schmidt
+But you’re not in London any more, right?
+Dr Peter Zinovieff 
+No, I live in Cambridge, with my wife [points to his wife].
+Torsten Schmidt
+Please welcome her as well.
+[applause]
+Dr Peter Zinovieff 
+What we’re listening to in the background is part of
+Chronometer, which
+I did with Harrison
+Birtwistle, it just came
+out last year. It’s the first quad sound classical music piece.
+So, it’s released as a DVD with an ordinary CD sound on one side and quad on
+the other.
+Torsten Schmidt
+Could you explain in layman’s terms what quad sound is?
+Dr Peter Zinovieff 
+It means quadraphonic. This
+piece was designed with Birtwistle in about 1970. You’ll see later from the
+slides what the studio looked like then. But it was made as a quadraphonic
+piece, it was one of the first quadraphonic pieces. This is only being played
+in stereo now. But it was a milestone. The original recording was found last
+year and then made into this DVD.
+Torsten Schmidt
+What was it recorded on?
+Dr Peter Zinovieff 
+I suppose, it was recorded on 4-track
+Ampexes and perhaps an 8-track
+Studer.
+Torsten Schmidt
+And how would you set up a system, if you want to play it in pre-Dolby
+5.1 scenarios?
+Dr Peter Zinovieff 
+A lot of luck, but it was actually under computer control, so the sync was
+done with computer control. In fact, Ray
+Dolby lived down the road from where
+my studio was and he gave us his prototypes to use before he was a household
+name.
+Torsten Schmidt
+There’s maybe about five people in this room who actually might remember
+Dolby. That’s the sign that helped your tapes to have less noise, right?
+Dr Peter Zinovieff 
+Yeah, it’s on every film.
+Torsten Schmidt
+So, there’s an actual person of that name?
+Dr Peter Zinovieff 
+Yes, he’s like Bob Moog or is it Charles Hoover, who invented the [vacuum
+cleaner].
+Torsten Schmidt 
+So, when you say it was done with computer help in 1970, I remember in about
+‘76, when I was very, very little, my dad was working in the military and he
+brought this little thing home and said, “Son, this is a computer and it will
+help us play a board game because it’s got six LED lights and it will be our
+dice.” And I’m like [looks baffled], “Why? Wouldn’t it be a lot easier just
+to roll the dice and not to use this thing?”
+Dr Peter Zinovieff 
+Well, my first computer was much before that, I think it was 1964 or something
+like that, perhaps even earlier. It was a Digital Equipment
+PDP-8 and it was the first computer in a
+private house in the world. So, I have had a computer longer than anybody in
+the world [laughter / applause]. That’s very good, isn’t it? And talking
+about random numbers, it’s not very easy to get a computer to play dice, it’s very
+difficult. What often happens is the series of numbers that comes out, you can
+recognize it as repetitive. So, what I did was to have a luminous watch and a
+Geiger counter and it recorded spontaneous radioactivity, and from that we derived random numbers, and that was true randomness.
+Torsten Schmidt 
+Excuse my ignorance, but why would you have a Geiger counter in the house?
+Dr Peter Zinovieff 
+Because it was very difficult to get random numbers, it was purely to get
+random numbers. It was almost impossible to write a mathematical function that
+will give non-repetitive series.
+Torsten Schmidt
+That probably helps, because I was wondering when I found the unit again 20
+years later, I was like, “Hang on, it’s got six LED’s, but the manual is at
+least double that volume [points to mixer]. What did they teach them with
+that?”
+Dr Peter Zinovieff 
+Well, you were lucky. Nowadays, there’s never a manual, so you have to look at
+PDF files and it’s only on the last page you find out where you want to find
+out. The days of manuals were wonderful.
+Torsten Schmidt
+Manuals weren’t so helpful as far as context or text search, though.
+Dr Peter Zinovieff 
+It’s only nowadays that people can’t turn pages fast. It’s a ridiculous idea
+to have a book that goes “next page, next page” [gestures turning pages] and
+then you want to go to page five and you don’t know if it’s page five or
+50. It’s terrible. You all agree?
+Torsten Schmidt
+All the manual labor that goes into flicking the page.
+Dr Peter Zinovieff 
+It’s terrible [laughter].
+Torsten Schmidt
+But still, we’re talking about a time when the vast majority of the public
+didn’t know what a computer was. How did you end up with one in your home?
+Dr Peter Zinovieff 
+Because I had a marvelous engineer called David
+Cockerell, who will probably go down as the best electronic music
+engineer that’s ever been. He had the great gift, or I had the great gift of
+thinking of something that I wanted and I’d ring him up and he’d make it.
+However difficult it was, he’d make it. Then, one day he said the only way to
+control this multitude of oscillators, amplifiers, tape recorders — a huge
+array, you’ll see a slide of it in a bit — he said the only way to control
+this was to have a computer. Computers in those days were used in factories
+for just that sort of thing: turn that on, turn this off, switches. That’s how
+it was first used, as a process control thing.
+Torsten Schmidt
+Obviously, you didn’t just go to an online shop or somewhere down the 
+street. Where would you obtain the parts for it?
+Dr Peter Zinovieff 
+Well, there was a company called Digital Equipment Corporation in
+America. I remember very well when I bought it, they offered a course to go and
+learn how to use it. At the end of the course, I had no idea what to do,
+absolutely none. The course was for people who already used computers in a
+massive way, with decks of cards and things. So, I said to him, “I’ll give you
+a case of whisky if you can tell me how I could control an oscillator.” He
+said, “Tad-I-Auto.” “Tad-I-Auto,” in the language of that computer meant, “Take a
+number, put it somewhere, then go back and take the next number, which will be
+the next in the stack, and give it [out].” Just by that, I realized you could take
+numbers sequentially and give them to an oscillator, so the sound would change.
+It was worth that conversation, the case of whisky for “Tad-I-Auto.”
+Torsten Schmidt
+What sort of whisky was it? Did he share some with you [laughter]? Obviously, no.
+Dr Peter Zinovieff 
+A bit left [holds up glass].
+Torsten Schmidt
+That was your eureka moment.
+Dr Peter Zinovieff 
+It was, exactly.
+Torsten Schmidt
+Just to give us some perspective, that’s just one bit of information at a
+time, one notch on whatever information parameter is changing on the
+oscillator, so you would have to repeat exactly that operation a lot of times.
+Dr Peter Zinovieff 
+Thousands of times a second, yes, to make a piece like this. This piece, you
+just pressed a button “Go,” and the whole piece came out. It was very amazing,
+really.
+Torsten Schmidt
+So, what were you doing at the time when you said, “I’ve got all these things
+and I want to do this”?
+Dr Peter Zinovieff 
+Originally, I was a geologist, that’s why this talk is called Geology And
+Music. Also, the middle part is I was also a librettist for Harrison
+Birtwistle and wrote the libretto for
+The Mask Of Orpheus, a big
+opera.
+Torsten Schmidt
+Could you enlighten us as to what a librettist does?
+Dr Peter Zinovieff 
+A librettist writes the scenario and the words, the plot of a play, then the
+composer writes the music. So, this was a very big opera. The point of this
+talk is that exactly the same thought processes perhaps go on, whether you’re
+a geologist making a map, whether you’re a writer making a libretto, or whether you’re a composer doing
+computer music or electronic music. Although it seems like a wild idea, I hope
+by the end you’ll see that I actually use the same triangles in all of these
+different disciplines.
+Torsten Schmidt
+Before we jump into this, so that people get… actually, you’re getting there,
+your involvement with a certain company that we might know these days. That’s
+part of the presentation as well, right?
+Dr Peter Zinovieff 
+EMS. I brought along a very
+old Synthi, a prototype for a Synthi A. I had this computer music
+studio and the only way we could finance it was by selling synthesizers. The
+studio wasn’t financed by the government or anything else, so we made the
+synthesizers and they were the bread and butter for what I thought the more
+important work. I never used them, I really feel shy about putting a pin in.
+Fortunately, it’s been set up now and we’ll have a lovely demonstration of it
+later. Anyone can play with this. It’s like a museum piece. Extraordinarily
+enough, people are wanting these old analog synthesizers more and more now.
+I can’t imagine why, really, because it’s so amazing what people can do with
+actual computers now. It’s not my world.
+Torsten Schmidt
+So, the whole fetish for these machines is alien to you?
+Dr Peter Zinovieff 
+It is. My whole philosophy at the beginning was to do away with cutting tape,
+which is how people made electronic music at first; slicing tape, sticking
+together with Sellotape, roughly. This seemed such a terrible idea, which is why I developed the sequencer. This reminds me a bit of tape days, taking a pin, putting it somewhere, hoping
+there’s a sound, turning the level up, it not being exactly accurate. But
+there are lots of people who disagree with me over that.
+Torsten Schmidt
+There was somewhere in the time you just mentioned, and that’s when you
+worked on the sequencer. Now, sequencers are the foundation for what most of us
+do in digital audio platforms. Just like that?
+Dr Peter Zinovieff 
+Yes, it’s to have one sound after another sound. The first sequencer I made
+was based on a uniselector,
+which is how old-fashioned telephones worked. You dialed a number and as the
+dial went back [draws circle in the air] it went pip-pip-pip. The more
+pips, the bigger the number, so nought had the maximum number and one only
+had one pip. At the exchange, this was a sequence of numbers that came in
+and it would recognize the sequence of numbers and connect you to the right
+telephone. That’s exactly what I used in the first sequencers. The first
+sequencer I made was using that telephone technique like that, and these relays
+would go around making these shuttering noises. It would switch on and off
+different oscillators, and I think that was the first sequencer in the world.
+Torsten Schmidt
+When did you hear about other people working on similar concepts?
+Dr Peter Zinovieff 
+I didn’t believe anybody was working on anything like it. Then, by chance, I
+met Max Mathews at Bell
+Labs and he was doing exactly similar
+work with a program called Groove. Then, after we had
+done these synthesizers, who should turn up but a fellow called
+Moog in America. I’d never heard of
+him, thought he must have copied us. So, it was very strange working in
+parallel, but unknown to each other.
+Torsten Schmidt
+Well, I guess those of you who were around — which is probably two people in
+this room, if I see correctly — but it was quite a common thing to annoy the
+fuck out of your parents or grandparents by playing with the telephone,
+because that relay sound was so beautiful in a way. It was a similar
+fascination.
+Dr Peter Zinovieff 
+The best thing was it was called “phone freaking,” wasn’t it? You could tap
+the number and avoid the exchange and the ultimate phone freak was to tap
+enough so it would go from satellite to satellite to satellite and come back
+to you with a noise like this, “Shhhhhhhh!” Then you knew you’d gone around the
+world 25 times and it was successful, that was the goal [laughter].
+Torsten Schmidt
+You said you did it out of necessity, and then you heard about the Moogs of
+this world. When did you realize there was enough there to make a living out
+of it, or to turn it into a business venture?
+Dr Peter Zinovieff 
+I think we did it at the same time or before Moog. We started and at one point
+we nearly bought him up, he nearly went broke. But we just couldn’t afford it.
+I wish we had, from a commercial point of view. He once came when we made the
+VCS-3, he sat on my floor in my
+studio and he thought it was marvelous. The idea of leads was even worse than
+cutting up tape, to have leads connecting from one place, like we’ve got here,
+they still exist. It’s extraordinary, in a few years we won’t have these.
+Torsten Schmidt
+That’s what we all hope. So, with the VCS, these things are very, very sought
+after now, but they never – weirdly enough – got the same recognition in their time. Is that
+because you never had the same business partner backing you up as some of the
+Americans had?
+Dr Peter Zinovieff 
+Partly. When they were just taking off and doing very well, we were going to go
+public in America. But my company, EMS, got cheated by our American partners,
+who gave us a duff check and then the company collapsed. It was a very sad
+story, really, because once we couldn’t sell these machines, then the studio
+collapsed. The studio was taken over by the National Theatre here in London.
+At that time, it was huge, hundreds and hundreds of leads connecting
+everything. You’ll see in one of the pictures. They put it in the basement,
+the basement leaked and the last time I saw it all this equipment was covered
+with exercise bicycles and water. It was a terrible thing. A few of the
+Ampexes survived, but that was the end of that disgraceful story.
+Torsten Schmidt
+Is that the same place you talk about? Because I don’t know how these things
+end up online, but we found a page from a diary from 1976 where you talk about
+rain coming in…
+Dr Peter Zinovieff 
+No, that was into my studio, that was in Computer Arts Magazine. I don’t know how it got online, but
+that was a week in the busy life of my studio.
+Torsten Schmidt
+Do you recall, because there’s a great analogy about this movie and when the
+Tatars took over this church or
+monastery?
+Dr Peter Zinovieff 
+That’s right. Rublev was the name of
+the film and after the Tatars come and sack the whole town, and
+Rublev, who’s the greatest
+painter of icons…
+Audience member
+It’s an Andrei Tarkovsky film.
+Dr Peter Zinovieff 
+Yes. Then, in this great cathedral when it burns down, he says, “It’s very sad
+when it rains in a cathedral.” And it was like that — it was very sad when it
+rained on my studio.
+Torsten Schmidt
+I guess, we’ve got a bit of context, so we can start what you’re really going
+to talk about, so people won’t go, “Where are we?”
+Dr Peter Zinovieff 
+I must explain a bit about this, but unfortunately some of the slides don’t seem
+to work, so I’ll have to try to skip them on. Also, this is a new laptop of
+mine and I don’t seem able to liaise it properly, so I’ll have to do the
+presentation from there. It’s alright, but there’ll be a few hiccups. Also, if
+anyone wants to just stop me at any point, this is meant to be light
+entertainment [laughter]… So, shall I start or are there any questions at the moment? [pause]
+OK. [Starts slides] So, here I’m saying that science, a geological
+map, and a libretto and electronic composition were three lucky involvements
+of mine, all completely different, but they were very lucky. [Film starts]
+Does it go on or not? This is a synthesized voice, possibly one of the first
+big synthesized voices of a crofter in the north-west of Scotland telling a
+story. Here’s where the crofter was… this is a steamer, there is the Isle of
+Skye opposite, and note the tidal shore where the tide goes up and down. That
+whole area was a wonderful, wonderful volcano about 30 million years ago in
+the tertiary times. This is what it looks like now, and when I was at Oxford
+doing a doctorate this was the area I had to map. In those days, I had
+a band with a biscuit tin and that was the closest I came to electronic music,
+but that was a long time ago. Here’s another view. I stayed in this bothy
+there and I had to map these mountains. That’s what climbing was like in those
+days, so it shows how long ago it was.
+Audience member 
+Is that you?
+Dr Peter Zinovieff 
+Yeah, it is. I was interested in music then, as you can see, and I had my own
+synthesizer when I was camping. I mapped it onto aerial photographs and
+analyzed the rocks, finding little details and the various layers, just like
+in a musical composition. So, I analyzed those and looked in the tiny details,
+like the crystals, looking for little peculiarities; like sampling, it’s very
+much like sampling. And here is more detail. I’ll play a piece later, which
+will show how this works and what I’m doing at the moment. The scale of
+everything is completely important in geology — are you dealing with big or
+little things? Each contributes to the whole. The structure, which is like a
+composition, here’s the actual chemical structure of a rock. Here’s the
+structure of an Ultimate computer music piece, which says, “Please make me a
+composition” to a computer. Here is a structure of Act III, and you’ll see
+each of these looks very similar. There’s the structure of the crystal,
+there’s the Ultimate computer composition with things like tension, surprise,
+dependency, randomness all in there. And there’s the structure of the third
+act of a libretto. And there’s the final geological map. So, that’s the end of
+the geology bit.
+
+[Video plays]
+Torsten Schmidt
+For the non-native speakers, what’s a whippet?
+Dr Peter Zinovieff 
+That was my studio down at the bottom there overlooking the Thames.
+Torsten Schmidt
+Whippet is a dog.
+Dr Peter Zinovieff 
+So, this was a very, very exciting piece I did with Hans Werner Henze. It was wonderful, from
+whipping the piano with whips to wonderful Italian meals, it was a terrific
+adventure.
+Torsten Schmidt
+How did the Italian meals get in there?
+Dr Peter Zinovieff 
+Because Hans brought over his assistant Fausto who cooked all these meals. It
+was a month or two of wonderful, wonderful times.
+Torsten Schmidt
+Doesn’t sound too bad. And LSO stands for? Maybe you
+want to pause this for a second.
+Dr Peter Zinovieff 
+London Symphony Orchestra. This is recording for the clocks in Chronometer. This
+is in the Science Museum, the world’s clock, then we went up to the top of Big
+Ben and recorded all the different little mechanisms.
+Torsten Schmidt
+Can you actually enlighten us, if we pause this for a moment, one thing we
+notice is when you go past churches here they seem to be terribly out of tune.
+Not like a good German church bell [laughs].
+Audience member
+The bells, you mean?
+Torsten Schmidt
+Yes, they seem to be playing a weird off-rhythms.
+Audience member
+It might just be the ropes rather than the mechanism doing it, that might be
+the difference.
+Torsten Schmidt
+You think so?
+Dr Peter Zinovieff 
+I think you’re wrong [laughter], I think this is bell-ringing proper here.
+Torsten Schmidt
+Oh well, I thought it might just be from clocks to bells…
+Dr Peter Zinovieff 
+This is a video that doesn’t work. The point of this is this was a wonderful
+exhibition called Cybernetic
+Serendipity. At this
+point, people came along and whistled into the computer. The computer would analyze
+the whistle and would often guess what the person was going to whistle next. I
+took several of the most popular tunes that people would whistle and the
+computer, a massive great thing, would make tunes out of the whistles. This
+was a very, very important advance in robot electronic music and it’s still
+talked about today, it was a real milestone this exhibition in 1970 of
+Cybernetic Serendipity.
+Audience member 
+[inaudible]
+Dr Peter Zinovieff: 
+Yes.
+Audience member 
+Were these computers all fully transistorized?
+Dr Peter Zinovieff 
+Transistors. One could actually repair a module of memory. This computer,
+which was half the size of the wall behind me, I suppose, had 8k of memory. In
+the end we got a 32k hard drive, which was huge. We never thought we could
+fill it [laughter] and it was 32k. On this little computer here, I’ve got 4gb
+of memory and half a terabyte of disc space. The difference between that, from
+8k to 4gb is completely amazing. That computer cost a fortune, this one cost a
+few hundred pounds.
+Torsten Schmidt
+Did you have any benefactors to come up with that fortune?
+Dr Peter Zinovieff 
+I did… we’ll come to that in a bit. This was one of the first studios I built,
+so there were quite a lot of leads. [Video starts again] Those were
+oscillators. [Video continues] That’s David Cockerell. [Video pauses]
+Actually, eating a lump of sugar was meant to be… That was David Cockerell.
+Torsten Schmidt
+So, that was part of a longer documentary that’s available online?
+Dr Peter Zinovieff 
+Yes. [Video starts again] This is the rain I was talking about falling into
+my computer.
+Audience member
+Which piece did you work on with
+Stockhausen?
+Dr Peter Zinovieff 
+It wasn’t a piece, he just came and fiddled around, really.
+Torsten Schmidt
+As he does.
+Dr Peter Zinovieff 
+This is how the studio gradually developed into something much smarter than
+that. These are my three children and this is an advertisement for the future
+of opera. I didn’t, at this stage, know I would be involved in making an opera.
+And we made these crazy advertisements: “Every picnic needs a Synthi,
+everybody needs a Synthi, every band.”
+[video continues]
+Torsten Schmidt
+That’s like the ultimate triple-X for most of us.
+Dr Peter Zinovieff 
+Then we invented a vocoder, the first vocoder, now used a lot, but this was our
+advertisement. A lot of bands have used these. Pink
+Floyd is a good example, they bought lots of
+them. Every time they bought something, I could do some more experiments.
+[video continues] 
+So there’s my studio, I don’t know why it’s there, but
+still. Here’s a new type of computer. I was very interested, still am, in
+producing scores. I hope this will pause. This says, “Please make me a
+beautiful composition.” After a bit, the computer answers and says, “This is a
+beautiful composition, but do you know if it is?” So, you ask the computer
+back, “Is this a beautiful composition?” And the computer, of course, says,
+“Do you think it is?” And you have to answer, “I suppose it is, you made it.”
+And the only answer you can do then is, “Please make me another beautiful
+composition.” I think this is about the most succinct computer music score you
+could have of those initials. On the other hand, behind this frivolous idea I
+did have the idea of making a tetrahedron, coming back again to triangles, and
+you could slice a tetrahedron and within it you’d have areas of tension like
+expectation, surprise, greyness, dependency, tension. Wherever you cut this
+tetrahedron, you would have a score where you would obey these emotional rules.
+That was a very ambitious idea, that this was what computers would be able to
+do.
+Audience member 
+That image is almost like cutting through strata in rock.
+Dr Peter Zinovieff 
+Again, it is, yes. Now we’re going onto the structure of Act III based on the
+tides, which you saw at the beginning.
+[Video starts]
+Oh, a bit more first.
+[Video continues] 
+She’s now becoming famous, that’s Delia
+Derbyshire starting it, who was my
+colleague. There we have it sitting on the stage of the Queen Elizabeth Hall,
+this ridiculous idea.
+[Video continues]
+[Cites video] 
+Neo-Weber, that was fantastic.
+[Slideshow continues]
+So, this was the studio when I went to Oxford with it, that’s roughly what the
+computer side of it looked like. That was all the paper, tape, the printer –
+that was the computer set-up. These are more modern experiments.
+(music: Orchestral Bach recording plays, followed by a computer-controlled interpretation played on a Yamaha piano)
+DR PETER ZINOVIEFF
+This is a very good quest, waveform to MIDI. This is a wild experiment, this
+is a picture advertising Cambridge University alumni travel program, which
+my wife did. I wondered, if you scan it into
+Sibelius, what sort of sounds
+could you get out of that instead of from a score. So, what do you think that picture
+could give you? Do people here use Sibelius? This is using the scanning option
+from that picture. So, it’s found the bow and it’s found points. 
+There was a wonderful picture in a magazine called Source, again from 1970s, a very lavish American magazine, and there was a bloke with a huge bit of manuscript paper about 50
+yards away and he had a machine gun and he’d been shooting at the score and so you
+had bullet holes. Then he’d reduce the score and that’s what people would play.
+This was the same sort of experiment. For me, it just seemed amazing that you
+could get someone to play a piano and whatever they played would become a
+score in front of your eyes. I’m very involved at the moment in this, I’m
+working with a marvelous violinist and she’s playing directly into Sibelius.
+[Video continues]
+So, here’s a synthesizer, which is here, this is an older model of it, anyone
+can play with it afterwards. Here are some programs I’m using at the moment –
+some are being developed for me by York University. And this is part of a
+piece I’m doing for a sculpture in Istanbul later this year. So, here we have
+again this quest of waveform to MIDI, here’s
+Beethoven being converted
+into a MIDI file. Here’s an artificial singing program. There’s a rough
+melody and that could be transformed, that Beethoven symphony could be
+transformed. Here I’m using n-Track to collect a few
+things from what we’ve been hearing together. There’s the MIDI file of
+Beethoven, and my whippet, and other things will now come together. That’s a
+part of a Henze, but distorted. At the back it’s still my whippet’s heart
+going “boom-boom-boom: and the Beethoven dribbling along. 
+Now we’ll move along
+to the last part, which is the libretto, so here’s part of the Mask Of
+Orpheus. 
+(music: Peter Zinovieff - Selection from “The Mask Of Orpheus”) 
+DR PETER ZINOVIEFF
+It was originally for Covent Garden, but via Glyndebourne it ended up in the English National
+Opera. So here are the tides, which you’ve seen before, both from the Isle of
+Raasay and outside my house in Putney in London, where my first studio was.
+Sometimes the studio would even flood when the Thames got high. Always been
+terrible, really.
+Audience member
+Can you explain to people here about Harrison Birtwistle?
+Dr Peter Zinovieff 
+He’s probably our most distinguished British composer. And he’s called
+Harrison Birtwistle [laughter]. This is part of the structure of this
+libretto, it’s not just a question of writing words and a singer singing them.
+It’s also a very contrived artificial thing. For instance, I imagine that on a
+beach are various objects, like a bit of fishing net, an old bit of
+bone, a fossil or something. The tide comes up and covers each of these objects, then
+the tide falls and uncovers these objects. Each time that they’re covered or
+uncovered it triggers a dramatic scene, say, perhaps the death of Orpheus or
+the rebirth of Orpheus. So, this structure of the tides falling and rising is the
+structure of the whole of the Act III, which is about an hour long, in this opera.
+In the same way, the staging, the type of masks people wear, the gestures they
+make, everything is dependent on this thing, the tide moving up and down and
+up again.
+Torsten Schmidt
+Is that a dedicated sign language there, or is that something you came up with?
+Dr Peter Zinovieff 
+It’s something I came up with to represent the main protagonists in the opera.
+In the same way, it becomes so far away from language that I invented a special
+language for them to speak. I used the words “Orpheus” and “Eurydice,” and out of
+these syllables I invented a language that had its own context and grammar and
+tenses and vocabulary and had to be written. I used an IBM typewriter — there
+weren’t word processors in those days — and overlapped the letters, so that when the
+singers had to sing them, they looked at something incomprehensible as well. So,
+the language was incomprehensible in all sorts of ways. I don’t know if you
+can see there, but the translation of English to Orphic is very complicated.
+Although it’s simple, Orpheus might sing something like, “I can see an oar on
+the shore.” But what he would say is [makes incomprehensible sound], which
+has never been sung before, it’s untranslatable except as a notion. So, this is
+a song in this invented language.
+(music: Philip Langridge - Selection from “The Mask Of Orpheus”) 
+This is by Philip Langridge,
+who died two days ago. So, although this is an English opera, one can’t
+understand what these words are. It’s very difficult inventing a new thing to
+sing, these are professional singers and they have to learn it by heart.
+Torsten Schmidt
+So, you use these professional singers as professional components in you
+synthesizing a language, basically?
+Dr Peter Zinovieff 
+They had to sing it, it’s an opera, a proper full-scale opera. This is what
+I’m involved in now, this sculpture, it’s on its way to Istanbul from Seville.
+Bartók in the late 1930s
+recorded a lot of folk songs in Turkey. Here is one [fiddles with slides].
+This is the last slide. 
+[music starts]
+This is what you can get from the
+archive now. I’m using this sort of song. This is Bartók recording on a wire
+recorder.
+Torsten Schmidt 
+So, basically similar to what Ralph
+Peer and the guys in America did,
+just went out there and documented folk songs?
+Dr Peter Zinovieff 
+This is the sort of thing I’m doing now. You’ll hear in this the same
+heartbeat that I emphasized in the beginning, the same Beethoven. Of course,
+I’m doing all this on the computer, I’m not using any equipment at all. York
+University, who control this sculpture, wherever it is, from York… This
+sculpture has 150 loudspeakers in it. It must be the most elaborate sound
+installation in the world, and it’s all controlled from York University.
+Because I’m one of the composers producing music for it in Istanbul, York
+University are making these amazing little programs and one of them allows
+you to slow down music without changing pitch or losing any information.
+Another one is an extraordinary filter bank, which has something like 2,000
+filters, so I can do a graphic display and take out tiny little parts of the
+sound, which I want. It’s incredibly luxurious to have these
+Max/MSP programs being
+made for me. Max/MSP is a music programmer’s delight, I think. It’s
+complicated but wonderful, I’d recommend it to anyone. Expensive, though. 
+This is my origins, a Russian troika, and that’s the end of this little
+demonstration. I will now answer any questions about these slides or go back
+to them. Thank you.
+[applause]
+Torsten Schmidt
+I guess, before we open it up, there are a few questions flying around. OK, the
+saucy ones first. Did we hear that right? Delia Derbyshire was your assistant
+at some stage?
+Dr Peter Zinovieff 
+Yes.
+Torsten Schmidt 
+Lucky you.
+Dr Peter Zinovieff 
+I formed a group called Unit Delta Plus and I got Delia Derbyshire and Brian
+Hodgson from the BBC to help me
+in that.
+Torsten Schmidt
+Were they doing the Radiophonic Workshop already?
+Dr Peter Zinovieff 
+They left the Radiophonic Workshop to join me. The idea was that we would make a
+fortune doing commercial sounds, but I wasn’t interested in doing commercial
+sounds. We did one for Philips, which was something like “Whoooop,” and that
+was it. We got a lot of money for that, but I didn’t want to do
+that, so we split. But they didn’t succeed either. I didn’t want to have a
+commercial studio, I wanted an experimental studio, where good composers could
+work and not pay. In fact, rather like this organization, the same sort of
+philosophy. If anyone had a good project, they could come and work in my
+studio and I wouldn’t charge them. It wasn’t just Henze and Birtwistle who
+came, but quite a few. We often had Arts Council courses and perhaps 20 people
+would come and study over a month, so in that way it’s very similar to [the]
+Red Bull [Music Academy], I think.
+Torsten Schmidt
+Obviously, we can only judge it in retrospect and are amazed when we watch
+documentaries on Radiophonic Workshop, but…
+Dr Peter Zinovieff 
+I’m amazed, too, because these archive films, I had no idea they existed until
+a few years ago. So, it’s extraordinary for me to look and think this is
+actually what happened.
+Torsten Schmidt 
+Can you recall what these people were doing in a very public environment — and
+publicly funded as well — how they were perceived by you and your likes as well as the general public?
+Dr Peter Zinovieff 
+The Radiophonic Workshop was really purely for sound effects on radio. It’s
+become famous because of the Doctor
+Who. But, otherwise, it
+was a very primitive tape studio, not in any way a research studio. They
+bought, for instance, EMS equipment and other equipment, but it was never
+advanced in the way that Cologne was and
+Utrecht was and Columbia. It wasn’t an academic or
+research studio.
+Torsten Schmidt
+Who were your other customers at the time? You mentioned a few educational or
+broadcasting facilities that were kind of mixed-roles. The Cologne facility,
+as Professor Podmore would be able to
+tell you, is still like this bizarre museum that no one was able to get into.
+Massive chunks of money were sunk into these places, but who else could afford
+these things?
+Dr Peter Zinovieff 
+Mainly radio stations and a few universities. Everybody bought little ones
+like this, but the big Synthi 100, which was a bigger version of this... Perhaps
+someone would come and hold it up [Interviewer holds up the synthesizer]. The other way
+around, not to me.
+Torsten Schmidt
+I just want to be gentle.
+Dr Peter Zinovieff 
+This was a Synthi A, a very primitive one, the first one. We made a huge
+version of this called the Synthi 100, and I think we made 30 or 40 of those.
+Torsten Schmidt
+Do you know how many of those are still around? We obviously only know the
+pictures.
+Dr Peter Zinovieff 
+No, I want to find one. If anyone knows of one, I’ll pay them some money
+because I know I can sell it for a fortune.
+Torsten Schmidt
+I saw one on the internet that went for a six-digit figure.
+Dr Peter Zinovieff 
+That’s it. I’m not going to tell where I think there are some. People talking
+Orphic, you know?
+Torsten Schmidt
+What do you make of a German company now doing…
+Dr Peter Zinovieff 
+Ludwig Rehberg, he was my
+German agent. In fact, Robin Wood, who was my studio assistant, now owns EMS and
+he’s about to start up remaking a batch of VCS-3s, just exactly the same as
+the originals, but they are going to cost a fortune. The whole idea of the
+originals was that they’d be very cheap, and any musician could buy one, sort
+of.
+Torsten Schmidt
+Yes, I think it said like £330 in the ads.
+Dr Peter Zinovieff 
+For a VCS-3, yes.
+Torsten Schmidt
+But at the time, that was obviously a totally different £330 to now.
+Audience member 
+About half the price of a car.
+Torsten Schmidt
+Half the price of a car.
+Audience member 
+A small car.
+Dr Peter Zinovieff 
+But you can’t really compare it, because there weren’t many electronic things
+then.
+Torsten Schmidt
+But when you say you wanted every musician to be able to buy it, in the
+end it was bands like Pink Floyd or The Who…
+Dr Peter Zinovieff 
+Well, we sold several thousand, so several thousand did buy them. It was the
+same sort of price as the Moogs in America. You have to bear in mind that a
+pocket calculator cost a lot of money then. A telephone cost a fortune, a mobile
+telephone was very expensive. The fact that these things are much cheaper now
+doesn’t mean that people wouldn’t have bought them then.
+Torsten Schmidt
+Still, how do you feel now when, even up until the late ’90s, having the
+actual financial funds to obtain a physical unit was a big threshold for many
+people doing music, whereas now, it’s more a matter of finding free wifi and a $300 computer.
+Dr Peter Zinovieff 
+Well, the programs for a computer are still quite expensive.
+Torsten Schmidt
+But it’s a lot easier to find another version of that than to steal a physical unit.
+Dr Peter Zinovieff 
+Let’s say you have a powerful enough computer to run a good computer synthesis
+program and have MIDI input and all the things you want, you’re up to quite
+a lot of money. You couldn’t just spend £500, you’d need a lot of data
+storage, you’d need a lot of peripherals. What would it cost? Two thousand,
+two-and-a-half-thousand pounds?
+Torsten Schmidt
+I think most people here would do it on a standard unit that’s below a grand.
+Dr Peter Zinovieff 
+With input and amplifiers?
+Torsten Schmidt
+Amplification is a different thing, but most people just use their headphones,
+if you look around.
+Dr Peter Zinovieff 
+What you’re doing here is really the answer, to use lots of recording suites,
+people to be able to come and go and have high-class equipment. It’s much
+better to have limited facilities of very good equipment than to have a lot of
+bad equipment going around. Also, on headphones you can’t really hear what
+it’s going to sound like. The higher the quality of the programs you use,
+the better the facility, the more you can do with it. It’s still nothing like
+the end, it’s only the beginning of what you can do with computers. The
+programs are terribly primitive, all of these mixing programs and the
+stuff you can do with them. MIDI itself is incredibly naive, sampling is still
+naive, it’s still the beginning of electronic music, what’s happening.
+Torsten Schmidt
+Something that’s sometimes, I feel, overlooked when we talk about the history
+of synthesis, we’re mostly talking about warm sound and getting that original
+sound and that sort of stuff. But what strikes you most when you get in touch
+with these units for the first time, they do actually have an inherent rhythm
+within them. A lot of the sounds do provide you with some rhythmic elements
+straight away, if you apply some sort of modulation to an oscillator.
+Dr Peter Zinovieff 
+What’s the opposite of no rhythm?
+Torsten Schmidt
+Silence, maybe? But the interesting thing is most people would go, “I want to
+get that sound,” a single-hit note, a one-shot note. But most synthesized
+sounds do have a lot of movement within them, and the beauty of using analog
+equipment is you can manipulate the very parameters of that rhythm a lot more
+directly than you can on a computer screen.
+Dr Peter Zinovieff 
+Do you think that’s true?
+Jono Podmore
+I think that’s true, I’d agree with you. The thing I find out about the
+AKS and VCS-3 is that all the
+parameters are out there for you to touch immediately. When you’re using a
+mouse or a trackpad, you can only use one parameter at a time. You’ve got much
+more access to more parts of the machine, and you can play with any number of
+them simultaneously. It’s much more difficult with the current state of the
+digital equipment.
+Dr Peter Zinovieff 
+I think you’re right, I think it is. David Cockerell, who you’ve seen a lot in
+those pictures, I wanted him to make an implant into my arm, which in those
+days — this was a long time ago — would purely control a voltage-controlled
+oscillator. I thought I’d be able to think “high note,” and out would come a high
+note. There’s no reason why not, absolutely none. You could train your arm,
+but I couldn’t find a doctor to do it [laughter]. That’s true, he designed
+the thing.
+Jono Podmore
+Maybe you could put it in the whippet? 
+Dr Peter Zinovieff 
+Maybe, but I think what you’re saying is right. It would be much better to
+have a multi-sensory input, in which case you don’t need to have the physical
+thing because we’ve only got two hands and five fingers on each. It would be
+much better — and I’m not joking here — to have direct thought to computer
+control.
+Torsten Schmidt
+I’m sure you’re pretty aware of this, but there have been lots of experiments
+on this in the last 30 or 40 years, and they found that the
+currents used in the brain are just too low, so the amplitude wouldn’t be big
+enough for the pick-ups to recognize the differences, so far, at least.
+Dr Peter Zinovieff 
+Yes, that’s direct brain rhythm, but I’m not talking about that, I’m talking
+about muscular.
+Torsten Schmidt
+So, you’re consciously controlling some part of the body?
+Dr Peter Zinovieff 
+Your thought controls it. You learn it, you can learn to control this muscle.
+You only have to have the slightest change of voltage to have the highest and
+lowest frequencies. And you can have several of these, just as you can move
+different fingers.
+Torsten Schmidt
+But would the advantage be that big? The brain information going into making
+the finger turn something.
+Dr Peter Zinovieff 
+You’d be able to turn 100 [laughter].
+Torsten Schmidt
+Do we have a scientist in the house? Can we work on this one now?
+Dr Peter Zinovieff 
+I think so. Anyway, we can’t forecast. This is 200 years ago, what I’m talking
+about. In the same way as this is 200 years ago, what I’m talking about here,
+in another 200 years, say 2015, or whatever acceleration is.
+Torsten Schmidt
+So, you’re basically suggesting we all go out with neuro-scientists and get
+some Intel...
+Dr Peter Zinovieff 
+Is there anybody here who’d be up for such experiments?
+Audience member 
+Ray Kurzweil, I’m sure you’re
+familiar with his work, he’s talking about the same thing with the scanning of
+the brain and the wifi connecting to the synthesizer via the chip in your
+head. It seems like an idea that a lot of people are talking about. I don’t
+have a question.
+Dr Peter Zinovieff 
+I don’t want it in my head, I want it somewhere else. My nose perhaps. I do
+think that computer music is only at the beginning. It’s made huge advances from
+the first Music 5 programs, which were the first computer synthesis
+programs. It’s advancing all the time. I think it’s going through a rather
+static phase at the moment, it’s producing these programs to produce these polished nuggets of sound without enough scope for wild experiments. That’s my feeling, I might not be right. But who’s inventing completely new programs that don’t use MIDI, say? York University is one.
+Audience member 
+Is Trevor Wishart still at York University? Is that who you work with?
+Dr Peter Zinovieff 
+No, I don’t. This sculpture, which I showed you, is financed by Morning Line,
+they financed a whole new research department for several million pounds at
+York University under Tony Myatt. It’s an annex to it, it’s got fantastic facilities, very good
+recording studios, state of the art in Britain.
+Audience member
+You’ll have to excuse me, I’m going to gush for a minute. I found your mapping
+of the libretto extremely freaky, because when I was a kid trying to figure out
+how to produce, I noticed all my favorite tracks on records were all number
+seven. I figured there needed to be a reason for that so I listened to the
+records with the Cartesian plane and time. The Y value would always be if it’s
+a rock record, how much does it rock? If it’s a soul record, how soulful is
+it? I came up with the exact same curve in some of the best albums of all
+time. In later years, I was doing film school and learning about classical
+story structure and it’s the exact same curve. Freaky shit.
+Dr Peter Zinovieff 
+Number seven is 777, the Aleister
+Crowley book. Seven is the
+magic number of all magic numbers, so it doesn’t surprise me [laughter].
+Audience member 
+Anyway, my question — or my first of many questions, we’ll see how much time
+there is — is in my experiments of trying to impose this curve upon my music,
+writing, cooking, whatever, you don’t come up with the perfect album. There’s
+something to be said for this non-quantifiable thing. You have perfect albums
+that don’t adhere to this perfect curve. But how do you cater for the
+unquantifiable thing that makes it beautiful?
+Dr Peter Zinovieff 
+Inspiration. I think that comes back to my Geiger counter and the luminous
+watch and random numbers. It’s very, very important to tame randomness.
+Although there’s a randomness, you tame it in the direction you want it, so there is the
+unexpected. This is what inspiration is, taming the unexpected and the
+unexpected can only come from randomness.
+Audience member
+So, when you’re composing or writing, how do you introduce randomness?
+Dr Peter Zinovieff 
+I suppose, just allow it to. A poet would surely say there’s a random element
+to what comes to him on paper. Every word can’t be preordained by himself. It
+must be, “There’s a good idea, so where does that good idea come from?” Maybe
+the sunshine, or in my case, the rising tide. The tides moving up and
+down were an incredibly good inspiration for this pattern. That’s fluke, that
+is a randomness. You have to let yourself be open to these things, to let them
+come in.
+Jono Podmore 
+One of the points we were talking about early on, one of the reasons why the
+synthesizers like the Synthi A are becoming popular again these days is
+because of their analog nature, there is a degree of randomness in there.
+They behave. But when you put your right number in your right box of a digital
+piece of software that you’re running on your computer, it just does exactly
+that. The slightly random nature of the little bit of grit in the carbon track
+is where that little bit of inspiration comes from for people who’ve grown up
+completely working in the digital domain.
+Dr Peter Zinovieff 
+Yes, you’re right. But in my new life doing electronic music again — my very
+lucky new life, because I wasn’t doing it until a few years ago — now I find
+using real sounds is where the randomness comes in. In those bits I played
+you, each of those samples is a different sample so it varies the randomness.
+The trouble is, I feel with synthesizers I know the sound, so it’s too
+repetitive for me. Whereas the gigantic sound of an orchestra, no two pieces of music
+by live performers are ever the same, is it? You take a piece of sheet music
+and there are no two performances of it ever in history that are identical. So
+this translation from a score or an idea is completely amazing. I think what
+you were talking about is that the essence of music is that there’s always
+something unexpected. And what you were saying about the randomness... No
+vibrato on a violin is ever the same as the previous one.
+Audience member
+Another thing that’s been freaky for me is that I’ve also done similar experiments. I
+had a little G2M audio to MIDI converter
+box, it’s meant for playing
+monophonic guitar lines. I would put random found sounds into it and see what
+my synthesizer would play. It was just rubbish, but now there’s a company
+called Melodyne that allows you be able to sample a chord and break it down into its parts.
+Dr Peter Zinovieff 
+You can already with Melodyne
+2. They’re just producing the
+new version, Melodyne 3, but with Melodyne 2 you can do that already. That
+allows you to shift or move the chords and stretch them apart, it’s an amazing
+program. But I’m amazed by that example I showed you of a Beethoven being
+transformed into recognizable — I can’t remember what — it was Tubular
+Bells, I chose. But it’s still
+recognizable as Beethoven, although it’s waveform to MIDI. It’s completely
+extraordinary.
+Torsten Schmidt
+I think there is a question over here.
+Audience member 
+Sorry, I’m just going to jump in quickly. It seems we’re talking about the
+sounds of synthesizers and the kind of randomness in sound that we all really
+seek after from the older gear because we like that character. We touched on
+the MIDI thing, converting actual audio to MIDI. Do you foresee a time when
+you can digitize the sound of an instrument? I think a lot of the old
+experiments, when you hear the
+Mellotron choir and stuff, that was
+the closest we ever got to a pleasing sound converted to the electronic thing.
+But now MIDI signals seem so far away from the actual feeling of real
+instruments.
+Dr Peter Zinovieff 
+I’ve had a lot of lovely pianos in my life and I’ve now got a Yamaha CLP-170 and it’s got a Steinway sampled piano, which it plays back. It’s a lovely, lovely piano. I can control it by MIDI and out comes this synthetic but sampled real piano and it’s a lovely sound. You’d be
+hard pushed to say this wasn’t a piano. The same with new Sibelius orchestra
+sounds, they’re very good in the new version of instrumental sounds,
+especially the sampled ones. So, you can get real sounds and this will improve.
+The actual amount of gigabytes you need for the samples is so large. When
+space becomes faster and memory even better than now, it won’t matter how big
+the samples are and you’ll be able to synthesize very realistic sounds. Does
+anyone agree?
+Audience member 
+That was kind of where I was going with that. The computer is always going to
+be “x” amount of numbers, no matter how high you set the parameters, that’s the
+beauty of the early synthesizers that we all love. Even though you’re creating
+an electronic sound, there’s always that beauty of the randomness and
+something you can’t put your finger on. Is there ever going to be a point in
+time where a computer can do that?
+Dr Peter Zinovieff 
+If you think that your head is in a way a computer, when you listen to sounds
+in your head, do you hear them differently each time?
+Audience member 
+Probably.
+Dr Peter Zinovieff 
+So, the answer is yes.
+Audience member 
+You were giving us the example of when you used an image to transform it into
+a score on Sibelius. We’ve been talking about randomness and the importance of
+randomness in music, but how do you balance randomness and order? How do you
+suggest we use the devices? You gave the example of the score. So, OK, I have
+the score based on the image, how do I make it into a piece of work of my own
+from that point?
+Dr Peter Zinovieff 
+Well, I hope that you’re going to tell me [laughs]. That’s what we’re all on
+about, that’s what we want to do. There isn’t an answer to your question,
+there are a million ways of doing it. It would be wonderful if I could say, “You want that secret? I’ll give you this piece of paper.” I would love to
+have such a piece of paper.
+Audience member
+I have another question, it’s a bit technical. You mentioned the Geiger
+counter. The algorithms being used back then are still more or less the same,
+still ring-based. How exactly would you insert the random numbers from the
+Geiger counter?
+Dr Peter Zinovieff 
+You’d have to have a sampler that would sample the number of clicks given off
+a Geiger counter, and from that you derive a number. Then you’d have a list of
+numbers, an ever-generating list of numbers. Then you’d contain those numbers
+in whatever way you like.
+Audience member
+And the sequence repeats itself…
+Dr Peter Zinovieff 
+No, the sequence would never repeat, it would always be coming out, forever.
+Audience member
+Because you are constantly using a different…
+Dr Peter Zinovieff 
+Right. It comes out all the time so you would have a USB Geiger counter and
+out come some random numbers. Then with just easy mathematics you can choose
+what to do with those numbers.
+Audience member
+Then you use a modulo and the
+remainder?
+Dr Peter Zinovieff 
+This was a big device in 1960. Now it would be very easy to do it. I don’t
+think anyone’s made one, but it would be nice to have a little USB plug like
+this.
+Audience member
+I think there is, they use it on online casinos to generate sequences.
+Dr Peter Zinovieff 
+Oh, you can get the sequences, I’m sure, but it would nice to have them self-
+contained so they’re your own sequences, not from somebody else. Because, if
+you can get it online, someone else can use that sequence, so it’s no longer
+random.
+Audience member
+It’s never totally random, but for your purpose it’s…
+Dr Peter Zinovieff 
+But if there were 20 of us, we’d have the same.
+Audience member
+Ah, yes. True, OK.
+Torsten Schmidt
+There’s a question over there, and there’s one over there as well. So, can we
+somehow match Geiger counters and our personal DNA and somehow be totally
+independent [laughs]?
+Audience member
+I read about the Morning
+Line about a month before
+coming here. Isn’t it a collaboration installation with various artists from
+Spain?
+Dr Peter Zinovieff 
+Yes, there are five composers who did it in Seville, where it opened. Now there
+are another five doing it Istanbul.
+Audience member
+So, they’re a doing a different version in Istanbul?
+Dr Peter Zinovieff 
+Yes, it’s a fantastic extravagance. This sculpture costs £100,000 to be
+refurbished. It costs £100,000 to be refurbished, and it costs £100,000 to move. It must have moved now from Seville to Northampton in Britain to be recovered and rewired and refurbished. Then it costs £100,000 to send it to Istanbul; in Istanbul it will last for a few
+months. Then it will cost £100,000 to send it to wherever, with another lot of
+composers. It’s one of the most extravagant, wild, artistic gestures that has ever been done.
+Audience member
+I read a bit about it and heard it has a lot to do with randomness and
+especially fractals in nature, the actual sculpture. There was this one artist
+who really interests me, Roc Jiménez de
+Cisneros, from Spain, Barcelona.
+He’s doing some really interesting electronic music recording the gas horns at
+York University, maybe you’ve heard of him? It’s weird, he’s doing electronic
+compositions dealing with a lot of randomness, but replicating that same
+randomness in a totally non-synthesized way, just doing gas horns and physical
+[instruments]. Like, how would you do with a synthesizer, only in the physical
+realm? So, do you believe that’s a tendency in post-electronic music that’s not
+actually electronic, using organic means to make different sounds that we
+probably heard in nature, but not really? Do you believe that’s a tendency?
+Dr Peter Zinovieff 
+Yes, but immediately it’s recorded it’s like samples, so it is electronic.
+Audience member
+Yeah, but it doesn’t have to be recorded, it’s just replicated. He does it
+live, the performances, but yeah, there are some MP3s floating around. But
+you’re right about that.
+Dr Peter Zinovieff 
+You don’t have the lion and the birds unless you’ve recoded them, it would be
+difficult to have them there and then. Originally, this sculpture was going to
+come this year to the Queen Elizabeth Hall in London, and this is why it’s
+this shape. But the South Bank decided it would be too difficult to put
+wheelchair access to it so they refused it, which is why it’s going to
+Istanbul.
+Audience member
+I’ve got another question. All of the digital workstations that we use these
+days are very western, in the sense that it is all left to right, just how we write in the western
+world. Do you think there’ll be a backlash towards that?
+Dr Peter Zinovieff 
+I do hope so because it’s terrible, they all look alike, it’s all very
+similar. One person will say it’s like Apple versus PC, I use one, I use the
+other. It would be marvelous if there was a revolution in that, so there was a
+different concept of a score going from left to right like that.
+Audience member
+Yes, I believe a lot of our young artists, me included, are just putting all
+our ideas into these programs. You have to learn how to use a program
+instead of just letting ideas flow.
+Dr Peter Zinovieff 
+I agree with you. A spherical interface would be more ideal, something more
+tactile. Coming back to this, but as an interface for a computer thing, those
+linear doors are very, very frustrating, really.
+Audience member
+Yes, I can’t even work with structure, it’s really hard for me.
+Torsten Schmidt
+Aren’t you using Ableton anyway?
+Audience member
+Yeah.
+Torsten Schmidt
+But then you’re going to a different dimension straight away, aren’t you?
+Audience member
+Yeah, you can do it vertically, but I don’t really know how to structure
+stuff. Maybe because I come from a different background of non-pop music.
+Dr Peter Zinovieff 
+Perhaps if there were a different scale, you could see the whole thing in a
+different three-dimensional way and use that. I think it needs a revolution.
+Why don’t you write a program? Seriously.
+Audience member
+I’m not really good at coding. I’ve been trying to learn programming for a
+while now but it baffles me, too abstract.
+Dr Peter Zinovieff 
+You need a David Cockerell in your field. You have a concept and you need
+someone to screw it up, as it were.
+Torsten Schmidt
+We can put it online with this lecture now. You’ve got your request, just put
+your email address on the stream.
+Dr Peter Zinovieff 
+That’s exactly what happened to me, with some of the interviews in this, which
+were for an Australian film called What The Future Sounded
+Like. At the end of it I said I
+wish I could find someone to work with. Immediately, this Morning Line thing
+came up and the York University thing came up for me, just because of this
+film. Broadcast it and you’ll find people will come and help you.
+Torsten Schmidt
+What email address should we put in there?
+Audience member
+Please contact moises_h@hotmail.com.
+Torsten Schmidt
+That’s the deal.
+Audience member
+I can’t pay you, I can give you some beer, maybe [laughter].
+Audience member
+Have you, by any chance, read a book called Zen And The Art Of Motorcycle Maintenance?
+Dr Peter Zinovieff 
+I have, a long time ago.
+Audience member
+I was looking at it the other day, and there’s this concept about classic
+thought versus romantic thought. And classic is very much the underlying form,
+how this thing really works, getting into the nitty gritty and breaking it all
+down, all the parts you can get. The romantic side is just “It sounds good, cool,” essentially. I don’t know if you covered this in your chaos-versus-
+order thing in randomness, but you obviously have a brilliant mind and you
+were able to invent a language and get into synthesis, that’s pretty amazing.
+But how do you translate the music you make from all the knowledge that you
+have into something that can have a sense of beauty?
+Dr Peter Zinovieff 
+I don’t know, no idea [laughter].
+Audience member
+OK.
+Torsten Schmidt
+It’s probably one of the best lessons, to know when to say, “I don’t know.”
+Jono Podmore 
+There is an interesting point that our friend touched on earlier, saying he
+doesn’t come from a popular music background, so his approach to the
+sequencers or whatever is different. One of the reasons you’re appreciated by
+this crowd is that your work has had a massive influence in popular culture rather
+than high-art, academic, university culture. For what you’re working on now,
+can you see how that would have an influence on popular culture, on commercial
+culture?
+Dr Peter Zinovieff 
+No, it’s really just a fluke that at my age I’ve got the opportunity to be
+trying out these new techniques again with the knowledge of what it used to be
+like. Therefore, in a way, I have an advantage of being able to jump in and
+not care. Only if I can gather people like that together…
+Audience member
+Well, you’ve got his email address now [laughs].
+Dr Peter Zinovieff 
+I haven’t, he must give it to me. [To participant] Will you give me your
+email address, write it down? It’s people like him, who have to think how best
+to revolutionize the state of play at the moment. That’s what people like
+David Cockerell did, to say, “Yes, I can do that out of a concept.”
+Jono Podmore 
+But do you feel that is something that remains in academic culture or has a
+much greater repercussions in popular culture?
+Dr Peter Zinovieff 
+I think it must be popular culture. As you said, so many people are able to
+synthesize music. But, in a way, it’s like saying a lot of people have a good
+piano, but it doesn’t mean there’s a lot of good pianists. The piano is very
+clever in that it’s got a wonderful format, so you can use all your fingers
+and all sorts of things. It’s a wonderful format. I don’t think there’s yet
+this wonderful format for making inventive electronic music. That’s what you
+were saying, isn’t it? That there isn’t such a wonderful device for
+controlling your thoughts into it.
+Audience member
+My question was about improvisation as an electronic musician, but I guess,
+that’s the answer: You’re programming, you’re not performing.
+Dr Peter Zinovieff 
+That’s why I showed you those scores at the beginning that has these grand ideas: Surprise,
+tension, greyness, dependency on what’s happening — these are the notions of
+inspiration to a music school. It hasn’t been done yet, but it will.
+Audience member
+Do you think, if you had complete control, going back to what Moises was
+saying, and a different way of approaching electronic music that you would be
+able to express yourself like a concert pianist obviously can, but in the
+electronic realm?
+Dr Peter Zinovieff 
+Perhaps you could, or my great-grandchildren, but I couldn’t, no.
+Audience member
+Do you think that’s the next level of improvisational electronic music?
+Dr Peter Zinovieff 
+It must be, but it depends on having a good input device, which is subtler
+than a mouse and a keyboard.
+Audience member
+That’s terrible.
+Dr Peter Zinovieff 
+Terrible [laughs].
+Audience member
+[inaudible]
+Dr Peter Zinovieff 
+Well, they’re monosyllabic in a way, aren’t they?
+Audience member
+There are already multi-touch controllers.
+Dr Peter Zinovieff 
+This magazine I mentioned, Source, if you can look in your music libraries,
+this wonderful extravagant magazine. Thick, with records in them. One of them
+is a page with different materials and animal furs and you touch it, you touch
+the different things and you think music, it’s a music score. This is
+brilliant. You close your eyes and touch different things and this is the
+score, so you have a page laid out with these things to touch. That’s what I
+mean. How do you use these different tactile things to make what our friend
+wants? A good input programmer. Maybe. But that’s for you to do.
+Audience member
+What about the use of motion capture?
+Dr Peter Zinovieff 
+What about it?
+Audience member
+You put markers on your arms and with the infra-red cameras you can take the
+movement that you make and then translate that movement into MIDI messages
+that could go to images and to sound.
+Dr Peter Zinovieff 
+Yeah, but it would be the language. Alright, you’ve got a hundred mice and
+you’re a good dancer and you’ve got 20 infra-red cameras and you’ve got this
+mass of information there, but that doesn’t mean that, because you’ve got this
+mass of movement information that you make good music. What is the translation
+between one and the other?
+Audience member
+I just thought instead of using implants motion capture could be like…
+Dr Peter Zinovieff 
+It sounds wonderful, I’d love to hear your piece and see it because it would
+be visual as well.
+Torsten Schmidt
+There’s another one over there and then, I guess, what we’ll do is break it up
+and for those who are interested give a little demo of the unit, and the rest
+of you will be relieved for your lunch break.
+Dr Peter Zinovieff 
+“Released” [laughs].
+Torsten Schmidt
+I can see this total division between people who are absolutely into it and
+the others who are like, “What planet are we on right now?”
+Audience member
+Sorry, to keep bringing it back to this corner, but in terms of the things
+we’ve just touched on, different controllers, giving you more control over a
+variety of different sounds, do you still think if you had a different
+controller, an implant or motion capture or whatever, how would you make it so
+you had complete control over the sounds and you weren’t still confined by the
+bounds by the control, say, of western harmony?
+Dr Peter Zinovieff 
+I have to return the question – it’s up to you. I’ve got no idea how you would
+do that. How could I possibly know? These are unknown techniques to me. The
+future is in your hands, boy, as they say in Scotland [laughter].
+Audience member
+Well, maybe you heard it all here first.
+Dr Peter Zinovieff 
+Good luck.
+Torsten Schmidt
+I guess, that’s probably the perfect ending. The future is in all your hands,
+and join me in thanking Dr Peter Zinovieff.
+[applause]

@@ -1,0 +1,454 @@
+Stuart Hawkes is a mastering engineer at London’s Metropolis, where he has lent his ears to shaping records by artists ranging from Amy Winehouse and Katy B to Metalheadz and Craig David. It’s the finishing touches Hawkes bring which make the songs people come to love stand out. 
+In his lecture at the 2008 Red Bull Music Academy, Hawkes walked the audience through the technical hoops of audio technology, the differences between mixing and mastering and shed some light on what happens at the end of the music-making process. 
+Gerd Janson 
+To my right we have a man called Stuart Hawkes, all way from London. He is a
+mastering engineer at a thing called Metropolis Mastering studios, also known as the Powerhouse, and he will have a little talk about is this thing called mastering, which is somewhere between religion and physics, right? And black magic. And I would like to have this lecture quite open, so if you have any questions throughout our talk or things
+you want to know, please ask them instead of waiting until the end. To start, can you give a little introduction about how you got into this thing? The classic way of getting into a mastering studio is as a tea boy.
+Stuart Hawkes 
+It is, and that is indeed how I started. I think most people don’t even know what goes on in the recording process and it is the case that for myself I was asked to leave school, I didn’t know what to do.
+Gerd Janson 
+You set it on fire?
+Stuart Hawkes 
+No, just general misbehaving. I was a drummer at the time and loved hi-fi, they were my two big passions, and I thought, “Put the two together, I would love to work in a recording studio.” So I got a long list of recording studios, wrote a CV, tried to get a job as a runner and one of them wrote back. One of them had an immediate vacancy and said to come along and have an interview. 
+I got the job and started on a Monday morning, walked into the recording studio and thought, “It looks just like a recording studio, there are big desks and buttons and big speakers,”
+but I thought, “Where does the band sit?” And I was told it was mastering, and this was a stage in between the recording and manufacturing and it was just pulling the whole project together, making it sound as good as it can. Back then, it was just cutting lacquers for vinyl manufacture and cassette masters and that was it. I started as a tea boy in a mastering studio called Tape1, which at the time was the best place I would say in London, so I started the job by accident.
+Gerd Janson 
+But you were actually looking for a job as an engineer?
+Stuart Hawkes 
+I just wanted to get involved with sound, I loved music and the performance of music. To me, it was perfect. I could listen to whole tracks, you don’t listen to just snare beats for hours on end. You get to meet lots of new people and I get the final touch on projects. It was a bit of luck but I think it has been
+good. That was ’86, just as CDs were coming on.
+Gerd Janson 
+Maybe you could describe the difference between an engineer and mastering because a lot of people always mix that up?
+Stuart Hawkes 
+I guess, the main difference is as an engineer you would be looking at all different elements within a track, whereas a mastering engineer would be looking at the whole track. I think that is the main difference between sound engineering and mastering. It’s looking at the whole thing, rather than the elements within it, and packaging that as an album, as a single, as a download, as a vinyl. We do all the editing and general assembly of master tapes. It is a bit different to recording.
+Gerd Janson 
+And you just mentioned that the CD was being established, maybe you can talk a bit about what that was like getting rid of vinyl?
+Stuart Hawkes 
+Well, it’s still here! [laughs] Well, it was very confusing to a lot of people at the time. We had the first all-digital mastering desk, which was a prototype built by
+Neve and it was so ahead of its time that they actually made a mistake and built the thing to work at 48 kHz, which is not where CDs are, they are down at 44.1. They got it wrong, which means we had to up-sample everything, master it and then down-sample everything. 
+It was a bit of a mistake, people paid a lot of money to work in this room even then, and this is ‘86, ‘87, it was £185 an hour and it was always packed out. Even now, that is the price mastering rooms go out at, so it is as if the whole thing has stood still since then on. It was very expensive to produce all of this new digital kit back then, of course. I remember the first-ever CD burner, when they
+rolled it into the studio. This Gotham Audio it was called, this great big archaic-looking bit of kit, and it actually cost them £40,000 for a CD burner and now it’s about £40,000 you can buy yourself one. 
+We were very excited about getting that and about the new formats and everything was being remastered and put on CD and it was very exciting times in mastering and music in general. [With the] CD coming along, there was a lot of energy around the music business, a lot more opportunity to sell stuff, a lot more money around, it was a good time. And also, then, in terms of mastering, because it was a very expensive process, you needed a lot of money to buy the equipment. For example,
+cutting lathes were then about £200,000 to buy one. 
+Gerd Janson
+The what? Maybe you can explain the cutting thing.
+Stuart Hawkes
+The cutting lathes for the vinyl, basically, you cut whatever you have mastered already. What happens now, when you master for CD,
+once you have finished mastering the CD, what happens then is you cut from that mastered file onto vinyl so you cut the master lacquer and you do that on a cutting lathe, which were predominantly German built by
+Neumann, and lucky
+they were because they are still going strong. And that was incredibly expensive then.
+Gerd Janson 
+Are they still being produced these days?
+Stuart Hawkes 
+No, no, no they stopped making them in the ‘80s.
+Gerd Janson 
+So there will be a physical end to making vinyl?
+Stuart Hawkes 
+Yes, I mean the lathes are wearing out, they are getting more and more
+expensive to service, but there are still quite a few about and the way they
+are lasting is incredible, really. The youngest ones are still 20 years old.
+Gerd Janson 
+And how would you describe mastering to someone standing next to you, if you
+get asked what you do for a living?
+Stuart Hawkes 
+It’s best to say I am a plumber or something, it is a bit more straightforward.
+Gerd Janson 
+[to participants] How many people have actually been in a mastering studio?
+Oh, quite a lot.
+Stuart Hawkes 
+Did you enjoy it? Quite long? The process of doing it? It shouldn’t be too long. I think on average I spend half an hour on a track, maybe not even that long. Normally, if you know the sort of music you are dealing with, if you get all the tracks in and the track is ready in front of you, you can get through it quite quickly. How long did you spend doing it then? [inaudible reply from audience member] It is normally quite quick. We charge by the track, whereas a lot of mastering is charged on time, but I think now with budgetary concerns people like to be charged by the track.
+Gerd Janson 
+So that is a matching concession to all the labels going out of business?
+Stuart Hawkes 
+Kind of. There are still plenty about. I just think people get confused now when they call and inquire about mastering, and you can’t be completely clear about how much it is going to cost because you are looking at how involved the project is, how long it is going to take to master a 12-track album. So people appreciate you charging it by the track as opposed to saying it is going to take approximately eight-to-12 hours.
+Gerd Janson 
+But we were still on the plane explaining mastering to the ones who do not know and haven’t been in the mastering studio.
+Stuart Hawkes 
+What is mastering? To me, I think, it is a quality control to some kind of degree. There are times tracks arrive and I literally can’t do anything to improve them, and it is a bit embarrassing and no one likes to do that, but it does happen. I remember I had a client a couple of years ago, a French guy who used to bring loads of jazz albums to me, and he brought this album, he came all the way from France with a bit of an entourage, and we sat down and I listened to his album and I literally couldn’t do anything to it. It was already perfect, it sounded good, it was all balanced and I said, “I can’t change it, it sounds great,” and he
+went away and I never saw him again.
+Gerd Janson 
+And how often do you get something where you can’t change anything but it’s not perfect?
+Stuart Hawkes 
+To say that you can’t improve it at all, I would say maybe one track in 50.
+Gerd Janson 
+And how many do you do in a year?
+Stuart Hawkes 
+I was working this out recently. I think it was something like between 1,500 and 1,700 tracks a year. I work every other day, I think it was roughly 12 tracks, 14 tracks every other day. So quite a few.
+Gerd Janson 
+And that is not a problem to work on different tracks in a day from different artists?
+Stuart Hawkes 
+It can be, if you are going from drum & bass to jazz or something, you have to have a bit of a break and clear the palate. But generally, if you don’t get carried away and turn it up too loud and you reference stuff... It’s very
+important, I find, if you’re getting stuck or are unsure, especially with clients in the room and they aren’t sure either, that they bring in their own stuff to reference against so that everyone is clear about the monitoring. 
+Because I could walk into a studio and start mastering on a set of monitors that I have
+never worked on before, so it is a bit unfair really when people turn up to expect artists to join in with me and give opinions on what I’m doing and say, “Do you like it or not? Do you want to try this or this?” Because they’re not familiar with the monitoring that we are using so it’s important people bring in reference CDs to get them used to the speakers. It really helps out.
+Gerd Janson 
+So you have to trust your engineer? The client has to trust the engineer?
+Stuart Hawkes 
+To some degree. Mastering normally is done on an approval basis, so if we have got an album, we might spend eight hours, say, doing an album, and the client will go away with a CD-R normally and listen to it on a system that they know and understand, so that they can be sure about it and they can reference it. If you are doing hip-hop, they may play
+it next to other hip-hop albums and make sure the volume is there and the bass is there and it’s comparable or better than what is out there. Partly, what has fuelled the volume issues on CDs, is that everyone is trying to get the one-upmanship with everything else. People take their CDs home from mastering
+and it’s not quite as loud as something else, so you push it a bit more.
+Audience Member 
+So can you comment about the whole loudness wars thing? Because in a way everything
+is exactly that now, especially the pop stuff and the hip-hop stuff in that respect, can it get any louder, really? It just seems almost beyond the dynamic range.
+Stuart Hawkes 
+The dynamic range has been getting squashed and squashed...
+Audience Member 
+When I released my EP I worked with two producers and they had two different looks on how to push the tracks, and I worked with a mastering studio called Cutting Room in Sweden. The thing was on one of the tracks, one of the producers wanted it not to be pushed at all, really, and the other one did and I was in between. And I wanted the EP to sound as equal as possible so I am really, really interested in what you are saying there because when I listen to some records, Blur, for example, they don’t push it at all.
+Stuart Hawkes 
+A part of it is down to confidence as well, some people recognize that just because it is loud it is not going to sell any more records. It’s just about everyone just wanting their records to be bigger and better, therefore it’s possibly going to sound more impressive and then sell more. But I’m not sure if it
+really works, and I’m not sure if there is really any proof of that whatsoever. On the radio it doesn’t really make any difference and in fact we are trying to test that at Metropolis, whether it is actually the quieter CDs that
+come across louder on the radio because of the optimum compressors and everything and the way they work. It’s hard to test it because you have to do proper broadcast and every radio station works in different ways, so there is
+no sort of continuity across all radio stations, so it is bit of a difficult one to solve it. 
+But to answer your question first, it goes back to what I was just saying before the question, it is that everybody wants to record sound a little bit louder than everybody else’s, and so it creeps up slowly. So you end up with a standard, which is ridiculously loud and distorted. But unless you’re going to do something quieter, and avoid this distortion, it is going to sound less of a record in a way people feel because it is quieter. And so it is hard to get everyone to buy into that. Because it is a business and record labels want to sell and they want to sound bigger and better, and producers want to sound bigger and better, everyone is just pushing and pushing. And to a degree, as a mastering engineer, we do get kind of blamed for it, I would say. But we hate it as well, and I think all engineers or most mastering engineers would agree. But it’s kind of the nature of the beast to some degree and it is hard to turn it back. If everyone went, “Let’s do it two dB quieter,” great. But it doesn’t happen. 
+And I don’t know if you’ve been reading about this thing that is going on with the Metallica album, it is a very interesting case study that Ted Jensen has mastered this Metallica album and it is so loud there is a petition at the moment to get it remastered because people thought it was the mastering, whereas it wasn’t. It is so loud it is distorting and it is completely unpleasant to listen to. It is mastered by Ted Jensen, a very good mastering engineer in New York, and he was obviously quite annoyed that he was getting the finger pointed at him because he has gone online now and wrote this letter saying this is how the masters were delivered to him, and he can’t undo it. 
+Once it is truncated and squashed and sounding nasty, as a mastering engineer there is nothing you can do with that. He’s put this onto CD, essentially, it is Rick Rubin, the producer, who I guess doesn’t really care. I don’t know how this going to pan out, but it is interesting and it’s good to see that there is this petition going on. Hopefully it will be the beginning of the end of this ridiculous volume thing. You know, again, who is going to be the one to go with a quiet CD first?
+Gerd Janson 
+It is a bit like being a hairdresser and someone desperately wants a mullet,
+and then you are accused of giving him the mullet?
+Stuart Hawkes 
+[laughs] Sure. I suppose so, yes, or it is like him coming in with the mullet and you saying, “You’ve already got one, I can do anything else, you’ve got it.” That’s the situation with the volume thing, it’s a difficult one. And your question, you’re never going to please everyone in that situation. If you bring down the really loud ones to the ones that are more kind of sensible, with the greater dynamics, you are either disappoint the producer who wants it loud, or if you bring it up, you will upset the other guy because you’ve squashed the hell out of this track and mashed the dynamics, and you’ll be unhappy in the middle. 
+That is a big problem and I get it fairly regularly when I’m doing albums with different engineers, let’s say. One is really squashed and others aren’t, where do I draw the
+line? You just have to do something in the middle and keep your fingers crossed. But it is better really to bring the louder one down, that would be my solution, but not ridiculously.
+Gerd Janson 
+So what it is you look for first when you get a file? Or what is the best way
+to deliver your music to a mastering studio?
+Stuart Hawkes 
+The best way to deliver it is to bring it in yourself, really. Do you mean what sort of medium? With you guys, if you are mastering your music at a mastering facility it’s best to go along, it always is. Hopefully, if you are doing it
+right in the view of the mastering engineer, if you respect their opinion, they might give you ideas about what you were doing wrong and what you are doing in the mastering to correct it, and you can go away and use that information on your next project, which I think is really valuable. 
+If you are not there in person, you are not going to know this, you hear the finished
+product and you don’t hear the thought process that has gone into it. Also, there may still be things that you still don’t like about it, but couldn’t be corrected because if you do this with the bass, it affects that with the
+vocal. So if there’s a problem to balance between bass and vocal, you need to sort it out at mix really and there is only so much you can do at mastering. But if you are not there to hear about both sides of the argument and the thought processes during the mastering, you are not really going to learn. 
+It is best to bring whatever format it is on in and attend. The other way of looking at it, and I think what you mean, is sending things in via FTP, data files. Most of our work now is data files by a long way. 
+Gerd Janson 
+Or analog?
+Stuart Hawkes
+There is still some analog tape about, it is only on bigger budget stuff, I would say, because it is damn expensive, not just to buy the tape, but to have a decent machine to record it and play it on. So it is mostly data files and it’s mostly 24 bit, 44.1K files. But 1/2" is still the best one to me. 
+I think on quite a few occasions we have clients come in and they have burnt two masters twice or they have done an analog master and a data file at the same time, and you play the two together and most of the time the analog is just wider, it’s got a deeper sound, it’s just bigger and more open. The data file is probably the more “correct” one, if that’s the right term, but the analog just adds a kind of musicality and a space and a niceness to the music that normally wins when you compare the two formats.
+Gerd Janson 
+So you would recommend buying tape machines?
+Stuart Hawkes 
+I would, and I’ve got some for sale at the moment if anyone is interested. That is normally the way it works, but not always. We had a project recently, where they brought in quarter of an inch and they said they wanted this lovely warm sort of sound to the album. In the end we compared the 1/4" nice
+warm sound to the album with the data files and it was all quite digital and trashy and in the end we went with the digital one. I don’t know why, it wasn’t what they originally wanted, but they did it in the end. But it did sound more present and more exciting than the analog, and to some projects that does work, it depends really what music you are doing. 
+I remember a few years back, there was a Roni Size track and he tried to mix it on an
+SSL desk, he spent a lot of money on it. And the demo or the original version, which had this lovely exciting sound to it, a bit crunchy and grungy and rough round the edges, it just sounded so much better than the one that was done on analog tape and the SSL desk. It just kind of lost its edginess and its aggression. So, you know, horses for courses. It depends on what you are doing.
+Audience Member 
+Somebody told me recently that they stopped making tape, is that true?
+Stuart Hawkes 
+Yes, I think that did happen for a while. I think they are making tape again.
+Audience Member 
+Oh, that’s great because that’s what I’d like to do, record into tape and then into my Pro Tools.
+Stuart Hawkes 
+Yes, it was. It is now available again. There was a period for about six, nine months or so it didn’t exist and that was a sad day.
+Audience Member 
+The other question I have is, I have watched somebody master and we had three tunes referencing and swapping in between them, but I still really don’t understand the difference between mixing and mastering. As I understand it, it may be you make the bottom lower and the mids more mid and the highs higher and
+there is more space in the sound. But I really don’t understand exactly.
+Stuart Hawkes 
+The difference between mixing and mastering? You could look at it another way. I quite often have people bring in Pro Tools into the mastering. They bring in their stems or whatever, not using any outboard gear, but just playing straight out of the Pro Tools, and instead of mastering it we’re essentially mixing it. If I was mastering it straight off a two-track stereo file and I thought I was going to add some brightness, bring up the hi-hats up or whatever because they weren’t cutting through enough, then all I’d say is bring the hi-hats on Pro Tools, bring that instead, and in the end when... This was a Roni Size track, he hardly touched the mastering equipment. You just do it all in Pro Tools. 
+A lot of the time that is what mastering is, it’s correcting imbalances that have occurred in the mixing stage, but it’s too late to go back and change. In an ideal world we would go
+back and have another tweak at the mix, but it’s not always possible. They are similar, but obviously you are restricted in what you can do at mastering compared to mixing.
+Audience Member 
+I was just wondering also about the whole mp3 phenomenon. And obviously, that is such a big thing, it has such low bit rates and I heard now that mastering houses have actually started mastering for mp3s?
+Stuart Hawkes 
+I don’t know if you master for mp3, but we certainly would start to do the conversions for mp3. It’s a funny thing the old mp3 thing because it seems that all the digital aggregators and sellers of these mp3 files, they create their own mp3
+files from 16/44 WAVs, for example, or just straight from the CD. I don’t know what they are doing. There doesn’t seem to
+be any consistency with creating these files, so we did an experiment recently where we had an mp3 file that was supposed to be 320kB. 
+But when we did our conversion we brought it down to lower than 128 to get it to sound what they said is 320, but it wasn’t. They are not doing the conversion well, so increasingly mastering facilities — I know we are — are doing the mp3 conversion ourselves. This service is done as well as it can be because I don’t know what the process is when it goes off to one of these websites, I don’t know how they do these conversions,
+but they are not doing very well. Not all of them, some are better than others.
+Audience Member 
+I heard guys like Timbaland and whatever, there’s that whole ringtone phenomenon and this whole thing with that and that is almost more popular than the tunes to an extent. So the way they’ve written this stuff is exactly for that format and EQed, I guess. Because they know it is going to be so reduced in bitrate and as soon as that happens it becomes toppy and harsh, so they are mixing it basically shit quality?
+Stuart Hawkes 
+People have always mixed records to sound good on the radio, or I thought that was what they were doing, and it makes absolute sense to make something to sound good on a phone, as crazy as it sounds. I don’t know how true that is, that statement, are you sure?
+Audience Member 
+I am totally sure, he said it himself, it was on YouTube or something.
+Stuart Hawkes 
+He is compromising the actual CD version of the track for the phone version?
+Audience Member 
+I guess, it’s a whole other entity and that is a whole other angle.
+Stuart Hawkes 
+Definitely. But I would be surprised if people are thinking that to master a track, your main format is a phone so you sod the sound for a CD player. I don’t think we are there yet, but we may get there, I don’t know.
+Gerd Janson 
+What would you recommend to people as well, living in laptop fantasia land to have your track finished?
+Stuart Hawkes 
+Go for it, use your plug-ins, but can I have the one without all the plug-ins? I get it all the time, but thankfully most of the time I will get the one that has been squashed to hell, every sort of plug-in put on it. As long
+as I’ve got the one that has not got that as well I am happy because I think it is quite interesting sometimes to see what a producer of the track comes up with on their own, in their own studio. What plug-ins they will put across it, how much they will squash it, and distort it. 
+It does give me an idea of where they want to go with the track and it kind of gives me a brief almost where I want to go with the mastered version. See if I can do it to the same sort of intensity or a similar kind of style to what they have done, to see if I can bring something else to it that is not quite so crude and is a bit better. Plug-ins are fine and you can’t ignore them and stop people from doing their own mastering and doing their own squashing of a track, but let’s have two
+versions and let’s compare them, because if there is only one version and it’s been squashed, compressed, distorted, you can’t undo it, you can’t un-distort. I don’t have a little button that says get rid of the distortion, there is no going back.
+Gerd Janson 
+Once the milk is spilt... And speaking of comparisons, you brought some stuff along with you?
+Stuart Hawkes 
+These are subtle-ish versions of things that I have done recently and I like the tunes and there is some good, old-fashioned mastering that is being done, nothing brutal or anything. I’ll play you these.
+Gerd Janson 
+You were just speaking of you like the music. Do you actually have to like the music that you are mastering to do a good job, or is it like the surgeon who should never operate on his own kids?
+Stuart Hawkes 
+You have to like it technically. I think it’s very disappointing for a mastering engineer when you put something on and you think... We call it turd polishing. You are never going to make it shine, it’s not going to happen and
+it’s a bit discouraging. So it is important to like it technically, I think. It’s got to have good separation, good balance, a good dynamic frequency range, etc. 
+Whether you emotionally like the track, whether it’s a good song, I think is sometimes distracting from getting on with the job because you can get excited just by the track itself. So therefore part of my brain switches off from the technical side of things and maybe I get a little bit too carried away with just loving the track. It’s fairly subtle. I can’t say that I can’t master something that I like, but it helps if you don’t love the track. If your favorite-ever artist walks in the room, I think, it is quite difficult and found out when Kylie Minogue walked in once, I just went to jelly. Not my favorite artist, but she’s a lovely girl. 
+Gerd Janson
+Let’s have a look. 
+Stuart Hawkes
+I love this track, it’s in my head at the moment, it’s Mark Evans “The Way You Love Me,” it’s been around a little bit, but I mastered the album recently and this is what it came in like.
+(music: Ron Hall & the Muthafunkaz feat. Mark Evans — “The Way You Love Me” (unmastered version))
+Audience Member 
+Sorry, I know it depends on frequencies in the tracks, but what kind of frequencies were these that you had to take off in this track?
+Stuart Hawkes 
+The drum & bass track? I think I would use an EQ at about 60 Hz. I mean, 60 Hz seems to be a common thing in drum & bass, in terms of where the greatest proportion of the weight of the bass is, and is quite low down and does not detract too much from the kick. So you still keep a punch, but the weight will come down.
+Audience Member 
+Would you cut all the sub frequencies?
+Stuart Hawkes 
+As a quick answer I would say no. I would never cut all the sub frequencies, I would only do that if it was out of control. 
+Audience Member
+I mean, like below 30?
+Stuart Hawkes
+If it is out of control and you can see the speaker cone doing this and there is all sorts of DC going off... The trouble is with the very low stuff that it uses up... Your amp and your
+speakers use up so much energy producing the very low stuff. 
+And quite often, if I put at 30 Hz roll lock in the punchiness of the bass comes through and everything seems to work a bit more effortlessly. It sounds more
+controlled, even although you’ve taken stuff away, it gives you more. I use analog filters to do that quite a lot, but not systematically. I wouldn’t always do it, but does work a lot of the time.
+Audience Member 
+By the way, concerning dynamics processing and the mix, in order to get mastered, you would recommend not to compress too much on the drums and voices?
+Stuart Hawkes 
+Well, it depends. Whatever sounds good. It is difficult really for a mastering engineer to get involved in what you do in a mix. It is purely creative and artistic, I would say.
+Audience Member 
+If you deliver fully compressed stuff on the mix, not on the whole mix, but just on the elements you are compressing in the mix. Like, if you overdo that, you are going to deliver something that’s quite squashed in the rhythm section?
+Stuart Hawkes 
+Again, it’s difficult to comment on that because every bit of music suffers or benefits from different treatment. So if it works in that track, then just do it. I can’t be too clear on that, sorry.
+Audience Member 
+So how much Hz did you say that the bass is the most punchy? 
+Stuart Hawkes
+About 60 Hz. 
+Audience Member 
+So what is the essential thing that could make a track sound everywhere in the same way? What would be the most essential thing, like in a car hi-fi or a small thing or in a club?
+Stuart Hawkes 
+Well, the hardest thing to reproduce is the bass-end. If you control the bass and keep it as controlled as possible, and it is as easy to reproduce as possible, so you steer clear of the 60 Hz and below stuff, that is your best bet. I have come across many records that sound fantastic on a big system, but as soon as you put it on to a small speaker, the bassline is keyed so low in the mix that you can’t even hear it, it doesn’t even reproduce on small nearfields or headphones. 
+I’m not saying to cut it out, just don’t even mix it there in the first place. Keep whatever you are thinking of putting to get the track right, tune it further up maybe. You need big speakers for that bass or tall rooms, but it varies so much from room to room or car to car. If you don’t have that low bass, you concentrate on tuning it higher up in the mix, just keeping it punchy and you’re more likely to have something that will reproduce uniformly across different soundsystems. 
+Audience Member
+How much would you say for the high-end?
+Stuart Hawkes
+How much what, sorry?
+Audience Member
+How much, like, kilohertz should we take care of?
+Stuart Hawkes
+What, roll off? It depends what you have going on in the percussion end of the track, really. But again, extreme highs I’d keep to a minimal amount, especially if you’re talking about cutting on vinyl. If you’ve got a hi-hat pattern that is very narrow in bandwidth and it’s very sharp, peaking up at 14k, if it’s loud in the mix, and you try and cut that, it’s just going to distort. So you might have to start rolling off the top-end, but that is taking out your hi-hat pattern straight out of the mix. Whereas if you have a hi-hat pattern more sort of 8k, down there somewhere, a bit more lo-fi really, then it kind of is easier to reproduce, it is easy to cut, and is going to work again more generally on several systems.
+Audience Member 
+Just one more question. Is it true that you shouldn’t have any stereo bass going on for vinyl?
+Stuart Hawkes 
+Yes and no. I mean, it’s one of the main problems of cutting vinyl. You’ve got sibilants where esses on vocals are too extreme, they are not de-essed. Because when you are trying to cut loud it is the first thing your record or your tonearm can’t trace back. It’s not cutting it that’s the problem, it’s tracing it back, so that is the first thing that has to be limited, the esses on the vocals. 
+Another thing with stereo bass is what happens is if you are cutting a groove, if you are just cutting a mono groove, it will just be fixed depth. So, if you looked at it down a microscope, the groove will always stay the same depth, it would just go side to side to reproduce the various different frequencies. But when you introduce
+stereo it is up and down. So you get what is called “sausaging.” So if it is a bass-end, you get large excursions if it was mono. But when it’s stereo, you add in this fattening and thinning at the same time. You see it as fat, but it is actually going deep, it’s very thin. 
+So we use what’s called an elliptical equalizer, which you can select what frequency it starts to work at depending on what you need to mono on the bass-end, how severe the problem is. And that keeps the groove at a more fixed depth, so you’ve got less chance of
+jumping. But what can happen is, if you have a great big stereo bass and you mono it, you mono it and it disappears to some degree, so it changes the balance within the mix. So if it’s going on to vinyl, and vinyl is a concern of yours, and you want to get it loud, keep your bass-end mono because otherwise you’re going to run into problems.
+Gerd Janson 
+And you just mentioned two terms, “de-essing” and the other one was “sibilance?”
+Stuart Hawkes 
+They are to do with each other. Sibilance is esses on the vocals, which sounds unpleasant on CD if you’re listening loud and something is particularly ess-y, it is quite harsh on the ears. That is called sibilance. But it’s okay on CD because CD can handle whatever frequencies you throw at it, it will deal with
+it up to 22k. But when you’re looking at vinyl, as I was saying, you can’t trace it back again so you use what is called a “de-esser,” and this works by limiting the
+higher frequencies within a track. So if you’re trying to cut a track very loudly and it has lots of sibilants in it, or the vocal has not been “de-essed” properly or well enough, you have to use a “de-esser.” But because I am dealing with the whole track, as I turn up the “de-esser” to minimise the
+high end, hopefully it hits the vocal first. But quite often it will hit the hi-hat pattern or the snares or anything with high-end frequencies within it. So you can run into problems that you kind of have to dull the whole track in order to get to the vocals to stop the distorting. And that is called “de-essing.”
+Gerd Janson 
+The last tune we listened to was a drum & bass tune and there are quite a few drum & bass-based records that have your little signature in the runout groove. Are you still going to drum & bass parties to see how the
+music you are mastering is actually working in an environment?
+Stuart Hawkes 
+Nah, I’m too old for drum & bass. I’m nearly 40!
+Gerd Janson 
+My question is whether you have to experience the music to know how to deliver it?
+Stuart Hawkes 
+I don’t think so. I think I’m still doing it, I think it still works. I think I’m just pushing the format of vinyl as far as it can go. It can’t go any further at the moment without jumping, distorting too much, although that’s not normally an issue in drum & bass. Normally you push it as loud as it will possibly go as long as it does not jump. The distortion element is not so much of a factor, it’s kind of an accepted idiosyncrasy of drum & bass and it is with other dance records as well, but especially drum & bass, just get it loud. So I could go to a drum & bass club and stand there and feel old, but don’t think it’s really going to show me what else to do with a drum & bass record. I speak to enough people, hear enough music and I still get feedback about what my mastering is like when it is played out, so I don’t have to be there. I have found in the past that it’s very damaging to go to clubs. 
+Gerd Janson
+Damaging for your ears?
+Stuart Hawkes
+It is, yeah. It sounds like a very old thing to say, but my ears, coming out of the club with ringing ears and having to go to work the next day and master someone’s classical sounding record. I mean, it’s has always unnerved me. My ears are obviously important to me and I’m sure yours are important to you, so we need to protect them as much as possible. 
+I mean, I used to go clubbing four nights a week, every week. I was bang into it, I used to love it, but I think I got then the essence of what a track needs to do. And I used to go out with various DJs and would literally cut a plate and go to a club with them and hear it there and then, and that was a very valuable experience. But as I say, I think with vinyl now there is nowhere else to go with it. With CD we are nearly at the limits of what that can do, there is nowhere else to go with that, it’s been maxed out and pushed as much as possible, so I don’t think I would gain much at the moment.
+Gerd Janson 
+But what would you prefer in a club then, if you would go. Vinyl or CD? The same old question...
+Stuart Hawkes 
+Absolutely vinyl, without a doubt. The great thing about vinyl is that it’s ear-friendly. The thing is with playing files in clubs is that quite often they’re mastered at all, or they may not even have ever been analog, so they have got this enormous amount of energy and there may be tons of energy and a very high top, but this sort of stuff at a very high level is extremely
+damaging to your ears. 
+Not only damaging, but unpleasant to listen to. Whereas a piece of vinyl, even if it hasn’t been mastered particularly well, at least it has been rounded off and is not so hard on the ears. It has got one sound to it and generally sounds nicer to listen to.  Unmastered digital files, mp3s and distorted this, distorted that, it’s not too nice. Also, you get huge differences between one person’s version of their home mastering and another, so you get these huge changes in sound. Yeah, so vinyl wins for me, definitely.
+Audience Member 
+I know it’s not really what you like doing, but could you maybe just give us the names of what kind of software that we could use, some plug-ins, just a couple of names?
+Stuart Hawkes 
+It’s funny, I think Abbey Road do a mastering plug-in. Abbey Road Studios?
+Gerd Janson 
+Maybe you can explain briefly what Abbey Road studios are?
+Stuart Hawkes 
+Abbey Road studios is a studio in West London, which is famous for the Beatles, where they recorded all their stuff. Owned by EMI, and they have a mastering facility there. I’ve never used this plug-in, but I am sure it exists. I would possibly give that a go, but I don’t use plug-ins. I have tried to in the past, like Oxford plug-ins and stuff, all this kind of limiting and level plug-ins and Waves. The platinum bundle or the newer version of that. 
+I use the hardware version because we have tried hardware or software and hardware always wins, so I don’t actually use plug-ins personally. I use a digital workstation, a
+Sadie, but I don’t use plug-ins. I wouldn’t really be the best person to ask. But give this Abbey Road plug-in a go, they know what they’re doing down there and I’m sure they have thought about it and thought of something quite good. Or Oxford plug-ins.
+Audience Member 
+And, for example, if I buy myself some kind of TC Electronics finalizer for home mastering, would it be nicer than if I had plug-ins?
+Stuart Hawkes 
+TC? Yeah, I use the M6000, TC. I’ve never actually compared the software finalizer version with the hardware. 
+Audience Member
+I was talking about hardware.
+Stuart Hawkes 
+Yeah, great. Go for it, but as I say, I use the 6000, which is better for me but a lot more money actually.
+Audience Member 
+I was just curious about the digital thing we were talking about earlier. If you want to make a digital release, what would you think of? Because I’ve never thought of that, I just contact the distribution company which makes mp3s and then send it to iTunes. So I never thought about that, that there is no standard.
+Stuart Hawkes 
+I know, it’s quite amazing. 
+Audience Member
+How do I know that they are doing a good job or not?
+Stuart Hawkes 
+It’s a good question. I’m not sure if I know the answer. You could do your own version and present that to them and say do this, but iTunes uses AAC compression. You could ask them, you could ask them how they’re doing it, you can present them with what you are doing yourself. It’s difficult. It is not something we do at mastering, talk to the people at iTunes or Beatport. We deal more with the record labels and producers, but I would say the best thing to do is to give them a file that is exactly on the format that they can put on their site and that would cut out much room for error on their front as possible.
+Audience Member
+Thank you.
+Gerd Janson 
+And when do you decide whether to cut a piece of vinyl at 33 of 45?
+Stuart Hawkes 
+Well, two things, really. One thing is preference. Some people just prefer 33 or 45. Well, 45 captures much more of the music that you’re cutting. As a rough equation, I have done an experiment a couple of years ago. I cut the loop of a beat, it was a drum beat that had top, middle and bass in it, cut it across at 33 and 45 and I
+put the two versions in the Sadie and had a look at them both to see what it was doing. And the best quality was on the outside of the 45 RPM cut. 
+What happens is, as it goes into the middle, the top-end slowly dies off and it goes off quite drastically at the last 25% of the disc in the middle. But about halfway across the 45 cut, the amount of top-end that’s been lost is roughly where you start at the outside of a 33 1/3 cut. So that is kind of what you are hearing. There’s loads of myths about what you can cut. You can cut the same volume on both, in my opinion, and I’ve never been disapproved about this. You can cut a maximum volume of about +8, +9 VU on both formats and after that it starts to possibly jump if you’re cutting at a nice, slow attack
+drum & bass tune or something. 
+So the 45, I would say, is the choice to go with, if you want a brighter cut. The 33 is the one to go with if you want something a bit
+more rounded sounding, the bass will come through a bit more because there is less top-end on it. That’s the taste difference between the two. The other factor is that most DJs prefer 33 because it is easier to mix with.
+Audience Member 
+Is that true or is it legend that the outside of the record is better quality?
+Stuart Hawkes 
+That’s just what I was saying about the top-end, it is to do with a speed that is traveling. Some of the grooves are more spread out and can take back the information grooves a lot better. And as the tonearm swings and tracks to the middle of the record it is going a lot slower and the tracking error...
+Gerd Janson 
+And you have just been recognized a few minutes earlier for being on a video, a “talking head”?
+Stuart Hawkes 
+That was a Metalheadz promotional video, years ago, a documentary, talking to all the artists on the label and they had a section of what mastering is. And I was doing tons of Metalheadz stuff then. This is probably eight years ago, I think. 
+A camera crew came down one day and said they wanted to film me working, which I was fine about it, and then suddenly they brought in this 10,000-watt bulb and stuck it in front of me and I had a camera on me and they started interviewing me. And that was what that was all about, I appeared in this documentary. For the first time ever I went to a screening, cinema this sort of size, packed out with everyone from the drum & bass scene. And it was terrifying seeing my face on the screen about ten-foot tall, and yeah, that’s what that was.
+Gerd Janson 
+And you mentioned mastering studios that are not really mastering studios. So in your opinion, what does a mastering studio need? Or what do you have?
+Stuart Hawkes 
+What are they? I have to put this delicately, I suppose, they are cheap alternatives. I mean, it’s very expensive to setup a very good listening
+environment, it costs a lot of money. The monitors we use at Metropolis in nearly all the rooms, the PMCs that we use, BB5 XBD-As, I think they’re about 30, 35 grand for a stereo pair now. But in order to reproduce all you want to hear off the record, you need great big speakers, you need them to be built
+well, to be set up in a good room that’s acoustically treated, and that costs mmoney. 
+But the equipment that I use, the Sontec EQs, the Maselec EQs, Prism A to Ds [converters], all the stuff is top-end equipment and it costs a lot of money to buy and to set up. So that is the main difference between these other places that set up and are cheaper. They’re offering the same service, it’s still mastering, but not quite on such a finite level. Let’s say, it’s a bit more cheap and cheerful.
+Audience Member 
+Do you use bad speakers when you are mastering as well, because the producer that we have here terrible speakers that you have in the worst van, and mediocre speakers and then some really good ones and flicks between each one to check how it’s going to sound?
+Stuart Hawkes 
+We use PMCs and they are great speakers. I think a lot of people feel like when they come into the studio to see these great big speakers that everything is going to sound good out of these great big speakers, because they are impressive and they’re big. But it’s really not the case. I have brought many CDs in from
+home for example, to work, into the studios, and felt like I knew the CDs inside out, and put them up on the big speakers, and it exposes every weakness, strength, inadequacy in the mix. It doesn’t mean that everything sounds good, it just exposes and shows you everything that’s in the mix. 
+So obviously, it is very important to have big speakers that are reproducing all the frequencies. But obviously the vast majority of people do not use this level of audio monitoring, so it’s also very important to know what is going on in a home set up. I use a combination of the PMC and
+KRK’s 3000s, which is a nearfield. In the past I have also had Auratones as well, which is pushing it a bit too far these days, I think. But yeah, we flick between them. It’s very important that when you’re listening to more than one pair of monitors and flicking between them, that the tonal balance between both sets of monitors is similar. I have in the past
+where I’ve thought, “Let’s try some nearfields,” and found something that is new and exciting, I found speakers that I love. 
+I love Proac speakers. I have them at home, they are very exciting hi-fi
+speakers, but they don’t match tonally what the PMCs are doing. You put the nearfields on and it’s all bright and brash and very exciting, but you flick back onto the PMCs and it would make them sound a bit dull. They’ve got to be
+comparable in overall tonal quality, so the ones that I’ve got now are a sort of a “mini-me” version of the great big PMCs, just to get an idea of what a bass-end is doing to a cone that’s this big instead of this big. I switch between different monitors. But what you’re going to take as being the one that overrules the other it is a different issue. Do you make something which always sounds good on the smaller ones and not necessarily on the big ones or vice versa, or do you compromise between the two?
+Audience Member 
+With this band we make CDs so it would be more important to make it sound good on the bad speaker. But maybe if it was a vinyl, it would get played through good speakers.
+Stuart Hawkes 
+Most of the time when you are cutting vinyl you are doing it from a mastered digital file, which is going to be used on CD, which is maybe not played in clubs, it’s more for home use or downloads or whatever. No vinyl gets cut these days purely analog. It’s normally derived from the digital, mastered version, so they’re very closely linked these days. In fact, the vinyl is only less of what the digital format is. People say they prefer the sound of vinyl is better, and it can’t possibly be because 99.9% of vinyl is cut from the digital mastered CD format, so it is just different. They might prefer it.
+Audience Member 
+Is it true about bass, when you’re listening to a vinyl, is the bass of better quality on vinyl than digital?
+Stuart Hawkes 
+The same answer, really. It’s different and it’s probably exactly the same. Most of the time, if I master a dance record, I master it to sound good coming out of the speakers and I’m gonna capture it as a digital format, and then from that file, the WAV file I consider mastered, I then cut the vinyl. And I may have to do some
+additional roll-offs or controlling of the bass, or maybe mono the bass, what I was talking about before, roll off the very top just to get it to cut cleanly and to work. But it’s not better and it may be slightly more controlled, but it is less of what is going on on the CD, in a way.
+But it just sounds different, and people kind of like the sound of it. But I don’t think you could ever say that vinyl is better or more information on the vinyl than the CD. It’s the other way around, but it just sounds different off the vinyl and quite a lot of people prefer it.
+Audience Member 
+Do you use multiband compression as well? 
+Stuart Hawkes
+Yeah.
+Audience Member 
+And in dance music, normally which frequency bands do you compress stronger?
+Stuart Hawkes 
+It depends on the music, I know it’s a boring answer. 
+Audience Member
+I’m interested in drum & bass and dubstep, so this kind of bass music.
+Stuart Hawkes 
+I don’t use a lot of multiband compression on drum & bass and dubstep, not really a lot of
+compression. I like the L2 a lot, which kind of compresses and limits at the same time, it’s got that kind of sound to it. But with drum & bass and dubstep I just push it in quite a crude way, really, rather than doing something subtle with it and putting nice compression across it. It is normally just a case of pushing it hard into the A to D’s and letting it compress itself that way. So I don’t use multiband compression to do that.
+Audience Member 
+In relation to what he said about the different type of speakers, how do you
+relate your big sound in your room, your nice treated room, to the real world sound? You switch speakers you say, but in that case they are pro speakers in some ways. But how do you relate your sound to the boombox and all that, do you check something? What type of science do you apply to that?
+Stuart Hawkes 
+I often play through a mobile phone as well. I think that part of what you are getting from a mastering engineer is that instinctive knowledge of what will translate and what will work on other systems. When you put a bass-end up on the big PMCs it might sound very impressive, but you just know it’s not really
+going to work on vinyl or in a club.
+Audience Member 
+Do you take into account different acoustic situations?
+Stuart Hawkes 
+There are so many variables it’s hard to do that, I think you have to take an average in the middle. But I know that the monitoring environment that I listen to, with the big monitors, the PMCs, it’s pretty damn accurate and pretty flat, and I have to use that as a kind of rule of thumb. If it sounds right in there, the sound is right and is nicely controlled. It can sound so wrong in so many other environments, but I’m not really going to make it sound wrong in my environment to make it right sound in that. It’s just different everywhere. You should have monitors that are pretty flat and pretty correct, and you’ve just got to go with that. Everywhere else that is wrong they are just wrong, you shouldn’t really compromise what you have got for them. They have got to sort out their act.
+Audience Member 
+I have a question about the compression. You are the guy who has to treat all these mistakes with the compression at the end, and some say it’s better to compress things slightly at every step. Like, when you record you compress, do a track you compress, then you put some compressor over the final record. And
+some don’t compress at all at any stage, but will use a final compressor to make it thick. Which one is better?
+Stuart Hawkes 
+I would say, really, you would have to do both and compare them. It is hard to be definitive about them. I would say if I had to guess about it, I don’t particularly like getting tracks that are completely uncompressed and uncontrolled, and the producer or engineer or whoever just assumes we’ll compress it at
+mastering, because it can change the balance of the mix again. It’s better to get as close as you can throughout all stages and hopefully by the time you get to mastering the compression is done. 
+I have always felt that if a track is mixed correctly, it shouldn’t really need any compression at the last stage. Everything should be sitting correctly anyway. You may want to use a compressor to get some additional volume in whatever format you are putting it on. In answer to your question, I would say compress it a little bit through each stage just to keep it under control, so you’re not going to get a big difference right at the end which might change the balance of the whole mix.
+Zinc 
+I missed the first couple of minutes. Can you mention some of the names of artists that you have mastered?
+Stuart Hawkes 
+My biggest album to date, which was up for a Grammy for this year — which I didn’t win, unfortunately — was the Amy Winehouse album Back to Black, which has been my most successful mastering project. It has been amazing, really, that album has been in the UK... I think in the Top 10 or Top 20 for probably 18 months or so. It was a phenomenal album. But it was nominated for six Grammys and the
+one I had a nomination in, which was the Best Album, she had won all five of the six Grammys, and then the last one, which I was convinced she was going to win, and just ready to get up and jump up and down, she didn’t win, unfortunately. Herbie Hancock pipped her at the post. I’ve mastered plenty of other albums
+and thankfully none of them have been Grammy nominated.
+Gerd Janson 
+But she didn’t turn up to collect her Grammys, right?
+Stuart Hawkes 
+She performed on a big video screen. She had just been videoed doing something she shouldn’t with drugs in a flat somewhere and it was a bit of a scandal at the time and she couldn’t get a visa. I think at the last minute there were rumors she was going to turn up. But, yes, she had a video-screen performance at the
+Grammys. It was funny going to the Grammys, it is great to go to because it is the big event and very exciting, but it’s very controlled and a bit stiff. 
+Coming back watching the Brit Awards a few months later — I don’t know if you've watched them — it was just a complete drunken party compared to the Grammys. 
+Gerd Janson 
+So you preferred the Metalheadz screening.
+Stuart Hawkes
+Absolutely. But she was great to watch at the Grammys. You never quite know what she is going to do. She is one of those great artists that you’re never sure if she is going to put on a great performance or just stop mid-performance or not turn up or hit the wrong notes. She is quite interesting to watch.
+Gerd Janson 
+Great art demands craziness?
+Stuart Hawkes 
+It does, yeah. Well, she is certainly crazy. But she is getting so many headlines. She’s never out of the headlines, is she? Maybe she’s not crazy, but she is certainly tabloid-friendly. They love it.
+Gerd Janson 
+Did she ever attend a mastering session?
+Stuart Hawkes 
+She did a lot of the recording or mixing at Metropolis. She would never attend mastering, she would just turn up to do a vocal bit and that would be it, really. But a lot of the time, artists at that kind of level, it is normally controlled at that stage by a producer, engineer and record label, more than an artist. There are other big artists that kind of want to produce the whole thing, someone like
+George Michael springs to mind, he will want to attend the mastering, do the mixing, do the whole thing. But quite often it’s just left up to producers, engineers and record labels.
+Zinc 
+I was going to say, is there any other albums, other stuff that we would know?
+Stuart Hawkes 
+No, that’s it, that’s all I’ve done. [laughs] In the drum & bass world, for example, I have worked for a huge amount of brilliant acts, Goldie, Roni Size, Photek, Pendulum.
+Gerd Janson 
+Did you do the Timeless album then?
+Stuart Hawkes 
+Yes, I did. How many years ago was that now, 15? 
+Gerd Janson
+1996, maybe. Twelve years ago, 13.
+Stuart Hawkes
+I mean, that was a very exciting time in drum & bass, all the majors were suddenly thinking this is the next big thing, jumping on board. But Timeless was a classic and I don’t think it has been replicated since, really.
+Audience Member 
+About the Grammy, was it Mark Ronson or was it the record company that asked you to do the mastering?
+Stuart Hawkes 
+It was the record company that asked me who I have worked with a lot. I mastered the single, “Rehab,” when it first came through from the album. I’m not really sure what went on behind the scenes, but they really loved what I did
+with the single so I got to do the album. 
+It actually reminds me, it’s a good point, if you guys are going to try a mastering facility for the first time. It’s very good to try one track. You can try even asking for a freebie, just butter them up and tell them you have a triple album in the pipeline and have a massive project and you just want to test master one track. Quite often we do a free master just so people can see what we could do. I’ve had in the past, people with too much money have mastered in two or three different places at once and just sort of picked which they liked the best. That’s obviously a bit of a luxury, but that is a good idea, try before you buy. 
+We do this online mastering where you pay a price per track, upload your files to a site, you can choose the engineer to do it or not choose the engineer to do it, and it’s cheaper to not choose because it just goes to the first available engineer. I’m doing a big plug now. It’s been great, it has fantastic projects that this throws up because it is like a lottery, you never know what you’re going to get, you don’t know what part of the world these projects are coming from. 
+One minute you are doing something very urban from London and the next minute you are doing something from the Middle East, Iranian or something. But quite often people will send one track and we will master it and send it back. You get one revision included in the price and then what we send you is a file that can be used for CD manufacturing. Quite often we notice that you get one file when we have mastered it and we will get an album the next week or whatever, so people out there using this system so to dip their toe in the water and see what they like and see if an engineer works for them. A lot of engineers have different experience in different areas and different sort of sounds that they do, so it’s good to try out a few first if you can. I know it is expensive, but as I say, it’s always worth trying get a freebie. It can be done. Depends whether you catch them in the right mood or not.
+Gerd Janson 
+And as we were already in the gossip column, who was the worst person to ever attend a mastering session?
+Stuart Hawkes 
+[laughs] The worst person? 
+Gerd Janson
+You don’t have to name names.
+Stuart Hawkes 
+Oh, it’s no fun if I don’t name names.
+Gerd Janson
+Then tell the name. [laughter]
+Stuart Hawkes 
+It’s funny, we had a couple of weeks a few years back, where you probably saw the headlines of Kate Moss. Do you remember the cocaine scandal of her snorting cocaine in the studio? Well, that was at Metropolis. It wasn’t that she was mastering with me, but I didn’t supply her either,
+let me make that quite clear. But we had that and then literally a week later we had Michael Jackson turn up.
+Gerd Janson
+Trying to throw a kid out of the window? 
+Stuart Hawkes
+[laughter] And he wasn’t badly behaved, but he came out of the Dorchester where he was staying when he was in London. A massive press
+pack outside. He told them all that he was going to Metropolis, so we had this enormous press pack turn up on our doorstep with a massive herd of vans and everything and they swarmed into the car park, and he jumped on his car and did a dance and it was hilarious. We were on the front page of all the tabloids two weeks in a row. 
+But I think, yeah, Kate Moss does it for the worst behaved, certainly in terms of tabloid
+interest. But I had a funny one years ago with Shakin’ Stevens. You may remember him. He had sent his driver at the time around to a few record shops to see if he could buy his records, and they were out of stock, so he couldn’t buy his records and he was getting himself in a terrible mood. Then his manager
+walked in and he picked up all these 1/2" tapes, this is Shakin’ Stevens dressed in denim from head to toe, the white shoes and the quiff, shouting “bollocks, fuck,” throwing the 1/2" tapes across the room. 
+I’m standing there in the middle trying to master the record, they both stormed out and I was left there with Shakin’ Stevens playing, not knowing what to do with myself. I’ve had all sorts of drug taking, alcohol, all sorts. But I have to admit, I don’t know if people are getting more serious or better behaved, but it doesn’t tend to happen so much these days. I think people are a bit more serious about it, maybe. But yeah, there used
+to be lots of drugs and stuff going on, certainly what I saw in mastering. Not me, of course. But they used to chop ’em out. There was actually a mastering facility called Chop ’Em Out at one stage, because it was so rife, which was quite funny. But, yeah.
+Gerd Janson 
+Those were the rock & roll days.
+Stuart Hawkes
+Those were the days, yeah.
+Gerd Janson 
+Any more questions?
+[inaudible question from the audience]
+Stuart Hawkes
+You know what? It’s funny, in the car on the way here... Did you say card? I remembered I had forgotten them, my cards, and I’m getting them sent now. 
+Gerd Janson 
+You can very easily Google Metropolis Mastering.
+Stuart Hawkes
+It’s Metropolis Mastering, in London.
+Gerd Janson
+Then please, give the man a very warm applause.
+Stuart Hawkes
+Thank you.

@@ -1,0 +1,354 @@
+Bob Moog changed the face of popular music by producing the first ever commercially available synthesizers. The first Moog Modular was knocked up for fun as a project for his musician friend Herbert Deutsch. But pretty soon, after the first strains of synthesizer success by Walter/Wendy Carlos, the Moog stole its way into the heart of rock and jazz fusion, and helped instigate all types of electronic music. Though he may have left us for a higher plane, as we found out at the 2003 Red Bull Music Academy, Moog left an enormous legacy behind, having irreversibly changed the sonic landscape of the world.
+Torsten Schmidt 
+Let’s give a warm welcome to Mr. Bob Moog. A couple of months ago I found this quite recommendable
+book [holds up Vintage Synthesizers] somewhere in a really stupid bookstore. Funnily enough,
+there’s a little article in there by someone called Bob Moog, and it goes, “Minimoog: The ultimate and antique analog.” Could you by any chance read the
+first sentence?
+Bob Moog 
+I haven’t seen this for a long time. Well, it says here, “Nearly a
+quarter of a century ago the Minimoog first hit the streets. And it was at
+the beginning of the last decade that Moog Music ceremoniously slapped brass
+plaques on the last 25 Minis off the assembly line and sent them out to
+fetch inflated prices.” Did I write this? 
+Torsten Schmidt 
+Well, that’s what I was wondering about...
+Bob Moog
+“Yet the instrument’s distinctive sound is very much
+with us today. Particularly its fat three-oscillator bass sound has
+transcended novelty and fashion and become a timbral staple, joining a small
+number of instruments – the Hammond B3 organ or the Rhodes electric piano are
+two that come to mind – in the keyboard hall of fame.” [Applause] Well, I don’t remember writing it, but it’s more or less right. [Laughs]
+Torsten Schmidt 
+Some people might do one or two great things in their lives, but making a
+synthesizer is not what you dream of when you’re a little kid. How did you get there, how did that fascination with things weird words like oscillators, modulation and all that other freaky stuff start?
+Bob Moog 
+When I was a kid, I got off on electronics, especially electronics that made a
+sound. And when I say electronics, it’s not like the electronics of today. Electronics was one or two vacuum tubes, a couple of resistors, a couple of capacitors and these big, fat transformers. You could put the whole thing together on the kitchen table. It was a hobby. Some kids were out playing
+baseball, nearly everybody else was out beating each other up. I couldn’t do either, but I really liked electronics. My father was one of the very first amateur radio operators. He remembers the days when vacuum tubes were powered from batteries. What I was doing seemed very avant-garde and modern to him. The same way as what you do today seems natural to you because you’ve grown up with computers and
+digital stuff, the electronics I grew up with seemed natural to me, and
+I’ve been at it ever since.
+Torsten Schmidt 
+How did you go from playing around with transistors on the kitchen table to building a theremin?
+Bob Moog 
+Back then, where the World Trade Center was, even before there was a World
+Trade Center, there was a section of downtown Manhattan that had a mart for
+electronic parts. There’s such a thing in Tokyo today, it’s called Akihabara.
+It has little stalls one after the other where you can buy resistors, tubes, microprocessors and
+so on.
+Torsten Schmidt 
+Like at a food market – “I’ll have five of the green transistors.”
+Bob Moog 
+Yeah, it was just a hobby. I went to Bronx High School Of Science in New
+York City. It was a very good school and still is, you can learn a lot
+about science, and what’s even better is they won’t beat you up for being a nerd. [Laughter] I went there, then I went to engineering school and loved it.
+Torsten Schmidt 
+So how did the sound and music thing come back in there again?
+Bob Moog 
+Well, I learned the basics in school, but the whole business of sound design I was sort of in the middle of as that became an important part of music. I was right there with the
+people who were doing it, and I was helping them doing it.
+Torsten Schmidt 
+Who were these people?
+Bob Moog 
+I think we can begin in 1964, almost 40 years ago, I met an experimental
+composer. Now, back then, being an experimental composer meant that you had a
+reel-to-reel tape recorder and a razor blade and splicing tape. That’s how you
+began. Then anything else you could get to record little segments of sounds, either with a
+microphone or electronic stuff, was extra. But for sure,
+you had to have this tape recorder. The first person I worked with was Herb
+Deutsch. He was a music teacher at Hofstra University in Long Island. He had a
+vision of making music with his tape recorder. It was very experimental. There
+was no such thing as an audience for this. There were maybe a hundred people
+in all of New York City who knew what electronic music was. I met Herb at a
+music teachers' conference, and it turned out he used a theremin that I
+had built in his classes for ear-training and sight-singing.
+Then he asked me if I knew anything about electronic music, and I thought to
+myself, well, I know electronics, it’s my hobby. It’s music, and I took music
+lessons. So I said to him, “Yes, I know about electronic music!” But I didn’t know about electronic music, I had no idea. So I learned very quickly from Herb. 
+A couple of times after that he asked me if I could help him make some new sounds. I asked him what he had in mind, and he made some mouth sounds, like “bee-boo-bee-boo,” or “whee-oo-whee-oo,” like that. And that was the beginning. I thought about that. I knew about transistors, which were just new then, I knew about some of the technical properties they had. And don’t ask me where the idea came from to make what’s called a voltage controlled oscillator (VCO) or a voltage controlled amplifier (VCA), but I just thought about it in the same way as many of you think about
+putting a tune or a mix together of some sort. The idea came.
+Torsten Schmidt 
+What the hell is a VCO, then?
+Bob Moog 
+[Uses Moog Voyager to play a barely audible low tone] I can look over and see the speaker going in and out, so it’s vibrating in response to an electrical voltage that’s going up and down, so it’s an oscillator. As I go up the keyboard, the oscillator goes faster and faster [plays higher notes]. That’s an octave above the highest note on a piano. That’s an oscillator. Now, what is a voltage controlled oscillator? Back in 1964, if you were an engineer or technician who wanted an
+oscillator, you got out your test equipment catalog and you saw a picture of
+this big box with a knob on the front. You set the knob to the frequency you
+wanted, and if you wanted to change that frequency, you turned that knob to a
+different frequency. That’s really good if you wanted one frequency, one exact
+frequency. It’s not good for a musician, because music is all about changes in
+sound, including changes in frequency. It’s kind of hard to play a big knob
+like that accurately. 
+So, instead of having a knob on this oscillator, there’s
+a place to plug in something to control the sound with, that I can manipulate
+with my hands [glides up and down the keyboard] That’s a pitch glide. The way that’s done is the
+keyboard is changing an electrical voltage from low to high, and back from high to
+low. I’ve turned a knob up here called ‘glide rate,’ which slows down the steps that I
+would normally get playing the keyboard. That’s the sort of thing that
+musicians and instrument designers learned on the job during the ‘60s.
+Nobody had this understanding before, because before VCOs it wasn’t possible
+to do what I just did.
+Torsten Schmidt 
+How close was the relationship between the musicians, the people who were
+experimenting with that stuff, and you, the engineers coming up with new concepts?
+Bob Moog 
+Back then most of us knew enough about music to be able to talk with
+musicians. A few of us actually were musicians. One person who did a lot of
+work right around the time I began was Don Buchla, who is still doing
+fantastic designs. He is a musician as well as an engineer. More than me,
+Buchla has his own musical vision, which I don’t have, other than helping other
+musicians to do their thing.
+Torsten Schmidt 
+Who are you talking about when you say “us”? It sounds like a pretty exclusive
+club.
+Bob Moog 
+It was pretty small. Once I began, a couple of engineers came around and
+eventually joined the company. People like Jim Scott and Bill Hemsath. These
+are not names that are extremely well-known, but if you happen to be into
+“Mooglore” you will have heard their names. There was an Italian television
+engineer by the name of Paolo Ketoff. He designed an instrument called the Synket
+in the early ‘60s. He worked with a lot of musicians. I think he and I were
+similar in that we were both engineers who liked to work with musicians.
+Torsten Schmidt 
+Ironically enough, what’s called the “military-industrial complex” wasn’t too
+bad for the development for a lot of musical instruments as well.
+Bob Moog 
+During the second world war, the whole field of electronics advanced
+incredibly. Interestingly enough, the tape recorder was invented in Germany
+and was used there during the second world war. I think the manufacturer was called
+Magnetophon. A couple of American soldiers brought back one of the Magnetophons. They
+happened to be engineers who worked for a company in California called Ampex
+that manufactured motors. They brought back this strange contraption that had motors in it, they figured Ampex could find something to use their motors for
+in this new invention, the tape recorder. That’s basically how tape recorders
+got started in the USA.
+Torsten Schmidt 
+What are your favourite albums where you would go, “That’s a Moog sound, I’m proud to
+have contributed to it”?
+Bob Moog 
+Gosh, there were so many back then, and they’re all interesting. [Audience member suggests Switched-On Bach by Wendy Carlos] Well, Switched-On
+Bach and Carlos’ records that came after that were seminal, I think is the
+right word. They showed what could be done that nobody understood before. That
+started something. The conventional wisdom in the music business in the late
+‘60s was that you could make (synthesizers) make funny sounds, ear-catching
+effects that could be put into radio commercials and experimental music. But you couldn’t make
+“real” music out of it. And, of course, we all know what “real” music is?
+Torsten Schmidt 
+I was just about to ask that.
+Bob Moog 
+Anybody know what “real” music is? People in the
+music business knew what real music was. Real music was music that made real
+money! [Laughter] So Carlos’ record made real money, and then people understood that you could use these things to produce – to play, to realise, whatever word you want to use – music that wasn’t important because it
+was novel, because it was the first time, but because people really wanted to
+listen to it. It satisfied some need, the music itself was valuable to people.
+Switched-On Bach is still being sold today, it was the largest selling
+classical record of all time for a long period. After that, thousands of
+musicians around the world understood that this seems to be something that I
+can make my music out of.
+Torsten Schmidt: 
+How quickly did the word spread then?
+Bob Moog 
+When Emerson, Lake & Palmer began touring, word spread pretty fast. But
+still, this is our point of view, our perspective. Here we were, a small
+company, manufacturing these things. They were not cheap, because there’s a
+lot of stuff inside. But nothing was cheap back then, everything was analog,
+and it was taken for granted that if you wanted a good-sounding keyboard, you
+had to spend over a thousand dollars, which was a lot of money back then. The
+first time we showed at a trade show was at the music merchants’ convention in Chicago in
+1971. I can remember being at that show and the music retailers would come
+by, they’d look at it with their long faces and they’d say, “What’s that?” And I’d say, “It’s a synthesizer!” “What’s it do?” [Laughter] Then you’d show them this knob here and this knob here. Usually they said something like, “You expect me to sell that in my store? You
+expect musicians to understand that?” And they would walk away.
+Torsten Schmidt 
+When you look at the Arp, the Model D, or your Voyager, something strikes you
+instantly – it’s the texture of the thing. The materials that are used, like
+the wood – why design something that’s supposed to sound so sci-fi and futuristic
+with such a retro, earthy look?
+Bob Moog 
+I never had an idea of how this was supposed to sound. It was never anybody’s
+goal to have it sound like something that was already in existence. Every
+musician I worked with had a different musical vision, worked in a different
+area of music. So what we did musically was to keep things as general as
+possible. This (synth) is not designed to make any specific sort of sound. As to
+why it has a nice wood case and big fat wheels that light up blue? It just
+feels good! Musicians, more than the average person, need things that feel
+good. Even if you use one of those little G4 [computers] that I see all over
+the place, it has to feel good. Your G4 feels better than my PC, and that’s
+important to you musicians. In the same sense, we tried to get the front
+panel and the keyboard and what happens when you turn those knobs to feel
+good for musicians too. 
+You can begin almost any place. The Voyager has been on the market for
+about a year now. It can do everything that the original Model D can do, and quite
+a bit more. One of the most important features is that the entire front panel
+can be stored in a digital memory, and recalled instantly. [Moog’s wife makes a comment from the audience] That’s Ileana there, she keeps me focused. [Laughs] You can call
+up a sound and then change one knob after the other. Some of the knobs are
+not gonna do anything because they are not part of that sound, but other
+knobs will. And you begin to pick up, if that’s how your mind works. If you have a Keith Emerson mind, you’ll learn by turning knobs. On the other hand, if you have an analytical mind, and
+like to envision the underlying structure, then you can read the manual. You’ll understand that
+the sound begins with the oscillators. There are three oscillators, and each
+section of the panel is one of the oscillators. It says “oscillators” on top, and then one, two and three. [Plays with different effects] I can select the pitch range and the waveform.
+Torsten Schmidt: 
+What is a waveform, to start with?
+Bob Moog 
+If you had an oscilloscope that showed you the shape of vibration in time,
+that’s what the waveform is.
+Torsten Schmidt 
+How come this explanation is so short, and they teach you all this stuff in
+school that you’ll never understand anyway? That was pretty brief.
+Bob Moog 
+Well, (the other stuff) doesn’t help musicians at all. Unless you’re worrying
+about how the circuits work, which you shouldn’t worry about at all, then exactly what these names of the waveforms mean isn’t important. But each waveform has a spectrum of harmonics associated with it, and you hear that, so it has a quality. And as I change the waveform,
+you’ll hear the quality change. [Demonstrates] There’s little drawings here of the waveforms. One is called “triangular,” one is called “sawtooth,” because it looks like
+the teeth of a saw. Another one is called “square wave,” another one is called
+“rectangular wave,” and I can go continuously from one to the other – which, by
+the way, you couldn’t do on the original Minimoog. [Demonstrates] 
+So there is one oscillator, here is two oscillators, and I can set the interval 
+between them. All musicians know what an interval is. And here is three oscillators [demonstrates]. I don’t know exactly what interval I just set up… that’s a major triad. I can tune these to any three note chord I want, including unison, make them all the same. [Plays all three oscillators on the same
+note]. One, two, three. Hear the difference? If we had an oscilloscope and we were looking at the waveform, we would
+see that it’s constantly changing because these three waves are beating with
+each other very, very slowly. That’s a technical, waveform-oriented
+description. For musicians, it means it’s a fat sound! [Demonstrates] That’s fat and this is
+thin. [Applause]
+OK, so I just talked about eight knobs here: three waveforms, three octave
+clickers, and two frequency knobs. Let’s call them interval instead. That’s
+our basic oscillators. There are ways of interconnecting these, I don’t know
+if we’ll have time to do it or not, but let me go on and take care of the
+other sections here. Another section is called the mixer. We have three
+oscillators, so we have to mix them. [Plays note continuously] I can have a mix where one is stronger than the other, or all three are the same, and I can change that as I play. 
+In addition, there’s another source of sound – it’s not a pitch sound, it’s called
+“noise.” In combination with the filter it creates effects that you can’t do
+without oscillators. The fifth one is called “external.” There’s a jack on the
+back where you can plug in any sound source at all – your guitar, your turntable,
+the output of a mixer, a theremin, anything at all – and shape it with the
+rest of the stuff on here. 
+Torsten Schmidt 
+Hang on, so I can plug whatever signal I got in there and still fuck around
+with it?
+Bob Moog: 
+Yeah, yeah.
+Torsten Schmidt 
+And you’re sure you want to take this home with you?
+Bob Moog 
+I’m not so sure I want to take this home. Why? I can make you an offer you can’t refuse.
+Torsten Schmidt 
+[Joking] I have to speak to Michael beforehand.
+Bob Moog 
+OK, this section right here is called “filter.” If there is one
+electronic operation that is associated with analog synthesizers in general,
+and the Moog synthesizer in particular, it’s the filter. Here’s what happens when I
+turn the knob of the filter [demonstrates]. What it does is cut off the higher harmonics
+first, then the lower ones, and so on, and finally you’re left with just the
+fundamental pitch, which is now a sine wave. This filter, like the oscillators, is voltage-controlled.
+[Demonstrates] I’m using a slow vibration to open and close the filter instead of doing it
+with my hand.
+Torsten Schmidt 
+LFO is a thing most of us heard through a project of the same name [Warp Records duo LFO]. We just
+knew it was speaker-rattling…
+Bob Moog 
+LFO, LFO, LFO, LFO… Low frequency oscillator. [Laughter]
+Torsten Schmidt
+So you did your rave A Levels, I can see that.
+Bob Moog
+OK, so let’s play a nice fat sound like this. [Turning the LFO knob] Just
+being able to change the harmonics that way sort of heightens the fatness of
+the sound. More particularly it gives you something to be expressive with, to give the sound motion that’s just at the right rate and the right amount to enhance the music. The filter has
+another control that happens to be called “resonance.” In the case of the filter, what that does is it emphasises a particular pitch that the filter is filtering and gives the filter its own sense of pitch. [Demonstrates] Here it is without
+resonance, here it is with resonance. You have actually two filters here,
+now you’ll hear two resonances. 
+If you listen closely, you will hear that one is
+coming from one speaker and one from the others. The output is stereo, and what
+I’m doing with these knobs here is changing the shape of the filtering and
+moving the sound around. These are player-controlled, these are not something you set to
+an exact number and leave alone. You play these things, you put a key down,
+you put your hands on one of them, hear the effect, and then you know... if you’re Keith
+Emerson. Even if you’re not, even if you’re used to listening to things, you pick up what the
+individual knobs are doing.
+Torsten Schmidt 
+I guess all the fancy stuff in the middle would help me store these things.
+What is this here?
+Bob Moog 
+This is a touch surface. This is one way of moving the sound around,
+different from a knob. It is a control device and you can use the sound
+storage and recall part here, the digital part, to route that to different
+things.
+Torsten Schmidt 
+So being the devil’s advocate, with a new G5 PowerBook less than
+three months away from us, why would I still need a machine that’s about five
+times bigger and probably eight times as heavy?
+Bob Moog 
+How to answer that question? For some of you, your G5 is going to be exactly
+what you need. Others of you, perhaps, will find it very easy to connect
+with this, very musically satisfying to produce music on this. This whole thing is conceived, with all these knobs, the spacing of everything,
+and the fact that the switches are nice big, fat rocker switches here… it’s
+designed to be played live.
+Torsten Schmidt 
+Interestingly enough, yesterday, when you came back from the Steinski and Seiji lectures, you were going on about how they gave away valuable
+information. I think the thing that struck you the most, was them talking
+about not being enslaved to technology. They cut off your whole
+living, your everyday life.
+Bob Moog 
+No, that’s not right. Musical instruments have always, from the very beginning
+of human history, used the most advanced technology of their time. Musicians
+need advanced technology that’s appropriate. Whether you need a particular
+advanced technology partially depends on what kind of music you want to make
+and how. Our stringed instruments were developed around three or four hundred years
+ago, when precision woodworking was the highest technology. Brass instruments
+were developed when there was really high quality brass and the ability to
+machine it to create very thin, accurate materials out of brass. The piano
+came into existence along with manufacturing technology. For most of us, the
+piano is likely to be the most hi-tech mechanical manufactured product that we
+will ever have in our homes. No brass instruments, or
+wood instruments, or mechanical instruments have been developed in the 20th
+century, because the technology of our time is electronics. For us it’s
+analog electronics, and now increasingly computer and digital electronics. So,
+this is an instrument of the 20th century – it doesn’t use the most
+advanced technology, but it uses one that came into existence during my
+lifetime, for instance.
+Torsten Schmidt: 
+How do you separate the whole analog/digital myth, or debate?
+Bob Moog 
+We all have tools that are particularly comfortable to us, whether we’re musicians,
+engineers or whatever. For this combination of sound-producing capability and
+controls, you’ll find it easy to connect with the instrument. There is no
+doubt about it, you can do a lot of things with your G5s and your G4s, a
+lot of different functions. The sound quality though, the sound that I just made, there is a difference
+between analog and digital. Part of the difference can be explained in
+technical terms, having to do with (the fact that) a digital waveform is updated 44,000 times
+a second, or 48,000 or 96,000 or 192,000 – but it is still updated in steps. Whereas
+there’s nothing “stepped” at all about an analog waveform. Everything that
+makes the sound or shapes the sound here is analog, it’s completely smooth.
+Torsten Schmidt 
+So, if I have you right, digital would be like going to Legoland and seeing the
+Legoland version of a house, or of an animal – and no matter how small the bricks
+are, it would still be little bricks?
+Bob Moog 
+Yeah, that’s the idea. I’m searching for a way to say this that’s not going to
+sound too strange. When you connect with an instrument, whether
+it’s a guitar or a violin or a set of drums or an electronic instrument, there
+is an interaction that’s outside of what’s actually going through your finger.
+There is a connection – I hesitate to use the word “spiritual” – but it has to
+do with the forces that we know we living things can exert and can respond to.
+And I’m 100% sure that things like this (synthesizer), even though they’re
+not living in the biological sense, there is in some sense a consciousness
+that we connect with. I know a lot of people, and I’m sure you do, too, who
+break every tool they touch. I’ve had people working with me that sat at a
+computer and ten minutes later it’s not working. [Laughter] I know for a fact, firsthand,
+that I’m the opposite. If I really want to, I can make something work that
+looks like it’s not going to work. You develop that sort of connection with an
+instrument. Some of you will develop that sort of connection with your G4s
+and G5s, others of you may find it possible with an instrument like this, or
+with a Korg Triton, or any other of the great stuff that’s out there.
+Torsten Schmidt 
+So what’s it like to be a circuitry shaman of sorts?
+Bob Moog 
+It feels good! [Laughs] What I do is very satisfying to me, and part of it
+is because it’s not something that’s out here beyond my fingers, I know I’m connecting with it. Even as a designer, even though I’m not using it to make music.
+Steinski (sitting in the audience) 
+As a musical instrument designer, what sort of stuff is happening these days that
+intrigues you in terms of new devices, new trends and where the design of new
+electronic instruments is going? Are there any?
+Bob Moog 
+We’re at a point now, where, at least in the digital realm, any sound is
+possible. What’s interesting is new control devices for manipulating that. Even a
+Novation controller that connects through MIDI is at least as interesting as the software inside the computer that makes the sound. Making stuff in
+the studio is really great, you know, there is just no end of stuff that you
+can put on a CD now and walk around and listen to. This is something fairly new in human history. Up until, say, a hundred years ago, or even less, music
+was something we did together as a community activity. The only music that there was was live performance and it was for the benefit of groups of people who interacted with each other. I’d like to see that aspect of music flourish in the future. I’m not knocking recorded music, but if listening to music is going to be an increasingly lonely activity that we do with ourselves and to ourselves, then we’re going to miss something very important about being
+human: the ability to get together and do something as a community in real
+time.
